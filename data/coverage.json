@@ -1,0 +1,284 @@
+{
+ "metadata": {
+  "generatedAt": "2026-09-09T19:48:48Z",
+  "publisher": "VoteGA.org",
+  "schemaVersion": "1.0.0",
+  "count": 25
+ },
+ "places": [
+  {
+   "placeId": "baldwin",
+   "name": "Baldwin County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "land-use": 2
+   },
+   "lastActivity": "2026-08-25"
+  },
+  {
+   "placeId": "banks",
+   "name": "Banks County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "data-center": 2,
+    "land-use": 36
+   },
+   "lastActivity": "2026-09-08"
+  },
+  {
+   "placeId": "barrow",
+   "name": "Barrow County",
+   "type": "county",
+   "region": "Broader Metropolitan Statistical Area",
+   "topics": {
+    "land-use": 15
+   },
+   "lastActivity": "2026-08-20"
+  },
+  {
+   "placeId": "bibb",
+   "name": "Macon-Bibb County",
+   "type": "county",
+   "region": "Middle Georgia",
+   "topics": {
+    "alpr": 7,
+    "land-use": 26
+   },
+   "lastActivity": "2026-09-01"
+  },
+  {
+   "placeId": "carroll",
+   "name": "Carroll County",
+   "type": "county",
+   "region": "Broader Metropolitan Statistical Area",
+   "topics": {
+    "data-center": 2,
+    "land-use": 24
+   },
+   "lastActivity": "2026-09-15"
+  },
+  {
+   "placeId": "chatham",
+   "name": "Chatham County",
+   "type": "county",
+   "region": "Coastal Georgia",
+   "topics": {
+    "alpr": 1,
+    "data-center": 1,
+    "land-use": 9
+   },
+   "lastActivity": "2026-08-28"
+  },
+  {
+   "placeId": "cherokee",
+   "name": "Cherokee County",
+   "type": "county",
+   "region": "Atlanta Regional Commission",
+   "topics": {
+    "data-center": 2,
+    "land-use": 27
+   },
+   "lastActivity": "2026-09-10"
+  },
+  {
+   "placeId": "clarke",
+   "name": "Athens-Clarke County",
+   "type": "county",
+   "region": "Northeast Georgia",
+   "topics": {
+    "land-use": 17
+   },
+   "lastActivity": "2026-09-03"
+  },
+  {
+   "placeId": "clayton",
+   "name": "Clayton County",
+   "type": "county",
+   "region": "Atlanta Regional Commission",
+   "topics": {
+    "data-center": 6,
+    "land-use": 9
+   },
+   "lastActivity": "2026-08-18"
+  },
+  {
+   "placeId": "cobb",
+   "name": "Cobb County",
+   "type": "county",
+   "region": "Atlanta Regional Commission",
+   "topics": {
+    "data-center": 2,
+    "land-use": 29
+   },
+   "lastActivity": "2026-10-14"
+  },
+  {
+   "placeId": "columbia",
+   "name": "Columbia County",
+   "type": "county",
+   "region": "Central Savannah River Area",
+   "topics": {
+    "alpr": 2,
+    "land-use": 14
+   },
+   "lastActivity": "2026-09-03"
+  },
+  {
+   "placeId": "covington",
+   "name": "City of Covington",
+   "type": "city",
+   "region": "Broader Metropolitan Statistical Area",
+   "topics": {
+    "alpr": 2,
+    "data-center": 7,
+    "land-use": 7
+   },
+   "lastActivity": "2026-07-06"
+  },
+  {
+   "placeId": "coweta",
+   "name": "Coweta County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "data-center": 8,
+    "land-use": 30
+   },
+   "lastActivity": "2026-09-08"
+  },
+  {
+   "placeId": "dekalb",
+   "name": "DeKalb County",
+   "type": "county",
+   "region": "Atlanta Regional Commission",
+   "topics": {
+    "data-center": 13,
+    "land-use": 20
+   },
+   "lastActivity": "2026-09-10"
+  },
+  {
+   "placeId": "douglas",
+   "name": "Douglas County",
+   "type": "county",
+   "region": "Atlanta Regional Commission",
+   "topics": {
+    "alpr": 2,
+    "data-center": 3,
+    "land-use": 17
+   },
+   "lastActivity": "2026-09-01"
+  },
+  {
+   "placeId": "forsyth",
+   "name": "Forsyth County",
+   "type": "county",
+   "region": "Atlanta Regional Commission",
+   "topics": {
+    "land-use": 34
+   },
+   "lastActivity": "2026-09-03"
+  },
+  {
+   "placeId": "fulton",
+   "name": "Fulton County",
+   "type": "county",
+   "region": "Atlanta Regional Commission",
+   "topics": {
+    "data-center": 4,
+    "land-use": 14
+   },
+   "lastActivity": "2026-09-02"
+  },
+  {
+   "placeId": "gwinnett",
+   "name": "Gwinnett County",
+   "type": "county",
+   "region": "Atlanta Regional Commission",
+   "topics": {
+    "alpr": 2,
+    "land-use": 9
+   },
+   "lastActivity": "2026-08-25"
+  },
+  {
+   "placeId": "hall",
+   "name": "Hall County",
+   "type": "county",
+   "region": "Northeast Georgia",
+   "topics": {
+    "land-use": 24
+   },
+   "lastActivity": "2026-09-08"
+  },
+  {
+   "placeId": "henry",
+   "name": "Henry County",
+   "type": "county",
+   "region": "Atlanta Regional Commission",
+   "topics": {
+    "alpr": 2,
+    "data-center": 3,
+    "land-use": 26
+   },
+   "lastActivity": "2026-09-10"
+  },
+  {
+   "placeId": "muscogee",
+   "name": "Columbus-Muscogee County",
+   "type": "county",
+   "region": "West Georgia",
+   "topics": {
+    "alpr": 1,
+    "data-center": 1,
+    "land-use": 39
+   },
+   "lastActivity": "2026-09-14"
+  },
+  {
+   "placeId": "newton",
+   "name": "Newton County",
+   "type": "county",
+   "region": "Broader Metropolitan Statistical Area",
+   "topics": {
+    "land-use": 24
+   },
+   "lastActivity": "2026-09-01"
+  },
+  {
+   "placeId": "paulding",
+   "name": "Paulding County",
+   "type": "county",
+   "region": "Atlanta Regional Commission",
+   "topics": {
+    "alpr": 8,
+    "data-center": 19,
+    "land-use": 20
+   },
+   "lastActivity": "2026-09-08"
+  },
+  {
+   "placeId": "socialcircle",
+   "name": "City of Social Circle",
+   "type": "city",
+   "region": "Broader Metropolitan Statistical Area",
+   "topics": {
+    "data-center": 11,
+    "land-use": 16
+   },
+   "lastActivity": "2026-09-15"
+  },
+  {
+   "placeId": "walton",
+   "name": "Walton County",
+   "type": "county",
+   "region": "Broader Metropolitan Statistical Area",
+   "topics": {
+    "land-use": 20
+   },
+   "lastActivity": "2026-09-15"
+  }
+ ]
+}
