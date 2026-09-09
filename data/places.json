@@ -1,0 +1,637 @@
+{
+ "metadata": {
+  "generatedAt": "2026-09-09T19:48:48Z",
+  "publisher": "VoteGA.org",
+  "schemaVersion": "1.0.0",
+  "count": 32
+ },
+ "places": [
+  {
+   "placeId": "appling",
+   "name": "Appling County",
+   "type": "county",
+   "county": "appling",
+   "fips": "13001",
+   "region": null,
+   "platform": "wordpress",
+   "links": {
+    "base_url": "https://applingcountyga.org/",
+    "agendas_url": "https://applingcountyga.org/?page_id=98"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Tuesday of every month, 5:30 p.m.",
+     "location": "Appling County Courthouse Annex, Commissioners' Meeting Room, 69 Tippins Street, Baxley"
+    }
+   ]
+  },
+  {
+   "placeId": "clarke",
+   "name": "Athens-Clarke County",
+   "type": "county",
+   "county": "clarke",
+   "fips": "13059",
+   "region": "Northeast Georgia",
+   "platform": "civicplus",
+   "links": {
+    "base_url": "https://www.accgov.com",
+    "agendas_url": "https://www.accgov.com/AgendaCenter"
+   },
+   "schedule": [
+    {
+     "body": "Mayor & Commission",
+     "when": null,
+     "location": null
+    }
+   ]
+  },
+  {
+   "placeId": "atkinson",
+   "name": "Atkinson County",
+   "type": "county",
+   "county": "atkinson",
+   "fips": "13003",
+   "region": null,
+   "platform": "wordpress",
+   "links": {
+    "base_url": "https://atkinsoncounty.org/",
+    "agendas_url": "https://atkinsoncounty.org/agenda/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd Friday of every month, 5:00 p.m.",
+     "location": "Board of Commissioners Conference Room"
+    }
+   ]
+  },
+  {
+   "placeId": "bacon",
+   "name": "Bacon County",
+   "type": "county",
+   "county": "bacon",
+   "fips": "13005",
+   "region": null,
+   "platform": "custom",
+   "links": {
+    "base_url": "https://baconcounty.org/",
+    "agendas_url": "https://baconcounty.org/minutes-agendas.php"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "3rd Tuesday of every month, 5:00 p.m.",
+     "location": "Meeting Room, 1st Floor, Bacon County Courthouse"
+    }
+   ]
+  },
+  {
+   "placeId": "baker",
+   "name": "Baker County",
+   "type": "county",
+   "county": "baker",
+   "fips": "13007",
+   "region": null,
+   "platform": "wix",
+   "links": {
+    "base_url": "https://www.bakercountyga.com",
+    "agendas_url": "https://www.bakercountyga.com/minutes-and-agendas"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Tuesday of every month, 7:30 p.m.",
+     "location": "Baker County Board of Commissioners Office, 439 Georgia Hwy NW, Newton"
+    }
+   ]
+  },
+  {
+   "placeId": "baldwin",
+   "name": "Baldwin County",
+   "type": "county",
+   "county": "baldwin",
+   "fips": "13009",
+   "region": null,
+   "platform": "teammunicode",
+   "links": {
+    "base_url": "https://baldwincounty.teammunicode.com",
+    "agendas_url": "https://www.baldwincountyga.com/1209/Agendas-Minutes"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Tuesday of every month, 6:00 p.m.",
+     "location": "Baldwin County Government Building"
+    }
+   ]
+  },
+  {
+   "placeId": "banks",
+   "name": "Banks County",
+   "type": "county",
+   "county": "banks",
+   "fips": "13011",
+   "region": null,
+   "platform": "teammunicode",
+   "links": {
+    "base_url": "https://legacybankscountyga.teammunicode.com",
+    "agendas_url": "https://www.bankscountyga.org/1228/Agendas-and-Minutes"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd Tuesday every month, 6:30 p.m., and 4th Tuesday of every month, 3:00 p.m.",
+     "location": "Courthouse Annex Boardroom, 150 Hudson Ridge, Homer"
+    }
+   ]
+  },
+  {
+   "placeId": "barrow",
+   "name": "Barrow County",
+   "type": "county",
+   "county": "barrow",
+   "fips": "13013",
+   "region": "Broader Metropolitan Statistical Area",
+   "platform": "granicus",
+   "links": {
+    "base_url": "https://barrowga.org/",
+    "agendas_url": "https://barrowga.granicus.com/ViewPublisher.php?view_id=1"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd Tuesday of every month, 5:00 p.m., 4th Tuesday of every month, 6:00 p.m.",
+     "location": "Commissioner Meeting Room, Historic Courthouse, 30 N. Broad Street, Winder"
+    }
+   ]
+  },
+  {
+   "placeId": "bartow",
+   "name": "Bartow County",
+   "type": "county",
+   "county": "bartow",
+   "fips": "13015",
+   "region": "Broader Metropolitan Statistical Area",
+   "platform": "revize",
+   "links": {
+    "base_url": "https://www.bartowcountyga.gov/index.php",
+    "agendas_url": "https://www.bartowcountyga.gov/departments/county_commissioner/public_meeting_minutes/index.php"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Wednesday of every month, 10:00 a.m.",
+     "location": "Commissioner’s Conference Room, 135 W. Cherokee Avenue, Cartersville"
+    }
+   ]
+  },
+  {
+   "placeId": "carroll",
+   "name": "Carroll County",
+   "type": "county",
+   "county": "carroll",
+   "fips": "13045",
+   "region": "Broader Metropolitan Statistical Area",
+   "platform": "civicclerk",
+   "links": {
+    "base_url": "https://ga-carrollcounty.civicplus.com/182/Board-of-Commissioners",
+    "agendas_url": "https://carrollcoga.portal.civicclerk.com/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Tuesday of every month, 6:00 p.m.",
+     "location": "County Administration Building, 423 College Street, Room 2013, Carrollton"
+    }
+   ]
+  },
+  {
+   "placeId": "chatham",
+   "name": "Chatham County",
+   "type": "county",
+   "county": "chatham",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "platform": "iqm2",
+   "links": {
+    "agendas_url": "https://chathamcountyga.iqm2.com/Citizens/Calendar.aspx"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "Twice a month on Fridays, 9:30 a.m.",
+     "location": "Commission Chambers of the Old Courthouse, 124 Bull Street, Second Floor,"
+    }
+   ]
+  },
+  {
+   "placeId": "cherokee",
+   "name": "Cherokee County",
+   "type": "county",
+   "county": "cherokee",
+   "fips": "13057",
+   "region": "Atlanta Regional Commission",
+   "platform": "granicus",
+   "links": {
+    "base_url": "https://www.cherokeecountyga.gov/",
+    "agendas_url": "https://cherokeega.granicus.com/ViewPublisher.php?view_id=1"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Tuesday of every month, 6:00 p.m., and 3rd Tuesday of every month, 6:00 p.m.",
+     "location": "Cherokee County Admin Building, 1130 Bluffs Parkway, Canton"
+    }
+   ]
+  },
+  {
+   "placeId": "covington",
+   "name": "City of Covington",
+   "type": "city",
+   "county": "newton",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "platform": "corecode",
+   "links": {
+    "base_url": "https://www.cityofcovington.org"
+   },
+   "schedule": [
+    {
+     "body": "City Council",
+     "when": "1st and 3rd Monday, 6:30 p.m.",
+     "location": "Council Room, 2116 Stallings Street, Covington"
+    }
+   ]
+  },
+  {
+   "placeId": "socialcircle",
+   "name": "City of Social Circle",
+   "type": "city",
+   "county": "walton",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "platform": "iqm2",
+   "links": {
+    "base_url": "https://www.socialcirclega.gov/departments/mayor-and-council",
+    "agendas_url": "https://socialcirclecityga.iqm2.com/Citizens/Calendar.aspx"
+   },
+   "schedule": [
+    {
+     "body": "City Council",
+     "when": "1st Thursday of every month, 6:30 p.m.",
+     "location": "City Community Room, 138 East Hightower Trail, Social Circle"
+    }
+   ]
+  },
+  {
+   "placeId": "clayton",
+   "name": "Clayton County",
+   "type": "county",
+   "county": "clayton",
+   "fips": "13063",
+   "region": "Atlanta Regional Commission",
+   "platform": "primegov",
+   "links": {
+    "base_url": "https://claytoncountyga.primegov.com",
+    "agendas_url": "https://claytoncountyga.primegov.com/public/portal?fromiframe=true"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Tuesday of every month, 6:00 p.m.",
+     "location": "Boardroom, 112 Smith Street, Jonesboro"
+    }
+   ]
+  },
+  {
+   "placeId": "cobb",
+   "name": "Cobb County",
+   "type": "county",
+   "county": "cobb",
+   "fips": "13067",
+   "region": "Atlanta Regional Commission",
+   "platform": "civicclerk",
+   "links": {},
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd Tuesday of every month, 9:00 a.m. and 4th Tuesday of every month, 7:00 p.m.",
+     "location": "Public Meeting Room, 100 Cherokee Street, Marietta"
+    }
+   ]
+  },
+  {
+   "placeId": "columbia",
+   "name": "Columbia County",
+   "type": "county",
+   "county": "columbia",
+   "fips": "13073",
+   "region": "Central Savannah River Area",
+   "platform": "civicclerk",
+   "links": {
+    "agendas_url": "https://columbiacoga.portal.civicclerk.com/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Tuesday of every month, 6:00 p.m.",
+     "location": "Evans Government Center Auditorium, Building A, 630 Ronald Reagan Drive, Evans"
+    }
+   ]
+  },
+  {
+   "placeId": "muscogee",
+   "name": "Columbus-Muscogee County",
+   "type": "county",
+   "county": "muscogee",
+   "fips": "13215",
+   "region": "West Georgia",
+   "platform": "teammunicode",
+   "links": {
+    "base_url": "https://columbus-ga.municodemeetings.com/",
+    "agendas_url": "https://columbus-ga.municodemeetings.com/"
+   },
+   "schedule": [
+    {
+     "body": "City Council",
+     "when": "2nd Tuesday of every month, 9:00 a.m.",
+     "location": "C. E. “Red” McDaniel City Services Center- Second Floor"
+    },
+    {
+     "body": "City Council",
+     "when": "4th Tuesday of every month, 5:30 p.m.",
+     "location": "C. E. “Red” McDaniel City Services Center- Second Floor"
+    }
+   ]
+  },
+  {
+   "placeId": "coweta",
+   "name": "Coweta County",
+   "type": "county",
+   "county": "coweta",
+   "fips": "13077",
+   "region": null,
+   "platform": "civicclerk",
+   "links": {
+    "agendas_url": "https://cowetacoga.portal.civicclerk.com/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd and 4th Tuesday every month, 6:00 p.m.",
+     "location": "Commission Chambers, 37 Perry Street, Newnan"
+    }
+   ]
+  },
+  {
+   "placeId": "dekalb",
+   "name": "DeKalb County",
+   "type": "county",
+   "county": "dekalb",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "platform": "legistar",
+   "links": {},
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd and 4th Tuesday of each month, 9:00 a.m.",
+     "location": "Room A1201, 178 Sams Street, Decatur"
+    }
+   ]
+  },
+  {
+   "placeId": "douglas",
+   "name": "Douglas County",
+   "type": "county",
+   "county": "douglas",
+   "fips": "13097",
+   "region": "Atlanta Regional Commission",
+   "platform": "civicclerk",
+   "links": {
+    "base_url": "https://www.douglascountyga.gov/323/Board-of-Commissioners"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Tuesday of every month, 10:00 a.m.",
+     "location": "Citizens Hall, Douglas County Courthouse, 8700 Hospital Drive, Douglasville"
+    }
+   ]
+  },
+  {
+   "placeId": "fayette",
+   "name": "Fayette County",
+   "type": "county",
+   "county": "fayette",
+   "fips": "13113",
+   "region": "Atlanta Regional Commission",
+   "platform": "revize",
+   "links": {
+    "base_url": "https://www.fayettecountyga.gov/",
+    "agendas_url": "https://www.fayettecountyga.gov/government/board_of_commissioners/agendas_minutes.php"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd and 4th Thursday of every month, 5:00 p.m.",
+     "location": "140 Stonewall Avenue West, Public Meeting Room, Fayetteville"
+    }
+   ]
+  },
+  {
+   "placeId": "forsyth",
+   "name": "Forsyth County",
+   "type": "county",
+   "county": "forsyth",
+   "fips": "13117",
+   "region": "Atlanta Regional Commission",
+   "platform": "civicclerk",
+   "links": {
+    "base_url": "https://www.forsythco.com/government/",
+    "agendas_url": "https://www.forsythco.com/government/forsyth-county-meetings/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Thursday of every month, 5:00 p.m.",
+     "location": "110 E Main St, Cumming"
+    }
+   ]
+  },
+  {
+   "placeId": "fulton",
+   "name": "Fulton County",
+   "type": "county",
+   "county": "fulton",
+   "fips": "13121",
+   "region": "Atlanta Regional Commission",
+   "platform": "legistar",
+   "links": {},
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Wednesday of every month, 10:00 a.m.",
+     "location": "Fulton County Government Center, Assembly Hall, 141 Pryor Street SW, Atlanta"
+    }
+   ]
+  },
+  {
+   "placeId": "gwinnett",
+   "name": "Gwinnett County",
+   "type": "county",
+   "county": "gwinnett",
+   "fips": "13135",
+   "region": "Atlanta Regional Commission",
+   "platform": "gwinnett",
+   "links": {
+    "base_url": "https://www.gwinnettcounty.com/",
+    "agendas_url": "https://www.gwinnettcounty.com/government/departments/county-clerk/boards-authorities/-/bacs/meetings/52"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Tuesday of every month, 2:00 p.m.",
+     "location": "Gwinnett Justice and Administration Center, 75 Langley Drive, Lawrenceville"
+    }
+   ]
+  },
+  {
+   "placeId": "hall",
+   "name": "Hall County",
+   "type": "county",
+   "county": "hall",
+   "fips": "13139",
+   "region": "Northeast Georgia",
+   "platform": "agendapub",
+   "links": {
+    "base_url": "https://www.hallcounty.org",
+    "agendas_url": "https://agendapub.hallcounty.org/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd and 4th Thursday of every month, 6:00 p.m.",
+     "location": "Hall County Government Center, 2875 Browns Bridge Rd Gainesville"
+    }
+   ]
+  },
+  {
+   "placeId": "henry",
+   "name": "Henry County",
+   "type": "county",
+   "county": "henry",
+   "fips": "13151",
+   "region": "Atlanta Regional Commission",
+   "platform": "civicclerk",
+   "links": {},
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Tuesday of every month, 9:00 a.m. and 3rd Tuesday of every month, 6:30 p.m.",
+     "location": "Henry County Administration Building Community Room, 140 Henry Parkway, McDonough"
+    }
+   ]
+  },
+  {
+   "placeId": "bibb",
+   "name": "Macon-Bibb County",
+   "type": "county",
+   "county": "bibb",
+   "fips": "13021",
+   "region": "Middle Georgia",
+   "platform": "civicclerk",
+   "links": {
+    "agendas_url": "https://maconbibbcoga.portal.civicclerk.com/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Tuesday of every month, 6:00 p.m.",
+     "location": "Commission Chambers, City Hall, 700 Poplar Street, Macon"
+    }
+   ]
+  },
+  {
+   "placeId": "newton",
+   "name": "Newton County",
+   "type": "county",
+   "county": "newton",
+   "fips": "13217",
+   "region": "Broader Metropolitan Statistical Area",
+   "platform": "civicplus",
+   "links": {
+    "base_url": "https://www.newtoncountyga.gov"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st & 3rd Tuesday, 7:00 p.m.",
+     "location": "Historic Courthouse, 1124 Clark Street, Covington"
+    }
+   ]
+  },
+  {
+   "placeId": "paulding",
+   "name": "Paulding County",
+   "type": "county",
+   "county": "paulding",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "platform": "municode",
+   "links": {
+    "agendas_url": "https://meetings.municode.com/PublishPage/index?cid=PAULDINGGA&ppid=a023d971-d971-44ac-a411-85d5afa307e1"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd and 4th Tuesday of every month, 6:00 p.m.",
+     "location": "Watson Government Complex, Second Floor, Board of Commissioners Meeting Room"
+    }
+   ]
+  },
+  {
+   "placeId": "rockdale",
+   "name": "Rockdale County",
+   "type": "county",
+   "county": "rockdale",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "platform": "custom",
+   "links": {
+    "base_url": "https://www.rockdalecountyga.gov/",
+    "agendas_url": "https://www.rockdalecountyga.gov/rockdale-board-of-commissioners-meeting-agenda/",
+    "minutes_url": "https://www.rockdalecountyga.gov/boc-minutes/",
+    "video_url": "https://www.rockdalecountyga.gov/board-of-commissioners-meeting-videos/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": null,
+     "location": null
+    }
+   ]
+  },
+  {
+   "placeId": "walton",
+   "name": "Walton County",
+   "type": "county",
+   "county": "walton",
+   "fips": "13297",
+   "region": "Broader Metropolitan Statistical Area",
+   "platform": "teammunicode",
+   "links": {
+    "base_url": "https://waltoncounty-ga.municodemeetings.com",
+    "agendas_url": "https://waltoncounty-ga.municodemeetings.com/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Tuesday of every month, 6:00 p.m.",
+     "location": "Historic Walton County Courthouse, 111 S Broad Street, Monroe"
+    }
+   ]
+  }
+ ]
+}
