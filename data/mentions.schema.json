@@ -1,0 +1,114 @@
+{
+ "$schema": "http://json-schema.org/draft-07/schema#",
+ "$id": "https://github.com/Votega/ga-local-government/blob/main/data/mentions.schema.json",
+ "title": "VoteGA local-government topic mention",
+ "type": "object",
+ "required": [
+  "topic",
+  "placeId",
+  "date",
+  "sourceUrl"
+ ],
+ "properties": {
+  "topic": {
+   "enum": [
+    "alpr",
+    "data-center",
+    "land-use"
+   ]
+  },
+  "placeId": {
+   "type": "string",
+   "description": "jurisdiction slug (joins data/places.json)"
+  },
+  "placeName": {
+   "type": "string"
+  },
+  "placeType": {
+   "enum": [
+    "county",
+    "city"
+   ]
+  },
+  "fips": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "region": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "date": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "meeting date, ISO 8601"
+  },
+  "body": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "governing body / meeting name"
+  },
+  "confidence": {
+   "enum": [
+    "high",
+    "medium"
+   ],
+   "description": "high = named vendor or spelled-out capability; medium = keyword only"
+  },
+  "sourceType": {
+   "enum": [
+    "legistar",
+    "granicus",
+    "ocr"
+   ],
+   "description": "how the meeting text was obtained"
+  },
+  "vendors": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "matchedTerms": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "tags": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "granular land-use subtags (rezoning, variance, …)"
+  },
+  "excerpt": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "quoted context; only for structured (legistar/granicus) sources"
+  },
+  "excerptTerm": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "sourceUrl": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "the agenda/minutes document"
+  }
+ }
+}
