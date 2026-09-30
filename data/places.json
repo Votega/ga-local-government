@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-09T19:48:48Z",
+  "generatedAt": "2026-09-30T10:33:51Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 32
+  "count": 42
  },
  "places": [
   {
@@ -29,8 +29,8 @@
   {
    "placeId": "clarke",
    "name": "Athens-Clarke County",
-   "type": "county",
-   "county": "clarke",
+   "type": "consolidated",
+   "county": null,
    "fips": "13059",
    "region": "Northeast Georgia",
    "platform": "civicplus",
@@ -40,9 +40,19 @@
    },
    "schedule": [
     {
-     "body": "Mayor & Commission",
-     "when": null,
+     "body": "Mayor & Commission (Regular Session)",
+     "when": "1st Tuesday of every month, 6:00 p.m.",
      "location": null
+    },
+    {
+     "body": "Mayor & Commission (Agenda Setting Session)",
+     "when": "3rd Tuesday of every month, 6:00 p.m.",
+     "location": "City Hall, 301 College Avenue, Athens"
+    },
+    {
+     "body": "Mayor & Commission (Work Session)",
+     "when": "2nd Tuesday of every month, 1:00 p.m.",
+     "location": "Planning Auditorium, 120 W. Dougherty Street, Athens"
     }
    ]
   },
@@ -187,6 +197,25 @@
    ]
   },
   {
+   "placeId": "butts",
+   "name": "Butts County",
+   "type": "county",
+   "county": "butts",
+   "fips": "13035",
+   "region": null,
+   "platform": "civicclerk",
+   "links": {
+    "agendas_url": "https://buttsco.portal.civicclerk.com/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd Thursday of every month, 6:00 p.m.",
+     "location": "County Administrative Office Building, Courtroom B, 625 West 3rd Street Jackson"
+    }
+   ]
+  },
+  {
    "placeId": "carroll",
    "name": "Carroll County",
    "type": "county",
@@ -246,6 +275,45 @@
    ]
   },
   {
+   "placeId": "carrollton",
+   "name": "City of Carrollton",
+   "type": "city",
+   "county": "carroll",
+   "fips": null,
+   "region": "West Georgia",
+   "platform": "gdrive",
+   "links": {
+    "base_url": "https://carrolltonga.com/",
+    "agendas_url": "https://carrolltonga.com/agendas-minutes-and-summaries/"
+   },
+   "schedule": [
+    {
+     "body": "City Council",
+     "when": "1st Monday of every month, 6:00 p.m.",
+     "location": "115 W. Center St, Carrollton"
+    }
+   ]
+  },
+  {
+   "placeId": "conyers",
+   "name": "City of Conyers",
+   "type": "city",
+   "county": "rockdale",
+   "fips": null,
+   "region": "Atlanta Regional Commission",
+   "platform": "custom",
+   "links": {
+    "agendas_url": "https://www.conyersga.com/government/city-government/council-agendas-and-minutes"
+   },
+   "schedule": [
+    {
+     "body": "City Council",
+     "when": "1st Wednesday of every month, 6:00 p.m.",
+     "location": "Council Chambers, 901 O'Kelly Street, Conyers"
+    }
+   ]
+  },
+  {
    "placeId": "covington",
    "name": "City of Covington",
    "type": "city",
@@ -261,6 +329,25 @@
      "body": "City Council",
      "when": "1st and 3rd Monday, 6:30 p.m.",
      "location": "Council Room, 2116 Stallings Street, Covington"
+    }
+   ]
+  },
+  {
+   "placeId": "milledgeville",
+   "name": "City of Milledgeville",
+   "type": "city",
+   "county": "baldwin",
+   "fips": null,
+   "region": null,
+   "platform": "unknown",
+   "links": {
+    "agendas_url": "https://www.milledgevillega.us/index.php/agendas-and-minutes/"
+   },
+   "schedule": [
+    {
+     "body": "City Council",
+     "when": "2nd and 4th Tuesday of every month",
+     "location": null
     }
    ]
   },
@@ -343,14 +430,13 @@
   {
    "placeId": "muscogee",
    "name": "Columbus-Muscogee County",
-   "type": "county",
-   "county": "muscogee",
+   "type": "consolidated",
+   "county": null,
    "fips": "13215",
    "region": "West Georgia",
-   "platform": "teammunicode",
+   "platform": "legistar",
    "links": {
-    "base_url": "https://columbus-ga.municodemeetings.com/",
-    "agendas_url": "https://columbus-ga.municodemeetings.com/"
+    "agendas_url": "https://columbus.legistar.com/Calendar.aspx"
    },
    "schedule": [
     {
@@ -381,6 +467,25 @@
      "body": "Board of Commissioners",
      "when": "2nd and 4th Tuesday every month, 6:00 p.m.",
      "location": "Commission Chambers, 37 Perry Street, Newnan"
+    }
+   ]
+  },
+  {
+   "placeId": "dawson",
+   "name": "Dawson County",
+   "type": "county",
+   "county": "dawson",
+   "fips": "13085",
+   "region": null,
+   "platform": "municode",
+   "links": {
+    "agendas_url": "https://meetings.municode.com/PublishPage/index?cid=DAGA&ppid=d6a9cb0f-51b2-4f2b-9c12-76e9ed0e66e5"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Thursday of every month, 6:00 p.m.",
+     "location": "Dawson County Government Center, 2nd Floor Assembly Room, 25 Justice Way, Dawsonville"
     }
    ]
   },
@@ -535,10 +640,29 @@
    ]
   },
   {
+   "placeId": "lumpkin",
+   "name": "Lumpkin County",
+   "type": "county",
+   "county": "lumpkin",
+   "fips": "13187",
+   "region": null,
+   "platform": "civicclerk",
+   "links": {
+    "agendas_url": "https://lumpkincoga.portal.civicclerk.com/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "3rd Tuesday of every month, 6:00 p.m.",
+     "location": "Lumpkin County Administration Building, Commissioners Boardroom, 99 Courthouse Hill, Dahlonega"
+    }
+   ]
+  },
+  {
    "placeId": "bibb",
    "name": "Macon-Bibb County",
-   "type": "county",
-   "county": "bibb",
+   "type": "consolidated",
+   "county": null,
    "fips": "13021",
    "region": "Middle Georgia",
    "platform": "civicclerk",
@@ -550,6 +674,46 @@
      "body": "Board of Commissioners",
      "when": "1st and 3rd Tuesday of every month, 6:00 p.m.",
      "location": "Commission Chambers, City Hall, 700 Poplar Street, Macon"
+    }
+   ]
+  },
+  {
+   "placeId": "meriwether",
+   "name": "Meriwether County",
+   "type": "county",
+   "county": "meriwether",
+   "fips": "13199",
+   "region": null,
+   "platform": "civicplus",
+   "links": {
+    "base_url": "https://www.meriwethercountyga.gov",
+    "agendas_url": "https://www.meriwethercountyga.gov/AgendaCenter"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": null,
+     "location": null
+    }
+   ]
+  },
+  {
+   "placeId": "morgan",
+   "name": "Morgan County",
+   "type": "county",
+   "county": "morgan",
+   "fips": "13211",
+   "region": null,
+   "platform": "civicplus",
+   "links": {
+    "base_url": "https://www.morgancountyga.gov",
+    "agendas_url": "https://www.morgancountyga.gov/AgendaCenter"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": null,
+     "location": null
     }
    ]
   },
@@ -592,6 +756,26 @@
    ]
   },
   {
+   "placeId": "pickens",
+   "name": "Pickens County",
+   "type": "county",
+   "county": "pickens",
+   "fips": "13227",
+   "region": null,
+   "platform": "civicplus",
+   "links": {
+    "base_url": "https://www.pickenscountyga.gov",
+    "agendas_url": "https://www.pickenscountyga.gov/AgendaCenter"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "3rd Monday of every month, 5:30 p.m.",
+     "location": "Administration Building, Commissioners' meeting room, 1266 East Church Street, Jasper"
+    }
+   ]
+  },
+  {
    "placeId": "rockdale",
    "name": "Rockdale County",
    "type": "county",
@@ -610,6 +794,26 @@
      "body": "Board of Commissioners",
      "when": null,
      "location": null
+    }
+   ]
+  },
+  {
+   "placeId": "spalding",
+   "name": "Spalding County",
+   "type": "county",
+   "county": "spalding",
+   "fips": "13255",
+   "region": null,
+   "platform": "granicus",
+   "links": {
+    "base_url": "https://www.spaldingcounty.com/",
+    "agendas_url": "https://spaldingcounty.granicus.com/ViewPublisher.php?view_id=1"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd and 3rd Monday of each month, 6:00 p.m. ",
+     "location": "Room 108, Annex Building 119 E. Solomon Street Griffin"
     }
    ]
   },
