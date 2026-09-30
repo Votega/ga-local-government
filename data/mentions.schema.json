@@ -63,6 +63,15 @@
    ],
    "description": "high = named vendor or spelled-out capability; medium = keyword only"
   },
+  "context": {
+   "enum": [
+    "agenda-action",
+    "public-comment",
+    "unknown",
+    null
+   ],
+   "description": "how the topic surfaced; a quoted excerpt is present only for agenda-action"
+  },
   "sourceType": {
    "enum": [
     "legistar",
@@ -95,7 +104,7 @@
     "string",
     "null"
    ],
-   "description": "quoted context; only for structured (legistar/granicus) sources"
+   "description": "quoted context; present only when context is agenda-action (any source)"
   },
   "excerptTerm": {
    "type": [
