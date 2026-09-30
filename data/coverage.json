@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-09T19:48:48Z",
+  "generatedAt": "2026-09-30T10:33:51Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 25
+  "count": 35
  },
  "places": [
   {
@@ -23,7 +23,7 @@
    "region": null,
    "topics": {
     "data-center": 2,
-    "land-use": 36
+    "land-use": 12
    },
    "lastActivity": "2026-09-08"
   },
@@ -33,20 +33,40 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 15
+    "land-use": 8
    },
-   "lastActivity": "2026-08-20"
+   "lastActivity": "2026-09-17"
+  },
+  {
+   "placeId": "bartow",
+   "name": "Bartow County",
+   "type": "county",
+   "region": "Broader Metropolitan Statistical Area",
+   "topics": {
+    "land-use": 6
+   },
+   "lastActivity": "2026-08-05"
   },
   {
    "placeId": "bibb",
    "name": "Macon-Bibb County",
-   "type": "county",
+   "type": "consolidated",
    "region": "Middle Georgia",
    "topics": {
-    "alpr": 7,
-    "land-use": 26
+    "alpr": 3,
+    "land-use": 20
    },
    "lastActivity": "2026-09-01"
+  },
+  {
+   "placeId": "butts",
+   "name": "Butts County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "land-use": 5
+   },
+   "lastActivity": "2026-06-08"
   },
   {
    "placeId": "carroll",
@@ -55,9 +75,19 @@
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "data-center": 2,
-    "land-use": 24
+    "land-use": 15
    },
-   "lastActivity": "2026-09-15"
+   "lastActivity": "2026-10-06"
+  },
+  {
+   "placeId": "carrollton",
+   "name": "City of Carrollton",
+   "type": "city",
+   "region": "West Georgia",
+   "topics": {
+    "land-use": 14
+   },
+   "lastActivity": "2026-09-14"
   },
   {
    "placeId": "chatham",
@@ -65,9 +95,8 @@
    "type": "county",
    "region": "Coastal Georgia",
    "topics": {
-    "alpr": 1,
     "data-center": 1,
-    "land-use": 9
+    "land-use": 7
    },
    "lastActivity": "2026-08-28"
   },
@@ -78,19 +107,19 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "data-center": 2,
-    "land-use": 27
+    "land-use": 16
    },
-   "lastActivity": "2026-09-10"
+   "lastActivity": "2026-09-15"
   },
   {
    "placeId": "clarke",
    "name": "Athens-Clarke County",
-   "type": "county",
+   "type": "consolidated",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 17
+    "land-use": 8
    },
-   "lastActivity": "2026-09-03"
+   "lastActivity": "2026-10-21"
   },
   {
    "placeId": "clayton",
@@ -98,10 +127,10 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "data-center": 6,
-    "land-use": 9
+    "data-center": 4,
+    "land-use": 6
    },
-   "lastActivity": "2026-08-18"
+   "lastActivity": "2026-09-15"
   },
   {
    "placeId": "cobb",
@@ -110,9 +139,9 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "data-center": 2,
-    "land-use": 29
+    "land-use": 15
    },
-   "lastActivity": "2026-10-14"
+   "lastActivity": "2026-11-12"
   },
   {
    "placeId": "columbia",
@@ -120,10 +149,10 @@
    "type": "county",
    "region": "Central Savannah River Area",
    "topics": {
-    "alpr": 2,
-    "land-use": 14
+    "alpr": 1,
+    "land-use": 20
    },
-   "lastActivity": "2026-09-03"
+   "lastActivity": "2026-10-01"
   },
   {
    "placeId": "covington",
@@ -133,7 +162,7 @@
    "topics": {
     "alpr": 2,
     "data-center": 7,
-    "land-use": 7
+    "land-use": 6
    },
    "lastActivity": "2026-07-06"
   },
@@ -143,10 +172,20 @@
    "type": "county",
    "region": null,
    "topics": {
-    "data-center": 8,
-    "land-use": 30
+    "data-center": 3,
+    "land-use": 20
    },
-   "lastActivity": "2026-09-08"
+   "lastActivity": "2026-09-24"
+  },
+  {
+   "placeId": "dawson",
+   "name": "Dawson County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "land-use": 6
+   },
+   "lastActivity": "2026-09-15"
   },
   {
    "placeId": "dekalb",
@@ -154,10 +193,10 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "data-center": 13,
-    "land-use": 20
+    "data-center": 14,
+    "land-use": 17
    },
-   "lastActivity": "2026-09-10"
+   "lastActivity": "2026-09-29"
   },
   {
    "placeId": "douglas",
@@ -165,11 +204,21 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "alpr": 2,
     "data-center": 3,
-    "land-use": 17
+    "land-use": 10
    },
-   "lastActivity": "2026-09-01"
+   "lastActivity": "2026-10-06"
+  },
+  {
+   "placeId": "fayette",
+   "name": "Fayette County",
+   "type": "county",
+   "region": "Atlanta Regional Commission",
+   "topics": {
+    "data-center": 7,
+    "land-use": 21
+   },
+   "lastActivity": "2026-09-24"
   },
   {
    "placeId": "forsyth",
@@ -177,9 +226,9 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "land-use": 34
+    "land-use": 18
    },
-   "lastActivity": "2026-09-03"
+   "lastActivity": "2026-10-01"
   },
   {
    "placeId": "fulton",
@@ -190,7 +239,7 @@
     "data-center": 4,
     "land-use": 14
    },
-   "lastActivity": "2026-09-02"
+   "lastActivity": "2026-09-16"
   },
   {
    "placeId": "gwinnett",
@@ -198,10 +247,9 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "alpr": 2,
-    "land-use": 9
+    "land-use": 3
    },
-   "lastActivity": "2026-08-25"
+   "lastActivity": "2026-09-22"
   },
   {
    "placeId": "hall",
@@ -209,9 +257,9 @@
    "type": "county",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 24
+    "land-use": 13
    },
-   "lastActivity": "2026-09-08"
+   "lastActivity": "2026-09-22"
   },
   {
    "placeId": "henry",
@@ -220,22 +268,54 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "alpr": 2,
-    "data-center": 3,
-    "land-use": 26
+    "land-use": 14
    },
    "lastActivity": "2026-09-10"
   },
   {
+   "placeId": "lumpkin",
+   "name": "Lumpkin County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "land-use": 12
+   },
+   "lastActivity": "2026-10-12"
+  },
+  {
+   "placeId": "meriwether",
+   "name": "Meriwether County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "data-center": 1,
+    "land-use": 8
+   },
+   "lastActivity": "2026-09-29"
+  },
+  {
+   "placeId": "morgan",
+   "name": "Morgan County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "alpr": 1,
+    "data-center": 5,
+    "land-use": 17
+   },
+   "lastActivity": "2026-10-01"
+  },
+  {
    "placeId": "muscogee",
    "name": "Columbus-Muscogee County",
-   "type": "county",
+   "type": "consolidated",
    "region": "West Georgia",
    "topics": {
     "alpr": 1,
-    "data-center": 1,
-    "land-use": 39
+    "data-center": 3,
+    "land-use": 25
    },
-   "lastActivity": "2026-09-14"
+   "lastActivity": "2026-09-28"
   },
   {
    "placeId": "newton",
@@ -243,9 +323,9 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 24
+    "land-use": 14
    },
-   "lastActivity": "2026-09-01"
+   "lastActivity": "2026-09-29"
   },
   {
    "placeId": "paulding",
@@ -254,10 +334,20 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "alpr": 8,
-    "data-center": 19,
-    "land-use": 20
+    "data-center": 20,
+    "land-use": 10
    },
-   "lastActivity": "2026-09-08"
+   "lastActivity": "2026-09-22"
+  },
+  {
+   "placeId": "pickens",
+   "name": "Pickens County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "land-use": 18
+   },
+   "lastActivity": "2026-09-21"
   },
   {
    "placeId": "socialcircle",
@@ -265,10 +355,21 @@
    "type": "city",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "data-center": 11,
-    "land-use": 16
+    "data-center": 3,
+    "land-use": 10
    },
-   "lastActivity": "2026-09-15"
+   "lastActivity": "2026-09-22"
+  },
+  {
+   "placeId": "spalding",
+   "name": "Spalding County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "data-center": 1,
+    "land-use": 11
+   },
+   "lastActivity": "2026-09-29"
   },
   {
    "placeId": "walton",
@@ -276,7 +377,7 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 20
+    "land-use": 18
    },
    "lastActivity": "2026-09-15"
   }
