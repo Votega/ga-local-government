@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-09T19:48:48Z",
+  "generatedAt": "2026-09-30T10:33:51Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 27
+  "count": 18
  },
  "mentions": [
   {
@@ -14,9 +14,33 @@
    "placeType": "county",
    "fips": "13223",
    "region": "Atlanta Regional Commission",
-   "date": "2026-09-08",
-   "body": "Board of Commissioners Work Session",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-d4ca71f6275049b89720441b3c62e982.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -37,30 +61,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-08-25",
-   "body": "Board of Commissioners Work Session",
+   "body": "Board of Commissioners",
    "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [
-    "Flock Safety"
-   ],
-   "matchedTerms": [
-    "flock"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-4b05fa3853ec4025a61f8ba195b42275.pdf"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "paulding",
-   "placeName": "Paulding County",
-   "placeType": "county",
-   "fips": "13223",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-08-25",
-   "body": "Board of Commissioners Board Meeting",
-   "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -80,9 +83,54 @@
    "placeType": "county",
    "fips": "13223",
    "region": "Atlanta Regional Commission",
-   "date": "2026-08-11",
-   "body": "Board of Commissioners Work Session",
+   "date": "2026-08-25",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-4b05fa3853ec4025a61f8ba195b42275.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": null,
+   "date": "2026-08-18",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "lpr camera"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_08182026-870"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-08-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -99,12 +147,13 @@
    "topic": "alpr",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
-   "placeType": "county",
+   "placeType": "consolidated",
    "fips": "13021",
    "region": "Middle Georgia",
    "date": "2026-08-04",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -125,8 +174,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-07-28",
-   "body": "Board of Commissioners Work Session",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -149,6 +199,7 @@
    "date": "2026-07-27",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -157,8 +208,8 @@
     "flock"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… e persons. Police Department A. Resolution amending Resolution No. 23-197 regarding the Flock Safety agreement for product replacement. (Presenter: Captain Anthony Militello, …",
+   "excerptTerm": "flock",
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2600,plainText=false)"
   },
   {
@@ -171,6 +222,7 @@
    "date": "2026-07-21",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -179,20 +231,21 @@
     "flock"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… hibit 8) Police Department A. Resolution amending Resolution No. 23-197 regarding the Flock Safety agreement for product replacement. (Presenter: Captain Anthony Militello, …",
+   "excerptTerm": "flock",
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2596,plainText=false)"
   },
   {
    "topic": "alpr",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
-   "placeType": "county",
+   "placeType": "consolidated",
    "fips": "13021",
    "region": "Middle Georgia",
    "date": "2026-07-21",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -213,8 +266,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-07-14",
-   "body": "Board of Commissioners Work Session",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -235,8 +289,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-06-23",
-   "body": "Board of Commissioners Work Session",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -257,8 +312,9 @@
    "fips": "13073",
    "region": "Central Savannah River Area",
    "date": "2026-06-16",
-   "body": "Board of Commission",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [
     "Genetec"
@@ -267,20 +323,21 @@
     "genetec"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… 1f) Tyler Munis 2026-2027 Authorization of Payment g. (H1g) Agreement Renewal Number Four with A3 Communications for Genetec Video Management System Support h. (H1h) Agreement Renewal Number Two with Structure Media Solutions …",
+   "excerptTerm": "genetec",
    "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13650,plainText=false)"
   },
   {
    "topic": "alpr",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
-   "placeType": "county",
+   "placeType": "consolidated",
    "fips": "13021",
    "region": "Middle Georgia",
    "date": "2026-06-16",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -289,8 +346,8 @@
     "flock"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… (Sponsored by: Lester M. Miller, Mayor) The following citizens spoke in favor of removing the Flock cameras from the FY27 Budget: Angelia Hoomes Rhiannon Wimer …",
+   "excerptTerm": "flock",
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3600,plainText=false)"
   },
   {
@@ -303,6 +360,7 @@
    "date": "2026-06-15",
    "body": "City Council",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -313,43 +371,22 @@
     "safer city"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… **** 9. Motion made by Council Member Turner, seconded by Council Member Henderson to approve consolidation of Flock agreements into a single comprehensive 10-year Safer City contract, incorporating current technology platforms an …",
+   "excerptTerm": "flock",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0615_Minutes.pdf"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "columbia",
-   "placeName": "Columbia County",
-   "placeType": "county",
-   "fips": "13073",
-   "region": "Central Savannah River Area",
-   "date": "2026-06-09",
-   "body": "Management and Internal Services",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [
-    "Genetec"
-   ],
-   "matchedTerms": [
-    "genetec"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13628,plainText=false)"
   },
   {
    "topic": "alpr",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
-   "placeType": "county",
+   "placeType": "consolidated",
    "fips": "13215",
    "region": "West Georgia",
    "date": "2026-06-01",
-   "body": "City Council",
+   "body": "Columbus City Council",
    "confidence": "high",
-   "sourceType": "ocr",
+   "context": "agenda-action",
+   "sourceType": "legistar",
    "vendors": [
     "Vigilant (Motorola)"
    ],
@@ -357,175 +394,9 @@
     "vigilant solutions"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://legistar3.granicus.com/Columbus/meetings/2026/6/6187_A_Columbus_City_Council_26-06-01_Agenda.pdf"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "gwinnett",
-   "placeName": "Gwinnett County",
-   "placeType": "county",
-   "fips": "13135",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-04-14",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [
-    "Elsag (Leonardo)"
-   ],
-   "matchedTerms": [
-    "elsag",
-    "license plate recognition"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20260414/a_82718_2026.04.14___Work_Session_Agenda.pdf"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "gwinnett",
-   "placeName": "Gwinnett County",
-   "placeType": "county",
-   "fips": "13135",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-04-14",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [
-    "Elsag (Leonardo)"
-   ],
-   "matchedTerms": [
-    "elsag",
-    "license plate recognition"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20260414/a_7698_2026.04.14___Business_Session_Agenda.pdf"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "bibb",
-   "placeName": "Macon-Bibb County",
-   "placeType": "county",
-   "fips": "13021",
-   "region": "Middle Georgia",
-   "date": "2026-03-18",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "alpr"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3430,plainText=false)"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "bibb",
-   "placeName": "Macon-Bibb County",
-   "placeType": "county",
-   "fips": "13021",
-   "region": "Middle Georgia",
-   "date": "2026-03-18",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "alpr"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3428,plainText=false)"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "douglas",
-   "placeName": "Douglas County",
-   "placeType": "county",
-   "fips": "13097",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-03-17",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "alpr"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7229,plainText=false)"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "douglas",
-   "placeName": "Douglas County",
-   "placeType": "county",
-   "fips": "13097",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-03-16",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "alpr"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7223,plainText=false)"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "bibb",
-   "placeName": "Macon-Bibb County",
-   "placeType": "county",
-   "fips": "13021",
-   "region": "Middle Georgia",
-   "date": "2026-01-20",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "alpr"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3360,plainText=false)"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "bibb",
-   "placeName": "Macon-Bibb County",
-   "placeType": "county",
-   "fips": "13021",
-   "region": "Middle Georgia",
-   "date": "2026-01-20",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "alpr"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3362,plainText=false)"
+   "excerpt": "To authorize the Director of the Department of Public Safety to enter into contract with Motorola Solutions, DBA Vigilant Solutions, for the purchase of commercial license subscriptions for the Investigative Data Platform; to waive the competitive bid …",
+   "excerptTerm": "vigilant solutions",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6187&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "alpr",
@@ -537,6 +408,7 @@
    "date": "2025-12-15",
    "body": "City Council",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [
     "Flock Safety"
@@ -545,53 +417,9 @@
     "flock"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… tion made by Council Member Henderson, seconded by Council Member Rutberg to approve a 3 year contract with Flock, for integration of security cameras. Year 1 $100,200.00 Year 2 …",
+   "excerptTerm": "flock",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2025_CityCouncil_1215_Minutes.pdf"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "paulding",
-   "placeName": "Paulding County",
-   "placeType": "county",
-   "fips": "13223",
-   "region": "Atlanta Regional Commission",
-   "date": "2025-10-14",
-   "body": "Board of Commissioners Board Meeting",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [
-    "Genetec"
-   ],
-   "matchedTerms": [
-    "genetec"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-636df2b77f5c4521bd3370c49b9e62b3.pdf"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2025-10-03",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [
-    "Flock Safety"
-   ],
-   "matchedTerms": [
-    "flock"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1710&Inline=True"
   }
  ]
 }
