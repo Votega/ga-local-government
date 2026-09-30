@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-09T19:48:48Z",
+  "generatedAt": "2026-09-30T10:33:51Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
@@ -14,9 +14,136 @@
    "placeType": "county",
    "fips": "13089",
    "region": "Atlanta Regional Commission",
+   "date": "2026-09-29",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… l Commission Districts Adoption of an ordinance to amend Chapter 27 of the Code of DeKalb County, Georgia, to establish Data Center Definitions and Data Center Classifications for regulatory oversight of any potential data center development and opera …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4491&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-d4ca71f6275049b89720441b3c62e982.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-5ff47cbd526d45dd98174b3db16a9979.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… trict(s): All Commission Districts A Resolution Requiring an Independent, Third-Party Health and Environmental Study of Data Centers and Their Possible Impact on DeKalb County and Board of Commissioners Review of the Study Before DeKalb County’s Data …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4489&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "douglas",
+   "placeName": "Douglas County",
+   "placeType": "county",
+   "fips": "13097",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-15",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7551,plainText=false)"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-15",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… trict(s): All Commission Districts A Resolution Requiring an Independent, Third-Party Health and Environmental Study of Data Centers and Their Possible Impact on DeKalb County and Board of Commissioners Review of the Study Before DeKalb County’s Data …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4490&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
    "date": "2026-09-10",
    "body": "Committee of the Whole",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -35,28 +162,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-09-08",
-   "body": "Board of Commissioners Work Session",
+   "body": "Board of Commissioners",
    "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-689e9b7312de4e6b8cc046eb7f67c817.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "paulding",
-   "placeName": "Paulding County",
-   "placeType": "county",
-   "fips": "13223",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-09-08",
-   "body": "Board of Commissioners Board Meeting",
-   "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -69,14 +177,15 @@
   },
   {
    "topic": "data-center",
-   "placeId": "banks",
-   "placeName": "Banks County",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
    "placeType": "county",
-   "fips": "13011",
-   "region": null,
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
    "date": "2026-09-08",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -85,7 +194,49 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-689e9b7312de4e6b8cc046eb7f67c817.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "banks",
+   "placeName": "Banks County",
+   "placeType": "county",
+   "fips": "13011",
+   "region": null,
+   "date": "2026-09-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… CHAIRMAN'S REPORT 6. DISTRICT COMMISSIONERS REPORT 7. PUBLIC HEARINGS: a. R-1 Moratorium b. Special Use \"Data Center\" Moratorium c. Public Utilities: Credit Check Application Policy/Ordinance 8. PREVIOUS BUSINESS ACTION: a. …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-877a1e52f5654c51ae9dc83c928fddff.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": null,
+   "date": "2026-09-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_09012026-874"
   },
   {
    "topic": "data-center",
@@ -97,26 +248,28 @@
    "date": "2026-08-28",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1746&Inline=True"
   },
   {
    "topic": "data-center",
-   "placeId": "paulding",
-   "placeName": "Paulding County",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
    "placeType": "county",
-   "fips": "13223",
+   "fips": "13113",
    "region": "Atlanta Regional Commission",
-   "date": "2026-08-25",
-   "body": "Board of Commissioners Work Session",
+   "date": "2026-08-27",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -125,7 +278,7 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-4b05fa3853ec4025a61f8ba195b42275.pdf"
+   "sourceUrl": "https://www.fayettecountyga.gov/08-27-2026%20BOC%20Agenda.pdf"
   },
   {
    "topic": "data-center",
@@ -135,8 +288,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-08-25",
-   "body": "Board of Commissioners Board Meeting",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -149,6 +303,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-08-25",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-4b05fa3853ec4025a61f8ba195b42275.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -157,6 +332,7 @@
    "date": "2026-08-25",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -177,6 +353,7 @@
    "date": "2026-08-25",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -189,6 +366,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": null,
+   "date": "2026-08-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… nt and Data Processing Facility” from the permitted and conditional use table. This language will be replaced by “Data Center” when the forthcoming data center ordinance is approved. 2. Changing the note related to the use of metal sidin …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_08182026-870"
+  },
+  {
+   "topic": "data-center",
    "placeId": "douglas",
    "placeName": "Douglas County",
    "placeType": "county",
@@ -197,6 +395,7 @@
    "date": "2026-08-18",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -217,6 +416,7 @@
    "date": "2026-08-18",
    "body": "Committee of the Whole",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -237,6 +437,7 @@
    "date": "2026-08-18",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "granicus",
    "vendors": [],
    "matchedTerms": [
@@ -255,8 +456,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-08-11",
-   "body": "Board of Commissioners Work Session",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -275,8 +477,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-08-11",
-   "body": "Board of Commissioners Board Meeting",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -297,14 +500,15 @@
    "date": "2026-08-11",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… . To adopt a resolution extending a temporary moratorium on rezoning applications and permits for new data centers in unincorporated Cobb County. Internal Audit 28. To approve an updated Internal Audit Department Chart …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10156,plainText=false)"
   },
   {
@@ -317,6 +521,7 @@
    "date": "2026-08-05",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -329,6 +534,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": null,
+   "date": "2026-08-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… missioner Park, to approve the FY27 contract with GA Food Services. Motion passed unanimously. TEMPORARY MORATORIUM OF DATA CENTERS Planning Department Director Chuck Jarrell stated that the Planning Office has received several inquiries regarding d …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_08042026-869"
+  },
+  {
+   "topic": "data-center",
    "placeId": "clayton",
    "placeName": "Clayton County",
    "placeType": "county",
@@ -337,14 +563,15 @@
    "date": "2026-08-04",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… s. (Commissioner Tash Allen) Synopsis: This resolution authorizes the County to evaluate the Lovejoy Data Center project submitted to the Atlanta Regional Commission as a Development of Regional Impact and …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5391&compileOutputType=1"
   },
   {
@@ -357,14 +584,15 @@
    "date": "2026-08-04",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… uance of Land Disturbance Permits, and the Issuance of Other Permits for Development of Any Data Center, Batter Energy Storage System, and Solar Power Farms; and for Other Lawful Purposes (ADDED) …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2987,plainText=false)"
   },
   {
@@ -375,28 +603,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-07-28",
-   "body": "Board of Commissioners Work Session",
+   "body": "Board of Commissioners",
    "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-00107d3a3e4a42c3af2a7d720e3553dc.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "paulding",
-   "placeName": "Paulding County",
-   "placeType": "county",
-   "fips": "13223",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-07-28",
-   "body": "Board of Commissioners Board Meeting",
-   "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -409,6 +618,48 @@
   },
   {
    "topic": "data-center",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-07-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-00107d3a3e4a42c3af2a7d720e3553dc.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "meriwether",
+   "placeName": "Meriwether County",
+   "placeType": "county",
+   "fips": "13199",
+   "region": null,
+   "date": "2026-07-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… osition/In-house Commercial Revaluation XIII. NEW BUSINESS 1. Consider Approval of a Resolution Extending the Data Center Moratorium for an Additional Ninety (90) Days 2. Consider Approval of Ordinance Amendment 2026-01 Regarding Bo …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_07282026-650"
+  },
+  {
+   "topic": "data-center",
    "placeId": "cobb",
    "placeName": "Cobb County",
    "placeType": "county",
@@ -417,6 +668,7 @@
    "date": "2026-07-28",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -429,6 +681,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": null,
+   "date": "2026-07-21",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… ow a telecommunications tower on 33.69 acres located on Brownwood Road (Tax Parcel 030-030B). Unfinished Business Data Center Moratorium - signing New Business 2. Resolution to Levy Taxes for the Fiscal Year 2027 and Tax Year 2026 3. Requ …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_07212026-866"
+  },
+  {
+   "topic": "data-center",
    "placeId": "cherokee",
    "placeName": "Cherokee County",
    "placeType": "county",
@@ -437,6 +710,7 @@
    "date": "2026-07-21",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "granicus",
    "vendors": [],
    "matchedTerms": [
@@ -455,8 +729,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-07-14",
-   "body": "Board of Commissioners Work Session",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -475,8 +750,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-07-14",
-   "body": "Board of Commissioners Board Meeting",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -497,6 +773,7 @@
    "date": "2026-07-14",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -517,6 +794,28 @@
    "date": "2026-07-14",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… 1. Discussion Regarding the Fiscal Year 2027 Budget and 2026 Millage Rate 2. Discussion Regarding the Coweta County Data Center Ordinance 3. Discussion Regarding the Georgia Cottage Food Law and Local Ordinances Adjournment As set forth in …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3536,plainText=false)"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": null,
+   "date": "2026-07-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -525,7 +824,7 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3536,plainText=false)"
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_07072026-864"
   },
   {
    "topic": "data-center",
@@ -537,14 +836,15 @@
    "date": "2026-07-07",
    "body": "Planning & Zoning",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… oning from R-A (residential agriculture) to PUD (planned unit Z2026- development) and a Special Use Permit for a data center and 47/S2026-48 substation located on Poole, East & West Tyson Roads, Villa Rica, 30180. Land lot(s) 11 …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7412,plainText=false)"
   },
   {
@@ -557,6 +857,7 @@
    "date": "2026-07-07",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -577,26 +878,28 @@
    "date": "2026-07-06",
    "body": "City Council",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… ovington, Georgia extending until October 20, 2026 a limited moratorium of the acceptance of applications for data center development. Motion carried with council members Rutberg, Henderson, Johnson and Turner voting in favor of the exte …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0706_Minutes.pdf"
   },
   {
    "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-06-23",
-   "body": "Planning Commission",
+   "placeId": "spalding",
+   "placeName": "Spalding County",
+   "placeType": "county",
+   "fips": "13255",
+   "region": null,
+   "date": "2026-06-25",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -605,7 +908,7 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2144&Inline=True"
+   "sourceUrl": "https://spaldingcounty.granicus.com/AgendaViewer.php?view_id=1&event_id=959"
   },
   {
    "topic": "data-center",
@@ -615,28 +918,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-06-23",
-   "body": "Board of Commissioners Work Session",
+   "body": "Board of Commissioners",
    "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-697c3fb244314fa4bb0bc05ca489576f.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "paulding",
-   "placeName": "Paulding County",
-   "placeType": "county",
-   "fips": "13223",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-06-23",
-   "body": "Board of Commissioners Board Meeting",
-   "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -649,6 +933,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-06-23",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-697c3fb244314fa4bb0bc05ca489576f.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -657,6 +962,7 @@
    "date": "2026-06-23",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -671,21 +977,22 @@
    "topic": "data-center",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
-   "placeType": "county",
+   "placeType": "consolidated",
    "fips": "13215",
    "region": "West Georgia",
    "date": "2026-06-22",
-   "body": "City Council",
+   "body": "Columbus City Council",
    "confidence": "high",
-   "sourceType": "ocr",
+   "context": "agenda-action",
+   "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://legistar3.granicus.com/Columbus/meetings/2026/6/6193_A_Columbus_City_Council_26-06-22_Agenda.pdf"
+   "excerpt": "… agement, to enter into a professional architectural / engineering services agreement with BBCO Design LLC, for the 2026 Data Center West Facility Upgrades project; to authorize an expenditure up to $282,791.00 within the Information Services Capital P …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6193&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "data-center",
@@ -697,6 +1004,7 @@
    "date": "2026-06-18",
    "body": "Committee of the Whole",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -717,14 +1025,15 @@
    "date": "2026-06-16",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… ty Accountability Courts 15. Request Approval/Execution of a Resolution to Enact a Moratorium Associated with Data Centers 16. Request Approval/Execution of a Right-of-Entry Associated with Storm Drain Pipe Repair at 110 Hazelridge …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3495,plainText=false)"
   },
   {
@@ -737,14 +1046,15 @@
    "date": "2026-06-16",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… by the Clayton County Department of Community Development relating to the establishment or expansion of data centers; to provide for an effective date of this resolution; and for other purposes. (Director Patrick Ejike) …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5367&compileOutputType=1"
   },
   {
@@ -757,14 +1067,15 @@
    "date": "2026-06-11",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… on of Rules Regular Session 1. Discussion Regarding the Fiscal Year 2027 Budget 2. Discussion Regarding Proposed Data Center Ordinance and Authority 3. Discussion Regarding Potential Data Center Moratorium 4. Discussion Regarding an Intergove …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3526,plainText=false)"
   },
   {
@@ -775,28 +1086,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-06-09",
-   "body": "Board of Commissioners Work Session",
+   "body": "Board of Commissioners",
    "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-53c50a9b577e4da3ac29045ac55a9117.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "paulding",
-   "placeName": "Paulding County",
-   "placeType": "county",
-   "fips": "13223",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-06-09",
-   "body": "Board of Commissioners Board Meeting",
-   "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -809,6 +1101,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-06-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-53c50a9b577e4da3ac29045ac55a9117.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -817,6 +1130,7 @@
    "date": "2026-06-09",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -837,6 +1151,7 @@
    "date": "2026-06-09",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -857,6 +1172,7 @@
    "date": "2026-06-03",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -877,6 +1193,7 @@
    "date": "2026-06-02",
    "body": "Committee of the Whole",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -897,6 +1214,7 @@
    "date": "2026-06-02",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -909,6 +1227,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-06-01",
+   "body": "Columbus City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… ctor of the Department of Technology to enter into a contract with Technology Site Planners, Inc. (TechSite) to provide data center alarm monitoring and first responder services; to waive the competitive bidding provisions of Chapter 329 of the Columb …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6187&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "data-center",
    "placeId": "covington",
    "placeName": "City of Covington",
    "placeType": "city",
@@ -917,14 +1256,15 @@
    "date": "2026-06-01",
    "body": "City Council",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… r to approve extending until August 4, 2026, a limited moratorium on the acceptance of applications for Data Center Development. Motion carried unanimously. ****** 9. Motion made by Council Member Johnson, seconde …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0601_Minutes.pdf"
   },
   {
@@ -935,8 +1275,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-05-26",
-   "body": "Board of Commissioners Work Session",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -949,14 +1290,36 @@
   },
   {
    "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-05-19",
-   "body": "City Council",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-18",
+   "body": "Columbus City Council",
    "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… ctor of the Department of Technology to enter into a contract with Technology Site Planners, Inc. (TechSite) to provide data center alarm monitoring and first responder services; to waive the competitive bidding provisions of Chapter 329 of the Columb …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6184&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
+   "placeType": "county",
+   "fips": "13113",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-05-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -965,7 +1328,7 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2138&Inline=True"
+   "sourceUrl": "https://www.fayettecountyga.gov/05-13-2026%20Retreat%20Minutes-tps.pdf"
   },
   {
    "topic": "data-center",
@@ -977,6 +1340,7 @@
    "date": "2026-05-12",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -997,6 +1361,7 @@
    "date": "2026-05-12",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -1015,8 +1380,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-05-05",
-   "body": "Board of Commissioners Special Called Meeting",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -1035,8 +1401,9 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-05-05",
-   "body": "Board of Commissioners Special Called Meeting",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "public-comment",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -1057,6 +1424,7 @@
    "date": "2026-05-05",
    "body": "Committee of the Whole",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -1077,6 +1445,7 @@
    "date": "2026-05-04",
    "body": "City Council",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -1089,43 +1458,24 @@
   },
   {
    "topic": "data-center",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-04-28",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… enly Across All Commission Districts To Support A Countywide Independent, Third-Party Health And Environmental Study Of Data Centers And Their Possible Impact On The County Not To Exceed $150,000. Resolution",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4471&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Atlanta Regional Commission",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-04-21",
-   "body": "Committee of the Whole",
+   "body": "City Council",
    "confidence": "high",
-   "sourceType": "legistar",
+   "context": "agenda-action",
+   "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": "Discussion - Data Centers",
+   "excerpt": "… r Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Off …",
    "excerptTerm": "data center",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4470&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2132&Inline=True"
   },
   {
    "topic": "data-center",
@@ -1134,9 +1484,31 @@
    "placeType": "city",
    "fips": null,
    "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-04-02",
-   "body": "City Council",
+   "date": "2026-04-06",
+   "body": "Planning Commission",
    "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Offici …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2133&Inline=True"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
+   "placeType": "county",
+   "fips": "13113",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-03-26",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -1145,7 +1517,28 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2131&Inline=True"
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/03-26-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-03-24",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Offici …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2126&Inline=True"
   },
   {
    "topic": "data-center",
@@ -1155,16 +1548,17 @@
    "fips": "13223",
    "region": "Atlanta Regional Commission",
    "date": "2026-03-24",
-   "body": "Board of Commissioners Board Meeting",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… st: __________________ Abstain: __________________ CONCLUSION OF REGULAR BUSINESS Cathy Copeland Re: Data Centers PUBLIC PARTICIPATION ON NON-AGENDA ITEMS: EXECUTIVE SESSION: None ADJOURNMENT 3/24/2026 …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-2a85e3a9089548aeaa7e339b11edcddb.pdf"
   },
   {
@@ -1177,6 +1571,7 @@
    "date": "2026-03-18",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -1189,26 +1584,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "clayton",
-   "placeName": "Clayton County",
-   "placeType": "county",
-   "fips": "13063",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-03-17",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5069&compileOutputType=1"
-  },
-  {
-   "topic": "data-center",
    "placeId": "covington",
    "placeName": "City of Covington",
    "placeType": "city",
@@ -1217,6 +1592,7 @@
    "date": "2026-03-16",
    "body": "City Council",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -1229,14 +1605,15 @@
   },
   {
    "topic": "data-center",
-   "placeId": "douglas",
-   "placeName": "Douglas County",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
    "placeType": "county",
-   "fips": "13097",
+   "fips": "13113",
    "region": "Atlanta Regional Commission",
-   "date": "2026-03-03",
-   "body": "Planning & Zoning",
+   "date": "2026-02-26",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -1245,47 +1622,28 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7192,plainText=false)"
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-26-2026%20BOC%20Agenda.pdf"
   },
   {
    "topic": "data-center",
-   "placeId": "henry",
-   "placeName": "Henry County",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
    "placeType": "county",
-   "fips": "13151",
+   "fips": "13113",
    "region": "Atlanta Regional Commission",
-   "date": "2026-02-17",
+   "date": "2026-02-12",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2424,plainText=false)"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "clayton",
-   "placeName": "Clayton County",
-   "placeType": "county",
-   "fips": "13063",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-02-17",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=4571&compileOutputType=1"
+   "excerpt": "… use the property for. Ms. Bell stated that they said business park which could include several things, for example, data center. Commissioner Maxwell asked if this request was in conjunction with Funspot. Ms. Bell stated that all the parcels …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-12-2026%20BOC%20Agenda.pdf"
   },
   {
    "topic": "data-center",
@@ -1297,6 +1655,7 @@
    "date": "2026-02-04",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [],
    "matchedTerms": [
@@ -1309,14 +1668,15 @@
   },
   {
    "topic": "data-center",
-   "placeId": "paulding",
-   "placeName": "Paulding County",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
    "placeType": "county",
-   "fips": "13223",
+   "fips": "13113",
    "region": "Atlanta Regional Commission",
-   "date": "2026-01-27",
-   "body": "Board of Commissioners Work Session",
+   "date": "2026-01-22",
+   "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -1325,27 +1685,7 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-ed4790474e7449b4b3f9c22134c2a109.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-01-20",
-   "body": "City Council",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2119&Inline=True"
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/01-22-2026%20BOC%20Agenda%20(section%201).pdf"
   },
   {
    "topic": "data-center",
@@ -1357,35 +1697,16 @@
    "date": "2026-01-20",
    "body": "City Council",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… ton, Georgia enacting a limited moratorium until July 4, 2026 on the acceptance of applications for Data Center Development Motion carried unanimously. ****** 3. Motion made by Council Member Davis, seconde …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0120_Minutes.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "henry",
-   "placeName": "Henry County",
-   "placeType": "county",
-   "fips": "13151",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-01-06",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2394,plainText=false)"
   },
   {
    "topic": "data-center",
@@ -1397,55 +1718,16 @@
    "date": "2026-01-05",
    "body": "City Council",
    "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
+   "excerpt": "… il Member Rutberg, seconded by Council Member Davis to amend the agenda to add a discussion of moratorium for Data Centers. Motion carried unanimously. ****** 3. Motion made by Council Member Henderson, seconded by Counc …",
+   "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0105_Minutes.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2025-12-16",
-   "body": "City Council",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2111&Inline=True"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "coweta",
-   "placeName": "Coweta County",
-   "placeType": "county",
-   "fips": "13077",
-   "region": null,
-   "date": "2025-12-16",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3070,plainText=false)"
   },
   {
    "topic": "data-center",
@@ -1457,6 +1739,7 @@
    "date": "2025-12-15",
    "body": "City Council",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -1469,114 +1752,15 @@
   },
   {
    "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2025-12-04",
-   "body": "City Council",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2110&Inline=True"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "coweta",
-   "placeName": "Coweta County",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
    "placeType": "county",
-   "fips": "13077",
-   "region": null,
-   "date": "2025-12-04",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3036,plainText=false)"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2025-11-18",
-   "body": "City Council",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2105&Inline=True"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "coweta",
-   "placeName": "Coweta County",
-   "placeType": "county",
-   "fips": "13077",
-   "region": null,
-   "date": "2025-11-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3023,plainText=false)"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2025-11-06",
-   "body": "City Council",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2101&Inline=True"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "henry",
-   "placeName": "Henry County",
-   "placeType": "county",
-   "fips": "13151",
+   "fips": "13113",
    "region": "Atlanta Regional Commission",
-   "date": "2025-11-04",
+   "date": "2025-10-23",
    "body": "Board of Commissioners",
    "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -1585,107 +1769,7 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2355,plainText=false)"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2025-10-28",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2093&Inline=True"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "coweta",
-   "placeName": "Coweta County",
-   "placeType": "county",
-   "fips": "13077",
-   "region": null,
-   "date": "2025-10-21",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2962,plainText=false)"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "coweta",
-   "placeName": "Coweta County",
-   "placeType": "county",
-   "fips": "13077",
-   "region": null,
-   "date": "2025-10-16",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2954,plainText=false)"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2025-10-02",
-   "body": "City Council",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2094&Inline=True"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2025-09-23",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2092&Inline=True"
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2025/Agenda/10-23-2025%20BOC%20Agenda.pdf"
   }
  ]
 }
