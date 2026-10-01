@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-09-30T10:33:51Z",
+  "generatedAt": "2026-10-01T15:49:18Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 439
+  "count": 442
  },
  "mentions": [
   {
@@ -29,6 +29,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10237,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "carroll",
+   "placeName": "Carroll County",
+   "placeType": "county",
+   "fips": "13045",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-11-05",
+   "body": "Board of Appeals",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3025,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -173,6 +196,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "cherokee",
+   "placeName": "Cherokee County",
+   "placeType": "county",
+   "fips": "13057",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-06",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… 26.621 +/- acres of property from AG (General Agriculture) to R-40 (Single Family Residential) for a 25-lot residential subdivision. 2.3 Case #2026-AR-01B - Evan Cohn for Georgia Power Company (Dist. 1). The applicant is requesting to rezone 2-acres o …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&event_id=1138"
+  },
+  {
+   "topic": "land-use",
    "placeId": "carroll",
    "placeName": "Carroll County",
    "placeType": "county",
@@ -192,7 +240,54 @@
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3021,plainText=false)"
+   "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3023,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lumpkin",
+   "placeName": "Lumpkin County",
+   "placeType": "county",
+   "fips": "13187",
+   "region": null,
+   "date": "2026-10-05",
+   "body": "Land Use & Development Regulations Review Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4355,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-10-01",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… III. INVOCATION IV. AGENDA ITEMS 1. Planning Commission Review a. VAR-2026-004 - Request for Variance from Section 3.7.3.E.3A, D, E, F, and G of the Unified Development Code (UDC) to Allow for a Garden Cotta …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2170&Inline=True"
   },
   {
    "topic": "land-use",
@@ -316,6 +411,34 @@
    "excerpt": "… 3rd Land District, Parcel No. 218 02024A, consisting of 8.13 acres. The applicant is requesting to rezone the property from R-2, Single-Family Residential, and AR-1, Agricultural Residential, to C-1, Highway Commer …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://spaldingcounty.granicus.com/AgendaViewer.php?view_id=1&event_id=1041"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "newton",
+   "placeName": "Newton County",
+   "placeType": "county",
+   "fips": "13217",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-09-29",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "conditional use",
+    "future land use",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.newtoncountyga.gov/AgendaCenter/ViewFile/Agenda/_09292026-1006"
   },
   {
    "topic": "land-use",
@@ -4081,6 +4204,44 @@
   },
   {
    "topic": "land-use",
+   "placeId": "clarke",
+   "placeName": "Athens-Clarke County",
+   "placeType": "consolidated",
+   "fips": "13059",
+   "region": "Northeast Georgia",
+   "date": "2026-08-04",
+   "body": "Mayor & Commission Meetings",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "comprehensive plan",
+    "conditional use",
+    "future land use",
+    "land use plan",
+    "mixed-use",
+    "multi-family",
+    "multifamily",
+    "rezon",
+    "subdivision",
+    "variance",
+    "warehouse"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_08042026-3028"
+  },
+  {
+   "topic": "land-use",
    "placeId": "cherokee",
    "placeName": "Cherokee County",
    "placeType": "county",
@@ -6422,33 +6583,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "newton",
-   "placeName": "Newton County",
-   "placeType": "county",
-   "fips": "13217",
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-06-23",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "conditional use",
-    "future land use",
-    "rezon"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "rezoning",
-    "special-land-use"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.newtoncountyga.gov/AgendaCenter/ViewFile/Agenda/_06232026-976"
-  },
-  {
-   "topic": "land-use",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -7745,33 +7879,6 @@
    "excerpt": "… g a rezoning of 3.944 +/- acres from General Commercial (GC) to Light Industrial (LI) for a contractor business, office warehouse, landscaping company and outside storage yard. The applicant is also requesting a concurrent variance to Article 10, Ta …",
    "excerptTerm": "warehouse",
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1555"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "cherokee",
-   "placeName": "Cherokee County",
-   "placeType": "county",
-   "fips": "13057",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-06-02",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… w Trail 5, LLC (BOC Dist. 2). The applicant is requesting to rezone 6.872 +/- acres from R-80 to R-60 for a residential subdivision. 10.2 Modification of Zoning Conditions - Case #07-02-006 (Resolution 2007-R-008) - Beavers Road Tract (Arkan Homes) (B …",
-   "excerptTerm": "subdivision",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1553"
   },
   {
    "topic": "land-use",
@@ -11066,31 +11173,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://drive.google.com/file/d/1v39HO0bChFtyiNCyFmJFWuqGe50e9XYD/view"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "pickens",
-   "placeName": "Pickens County",
-   "placeType": "county",
-   "fips": "13227",
-   "region": null,
-   "date": "2025-12-15",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "rezon"
-   ],
-   "tags": [
-    "annexation",
-    "rezoning"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_12152025-162"
   },
   {
    "topic": "land-use",
