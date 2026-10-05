@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-01T15:49:18Z",
+  "generatedAt": "2026-10-05T17:30:27Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 35
@@ -33,9 +33,9 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 8
+    "land-use": 9
    },
-   "lastActivity": "2026-09-17"
+   "lastActivity": "2026-10-08"
   },
   {
    "placeId": "bartow",
@@ -54,7 +54,7 @@
    "region": "Middle Georgia",
    "topics": {
     "alpr": 3,
-    "land-use": 20
+    "land-use": 18
    },
    "lastActivity": "2026-09-01"
   },
@@ -109,7 +109,7 @@
     "data-center": 2,
     "land-use": 16
    },
-   "lastActivity": "2026-10-06"
+   "lastActivity": "2026-10-08"
   },
   {
    "placeId": "clarke",
@@ -128,9 +128,9 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "data-center": 4,
-    "land-use": 6
+    "land-use": 7
    },
-   "lastActivity": "2026-09-15"
+   "lastActivity": "2026-10-06"
   },
   {
    "placeId": "cobb",
@@ -152,7 +152,7 @@
     "alpr": 1,
     "land-use": 20
    },
-   "lastActivity": "2026-10-01"
+   "lastActivity": "2026-10-06"
   },
   {
    "placeId": "covington",
@@ -173,7 +173,7 @@
    "region": null,
    "topics": {
     "data-center": 3,
-    "land-use": 20
+    "land-use": 19
    },
    "lastActivity": "2026-09-24"
   },
@@ -193,10 +193,10 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "data-center": 14,
-    "land-use": 17
+    "data-center": 15,
+    "land-use": 18
    },
-   "lastActivity": "2026-09-29"
+   "lastActivity": "2026-10-06"
   },
   {
    "placeId": "douglas",
@@ -215,10 +215,10 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "data-center": 7,
-    "land-use": 21
+    "data-center": 8,
+    "land-use": 22
    },
-   "lastActivity": "2026-09-24"
+   "lastActivity": "2026-10-08"
   },
   {
    "placeId": "forsyth",
@@ -228,7 +228,7 @@
    "topics": {
     "land-use": 18
    },
-   "lastActivity": "2026-10-01"
+   "lastActivity": "2026-10-06"
   },
   {
    "placeId": "fulton",
@@ -236,10 +236,10 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "data-center": 4,
+    "data-center": 3,
     "land-use": 14
    },
-   "lastActivity": "2026-09-16"
+   "lastActivity": "2026-10-07"
   },
   {
    "placeId": "gwinnett",
@@ -257,9 +257,9 @@
    "type": "county",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 13
+    "land-use": 14
    },
-   "lastActivity": "2026-09-22"
+   "lastActivity": "2026-10-05"
   },
   {
    "placeId": "henry",
@@ -278,7 +278,7 @@
    "type": "county",
    "region": null,
    "topics": {
-    "land-use": 13
+    "land-use": 11
    },
    "lastActivity": "2026-10-12"
   },
@@ -313,7 +313,7 @@
    "topics": {
     "alpr": 1,
     "data-center": 3,
-    "land-use": 25
+    "land-use": 23
    },
    "lastActivity": "2026-09-28"
   },
@@ -356,9 +356,9 @@
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "data-center": 3,
-    "land-use": 11
+    "land-use": 10
    },
-   "lastActivity": "2026-10-01"
+   "lastActivity": "2026-09-15"
   },
   {
    "placeId": "spalding",
@@ -377,9 +377,9 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 18
+    "land-use": 19
    },
-   "lastActivity": "2026-09-15"
+   "lastActivity": "2026-10-06"
   }
  ]
 }
