@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-05T17:30:27Z",
+  "generatedAt": "2026-10-08T15:55:09Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 85
+  "count": 88
  },
  "mentions": [
   {
@@ -177,6 +177,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-09-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -282,13 +303,13 @@
   },
   {
    "topic": "data-center",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-08-28",
-   "body": "Board of Commissioners",
+   "placeId": "covington",
+   "placeName": "City of Covington",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-09-01",
+   "body": "City Council",
    "confidence": "high",
    "context": "agenda-action",
    "sourceType": "ocr",
@@ -297,9 +318,9 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
+   "excerpt": "… Council Member Henderson, seconded by Council Member Davis to approve the revocation of the current moratorium for Data Centers which was set to remain in effect through October 20, 2026, now that the related ordinance has been adopted. …",
    "excerptTerm": "data center",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1746&Inline=True"
+   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0901_Minutes.pdf"
   },
   {
    "topic": "data-center",
@@ -492,6 +513,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "covington",
+   "placeName": "City of Covington",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-08-17",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… by Council Member Rutberg, seconded by Council Member Johnson to approve the final reading of an amendment to the Data Center ordinance with the following changes: There shall be two public meetings that must be held at least 7 days apart …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0817_Minutes.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -636,6 +678,27 @@
    "excerpt": "… uance of Land Disturbance Permits, and the Issuance of Other Permits for Development of Any Data Center, Batter Energy Storage System, and Solar Power Farms; and for Other Lawful Purposes (ADDED) …",
    "excerptTerm": "data center",
    "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2987,plainText=false)"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "covington",
+   "placeName": "City of Covington",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-08-03",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… Motion carried unanimously. ****** Gregory Road resident Tamichael Jones spoke of his concerns regarding data centers and their effect on property values, environmental impacts, quality of life and noise pollution. ****** …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0803_Minutes.pdf"
   },
   {
    "topic": "data-center",
