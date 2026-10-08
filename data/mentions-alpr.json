@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-05T17:30:27Z",
+  "generatedAt": "2026-10-08T15:55:09Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 18
+  "count": 20
  },
  "mentions": [
   {
@@ -165,6 +165,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3651,plainText=false)"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "covington",
+   "placeName": "City of Covington",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-08-03",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": "… llegiance to the Flag of the United States of America. Covington Police Chief Brent Fuesting discussed CPD’s Flock Camera Policy. ****** 1. Motion made by Council Member Rutberg, seconded by Council Member Davis to approve the …",
+   "excerptTerm": "flock",
+   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0803_Minutes.pdf"
   },
   {
    "topic": "alpr",
@@ -397,6 +420,29 @@
    "excerpt": "To authorize the Director of the Department of Public Safety to enter into contract with Motorola Solutions, DBA Vigilant Solutions, for the purchase of commercial license subscriptions for the Investigative Data Platform; to waive the competitive bid …",
    "excerptTerm": "vigilant solutions",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6187&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-01-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1727&Inline=True"
   },
   {
    "topic": "alpr",
