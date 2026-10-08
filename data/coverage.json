@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-05T17:30:27Z",
+  "generatedAt": "2026-10-08T15:55:09Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 35
@@ -23,9 +23,9 @@
    "region": null,
    "topics": {
     "data-center": 2,
-    "land-use": 12
+    "land-use": 13
    },
-   "lastActivity": "2026-09-08"
+   "lastActivity": "2026-10-06"
   },
   {
    "placeId": "barrow",
@@ -95,10 +95,11 @@
    "type": "county",
    "region": "Coastal Georgia",
    "topics": {
+    "alpr": 1,
     "data-center": 1,
-    "land-use": 7
+    "land-use": 12
    },
-   "lastActivity": "2026-08-28"
+   "lastActivity": "2026-09-11"
   },
   {
    "placeId": "cherokee",
@@ -107,7 +108,7 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "data-center": 2,
-    "land-use": 16
+    "land-use": 15
    },
    "lastActivity": "2026-10-08"
   },
@@ -117,7 +118,7 @@
    "type": "consolidated",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 9
+    "land-use": 8
    },
    "lastActivity": "2026-10-21"
   },
@@ -160,11 +161,11 @@
    "type": "city",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "alpr": 2,
-    "data-center": 7,
-    "land-use": 6
+    "alpr": 3,
+    "data-center": 10,
+    "land-use": 8
    },
-   "lastActivity": "2026-07-06"
+   "lastActivity": "2026-09-01"
   },
   {
    "placeId": "coweta",
@@ -183,9 +184,9 @@
    "type": "county",
    "region": null,
    "topics": {
-    "land-use": 6
+    "land-use": 7
    },
-   "lastActivity": "2026-09-15"
+   "lastActivity": "2026-10-20"
   },
   {
    "placeId": "dekalb",
@@ -205,7 +206,7 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "data-center": 3,
-    "land-use": 10
+    "land-use": 11
    },
    "lastActivity": "2026-10-06"
   },
@@ -259,7 +260,7 @@
    "topics": {
     "land-use": 14
    },
-   "lastActivity": "2026-10-05"
+   "lastActivity": "2026-10-08"
   },
   {
    "placeId": "henry",
@@ -278,9 +279,9 @@
    "type": "county",
    "region": null,
    "topics": {
-    "land-use": 11
+    "land-use": 10
    },
-   "lastActivity": "2026-10-12"
+   "lastActivity": "2026-10-13"
   },
   {
    "placeId": "meriwether",
@@ -315,7 +316,7 @@
     "data-center": 3,
     "land-use": 23
    },
-   "lastActivity": "2026-09-28"
+   "lastActivity": "2026-10-19"
   },
   {
    "placeId": "newton",
@@ -347,7 +348,7 @@
    "topics": {
     "land-use": 17
    },
-   "lastActivity": "2026-09-21"
+   "lastActivity": "2026-10-13"
   },
   {
    "placeId": "socialcircle",
@@ -379,7 +380,7 @@
    "topics": {
     "land-use": 19
    },
-   "lastActivity": "2026-10-06"
+   "lastActivity": "2026-11-05"
   }
  ]
 }
