@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-05T17:30:27Z",
+  "generatedAt": "2026-10-08T15:55:09Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 440
+  "count": 447
  },
  "mentions": [
   {
@@ -29,6 +29,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10237,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "walton",
+   "placeName": "Walton County",
+   "placeType": "county",
+   "fips": "13297",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-11-05",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… 4. NEW BUSINESS 4.1. Z26-0288 – Rezone 86.83 acres from A2OSC to R1OSC to create a 71-lot residential subdivision – Applicant: K and M Home Builders, LLC/Owner: Pleasant Valley Developers, LLC- Property located on Pleasant …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-c547d65b05064bf0b5c14cde88314e49.pdf"
   },
   {
    "topic": "land-use",
@@ -101,6 +126,60 @@
   },
   {
    "topic": "land-use",
+   "placeId": "dawson",
+   "placeName": "Dawson County",
+   "placeType": "county",
+   "fips": "13085",
+   "region": null,
+   "date": "2026-10-20",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "future land use",
+    "mixed use",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… 055 028). 2. ZA 26-24: Harold Nissley has submitted an application to the proper authorities to amend the Future land Use/Character Area designation of 2.1 acres from Rural Living to Lanier, followed by a rezoning from RRE (Resident …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/daga-pubu/MEET-Agenda-4650fd4d999a4967b406a4d47bbbba6f.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-10-19",
+   "body": "Zoning Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… d on the west side of Demorest Road; 460± feet north of White Spruce Lane, From: R, Rural District, To: L-AR-1, Limited Apartment Residential District (Rezoning #Z25-055). Ordinance",
+   "excerptTerm": "apartment",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6216&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "land-use",
    "placeId": "cobb",
    "placeName": "Cobb County",
    "placeType": "county",
@@ -121,6 +200,53 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10260,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "pickens",
+   "placeName": "Pickens County",
+   "placeType": "county",
+   "fips": "13227",
+   "region": null,
+   "date": "2026-10-13",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… IANCE II. READING AND APPROVAL OF PREVIOUS MINUTES III. OLD BUSINESS IV. NEW BUSINESS A. REZONES • RZ-191208 – Big South Real Estate Holdings, LLC 734 Harmony Scho …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_10132026-197"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lumpkin",
+   "placeName": "Lumpkin County",
+   "placeType": "county",
+   "fips": "13187",
+   "region": null,
+   "date": "2026-10-13",
+   "body": "Land Use & Development Regulations Review Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4383,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -147,6 +273,35 @@
    "excerpt": "… arcel Number: 048-060 Character Area: Commerce Corridor Case 194 is a request for a Final Plat of a Class VII subdivision entitled The Oaks at Auraria (Phase 2) (12 lots) Per Sec 26-66 & 26-164 3. Location: 1049 BEN HIGGINS ROAD; DAH …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4351,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "hall",
+   "placeName": "Hall County",
+   "placeType": "county",
+   "fips": "13139",
+   "region": "Northeast Georgia",
+   "date": "2026-10-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "special-land-use",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-332-vm-20261008125536200202.pdf"
   },
   {
    "topic": "land-use",
@@ -323,6 +478,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "douglas",
+   "placeName": "Douglas County",
+   "placeType": "county",
+   "fips": "13097",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexed",
+    "warehouse"
+   ],
+   "tags": [
+    "annexation",
+    "development"
+   ],
+   "excerpt": "… inal legal review. 17. Approval for the Board of Elections & Voter Registration to enter into a Lease Agreement for annexed office space in the amount of $2,895 per month to be funded by the Board of Elections budget and authorize the Chai …",
+   "excerptTerm": "annexed",
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7587,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -367,7 +547,7 @@
    ],
    "excerpt": "… and currently zoned PRD (Planned Residential Development). 2. (I1b2) RZ26-09-04, Rezoning from R-1 (Single Family Residential) to C-3 (Heavy Commercial), 5125 & 5147 Columb …",
    "excerptTerm": "rezon",
-   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13842,plainText=false)"
+   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13850,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -456,31 +636,6 @@
    "fips": "13057",
    "region": "Atlanta Regional Commission",
    "date": "2026-10-06",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "subdivision"
-   ],
-   "tags": [
-    "development",
-    "rezoning"
-   ],
-   "excerpt": "… 26.621 +/- acres of property from AG (General Agriculture) to R-40 (Single Family Residential) for a 25-lot residential subdivision. 2.3 Case #2026-AR-01B - Evan Cohn for Georgia Power Company (Dist. 1). The applicant is requesting to rezone 2-acres o …",
-   "excerptTerm": "subdivision",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&event_id=1138"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "cherokee",
-   "placeName": "Cherokee County",
-   "placeType": "county",
-   "fips": "13057",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-10-06",
    "body": "Board of Commissioners",
    "confidence": "high",
    "context": "agenda-action",
@@ -494,7 +649,7 @@
    ],
    "excerpt": "… n on Case #26-09-042V. 10.2 Case #26-09-020 - Karen Lance for Tony Little (BOC Dist. 1). The applicant is requesting to rezone 5.91 +/- acres from R-80 (Estate Residential) to AG (General Agriculture). 11. CONSENT AGENDA 11.1 Update to CATS Titl …",
    "excerptTerm": "rezon",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&event_id=1116"
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1620"
   },
   {
    "topic": "land-use",
@@ -517,7 +672,32 @@
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3023,plainText=false)"
+   "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3027,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "banks",
+   "placeName": "Banks County",
+   "placeType": "county",
+   "fips": "13011",
+   "region": null,
+   "date": "2026-10-06",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use",
+    "multi-family"
+   ],
+   "tags": [
+    "development",
+    "special-land-use"
+   ],
+   "excerpt": "… essory structure for mechanical contractor. 5. PUBLIC HEARING: CODE REVIEW a. Landfills b. R2 Multi-Family Housing 6. ROUNDTABLE DISCUSSION 7. ADJOURNMENT",
+   "excerptTerm": "multi-family",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-6f6a5b2a62824f30b63641d58280e605.pdf"
   },
   {
    "topic": "land-use",
@@ -1775,6 +1955,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-09-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "warehouse"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… ale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses and large industrial buildings to data centers use within unincorporated Chatham County. …",
+   "excerptTerm": "warehouse",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "henry",
    "placeName": "Henry County",
    "placeType": "county",
@@ -2421,6 +2624,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "covington",
+   "placeName": "City of Covington",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-09-01",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation"
+   ],
+   "tags": [
+    "annexation"
+   ],
+   "excerpt": "… opposed. ***** 6. Motion made by Council Member Henderson, seconded by Council Member Turner to approve an annexation request from 6263 Turner Lake Road consenting to be included in the Highway 278 Community Improvement District (CI …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0901_Minutes.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "columbia",
    "placeName": "Columbia County",
    "placeType": "county",
@@ -2670,29 +2896,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4274,plainText=false)"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-08-28",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "warehouse"
-   ],
-   "tags": [
-    "development"
-   ],
-   "excerpt": "… le data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses and large industrial buildings to data centers use within unincorporated Chatham County. …",
-   "excerptTerm": "warehouse",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1746&Inline=True"
   },
   {
    "topic": "land-use",
@@ -3736,6 +3939,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-08-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… 10 12. SECOND READINGS 1. The Petitioner, Richard Peterson, is proposing to rezone 8804 Whitefield Ave from Residential One Family Residential Environmental Overlay to Business …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1745&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "hall",
    "placeName": "Hall County",
    "placeType": "county",
@@ -4218,31 +4444,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "clarke",
-   "placeName": "Athens-Clarke County",
-   "placeType": "consolidated",
-   "fips": "13059",
-   "region": "Northeast Georgia",
-   "date": "2026-08-06",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "future land use",
-    "rezon"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "rezoning"
-   ],
-   "excerpt": "… gle-Family Residential) and C-G (Commercial-General) to RM-2 (Mixed-Density Residential). Change Future Land Use from Neighborhood Residential to Mixed Density Residential. Tax ID: 121B4 A007 2. 940 Colle …",
-   "excerptTerm": "future land use",
-   "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_08062026-3017"
-  },
-  {
-   "topic": "land-use",
    "placeId": "fulton",
    "placeName": "Fulton County",
    "placeType": "county",
@@ -4690,26 +4891,28 @@
   },
   {
    "topic": "land-use",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-07-31",
-   "body": "Board of Commissioners",
+   "placeId": "covington",
+   "placeName": "City of Covington",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-08-03",
+   "body": "City Council",
    "confidence": "high",
    "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
+    "future land use",
     "rezon"
    ],
    "tags": [
+    "comprehensive-plan",
     "rezoning"
    ],
-   "excerpt": "… 10 12. SECOND READINGS 1. The Petitioner, Richard Peterson, is proposing to rezone 8804 Whitefield Ave from Residential One Family Residential Environmental Overlay to Business …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1745&Inline=True"
+   "excerpt": "… **** 5. Motion made by Council Member Moore, seconded by Council Member Henderson to approve the initiation of a Future Land Use Map Amendment from IND (Industrial) to COM (Commercial) and a Rezoning from the current zoning district of M-2 (He …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0803_Minutes.pdf"
   },
   {
    "topic": "land-use",
@@ -5471,29 +5674,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "lumpkin",
-   "placeName": "Lumpkin County",
-   "placeType": "county",
-   "fips": "13187",
-   "region": null,
-   "date": "2026-07-20",
-   "body": "Land Use & Development Regulations Review Committee",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "subdivision"
-   ],
-   "tags": [
-    "development"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4153,plainText=false)"
-  },
-  {
-   "topic": "land-use",
    "placeId": "hall",
    "placeName": "Hall County",
    "placeType": "county",
@@ -5701,29 +5881,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "lumpkin",
-   "placeName": "Lumpkin County",
-   "placeType": "county",
-   "fips": "13187",
-   "region": null,
-   "date": "2026-07-14",
-   "body": "Land Use & Development Regulations Review Committee",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "subdivision"
-   ],
-   "tags": [
-    "development"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3123,plainText=false)"
-  },
-  {
-   "topic": "land-use",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -5867,6 +6024,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://drive.google.com/file/d/190CUq9M6wu8NsLGgYtiiNYm8117WL7yz/view"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-07-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan"
+   ],
+   "tags": [
+    "comprehensive-plan"
+   ],
+   "excerpt": "… ion of executed Resolution to permit MPC to transmit the draft of the Chatham County-Savannah 2040-2045 Comprehensive Plan Update to the State of Georgia. (NOTE: Deadline for submittal was June 26, 2026.) 9. Reque …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1742&Inline=True"
   },
   {
    "topic": "land-use",
@@ -6568,31 +6748,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-06-26",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "multi-family",
-    "rezon"
-   ],
-   "tags": [
-    "development",
-    "rezoning"
-   ],
-   "excerpt": "… Environmental Overlay and Institutional-Professional Environmental Overlay to Planned Unit Development Multi-Family Environment Overlay. MPC File Number: Z-0426-000617, PINs: 10219 01004, 10219 01007, Th …",
-   "excerptTerm": "multi-family",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1740&Inline=True"
-  },
-  {
-   "topic": "land-use",
    "placeId": "spalding",
    "placeName": "Spalding County",
    "placeType": "county",
@@ -6888,35 +7043,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-06-22",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… ony Dorsey, applicant 23 Approve the Transmittal of a minor update to the Hall County Forward 2045 Comprehensive Plan to the Georgia Mountains Regional Commission. 24 Public Hearing to adopt Hall County's updated Capital Improvement …",
-   "excerptTerm": "comprehensive plan",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-325-ws-20260622172235680233.pdf"
-  },
-  {
-   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -7103,6 +7229,31 @@
    "excerpt": "… ntenance, and Land Use Agreement for Private Improvement (Indemnification Agreement) between Fulton County, a political subdivision of the State of Georgia, and Toll Southeast LP Company, Inc., owner, for the purpose of granting conditional approval t …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6388&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-06-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… Environmental Overlay and Institutional-Professional Environmental Overlay to Planned Unit Development Multi-Family Environment Overlay. MPC File Number: Z-0426-000617, PINs: 10219 01004, 10219 01007, Th …",
+   "excerptTerm": "multi-family",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1740&Inline=True"
   },
   {
    "topic": "land-use",
@@ -7429,6 +7580,31 @@
    "excerpt": "… of approving plan. Council Member Davis voting opposed. ****** A public hearing held at 7:28 PM regarding rezoning request, PR26-0002, to rezone the property from M1 to M2 for the property located on Wheat Street, TMP# C081 0 …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0615_Minutes.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-06-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… Environmental Overlay and Institutional-Professional Environmental Overlay to Planned Unit Development Multi-Family Environment Overlay. MPC File Number: Z-0426-000617, PINs: 10219 01004, 10219 01007, Th …",
+   "excerptTerm": "multi-family",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1735&Inline=True"
   },
   {
    "topic": "land-use",
@@ -8978,6 +9154,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-05-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… Request Board approval to execute resolution and restrictive covenant pertaining to lot 16 Green Island Subdivision, Green Island, Chatham County, Georgia. This action will place the restrictive covenant on lot 16 which …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1736&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "walton",
    "placeName": "Walton County",
    "placeType": "county",
@@ -9128,29 +9327,6 @@
    "excerpt": "Request approval of a Resolution approving a Monthly Parking Agreement between Fulton County, Georgia, a political subdivision of the state of Georgia, and Legacy Parking Company, to provide parking for Superior Court Administration, the Clerk of …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6384&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-05-06",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "subdivision"
-   ],
-   "tags": [
-    "development"
-   ],
-   "excerpt": "… Request Board approval to execute resolution and restrictive covenant pertaining to lot 16 Green Island Subdivision, Green Island, Chatham County, Georgia. This action will place the restrictive covenant on lot 16 which …",
-   "excerptTerm": "subdivision",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1736&Inline=True"
   },
   {
    "topic": "land-use",
@@ -9637,6 +9813,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-04-21",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1730&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "carroll",
    "placeName": "Carroll County",
    "placeType": "county",
@@ -9706,29 +9905,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_04202026-179"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-04-20",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "variance"
-   ],
-   "tags": [
-    "variance"
-   ],
-   "excerpt": "VARIANCES",
-   "excerptTerm": "variance",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6173&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "land-use",
@@ -10118,29 +10294,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-03-27",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon"
-   ],
-   "tags": [
-    "rezoning"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1731&Inline=True"
-  },
-  {
-   "topic": "land-use",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -10427,6 +10580,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-03-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1732&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "henry",
    "placeName": "Henry County",
    "placeType": "county",
@@ -10539,33 +10715,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "walton",
-   "placeName": "Walton County",
-   "placeType": "county",
-   "fips": "13297",
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-03-03",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "conditional use",
-    "rezon",
-    "subdivision"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "special-land-use"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-b424411713dd4bb78015082bdf2bbeed.pdf"
-  },
-  {
-   "topic": "land-use",
    "placeId": "carrollton",
    "placeName": "City of Carrollton",
    "placeType": "city",
@@ -10586,6 +10735,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://drive.google.com/file/d/1t0NOX_4wLp88WQ9pLjquxlZiITECzRPY/view"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-02-27",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… D READINGS The petitioner, Police Recreation Association of Savannah Inc, is proposing to Rezone/Map Amendment to allow continuation of the existing Residential Duplex and Club/Lodge uses, while imple …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1733&Inline=True"
   },
   {
    "topic": "land-use",
@@ -10855,29 +11027,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-01-30",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon"
-   ],
-   "tags": [
-    "rezoning"
-   ],
-   "excerpt": "… D READINGS The petitioner, Police Recreation Association of Savannah Inc, is proposing to Rezone/Map Amendment to allow continuation of the existing Residential Duplex and Club/Lodge uses, while imple …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1726&Inline=True"
-  },
-  {
-   "topic": "land-use",
    "placeId": "socialcircle",
    "placeName": "City of Social Circle",
    "placeType": "city",
@@ -11039,28 +11188,26 @@
   },
   {
    "topic": "land-use",
-   "placeId": "pickens",
-   "placeName": "Pickens County",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
    "placeType": "county",
-   "fips": "13227",
-   "region": null,
-   "date": "2026-01-12",
-   "body": "Planning Commission",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-01-09",
+   "body": "Board of Commissioners",
    "confidence": "high",
    "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
-    "conditional use",
     "rezon"
    ],
    "tags": [
-    "rezoning",
-    "special-land-use"
+    "rezoning"
    ],
-   "excerpt": "… READING AND APPROVAL OF PREVIOUS MINUTES III. OLD BUSINESS: IV. NEW BUSINESS: A. Rezones and Conditional Uses: RZ - 191082 Hankins Properties AG to HB …",
+   "excerpt": "… ed items. The petitioner, Police Recreation Association of Savannah Inc, is proposing to Rezone/Map Amendment to allow continuation of the existing Residential Duplex and Club/Lodge uses, while imple …",
    "excerptTerm": "rezon",
-   "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_01122026-163"
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1727&Inline=True"
   },
   {
    "topic": "land-use",
@@ -11245,7 +11392,7 @@
    "placeType": "county",
    "fips": "13051",
    "region": "Coastal Georgia",
-   "date": "2025-10-24",
+   "date": "2025-11-07",
    "body": "Board of Commissioners",
    "confidence": "high",
    "context": "unknown",
@@ -11261,7 +11408,7 @@
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1723&Inline=True"
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1711&Inline=True"
   },
   {
    "topic": "land-use",
@@ -11297,6 +11444,31 @@
    "excerpt": "… Petition #1367- 25, requesting to rezone from A-R to O-I. STAFF RECOMMENDATION As defined in the Fayette County Comprehensive Plan, Office-Institutional Use is designated for this area, so the request for O-I zoning is appropriate. Based on the Inve …",
    "excerptTerm": "comprehensive plan",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2025/Agenda/10-23-2025%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2025-10-21",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1723&Inline=True"
   },
   {
    "topic": "land-use",
