@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-08T15:55:09Z",
+  "generatedAt": "2026-10-12T17:51:16Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 447
+  "count": 451
  },
  "mentions": [
   {
@@ -103,6 +103,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-10-27",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… nning Commission Regular Meeting September 22, 2026 6:00 PM III. PUBLIC HEARINGS a. REZ-2026-008 - Request to Rezone from Residential Medium Density (RMD) to Residential-15 (R-15) to Satisfy Administrative Plat Requirements a …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2172&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "clarke",
    "placeName": "Athens-Clarke County",
    "placeType": "consolidated",
@@ -153,6 +178,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "cobb",
+   "placeName": "Cobb County",
+   "placeType": "county",
+   "fips": "13067",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-20",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "slup"
+   ],
+   "tags": [
+    "special-land-use"
+   ],
+   "excerpt": "… d 13. LUP-19-2026 District 3 - 1884 Addison Road 14. LUP-35-2026 District 4 - 448 Hurt Road 15. SLUP-8-2026 District 2 - 2967 Olympic Industrial Drive 16. SLUP-9-2026 District 2 - 114 Townpark Drive …",
+   "excerptTerm": "slup",
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10277,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -177,6 +225,139 @@
    "excerpt": "… d on the west side of Demorest Road; 460± feet north of White Spruce Lane, From: R, Rural District, To: L-AR-1, Limited Apartment Residential District (Rezoning #Z25-055). Ordinance",
    "excerptTerm": "apartment",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6216&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "douglas",
+   "placeName": "Douglas County",
+   "placeType": "county",
+   "fips": "13097",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-19",
+   "body": "Planning & Zoning",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7591,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "forsyth",
+   "placeName": "Forsyth County",
+   "placeType": "county",
+   "fips": "13117",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-15",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "rezon",
+    "variance",
+    "warehouse"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5377,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "dawson",
+   "placeName": "Dawson County",
+   "placeType": "county",
+   "fips": "13085",
+   "region": null,
+   "date": "2026-10-15",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "future land use",
+    "mixed use",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… dential Sub-Rural) to allow for a compliant sell of property. The proposed rezoning is consistent with the Lanier Future Land Use/Character Area Map. The subject property is located at 145 Dogwood Way, Dawsonville (Parcel No.: L05-011-00 …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/daga-pubu/MEET-Agenda-92b22e3177e14b52b6ac3e441b40f0d4.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "columbia",
+   "placeName": "Columbia County",
+   "placeType": "county",
+   "fips": "13073",
+   "region": "Central Savannah River Area",
+   "date": "2026-10-15",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13860,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "barrow",
+   "placeName": "Barrow County",
+   "placeType": "county",
+   "fips": "13013",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-10-15",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "future land use",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… C2026-00076 (XX057 008) 980 Collie Doster Rd; Wielme , LLC / Applicant; Estate of Fredera Doster / Owner; Request for a Future Land Use Map amendment to Suburban residential and rezone for ±141.35 acres from AG (Agriculture) to R-2 (Medium Density Residen …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&event_id=760"
   },
   {
    "topic": "land-use",
@@ -247,6 +428,83 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4383,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "townhome"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… tutional) zoning district to MR-1 (Medium Density Residential-1) zoning district to allow for a single-family attached (townhome) development, at 729 Old Briarcliff Road. Ordinance",
+   "excerptTerm": "townhome",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4494&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "cobb",
+   "placeName": "Cobb County",
+   "placeType": "county",
+   "fips": "13067",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation"
+   ],
+   "tags": [
+    "annexation"
+   ],
+   "excerpt": "… r the procurement of equipment and supplies. Community Development 24. To adopt a resolution consenting to deannexation per O.C.G.A. 36-36-131 regarding a petition for a parcel that is 1.10 acres located at 1409 Walcutts Way, …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10279,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "barrow",
+   "placeName": "Barrow County",
+   "placeType": "county",
+   "fips": "13013",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "future land use",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&event_id=714"
   },
   {
    "topic": "land-use",
@@ -334,31 +592,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "cherokee",
-   "placeName": "Cherokee County",
-   "placeType": "county",
-   "fips": "13057",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-10-08",
-   "body": "Zoning Board of Appeals",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "variance"
-   ],
-   "excerpt": "… Section 4, Development Standards, Section 4.05 to utilize Residential Road Standard 1 & 2 (Urban) instead of the Rural Subdivision Street; Variance to Article 5, Section 5.5-2A.c.iii. Variance to Article 5, Section 5.5-11.1a. and b (flag lot). 2.5 Ca …",
-   "excerptTerm": "subdivision",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&event_id=1181"
-  },
-  {
-   "topic": "land-use",
    "placeId": "barrow",
    "placeName": "Barrow County",
    "placeType": "county",
@@ -378,7 +611,7 @@
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&event_id=770"
+   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1169"
   },
   {
    "topic": "land-use",
@@ -779,6 +1012,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-10-01",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… III. INVOCATION IV. AGENDA ITEMS 1. Planning Commission Review a. VAR-2026-004 - Request for Variance from Section 3.7.3.E.3A, D, E, F, and G of the Unified Development Code (UDC) to Allow for a Garden Cotta …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2170&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -1172,6 +1428,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-09-22",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2163&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -1518,31 +1801,6 @@
    "excerpt": "… 2. APPROVAL OF MINUTES 2.1. Additions/Deletions 3. OLD BUSINESS 4. NEW BUSINESS 4.1. V26-0205 - Variance to use existing easement to build a house on 5 acres - Applicant: Kevin Harris/Owners: Kevin & Tiffany Ha …",
    "excerptTerm": "variance",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-5a11d16fe6c84a9588069c9f12c63df1.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-09-15",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… COUNCIL REQUESTS VII. AGENDA APPROVAL VIII. PUBLIC HEARINGS 1. REZ-2026-007 - Request to Rezone from Residential-15 (R-15) to Office Institutional (OI) to Develop a Proposed Financial Service at 317 N …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2168&Inline=True"
   },
   {
    "topic": "land-use",
@@ -2308,24 +2566,27 @@
    "fips": null,
    "region": "Broader Metropolitan Statistical Area",
    "date": "2026-09-03",
-   "body": "City Council",
+   "body": "Planning Commission",
    "confidence": "high",
    "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "mixed use",
     "rezon",
-    "subdivision",
     "variance"
    ],
    "tags": [
+    "comprehensive-plan",
     "development",
     "rezoning",
     "variance"
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2166&Inline=True"
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2164&Inline=True"
   },
   {
    "topic": "land-use",
@@ -3032,37 +3293,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-08-25",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "future land use",
-    "mixed use",
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2153&Inline=True"
-  },
-  {
-   "topic": "land-use",
    "placeId": "newton",
    "placeName": "Newton County",
    "placeType": "county",
@@ -3207,7 +3437,7 @@
    "tags": [
     "special-land-use"
    ],
-   "excerpt": "Commission District(s): 4 and 7 Application of Rooted in Christ Academy, LLC c/o Chiquita Stokes for a Special Land Use Permit (SLUP) for a child daycare facility for up to six children in the R-100 (Residential Medium Lot-100) zoning dist …",
+   "excerpt": "Commission District(s): 4 and 7 Application of Rooted in Christ Academy, LLC c/o Chiquita Stokes for a Special Land Use Permit (SLUP) to allow a child daycare facility for up to six children in the R-100 (Residential Medium Lot-100) zoning …",
    "excerptTerm": "special land use",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4487&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
   },
@@ -3597,6 +3827,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-08-18",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… 2. REZ-2026-006 - Request to Rezone from Agriculture (AG) to Residential-15 (R-15) as Part of a Proposed Subdivision Development at 0 Vine Circle; SC150155A00, SC150155B00, SC170075A00, & SC170075. 3. Text Amendme …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2160&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "newton",
    "placeName": "Newton County",
    "placeType": "county",
@@ -3693,7 +3948,7 @@
    "tags": [
     "special-land-use"
    ],
-   "excerpt": "Commission District(s): 4 and 7 Application of Rooted in Christ Academy, LLC c/o Chiquita Stokes for a Special Land Use Permit (SLUP) for a child daycare facility for up to six children in the R-100 (Residential Medium Lot-100) zoning dist …",
+   "excerpt": "Commission District(s): 4 and 7 Application of Rooted in Christ Academy, LLC c/o Chiquita Stokes for a Special Land Use Permit (SLUP) to allow a child daycare facility for up to six children in the R-100 (Residential Medium Lot-100) zoning …",
    "excerptTerm": "special land use",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4485&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
   },
@@ -4118,6 +4373,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-08-11",
+   "body": "Historic Preservation Commission",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2154&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -4362,6 +4640,31 @@
    "excerpt": "… ral Residential and Agriculture to Suburban and Rezone 5.99 acres from A1 to R1 to create a 5-lot residential subdivision – Applicant/Owner: Mark Sanchez – property located on Locklin Road – Map/Parcel C1780012Z00 - Distr …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-d3bb4fbf93894d689bb2a7546829d9e1.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-08-06",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… a. REZ-2026-006 - Request to Rezone from Agriculture (AG) to Residential-15 (R-15) as Part of a Proposed Subdivision Development at 0 Vine Circle; SC150155A00, SC150155B00, SC170075A00, & SC170075. b. Text Amend …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2159&Inline=True"
   },
   {
    "topic": "land-use",
@@ -4943,6 +5246,38 @@
   },
   {
    "topic": "land-use",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-07-28",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "land use plan",
+    "mixed use",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… t: _____________________________________ Proposed Overlay (if applicable): __________________________________ Current Future Land Use Character Area: ________________________________ Is the request consistent with the Future Land Use Character Area? …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2151&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "newton",
    "placeName": "Newton County",
    "placeType": "county",
@@ -5301,29 +5636,6 @@
    "excerpt": "… stribution Disaster Volunteer Management Mass Fatality Donated Goods Warehouse Debris Management Storm Ready: Hazardous Weather Plan 5. Consider Approval …",
    "excerptTerm": "warehouse",
    "sourceUrl": "https://spaldingcounty.granicus.com/AgendaViewer.php?view_id=1&event_id=951"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-07-21",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon"
-   ],
-   "tags": [
-    "rezoning"
-   ],
-   "excerpt": "… QUESTS VI. COUNCIL REQUESTS VII. AGENDA APPROVAL VIII. PUBLIC HEARINGS 1. REZ-2026-004 - Request to Rezone from Residential Medium Density (RMD) to Residential-15 (R-15) to Construct a Single-Family Detached Home a …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2150&Inline=True"
   },
   {
    "topic": "land-use",
@@ -5835,29 +6147,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "cobb",
-   "placeName": "Cobb County",
-   "placeType": "county",
-   "fips": "13067",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-07-15",
-   "body": "Board of Zoning Appeals",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "variance"
-   ],
-   "tags": [
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9053,plainText=false)"
-  },
-  {
-   "topic": "land-use",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -5903,31 +6192,6 @@
    "excerpt": "… implementation of the DeKalb County Housing Investment Bond Program by approving the creation and implementation of the Multifamily Acquisition Fund, DeKalb Housing Catalyst Multifamily Gap Financing Program, DeKalb HomeStart Down Payment Assistance P …",
    "excerptTerm": "multifamily",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4482&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "cobb",
-   "placeName": "Cobb County",
-   "placeType": "county",
-   "fips": "13067",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-07-14",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "warehouse"
-   ],
-   "tags": [
-    "annexation",
-    "development"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9043,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -6854,36 +7118,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-06-23",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "comprehensive plan",
-    "future land use",
-    "rezon",
-    "warehouse"
-   ],
-   "tags": [
-    "annexation",
-    "comprehensive-plan",
-    "development",
-    "rezoning"
-   ],
-   "excerpt": "… ABSENT: Member Parr, Member Mullins IV. PUBLIC HEARINGS a. ANX-2026-001 - Request for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center De …",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2144&Inline=True"
-  },
-  {
-   "topic": "land-use",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -7631,6 +7865,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "cherokee",
+   "placeName": "Cherokee County",
+   "placeType": "county",
+   "fips": "13057",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-06-11",
+   "body": "Zoning Board of Appeals",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "variance"
+   ],
+   "excerpt": "… (BOC Dist. 1) Applicant is requesting a variance to Article 5, Section 5.4, Access to Public Street and 5.5-2 Types of Subdivision to allow for a rural subdivision to be served by a shared easement and to allow an additional lot to be served by the e …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1558"
+  },
+  {
+   "topic": "land-use",
    "placeId": "barrow",
    "placeName": "Barrow County",
    "placeType": "county",
@@ -7651,6 +7910,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1130"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-06-09",
+   "body": "Historic Preservation Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "mixed-use"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… ation. This grant is to go toward a consultation for a mural. RESULT: COMPLETED 2. Mixed-Use Development at Annie P. Henderson and N. Cherokee Road Community Development Director Ashley Davis stat …",
+   "excerptTerm": "mixed-use",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2146&Inline=True"
   },
   {
    "topic": "land-use",
@@ -8564,33 +8846,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "barrow",
-   "placeName": "Barrow County",
-   "placeType": "county",
-   "fips": "13013",
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-05-21",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "townhome",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… ndividual lot split. e) Consideration of a text amendment to the Destination 211 Overlay District guidelines to clarify townhome requirements of section 89-1522 (b). VI. Adjournment BOARD OF COMMISSIONERS MEETING WILL BE HELD ON JUNE 09, 2026 AT 6: …",
-   "excerptTerm": "townhome",
-   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1121"
-  },
-  {
-   "topic": "land-use",
    "placeId": "fulton",
    "placeName": "Fulton County",
    "placeType": "county",
@@ -8634,39 +8889,6 @@
    "excerpt": "… 2. APPROVAL OF MINUTES 2.1. Additions/Deletions 3. OLD BUSINESS 4. NEW BUSINESS 4.1. V26-0099- Variance to reduce lot width on 10.17 acres to create 2 buildable 5 acre lots with Lot 2 being 100' and Lot 3 bein …",
    "excerptTerm": "variance",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-f181a3856a664a85b893a338279bf01f.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-05-19",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "comprehensive plan",
-    "future land use",
-    "rezon",
-    "subdivision",
-    "variance",
-    "warehouse"
-   ],
-   "tags": [
-    "annexation",
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2138&Inline=True"
   },
   {
    "topic": "land-use",
@@ -8980,29 +9202,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.bartowcountyga.gov/CommissionerOffice/AGENDA.PUBLIC_MEETING_5-13-2026.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-05-12",
-   "body": "Historic Preservation Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "mixed-use"
-   ],
-   "tags": [
-    "development"
-   ],
-   "excerpt": "… for New Business Signage. V. NEW BUSINESS 1. Letter of Support for MSC Grant Application 2. Mixed-Use Development at Annie P. Henderson and N. Cherokee Road 3. Landmark Property in Historic District 4. Prese …",
-   "excerptTerm": "mixed-use",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2140&Inline=True"
   },
   {
    "topic": "land-use",
@@ -9390,35 +9589,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-05-05",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "land use permit",
-    "rezon",
-    "slup",
-    "special land use",
-    "subdivision"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "special-land-use"
-   ],
-   "excerpt": "… r the development of single-family detached dwellings, to be developed as Phases 3 and 4 of the existing Champions Runs Subdivision, at 8277 Norris Lake Way. Ordinance",
-   "excerptTerm": "subdivision",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4531&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
-  },
-  {
-   "topic": "land-use",
    "placeId": "coweta",
    "placeName": "Coweta County",
    "placeType": "county",
@@ -9439,31 +9609,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3346,plainText=false)"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "columbia",
-   "placeName": "Columbia County",
-   "placeType": "county",
-   "fips": "13073",
-   "region": "Central Savannah River Area",
-   "date": "2026-05-05",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "public-comment",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "townhome",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13547,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -9731,6 +9876,33 @@
    "excerpt": "… 2. APPROVAL OF MINUTES 2.1. Additions/Deletions 3. OLD BUSINESS 4. NEW BUSINESS 4.1. V26-0076-Variance to reduce lot width on 4.79 acres to create 2 buildable lots with Lot 1 being 2.00 acres 200' of lot widt …",
    "excerptTerm": "variance",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-a9d7a1b8c277404e9da6a1b15d0d5f5f.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-04-21",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "future land use",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "rezoning"
+   ],
+   "excerpt": "… I. COUNCIL REQUESTS VII. AGENDA APPROVAL VIII. PUBLIC HEARINGS 1. ANX-2026-001 - Request for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2132&Inline=True"
   },
   {
    "topic": "land-use",
@@ -10060,31 +10232,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "banks",
-   "placeName": "Banks County",
-   "placeType": "county",
-   "fips": "13011",
-   "region": null,
-   "date": "2026-04-14",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "conditional use",
-    "rezon"
-   ],
-   "tags": [
-    "rezoning",
-    "special-land-use"
-   ],
-   "excerpt": "… lit Dr. for an outdoor storage yard. d. Z-26-04 An application has been submitted by Terry Rylee to Rezone the property identified as B19 005, a 1.5-acre parcel located at 899 Henderson from C2- General Commercial …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-8545fdb0f2f148f9947cd3d69fe38970.pdf"
-  },
-  {
-   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -10244,6 +10391,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-04-06",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "future land use",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "rezoning"
+   ],
+   "excerpt": "… Meeting Agenda I. CALL TO ORDER 1. Roll Call II. PUBLIC HEARINGS 1. ANX-2026-001 - Request for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Dev …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2133&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "walton",
    "placeName": "Walton County",
    "placeType": "county",
@@ -10266,31 +10440,6 @@
    "excerpt": "… egiance 2. APPROVAL OF MINUTES 2.1. Additions/Deletions 3. OLD BUSINESS 4. NEW BUSINESS 4.1. Rezone 1.808 acres from A1 to A2 to create a buildable lot - Applicant: Dorin Cret/Owner: Dimitrie Illisei - pr …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-6c3a2b9c5d414f4ead49a6bd58f89d60.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-04-02",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "future land use",
-    "rezon"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "rezoning"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2131&Inline=True"
   },
   {
    "topic": "land-use",
@@ -10327,6 +10476,33 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/03-26-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-03-24",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "future land use",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "rezoning"
+   ],
+   "excerpt": "… anning Commission Regular Meeting January 27, 2026 6:00 PM IV. PUBLIC HEARINGS a. ANX-2026-001 - Request for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Dev …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2126&Inline=True"
   },
   {
    "topic": "land-use",
@@ -10500,31 +10676,6 @@
    "excerpt": "… Ordinance 26-01 B. COMP-AM-26-01 (Public Hearing) Resolution to amend the Henry County Comprehensive Plan to modify text and policy language to ensure consistency with the adopted 2026 Unified Land D …",
    "excerptTerm": "comprehensive plan",
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2463,plainText=false)"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "coweta",
-   "placeName": "Coweta County",
-   "placeType": "county",
-   "fips": "13077",
-   "region": null,
-   "date": "2026-03-17",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "conditional use"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "special-land-use"
-   ],
-   "excerpt": "… for Property Located at 1071 Boone Road, Newnan - District 2 6. Second Public Hearing Regarding the Coweta County Comprehensive Plan Update Regular Session Public Comments Regarding Items On the Agenda - This is also time for anyone that wishes …",
-   "excerptTerm": "comprehensive plan",
-   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3252,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -10868,31 +11019,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-02-17",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… VI. COUNCIL REQUESTS VII. AGENDA APPROVAL VIII. PUBLIC HEARINGS 1. REZ-2026-001 - Request to Rezone from Residential Medium Density (RMD) to Residential-15 (R-15) to Satisfy Administrative Plat Requirement …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2124&Inline=True"
-  },
-  {
-   "topic": "land-use",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -11024,31 +11150,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://drive.google.com/file/d/1ULD3YaLUZdUK0gnia10DMOCWU5XzwZKJ/view"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-01-27",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… anning Commission Regular Meeting December 18, 2025 6:00 PM IV. PUBLIC HEARINGS a. REZ-2026-001 - Request to Rezone from Residential Medium Density (RMD) to Residential-15 (R-15) to Satisfy Administrative Plat Requirements a …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2112&Inline=True"
   },
   {
    "topic": "land-use",
