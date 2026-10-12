@@ -1,12 +1,35 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-08T15:55:09Z",
+  "generatedAt": "2026-10-12T17:51:16Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 20
+  "count": 21
  },
  "mentions": [
+  {
+   "topic": "alpr",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-a88da877e646483ba6b071a44c21485e.pdf"
+  },
   {
    "topic": "alpr",
    "placeId": "paulding",
