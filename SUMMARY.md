@@ -7,22 +7,22 @@ Published by [VoteGA.org](https://votega.org). Start with `latest.json`.
 ## Coverage
 
 - **35** jurisdictions scanned, of Georgia's 159 counties and ~537 cities.
-- Last scan: **2026-10-08**
+- Last scan: **2026-10-12**
 - Only governments with an automated agenda feed are scanned; a place that is absent is **not covered yet**, which is different from *no mentions found*.
 
 ## Mentions by topic
 
 | Topic | Mentions | Jurisdictions |
 | --- | --- | --- |
-| ALPR / surveillance | 20 | 8 |
-| Data centers | 88 | 18 |
-| Land use | 447 | 35 |
+| ALPR / surveillance | 21 | 8 |
+| Data centers | 91 | 18 |
+| Land use | 451 | 35 |
 
 ## ALPR vendors named
 
 | Vendor | Mentions |
 | --- | --- |
-| Flock Safety | 17 |
+| Flock Safety | 18 |
 | Genetec | 1 |
 | Vigilant (Motorola) | 1 |
 
