@@ -1,12 +1,96 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-08T15:55:09Z",
+  "generatedAt": "2026-10-12T17:51:16Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 88
+  "count": 91
  },
  "mentions": [
+  {
+   "topic": "data-center",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-a88da877e646483ba6b071a44c21485e.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… trict(s): All Commission Districts A Resolution Requiring an Independent, Third-Party Health and Environmental Study of Data Centers and Their Possible Impact on DeKalb County and Board of Commissioners Review of the Study Before DeKalb County’s Data …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4494&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "coweta",
+   "placeName": "Coweta County",
+   "placeType": "county",
+   "fips": "13077",
+   "region": null,
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… Meeting Called to Order Pledge of Allegiance Invocation Regular Session 1. Discussion Regarding the Coweta County Data Center Ordinance 2. Presentation of Quality Development Corridor District (QDCD) Materials 3. Discussion Regarding the …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3693,plainText=false)"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "cobb",
+   "placeName": "Cobb County",
+   "placeType": "county",
+   "fips": "13067",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… under the Cobb County Solicitor General's Office. 5. To provide a presentation and discussion on data centers and their impacts. PUBLIC HEARING 6. To conduct the first public hearing on the proposed amendments to Part …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10279,plainText=false)"
+  },
   {
    "topic": "data-center",
    "placeId": "fayette",
@@ -1017,27 +1101,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-06-23",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Offic …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2144&Inline=True"
-  },
-  {
-   "topic": "data-center",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -1416,27 +1479,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-05-19",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… r Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Off …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2138&Inline=True"
-  },
-  {
-   "topic": "data-center",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -1610,7 +1652,7 @@
    "placeType": "city",
    "fips": null,
    "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-04-02",
+   "date": "2026-04-21",
    "body": "City Council",
    "confidence": "high",
    "context": "agenda-action",
@@ -1620,9 +1662,30 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… 1. ANX-2026-001. Request to Annex Tax Parcel C1480001 +/- 123.36 Acres as Part of a Proposed Data Center Development. 1402 Roy Malcom Road. 2. FLUM-2026-001. Request to Amend the Future Land Use Map to Designate T …",
+   "excerpt": "… r Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Off …",
    "excerptTerm": "data center",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2131&Inline=True"
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2132&Inline=True"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-04-06",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Offici …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2133&Inline=True"
   },
   {
    "topic": "data-center",
@@ -1647,13 +1710,13 @@
   },
   {
    "topic": "data-center",
-   "placeId": "paulding",
-   "placeName": "Paulding County",
-   "placeType": "county",
-   "fips": "13223",
-   "region": "Atlanta Regional Commission",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-03-24",
-   "body": "Board of Commissioners",
+   "body": "Planning Commission",
    "confidence": "high",
    "context": "agenda-action",
    "sourceType": "ocr",
@@ -1662,9 +1725,9 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… st: __________________ Abstain: __________________ CONCLUSION OF REGULAR BUSINESS Cathy Copeland Re: Data Centers PUBLIC PARTICIPATION ON NON-AGENDA ITEMS: EXECUTIVE SESSION: None ADJOURNMENT 3/24/2026 …",
+   "excerpt": "… for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Offici …",
    "excerptTerm": "data center",
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-2a85e3a9089548aeaa7e339b11edcddb.pdf"
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2126&Inline=True"
   },
   {
    "topic": "data-center",
