@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-15T03:32:00Z",
+  "generatedAt": "2026-10-15T13:44:29Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 478
+  "count": 477
  },
  "mentions": [
   {
@@ -5503,29 +5503,6 @@
    "excerpt": "… hree Rivers Regional Commission. 6. Discuss Resolution to Adopt a Moratorium on the Acceptance of Rezoning and Special Exception Application in Spalding County. Zoning Attorney Newton Galloway is req …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://spaldingcounty.granicus.com/AgendaViewer.php?view_id=1&event_id=918"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "lumpkin",
-   "placeName": "Lumpkin County",
-   "placeType": "county",
-   "fips": "13187",
-   "region": null,
-   "date": "2026-08-03",
-   "body": "Land Use & Development Regulations Review Committee",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "subdivision"
-   ],
-   "tags": [
-    "development"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4192,plainText=false)"
   },
   {
    "topic": "land-use",
