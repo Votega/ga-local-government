@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-12T18:16:59Z",
+  "generatedAt": "2026-10-15T00:20:54Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 35
@@ -110,7 +110,7 @@
     "data-center": 2,
     "land-use": 15
    },
-   "lastActivity": "2026-10-06"
+   "lastActivity": "2026-10-08"
   },
   {
    "placeId": "clarke",
@@ -217,7 +217,7 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "data-center": 8,
-    "land-use": 22
+    "land-use": 21
    },
    "lastActivity": "2026-10-08"
   },
@@ -271,7 +271,7 @@
     "alpr": 2,
     "land-use": 14
    },
-   "lastActivity": "2026-09-10"
+   "lastActivity": "2026-10-20"
   },
   {
    "placeId": "lumpkin",
@@ -316,7 +316,7 @@
     "data-center": 3,
     "land-use": 23
    },
-   "lastActivity": "2026-10-19"
+   "lastActivity": "2026-10-26"
   },
   {
    "placeId": "newton",
@@ -335,8 +335,8 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "alpr": 9,
-    "data-center": 20,
-    "land-use": 10
+    "data-center": 21,
+    "land-use": 11
    },
    "lastActivity": "2026-10-13"
   },
@@ -348,7 +348,7 @@
    "topics": {
     "land-use": 17
    },
-   "lastActivity": "2026-10-13"
+   "lastActivity": "2026-10-19"
   },
   {
    "placeId": "socialcircle",
