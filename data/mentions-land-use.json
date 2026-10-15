@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-12T18:16:59Z",
+  "generatedAt": "2026-10-15T00:20:54Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
@@ -128,6 +128,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-10-26",
+   "body": "Zoning Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… North Cassady Avenue, 1,238± feet north of Airport Drive, From: CPD, Commercial Planned Development District, To: AR-1, Apartment Residential District (Rezoning #Z26-015). Ordinance",
+   "excerptTerm": "apartment",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6218&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "land-use",
    "placeId": "clarke",
    "placeName": "Athens-Clarke County",
    "placeType": "consolidated",
@@ -148,6 +175,32 @@
    "excerpt": "… ng structure to allow for greenspace on most of the property with an area at the south end including a portion of a new mixed-use development. This project came before the HPC as a concept review at the August meeting. …",
    "excerptTerm": "mixed-use",
    "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_10212026-3099"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "henry",
+   "placeName": "Henry County",
+   "placeType": "county",
+   "fips": "13151",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-20",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "rezoning"
+   ],
+   "excerpt": "… (Public Hearing) EPL Enterprises, Inc. of Lithonia, GA requests an amendment to the Comprehensive Plan for property located on Highway 155 North to the west of Valley Road in Land Lot 133 of the 11th …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2668,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -198,6 +251,29 @@
    "excerpt": "… d 13. LUP-19-2026 District 3 - 1884 Addison Road 14. LUP-35-2026 District 4 - 448 Hurt Road 15. SLUP-8-2026 District 2 - 2967 Olympic Industrial Drive 16. SLUP-9-2026 District 2 - 114 Townpark Drive …",
    "excerptTerm": "slup",
    "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10277,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "pickens",
+   "placeName": "Pickens County",
+   "placeType": "county",
+   "fips": "13227",
+   "region": null,
+   "date": "2026-10-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_10192026-198"
   },
   {
    "topic": "land-use",
@@ -407,6 +483,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "land use permit"
+   ],
+   "tags": [
+    "special-land-use"
+   ],
+   "excerpt": "… 13. 2026-02-LUP: Application by CHRISTIAN CORLEY-ANDERSON requesting to renew an existing Land Use Permit to continue the operation of her residential Be Free Fitness business. Property is located in Land Lot …",
+   "excerptTerm": "land use permit",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-88aa4905a5944413b6afbae04cdca768.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "lumpkin",
    "placeName": "Lumpkin County",
    "placeType": "county",
@@ -475,7 +574,7 @@
    ],
    "excerpt": "… r the procurement of equipment and supplies. Community Development 24. To adopt a resolution consenting to deannexation per O.C.G.A. 36-36-131 regarding a petition for a parcel that is 1.10 acres located at 1409 Walcutts Way, …",
    "excerptTerm": "annexation",
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10279,plainText=false)"
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10282,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -504,7 +603,7 @@
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&event_id=714"
+   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1171"
   },
   {
    "topic": "land-use",
@@ -589,6 +688,31 @@
    "excerpt": "… ARING: 1. Public Hearing to brief the community on the process of the Full Plan Update of the Fayette County Comprehensive Plan. Planning and Zoning Director Debbie Bell introduced the Fayette County Comprehensive Plan and Caroline Evans of Blue …",
    "excerptTerm": "comprehensive plan",
    "sourceUrl": "https://www.fayettecountyga.gov/10-08-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "cherokee",
+   "placeName": "Cherokee County",
+   "placeType": "county",
+   "fips": "13057",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-08",
+   "body": "Zoning Board of Appeals",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "variance"
+   ],
+   "excerpt": "… Section 4, Development Standards, Section 4.05 to utilize Residential Road Standard 1 & 2 (Urban) instead of the Rural Subdivision Street; Variance to Article 5, Section 5.5-2A.c.iii. Variance to Article 5, Section 5.5-11.1a. and b (flag lot). 2.5 Ca …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1627"
   },
   {
    "topic": "land-use",
@@ -7865,31 +7989,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "cherokee",
-   "placeName": "Cherokee County",
-   "placeType": "county",
-   "fips": "13057",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-06-11",
-   "body": "Zoning Board of Appeals",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "variance"
-   ],
-   "excerpt": "… (BOC Dist. 1) Applicant is requesting a variance to Article 5, Section 5.4, Access to Public Street and 5.5-2 Types of Subdivision to allow for a rural subdivision to be served by a shared easement and to allow an additional lot to be served by the e …",
-   "excerptTerm": "subdivision",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1558"
-  },
-  {
-   "topic": "land-use",
    "placeId": "barrow",
    "placeName": "Barrow County",
    "placeType": "county",
@@ -9764,29 +9863,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-04-27",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation"
-   ],
-   "tags": [
-    "annexation"
-   ],
-   "excerpt": "To accept the application (AN25-021) of Dublin MHP LLC for the annexation of certain territory containing 4.46± acres in Washington Township. ($0.00) Ordinance",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6179&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
    "placeId": "butts",
    "placeName": "Butts County",
    "placeType": "county",
@@ -10754,39 +10830,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "henry",
-   "placeName": "Henry County",
-   "placeType": "county",
-   "fips": "13151",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-03-12",
-   "body": "Zoning Advisory Board",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "conditional use",
-    "future land use",
-    "multifamily",
-    "rezon",
-    "townhome",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "special-land-use",
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2435,plainText=false)"
-  },
-  {
-   "topic": "land-use",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -11213,31 +11256,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "pickens",
-   "placeName": "Pickens County",
-   "placeType": "county",
-   "fips": "13227",
-   "region": null,
-   "date": "2026-01-20",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "conditional use",
-    "rezon"
-   ],
-   "tags": [
-    "rezoning",
-    "special-land-use"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_01202026-164"
-  },
-  {
-   "topic": "land-use",
    "placeId": "covington",
    "placeName": "City of Covington",
    "placeType": "city",
@@ -11510,41 +11528,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1711&Inline=True"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "fayette",
-   "placeName": "Fayette County",
-   "placeType": "county",
-   "fips": "13113",
-   "region": "Atlanta Regional Commission",
-   "date": "2025-10-23",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "conditional use",
-    "future land use",
-    "land use plan",
-    "mixed use",
-    "multi-family",
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "special-land-use",
-    "variance"
-   ],
-   "excerpt": "… Petition #1367- 25, requesting to rezone from A-R to O-I. STAFF RECOMMENDATION As defined in the Fayette County Comprehensive Plan, Office-Institutional Use is designated for this area, so the request for O-I zoning is appropriate. Based on the Inve …",
-   "excerptTerm": "comprehensive plan",
-   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2025/Agenda/10-23-2025%20BOC%20Agenda.pdf"
   },
   {
    "topic": "land-use",
