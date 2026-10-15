@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-15T00:20:54Z",
+  "generatedAt": "2026-10-15T03:11:50Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 451
+  "count": 478
  },
  "mentions": [
   {
@@ -1136,6 +1136,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-10-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4287,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "socialcircle",
    "placeName": "City of Social Circle",
    "placeType": "city",
@@ -1734,6 +1757,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-09-22",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… 1. Call to Order 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 5.1 Zoning Case #1678-26, Rezoning of Tax Map 20D Parcel 10 (2327 Highway 41) from R-1 to C-1 - (Clint Underwood, Director of Planning an …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=253"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -2167,6 +2215,29 @@
    "excerpt": "… oholic Beverages, Sec. 6-83, Distilled Spirits Retail Districts. 8.8 Public Hearing - Case #26-09-021 - Holly Springs Deannexation/Rezoning - Board Initiated - Parc Terrace. Conduct a public hearing to consider Case #26-09-021 - Holly Springs Deannex …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1614"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-09-15",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=251"
   },
   {
    "topic": "land-use",
@@ -2684,6 +2755,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-09-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4274,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "socialcircle",
    "placeName": "City of Social Circle",
    "placeType": "city",
@@ -3139,6 +3233,29 @@
    "excerpt": "… Article 12 to reduce the number of required parking spaces for a restaurant use to 30 spaces. 10.3 City of Ball Ground Annexation - 125 Roy Haynes Drive. Consider annexation request from the City of Ball Ground for a 1.0-acre parcel located at 125 R …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1604"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-09-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=246"
   },
   {
    "topic": "land-use",
@@ -3618,6 +3735,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10169,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-08-25",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… r 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1675-26, Rezoning of Tax Map 11A Parcel 112B (602 Mack Smith Road) from R-1 to C-1 - (Clint Underwood, Director of Plann …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=245"
   },
   {
    "topic": "land-use",
@@ -4247,6 +4389,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-08-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=244"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -4767,6 +4932,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-08-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3264,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "socialcircle",
    "placeName": "City of Social Circle",
    "placeType": "city",
@@ -5147,6 +5335,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-08-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… REGULAR MEETING 1. Public Hearing 1.1 Gentry Road Widening Plan for Gentry Road Subdivision - (Alex Wooten, Projects Supervisor) Gentry Road Subdivision.pdf Gentry Road_Pavement & Su …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=240"
+  },
+  {
+   "topic": "land-use",
    "placeId": "carroll",
    "placeName": "Carroll County",
    "placeType": "county",
@@ -5508,6 +5719,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5239,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-07-28",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… ll to Order 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1674-26, Rezoning of Tax Map 5 Parcel 98 (1729 Ooltewah Ringgold Road) from R-1 to A-1 - (Clint Underwood, Director of P …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=239"
   },
   {
    "topic": "land-use",
@@ -6031,6 +6265,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-07-21",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=233"
+  },
+  {
+   "topic": "land-use",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -6460,6 +6717,31 @@
    "excerpt": "… t 5 4.2. Z26-0156 - Rezone 7.486 acres from A2 to B2 for a convenience store with fuel pumps and office warehouse/contractor storage buildings - Applicant/Owner: 81 Investment Company, LLC - property located at 5187 Highway …",
    "excerptTerm": "warehouse",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-3743cc69e097443ba5513e0c55ea45a2.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-07-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3252,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -7343,6 +7625,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-06-23",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… r 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1669-26, Rezoning of Tax Map 54 Parcel 68007 (Catoosa Station Road) from A-1 to R-1 - (Clint Underwood, Director of Plan …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=229"
+  },
+  {
+   "topic": "land-use",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -7796,6 +8103,29 @@
    "excerpt": "… its the use of the property for a restaurant use only. 9. PUBLIC COMMENT 10. PLANNING AND ZONING 10.1 City of Woodstock Annexation - 200 Dupree Road. Consider annexation request from the City of Woodstock for A#132-26 - 200 Dupree Road. 10.2 City of …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1560"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-06-16",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=228"
   },
   {
    "topic": "land-use",
@@ -8265,6 +8595,29 @@
    "excerpt": "… 2. APPROVAL OF MINUTES 2.1. Additions/Deletions 3. OLD BUSINESS 4. NEW BUSINESS 4.1. Z26-0119 - Rezone 4.22 acres from A1 to A to grow and sell fruits, vegetables, eggs and cottage food items with customer c …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-fc83ae0ed7d04327a9452517060b6d77.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-06-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3232,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -8822,6 +9175,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-05-26",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… r 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1664-26, Rezoning of Tax Map 45 Parcel 74D (32 Lane Road) from A-1 to C-1 - (Clint Underwood, Director of Planning and I …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=208"
+  },
+  {
+   "topic": "land-use",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -9103,6 +9481,29 @@
    "excerpt": "… . Said property, consisting of 0.34 acres, is in the Tara Blvd and Business Corridor Overlay Districts and MX (Mixed Use) Zoning District, further known as Tax Parcel No. 13178A C024, and located between Johnson Rd and Battl …",
    "excerptTerm": "mixed use",
    "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5351&compileOutputType=1"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-05-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=207"
   },
   {
    "topic": "land-use",
@@ -9502,6 +9903,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-05-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3227,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -9711,6 +10137,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-05-05",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=205"
+  },
+  {
+   "topic": "land-use",
    "placeId": "carroll",
    "placeName": "Carroll County",
    "placeType": "county",
@@ -9833,6 +10282,56 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5049,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-04-28",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… r 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1660-26, Rezoning of Tax Map 80 Parcel 86 (Red Belt Road) from C-2 to C-1 - (Clint Underwood, Director of Planning and I …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=204"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-04-28",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… r 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1660-26, Rezoning of Tax Map 80 Parcel 86 (Red Belt Road) from C-2 to C-1 - (Clint Underwood, Director of Planning and I …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=203"
   },
   {
    "topic": "land-use",
@@ -10181,6 +10680,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-04-16",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… 3. Approve Minutes 4. Motion to Open Public Hearing 5. Public Hearing 5.1. J. Richard Mountz requests a rezone from C-1 (Commercial) to R-3 (Residential) for property located at 1412 Happy Valley Road Rossville, GA. …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3202,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "fulton",
    "placeName": "Fulton County",
    "placeType": "county",
@@ -10516,6 +11040,29 @@
    "excerpt": "… egiance 2. APPROVAL OF MINUTES 2.1. Additions/Deletions 3. OLD BUSINESS 4. NEW BUSINESS 4.1. Rezone 1.808 acres from A1 to A2 to create a buildable lot - Applicant: Dorin Cret/Owner: Dimitrie Illisei - pr …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-6c3a2b9c5d414f4ead49a6bd58f89d60.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-04-02",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3211,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -10886,6 +11433,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-03-05",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3192,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "fulton",
    "placeName": "Fulton County",
    "placeType": "county",
@@ -11122,6 +11694,29 @@
    "excerpt": "… Parcel # 055D 107 SU- 191103 LANDRoCo dba R4 Investments Major Subdivision 145.988-acres Parcel # 055D 107 RZ-19110 …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_02092026-174"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-02-05",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3184,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -11452,6 +12047,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2025-12-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2177,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "bartow",
    "placeName": "Bartow County",
    "placeType": "county",
@@ -11528,6 +12148,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1711&Inline=True"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2025-11-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1176,plainText=false)"
   },
   {
    "topic": "land-use",
