@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-15T00:20:54Z",
+  "generatedAt": "2026-10-15T03:11:50Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 92
+  "count": 95
  },
  "mentions": [
   {
@@ -153,6 +153,27 @@
    "excerpt": "… trict(s): All Commission Districts A Resolution Requiring an Independent, Third-Party Health and Environmental Study of Data Centers and Their Possible Impact on DeKalb County and Board of Commissioners Review of the Study Before DeKalb County’s Data …",
    "excerptTerm": "data center",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4679&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-10-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… .2. Resolution R-067-26 toCorrect the Effective Date in Resolution R-055-26 and Ratifying and Confirming the Data Center Moratorium 10.3. Resolution R-068-26 to Abandon a County Right-of-Way TPN: 03273 030A and TPN 03271 038 …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4287,plainText=false)"
   },
   {
    "topic": "data-center",
@@ -723,6 +744,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-08-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… for Month ending May 31, 2026. 8. Public Hearing - 2027 Fiscal Year Budget 9. Public Hearing - To Extend Data Center Moratorium to 180 Days 10. Planning and Zoning 10.1. Planning & Zoning Meeting Minutes June 19, 2026 Meeting …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3264,plainText=false)"
+  },
+  {
+   "topic": "data-center",
    "placeId": "fulton",
    "placeName": "Fulton County",
    "placeType": "county",
@@ -1035,6 +1077,27 @@
    "excerpt": "… 1. Discussion Regarding the Fiscal Year 2027 Budget and 2026 Millage Rate 2. Discussion Regarding the Coweta County Data Center Ordinance 3. Discussion Regarding the Georgia Cottage Food Law and Local Ordinances Adjournment As set forth in …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3536,plainText=false)"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "walker",
+   "placeName": "Walker County",
+   "placeType": "county",
+   "fips": "13295",
+   "region": null,
+   "date": "2026-07-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… urrently being prepared by County Counsel) 16.4. Resolution R-053-26 Establishing a Temporary Moratorium on Data Centers 16.5. Resolution R-054-26 to Direct the Sale of Certain County Owned Real Property. Tax Map and Parcel Num …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3252,plainText=false)"
   },
   {
    "topic": "data-center",
