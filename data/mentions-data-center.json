@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-12T18:16:59Z",
+  "generatedAt": "2026-10-15T00:20:54Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 91
+  "count": 92
  },
  "mentions": [
   {
@@ -27,6 +27,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-a88da877e646483ba6b071a44c21485e.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-88aa4905a5944413b6afbae04cdca768.pdf"
   },
   {
    "topic": "data-center",
@@ -89,7 +110,7 @@
    "tags": [],
    "excerpt": "… under the Cobb County Solicitor General's Office. 5. To provide a presentation and discussion on data centers and their impacts. PUBLIC HEARING 6. To conduct the first public hearing on the proposed amendments to Part …",
    "excerptTerm": "data center",
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10279,plainText=false)"
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10282,plainText=false)"
   },
   {
    "topic": "data-center",
@@ -132,6 +153,27 @@
    "excerpt": "… trict(s): All Commission Districts A Resolution Requiring an Independent, Third-Party Health and Environmental Study of Data Centers and Their Possible Impact on DeKalb County and Board of Commissioners Review of the Study Before DeKalb County’s Data …",
    "excerptTerm": "data center",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4679&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
+   "placeType": "county",
+   "fips": "13113",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… sed 2026 property tax millage rates and the significant impact of new personal property values associated with the QTS data center. Chief Financial Officer Sheryl Weinmann presented the 2026 tax digest, noting substantial growth driven by data cente …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda%20of%20Actions/10-01-2026%20Special%20Called%2010am%20Action%20Agenda.pdf"
   },
   {
    "topic": "data-center",
@@ -1896,27 +1938,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2025_CityCouncil_1215_Minutes.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "fayette",
-   "placeName": "Fayette County",
-   "placeType": "county",
-   "fips": "13113",
-   "region": "Atlanta Regional Commission",
-   "date": "2025-10-23",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2025/Agenda/10-23-2025%20BOC%20Agenda.pdf"
   }
  ]
 }
