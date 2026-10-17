@@ -10,8 +10,8 @@ Excerpts are only included for structured sources, excerpts from OCR'd PDF agend
 
 Published by VoteGA.org. Start with latest.json.
 
-# Reuse and attribution
-The data in this repository is published by VoteGA.org under the Creative Commons Attribution-ShareAlike 4.0 International license (CC-BY-SA-4.0). The full legalcode is in LICENSE.
+# License, Reuse, and attribution
+The data in this repository is published by VoteGA.org under the Creative Commons Attribution-ShareAlike 4.0 International license [CC-BY-SA-4.0](https://github.com/Votega/ga-local-government?tab=CC-BY-SA-4.0-1-ov-file). 
 
 You are free to share and adapt this data, including commercially, provided you give appropriate credit and license any adaptations you distribute under the same terms (CC BY-SA 4.0). VoteGA's license covers the compilation, cleaning, and joins in this repository. The underlying facts come from the published agendas and minutes of Georgia county and municipal governments.
 
