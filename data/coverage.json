@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-15T13:44:29Z",
+  "generatedAt": "2026-10-18T11:48:18Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 37
@@ -43,9 +43,9 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 6
+    "land-use": 7
    },
-   "lastActivity": "2026-08-05"
+   "lastActivity": "2026-10-14"
   },
   {
    "placeId": "bibb",
@@ -56,7 +56,7 @@
     "alpr": 3,
     "land-use": 18
    },
-   "lastActivity": "2026-09-01"
+   "lastActivity": "2026-10-20"
   },
   {
    "placeId": "butts",
@@ -97,7 +97,7 @@
    "topics": {
     "land-use": 15
    },
-   "lastActivity": "2026-09-22"
+   "lastActivity": "2026-10-20"
   },
   {
    "placeId": "chatham",
@@ -107,7 +107,7 @@
    "topics": {
     "alpr": 1,
     "data-center": 1,
-    "land-use": 12
+    "land-use": 11
    },
    "lastActivity": "2026-09-11"
   },
@@ -118,9 +118,9 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "data-center": 2,
-    "land-use": 15
+    "land-use": 16
    },
-   "lastActivity": "2026-10-08"
+   "lastActivity": "2026-10-20"
   },
   {
    "placeId": "clarke",
@@ -128,7 +128,7 @@
    "type": "consolidated",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 8
+    "land-use": 9
    },
    "lastActivity": "2026-10-21"
   },
@@ -139,9 +139,9 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "data-center": 4,
-    "land-use": 7
+    "land-use": 8
    },
-   "lastActivity": "2026-10-06"
+   "lastActivity": "2026-10-20"
   },
   {
    "placeId": "cobb",
@@ -152,7 +152,7 @@
     "data-center": 3,
     "land-use": 15
    },
-   "lastActivity": "2026-11-12"
+   "lastActivity": "2026-12-09"
   },
   {
    "placeId": "columbia",
@@ -160,10 +160,10 @@
    "type": "county",
    "region": "Central Savannah River Area",
    "topics": {
-    "alpr": 1,
-    "land-use": 20
+    "alpr": 2,
+    "land-use": 21
    },
-   "lastActivity": "2026-10-15"
+   "lastActivity": "2026-10-20"
   },
   {
    "placeId": "covington",
@@ -173,7 +173,7 @@
    "topics": {
     "alpr": 3,
     "data-center": 10,
-    "land-use": 8
+    "land-use": 7
    },
    "lastActivity": "2026-09-01"
   },
@@ -204,10 +204,10 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "data-center": 16,
-    "land-use": 18
+    "data-center": 15,
+    "land-use": 19
    },
-   "lastActivity": "2026-10-13"
+   "lastActivity": "2026-10-20"
   },
   {
    "placeId": "douglas",
@@ -215,7 +215,7 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "data-center": 3,
+    "data-center": 2,
     "land-use": 12
    },
    "lastActivity": "2026-10-19"
@@ -237,9 +237,9 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "land-use": 19
+    "land-use": 20
    },
-   "lastActivity": "2026-10-15"
+   "lastActivity": "2026-10-20"
   },
   {
    "placeId": "fulton",
@@ -250,7 +250,7 @@
     "data-center": 3,
     "land-use": 14
    },
-   "lastActivity": "2026-10-07"
+   "lastActivity": "2026-10-21"
   },
   {
    "placeId": "gwinnett",
@@ -268,9 +268,9 @@
    "type": "county",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 14
+    "land-use": 15
    },
-   "lastActivity": "2026-10-08"
+   "lastActivity": "2026-11-16"
   },
   {
    "placeId": "henry",
@@ -311,10 +311,10 @@
    "region": null,
    "topics": {
     "alpr": 1,
-    "data-center": 5,
-    "land-use": 17
+    "data-center": 6,
+    "land-use": 16
    },
-   "lastActivity": "2026-10-01"
+   "lastActivity": "2026-10-20"
   },
   {
    "placeId": "muscogee",
@@ -367,9 +367,9 @@
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "data-center": 3,
-    "land-use": 12
+    "land-use": 10
    },
-   "lastActivity": "2026-10-27"
+   "lastActivity": "2026-10-13"
   },
   {
    "placeId": "spalding",
@@ -399,9 +399,9 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 19
+    "land-use": 20
    },
-   "lastActivity": "2026-11-05"
+   "lastActivity": "2026-11-17"
   }
  ]
 }
