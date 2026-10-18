@@ -1,12 +1,35 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-15T13:44:29Z",
+  "generatedAt": "2026-10-18T11:48:18Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 21
+  "count": 22
  },
  "mentions": [
+  {
+   "topic": "alpr",
+   "placeId": "columbia",
+   "placeName": "Columbia County",
+   "placeType": "county",
+   "fips": "13073",
+   "region": "Central Savannah River Area",
+   "date": "2026-10-20",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [
+    "Genetec"
+   ],
+   "matchedTerms": [
+    "genetec"
+   ],
+   "tags": [],
+   "excerpt": "… (H1f) Authorization of Payment to Mainline Information Systems for Unitrends Appliance g. (H1g) Purchase of Genetec Servers from Dell for Life Cycle Replacement h. (H1h) Deductive Change Order 01 with R.D. Brown for the Sher …",
+   "excerptTerm": "genetec",
+   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13868,plainText=false)"
+  },
   {
    "topic": "alpr",
    "placeId": "paulding",
