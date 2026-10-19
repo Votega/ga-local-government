@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-19T11:57:54Z",
+  "generatedAt": "2026-10-19T12:59:47Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 601
+  "count": 621
  },
  "mentions": [
   {
@@ -351,6 +351,27 @@
   },
   {
    "topic": "alpr",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-06-29",
+   "body": "Columbus City Council",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "surveillance system"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6195&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "alpr",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -371,6 +392,32 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-697c3fb244314fa4bb0bc05ca489576f.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-06-22",
+   "body": "Columbus City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [
+    "Cellebrite",
+    "ShotSpotter (SoundThinking)"
+   ],
+   "matchedTerms": [
+    "cellebrite",
+    "shotspotter",
+    "soundthinking"
+   ],
+   "tags": [],
+   "excerpt": "To authorize the expenditure of $210,000.00 from the General Fund for the third year of a three-year contract with SoundThinking Inc., formerly ShotSpotter, Inc., for use of a gunfire detection, alert, and analysis program in the Phase II coverage …",
+   "excerptTerm": "soundthinking",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6193&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "alpr",
@@ -456,15 +503,63 @@
    "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [
+    "ShotSpotter (SoundThinking)",
     "Vigilant (Motorola)"
    ],
    "matchedTerms": [
+    "shotspotter",
+    "soundthinking",
     "vigilant solutions"
    ],
    "tags": [],
    "excerpt": "To authorize the Director of the Department of Public Safety to enter into contract with Motorola Solutions, DBA Vigilant Solutions, for the purchase of commercial license subscriptions for the Investigative Data Platform; to waive the competitive bid …",
    "excerptTerm": "vigilant solutions",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6187&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-18",
+   "body": "Columbus City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [
+    "ShotSpotter (SoundThinking)"
+   ],
+   "matchedTerms": [
+    "shotspotter",
+    "soundthinking"
+   ],
+   "tags": [],
+   "excerpt": "To authorize the Director of the Department of Public Safety to enter into a contract with SoundThinking Inc., formerly ShotSpotter, Inc., for the use of a gunfire detection, alert, and analysis program; to authorize reimbur …",
+   "excerptTerm": "soundthinking",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6184&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "fulton",
+   "placeName": "Fulton County",
+   "placeType": "county",
+   "fips": "13121",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-04-15",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "surveillance camera"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6382&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
   },
   {
    "topic": "alpr",
@@ -532,6 +627,48 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_10202026-881"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-19",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… MARTIN, LILIANA BAKHTIARI, MATT WESTMORELAND, BYRON D. AMOS, AND MICHAEL JULIAN BOND REQUIRING DATA CENTERS LOCATED WITHIN THE CITY OF ATLANTA, AND DATA CENTERS SERVED BY THE CITY OF ATLANTA …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3950&Inline=True"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-14",
+   "body": "Finance/Executive Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3944&Inline=True"
   },
   {
    "topic": "data-center",
@@ -682,6 +819,48 @@
   },
   {
    "topic": "data-center",
+   "placeId": "augusta",
+   "placeName": "Augusta-Richmond County",
+   "placeType": "consolidated",
+   "fips": "13245",
+   "region": "East Georgia",
+   "date": "2026-10-06",
+   "body": "Augusta Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… Small Business Participation in Augusta Procurement. C. Ms. Chastanae Cherry -Oversight Committee formation regarding Data Center Ordinance protections. D. Ms. Francine McCoy regarding the paving of Bussey Road. …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/augustaga-pubu/MEET-Agenda-43f84741f4ea43e88ec78b1c5000d282.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-05",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3942&Inline=True"
+  },
+  {
+   "topic": "data-center",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -721,6 +900,27 @@
    "excerpt": "… sed 2026 property tax millage rates and the significant impact of new personal property values associated with the QTS data center. Chief Financial Officer Sheryl Weinmann presented the 2026 tax digest, noting substantial growth driven by data cente …",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda%20of%20Actions/10-01-2026%20Special%20Called%2010am%20Action%20Agenda.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-09-30",
+   "body": "Finance/Executive Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3937&Inline=True"
   },
   {
    "topic": "data-center",
@@ -805,6 +1005,27 @@
    "excerpt": "… trict(s): All Commission Districts A Resolution Requiring an Independent, Third-Party Health and Environmental Study of Data Centers and Their Possible Impact on DeKalb County and Board of Commissioners Review of the Study Before DeKalb County’s Data …",
    "excerptTerm": "data center",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4489&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-09-21",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3934&Inline=True"
   },
   {
    "topic": "data-center",
@@ -3121,6 +3342,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "augusta",
+   "placeName": "Augusta-Richmond County",
+   "placeType": "consolidated",
+   "fips": "13245",
+   "region": "East Georgia",
+   "date": "2026-10-20",
+   "body": "Augusta Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… Augusta Planning Commission to APPROVE a petition by DQR Construction LLC on behalf of Darrain Rudolph requesting a rezoning from zone R-1A (One-Family Residential) to R-1C (One-Family Residential) affecting property containing approxi …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/augustaga-pubu/MEET-Agenda-2be765c71368411b88ac3be97ee6b878.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -3300,6 +3544,38 @@
   },
   {
    "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-19",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "apartment",
+    "land use plan",
+    "mixed use",
+    "multifamily",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3950&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -3456,6 +3732,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-14",
+   "body": "Finance/Executive Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development"
+   ],
+   "excerpt": "… 26-O-1348 (18) - AN ORDINANCE BY COUNCILMEMBER LILIANA BAKHTIARI TO PROVIDE FOR THE ANNEXATION OF PROPERTIES OWNED BY AND CONNECTED TO THE ATLANTA MASJID OF AL-ISLAM LOCATED IN UNINCOR …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3944&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -3603,6 +3904,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-13",
+   "body": "Community Development/Human Services Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "land use plan",
+    "mixed use"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3945&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "lumpkin",
    "placeName": "Lumpkin County",
    "placeType": "county",
@@ -3626,6 +3954,30 @@
    "excerpt": "… arcel Number: 048-060 Character Area: Commerce Corridor Case 194 is a request for a Final Plat of a Class VII subdivision entitled The Oaks at Auraria (Phase 2) (12 lots) Per Sec 26-66 & 26-164 3. Location: 1049 BEN HIGGINS ROAD; DAH …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4351,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-12",
+   "body": "Public Safety & Legal Administration Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3947&Inline=True"
   },
   {
    "topic": "land-use",
@@ -4132,6 +4484,39 @@
   },
   {
    "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-05",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "land use plan",
+    "mixed use",
+    "multi-family",
+    "multifamily",
+    "rezon",
+    "subdivision",
+    "warehouse"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3942&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -4276,6 +4661,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-09-30",
+   "body": "Finance/Executive Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development"
+   ],
+   "excerpt": "… 26-O-1542 (9) - AN ORDINANCE BY COUNCILMEMBER LILIANA BAKHTIARI TO PROVIDE FOR THE ANNEXATION OF PROPERTIES HAVING FRONTAGE ON GLYNN DRIVE, SE, IN UNINCORPORATED DEKALB COUNTY, TO THE …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3937&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "spalding",
    "placeName": "Spalding County",
    "placeType": "county",
@@ -4408,6 +4818,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-09-29",
+   "body": "Community Development/Human Services Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "land use plan",
+    "mixed use"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3938&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -4455,6 +4892,29 @@
    "excerpt": "To accept the application (AN26-008) of Tracy L. Zwayer & Richard L. Zwayer, II, Trustee et al. for the annexation of certain territory containing 279.5± acres in Brown & Norwich Township. ($0.00) Ordinance",
    "excerptTerm": "annexation",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6211&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-09-28",
+   "body": "Public Safety & Legal Administration Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… N ORDINANCE BY COUNCILMEMBER ANDREA L. BOONE TO AMEND CHAPTER 10, ARTICLE II, DIVISION 2, SUBDIVISION I, SECTION 10-48, ENTITLED APPLICATION, AND CHAPTER 30, ARTICLE II, SECTION 30-28, …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3939&Inline=True"
   },
   {
    "topic": "land-use",
@@ -4845,6 +5305,39 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7554,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-09-21",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "land use plan",
+    "mixed use",
+    "multi-family",
+    "multifamily",
+    "rezon",
+    "subdivision",
+    "warehouse"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… 9/21/26 26-O-1348 (8) - AN ORDINANCE BY COUNCILMEMBER LILIANA BAKHTIARI TO PROVIDE FOR THE ANNEXATION OF PROPERTIES OWNED BY AND CONNECTED TO THE ATLANTA MASJID OF AL-ISLAM LOCATED IN …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3934&Inline=True"
   },
   {
    "topic": "land-use",
