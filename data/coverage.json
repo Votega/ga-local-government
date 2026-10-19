@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-18T11:48:18Z",
+  "generatedAt": "2026-10-19T11:57:54Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 37
@@ -184,9 +184,9 @@
    "region": null,
    "topics": {
     "data-center": 4,
-    "land-use": 18
+    "land-use": 19
    },
-   "lastActivity": "2026-10-13"
+   "lastActivity": "2026-10-20"
   },
   {
    "placeId": "dawson",
@@ -367,9 +367,9 @@
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "data-center": 3,
-    "land-use": 10
+    "land-use": 13
    },
-   "lastActivity": "2026-10-13"
+   "lastActivity": "2026-10-27"
   },
   {
    "placeId": "spalding",
