@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-19T11:57:54Z",
+  "generatedAt": "2026-10-19T12:59:47Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 22
+  "count": 26
  },
  "mentions": [
   {
@@ -352,6 +352,27 @@
   },
   {
    "topic": "alpr",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-06-29",
+   "body": "Columbus City Council",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "surveillance system"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6195&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "alpr",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -372,6 +393,32 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-697c3fb244314fa4bb0bc05ca489576f.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-06-22",
+   "body": "Columbus City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [
+    "Cellebrite",
+    "ShotSpotter (SoundThinking)"
+   ],
+   "matchedTerms": [
+    "cellebrite",
+    "shotspotter",
+    "soundthinking"
+   ],
+   "tags": [],
+   "excerpt": "To authorize the expenditure of $210,000.00 from the General Fund for the third year of a three-year contract with SoundThinking Inc., formerly ShotSpotter, Inc., for use of a gunfire detection, alert, and analysis program in the Phase II coverage …",
+   "excerptTerm": "soundthinking",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6193&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "alpr",
@@ -457,15 +504,63 @@
    "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [
+    "ShotSpotter (SoundThinking)",
     "Vigilant (Motorola)"
    ],
    "matchedTerms": [
+    "shotspotter",
+    "soundthinking",
     "vigilant solutions"
    ],
    "tags": [],
    "excerpt": "To authorize the Director of the Department of Public Safety to enter into contract with Motorola Solutions, DBA Vigilant Solutions, for the purchase of commercial license subscriptions for the Investigative Data Platform; to waive the competitive bid …",
    "excerptTerm": "vigilant solutions",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6187&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-18",
+   "body": "Columbus City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [
+    "ShotSpotter (SoundThinking)"
+   ],
+   "matchedTerms": [
+    "shotspotter",
+    "soundthinking"
+   ],
+   "tags": [],
+   "excerpt": "To authorize the Director of the Department of Public Safety to enter into a contract with SoundThinking Inc., formerly ShotSpotter, Inc., for the use of a gunfire detection, alert, and analysis program; to authorize reimbur …",
+   "excerptTerm": "soundthinking",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6184&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "fulton",
+   "placeName": "Fulton County",
+   "placeType": "county",
+   "fips": "13121",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-04-15",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "surveillance camera"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6382&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
   },
   {
    "topic": "alpr",
