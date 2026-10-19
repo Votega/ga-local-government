@@ -1,0 +1,198 @@
+{
+ "metadata": {
+  "generatedAt": "2026-10-19T12:59:47Z",
+  "publisher": "VoteGA.org",
+  "schemaVersion": "1.0.0"
+ },
+ "matching": "Text is lowercased. A `substring` term matches anywhere (so 'rezon' catches rezoning/rezoned); a `wholeWord` term matches only as a whole word (so 'flock' does not fire on 'flocking' and 'alpr' does not fire inside 'AppraisalPro').",
+ "topics": {
+  "alpr": {
+   "label": "ALPR / surveillance",
+   "tags": [
+    "alpr"
+   ]
+  },
+  "data-center": {
+   "label": "Data centers",
+   "tags": [
+    "data-center"
+   ]
+  },
+  "land-use": {
+   "label": "Land use",
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use",
+    "variance"
+   ]
+  }
+ },
+ "tags": {
+  "alpr": {
+   "substring": [
+    "automated license plate",
+    "automatic license plate",
+    "autovu",
+    "avigilon",
+    "cell site simulator",
+    "cell-site simulator",
+    "cellebrite",
+    "clearview ai",
+    "dahua",
+    "drone as a first responder",
+    "drone as first responder",
+    "elsag",
+    "face recognition",
+    "facial recognition",
+    "fusus",
+    "genetec",
+    "gunshot detection",
+    "hikvision",
+    "imsi catcher",
+    "jenoptik",
+    "license plate camera",
+    "license plate reader",
+    "license plate recognition",
+    "license-plate",
+    "lpr camera",
+    "lpr system",
+    "neology",
+    "number plate recognition",
+    "openalpr",
+    "perceptics",
+    "peregrine technologies",
+    "plate capture",
+    "plate reader",
+    "plate reading",
+    "plate recognition",
+    "plate scanner",
+    "plate-reader",
+    "platesmart",
+    "predictive policing",
+    "real time crime center",
+    "real-time crime center",
+    "rekor",
+    "safer city",
+    "sharpv",
+    "shotspotter",
+    "soundthinking",
+    "surveillance camera",
+    "surveillance equipment",
+    "surveillance system",
+    "surveillance technology",
+    "tag reader",
+    "tag recognition",
+    "verkada",
+    "verra mobility",
+    "vigilant solutions"
+   ],
+   "wholeWord": [
+    "alpr",
+    "anpr",
+    "flock",
+    "lpr",
+    "rtcc"
+   ]
+  },
+  "annexation": {
+   "substring": [
+    "annexation",
+    "annexed",
+    "annexing"
+   ],
+   "wholeWord": []
+  },
+  "comprehensive-plan": {
+   "substring": [
+    "comprehensive plan",
+    "future land use",
+    "land use plan"
+   ],
+   "wholeWord": []
+  },
+  "data-center": {
+   "substring": [
+    "data center",
+    "data centre",
+    "data-center",
+    "hyperscale"
+   ],
+   "wholeWord": []
+  },
+  "development": {
+   "substring": [
+    "apartment",
+    "mixed use",
+    "mixed-use",
+    "multi-family",
+    "multifamily",
+    "subdivision",
+    "townhome",
+    "warehouse"
+   ],
+   "wholeWord": []
+  },
+  "rezoning": {
+   "substring": [
+    "rezon"
+   ],
+   "wholeWord": []
+  },
+  "special-land-use": {
+   "substring": [
+    "conditional use",
+    "land use permit",
+    "slup",
+    "special land use",
+    "special-use"
+   ],
+   "wholeWord": []
+  },
+  "variance": {
+   "substring": [
+    "variance"
+   ],
+   "wholeWord": []
+  }
+ },
+ "alpr": {
+  "highConfidenceTerms": [
+   "automated license plate",
+   "automatic license plate",
+   "license plate reader",
+   "license plate recognition",
+   "license-plate",
+   "number plate recognition",
+   "plate recognition"
+  ],
+  "vendorLabels": {
+   "autovu": "Genetec AutoVu",
+   "avigilon": "Avigilon (Motorola)",
+   "cellebrite": "Cellebrite",
+   "clearview ai": "Clearview AI",
+   "dahua": "Dahua",
+   "elsag": "Elsag (Leonardo)",
+   "flock": "Flock Safety",
+   "fusus": "Fusus (Axon)",
+   "genetec": "Genetec",
+   "hikvision": "Hikvision",
+   "jenoptik": "Jenoptik",
+   "neology": "Neology",
+   "openalpr": "OpenALPR (Rekor)",
+   "perceptics": "Perceptics",
+   "peregrine technologies": "Peregrine Technologies",
+   "platesmart": "PlateSmart",
+   "rekor": "Rekor",
+   "sharpv": "Genetec SharpV",
+   "shotspotter": "ShotSpotter (SoundThinking)",
+   "soundthinking": "ShotSpotter (SoundThinking)",
+   "verkada": "Verkada",
+   "verra mobility": "Verra Mobility",
+   "vigilant solutions": "Vigilant (Motorola)"
+  },
+  "note": "A mention is `high` confidence when it names a vendor or one of the spelled-out capability phrases above; any other match is `medium`. Deliberately NOT matched: bare 'license plate' (tag-office items), 'cctv' (sewer inspection), bare 'camera', and the brands 'axon' and 'motorola' (body cams, radios)."
+ }
+}
