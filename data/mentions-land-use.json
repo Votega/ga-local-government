@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-19T11:57:54Z",
+  "generatedAt": "2026-10-19T12:59:47Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 485
+  "count": 495
  },
  "mentions": [
   {
@@ -642,6 +642,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "augusta",
+   "placeName": "Augusta-Richmond County",
+   "placeType": "consolidated",
+   "fips": "13245",
+   "region": "East Georgia",
+   "date": "2026-10-20",
+   "body": "Augusta Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… Augusta Planning Commission to APPROVE a petition by DQR Construction LLC on behalf of Darrain Rudolph requesting a rezoning from zone R-1A (One-Family Residential) to R-1C (One-Family Residential) affecting property containing approxi …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/augustaga-pubu/MEET-Agenda-2be765c71368411b88ac3be97ee6b878.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -821,6 +844,38 @@
   },
   {
    "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-19",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "apartment",
+    "land use plan",
+    "mixed use",
+    "multifamily",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3950&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -977,6 +1032,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-14",
+   "body": "Finance/Executive Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development"
+   ],
+   "excerpt": "… 26-O-1348 (18) - AN ORDINANCE BY COUNCILMEMBER LILIANA BAKHTIARI TO PROVIDE FOR THE ANNEXATION OF PROPERTIES OWNED BY AND CONNECTED TO THE ATLANTA MASJID OF AL-ISLAM LOCATED IN UNINCOR …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3944&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -1124,6 +1204,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-13",
+   "body": "Community Development/Human Services Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "land use plan",
+    "mixed use"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3945&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "lumpkin",
    "placeName": "Lumpkin County",
    "placeType": "county",
@@ -1147,6 +1254,30 @@
    "excerpt": "… arcel Number: 048-060 Character Area: Commerce Corridor Case 194 is a request for a Final Plat of a Class VII subdivision entitled The Oaks at Auraria (Phase 2) (12 lots) Per Sec 26-66 & 26-164 3. Location: 1049 BEN HIGGINS ROAD; DAH …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4351,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-12",
+   "body": "Public Safety & Legal Administration Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3947&Inline=True"
   },
   {
    "topic": "land-use",
@@ -1653,6 +1784,39 @@
   },
   {
    "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-05",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "land use plan",
+    "mixed use",
+    "multi-family",
+    "multifamily",
+    "rezon",
+    "subdivision",
+    "warehouse"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3942&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -1797,6 +1961,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-09-30",
+   "body": "Finance/Executive Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development"
+   ],
+   "excerpt": "… 26-O-1542 (9) - AN ORDINANCE BY COUNCILMEMBER LILIANA BAKHTIARI TO PROVIDE FOR THE ANNEXATION OF PROPERTIES HAVING FRONTAGE ON GLYNN DRIVE, SE, IN UNINCORPORATED DEKALB COUNTY, TO THE …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3937&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "spalding",
    "placeName": "Spalding County",
    "placeType": "county",
@@ -1929,6 +2118,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-09-29",
+   "body": "Community Development/Human Services Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "land use plan",
+    "mixed use"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3938&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -1976,6 +2192,29 @@
    "excerpt": "To accept the application (AN26-008) of Tracy L. Zwayer & Richard L. Zwayer, II, Trustee et al. for the annexation of certain territory containing 279.5± acres in Brown & Norwich Township. ($0.00) Ordinance",
    "excerptTerm": "annexation",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6211&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-09-28",
+   "body": "Public Safety & Legal Administration Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… N ORDINANCE BY COUNCILMEMBER ANDREA L. BOONE TO AMEND CHAPTER 10, ARTICLE II, DIVISION 2, SUBDIVISION I, SECTION 10-48, ENTITLED APPLICATION, AND CHAPTER 30, ARTICLE II, SECTION 30-28, …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3939&Inline=True"
   },
   {
    "topic": "land-use",
@@ -2366,6 +2605,39 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7554,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-09-21",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "land use plan",
+    "mixed use",
+    "multi-family",
+    "multifamily",
+    "rezon",
+    "subdivision",
+    "warehouse"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… 9/21/26 26-O-1348 (8) - AN ORDINANCE BY COUNCILMEMBER LILIANA BAKHTIARI TO PROVIDE FOR THE ANNEXATION OF PROPERTIES OWNED BY AND CONNECTED TO THE ATLANTA MASJID OF AL-ISLAM LOCATED IN …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3934&Inline=True"
   },
   {
    "topic": "land-use",
