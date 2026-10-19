@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-19T12:59:47Z",
+  "generatedAt": "2026-10-19T15:59:06Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 621
@@ -648,6 +648,27 @@
    "excerpt": "… MARTIN, LILIANA BAKHTIARI, MATT WESTMORELAND, BYRON D. AMOS, AND MICHAEL JULIAN BOND REQUIRING DATA CENTERS LOCATED WITHIN THE CITY OF ATLANTA, AND DATA CENTERS SERVED BY THE CITY OF ATLANTA …",
    "excerptTerm": "data center",
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3950&Inline=True"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
+   "placeType": "county",
+   "fips": "13113",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-15",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… solution 2026-15 to levy the County's property tax. Ben Loggins, Fayetteville, stated that at night he could hear the data center and he was not happy. He stated that he realized it was not due to any Board decision. He asked when the County would …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda%20of%20Actions/10-15-2026%20Special%20Called%20Millage%20Rate%20Action%20Agenda.pdf"
   },
   {
    "topic": "data-center",
@@ -3467,7 +3488,7 @@
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-333-ws-20261016201556277073.pdf"
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-333-ws-20261019151405502845.pdf"
   },
   {
    "topic": "land-use",
@@ -15290,37 +15311,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.bartowcountyga.gov/AGENDA.PUBLIC_MEETING_12-3-2025.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "fayette",
-   "placeName": "Fayette County",
-   "placeType": "county",
-   "fips": "13113",
-   "region": "Atlanta Regional Commission",
-   "date": "2025-11-13",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "multi-family",
-    "rezon",
-    "subdivision",
-    "variance",
-    "warehouse"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2025/Agenda/11-13-2025%20BOC%20Agenda.pdf"
   },
   {
    "topic": "land-use",
