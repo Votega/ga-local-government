@@ -6,7 +6,7 @@ Published by [VoteGA.org](https://votega.org). Start with `latest.json`.
 
 ## Coverage
 
-- **37** jurisdictions scanned, of Georgia's 159 counties and ~537 cities.
+- **39** jurisdictions scanned, of Georgia's 159 counties and ~537 cities.
 - Last scan: **2026-10-19**
 - Only governments with an automated agenda feed are scanned; a place that is absent is **not covered yet**, which is different from *no mentions found*.
 
@@ -14,16 +14,18 @@ Published by [VoteGA.org](https://votega.org). Start with `latest.json`.
 
 | Topic | Mentions | Jurisdictions |
 | --- | --- | --- |
-| ALPR / surveillance | 22 | 8 |
-| Data centers | 94 | 19 |
-| Land use | 485 | 37 |
+| ALPR / surveillance | 26 | 9 |
+| Data centers | 100 | 21 |
+| Land use | 495 | 39 |
 
 ## ALPR vendors named
 
 | Vendor | Mentions |
 | --- | --- |
 | Flock Safety | 18 |
+| ShotSpotter (SoundThinking) | 3 |
 | Genetec | 2 |
+| Cellebrite | 1 |
 | Vigilant (Motorola) | 1 |
 
 ## Read this before you use it
@@ -31,4 +33,5 @@ Published by [VoteGA.org](https://votega.org). Start with `latest.json`.
 - **A mention marks discussion, not action.** A topic appearing on an agenda means it *came up* — not that the government approved, funded, or plans to pursue it. It may have been raised in public comment, mentioned in passing, tabled, or voted down. Follow the `sourceUrl` for context.
 - **A quoted excerpt is included only when `context` is `agenda-action`** — the topic surfaced as government business (an item, motion, resolution, or a formal public hearing). Excerpts for `public-comment` and `unknown` context are withheld: public-comment hits are often sign-up rosters that name residents. Those mentions still carry tags, matched terms, vendors, confidence, context, and the source URL — everything but the quote.
 - **Confidence.** `high` = a named vendor or a spelled-out capability; `medium` = a bare keyword. ALPR excerpts are published only for `high`.
+- **How it is classified.** Keyword rules, published in full in `data/keywords.json`. A keyword list has false positives (a word that means something else) and false negatives (a document that discusses the topic in words we do not list) — a missing mention is not proof of absence. Proposed additions or corrections are welcome as issues.
 - **Accuracy.** Provided as is, no warranty. Spotted an error? Open an issue.
