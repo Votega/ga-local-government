@@ -15,8 +15,8 @@ Published by [VoteGA.org](https://votega.org). Start with `latest.json`.
 | Topic | Mentions | Jurisdictions |
 | --- | --- | --- |
 | ALPR / surveillance | 26 | 9 |
-| Data centers | 100 | 21 |
-| Land use | 495 | 39 |
+| Data centers | 101 | 21 |
+| Land use | 494 | 39 |
 
 ## ALPR vendors named
 
