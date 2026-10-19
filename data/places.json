@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-19T11:57:54Z",
+  "generatedAt": "2026-10-19T12:59:47Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 48
+  "count": 50
  },
  "places": [
   {
@@ -73,6 +73,26 @@
      "body": "Board of Commissioners",
      "when": "2nd Friday of every month, 5:00 p.m.",
      "location": "Board of Commissioners Conference Room"
+    }
+   ]
+  },
+  {
+   "placeId": "augusta",
+   "name": "Augusta-Richmond County",
+   "type": "consolidated",
+   "county": null,
+   "fips": "13245",
+   "region": "East Georgia",
+   "platform": "teammunicode",
+   "links": {
+    "base_url": "https://augustarichmond-ga.municodemeetings.com",
+    "agendas_url": "https://augustarichmond-ga.municodemeetings.com/"
+   },
+   "schedule": [
+    {
+     "body": "Augusta Commission",
+     "when": "1st and 3rd Tuesday of every month, 2:00 p.m.",
+     "location": "Commission Chamber (second floor) Municipal Building, 535 Telfair St., Suite 260, Augusta"
     }
    ]
   },
@@ -450,6 +470,19 @@
      "location": "Rossville Civic Center"
     }
    ]
+  },
+  {
+   "placeId": "savannah",
+   "name": "City of Savannah",
+   "type": "city",
+   "county": "chatham",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "platform": "agendaplus",
+   "links": {
+    "agendas_url": "https://agenda.savannahga.gov/publishing/ap-agendas.html"
+   },
+   "schedule": []
   },
   {
    "placeId": "socialcircle",
