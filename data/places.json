@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-18T11:48:18Z",
+  "generatedAt": "2026-10-19T11:57:54Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 47
+  "count": 48
  },
  "places": [
   {
@@ -291,6 +291,26 @@
      "body": "Board of Commissioners",
      "when": "1st Tuesday of every month, 6:00 p.m., and 3rd Tuesday of every month, 6:00 p.m.",
      "location": "Cherokee County Admin Building, 1130 Bluffs Parkway, Canton"
+    }
+   ]
+  },
+  {
+   "placeId": "atlanta",
+   "name": "City of Atlanta",
+   "type": "city",
+   "county": "fulton",
+   "fips": null,
+   "region": "Atlanta",
+   "platform": "iqm2",
+   "links": {
+    "base_url": "https://citycouncil.atlantaga.gov/",
+    "agendas_url": "https://atlantacityga.iqm2.com/Citizens/calendar.aspx"
+   },
+   "schedule": [
+    {
+     "body": "City Council",
+     "when": "1st and 3rd Monday of every month, 1:00 p.m.",
+     "location": "Marvin S. Arrington, Sr. Council Chamber, Larry M. Dingle Committee Room, City Hall, Trinity Avenue, SW, Atlanta, Georgia 30303; 2nd Floor"
     }
    ]
   },
