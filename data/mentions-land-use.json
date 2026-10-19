@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-19T12:59:47Z",
+  "generatedAt": "2026-10-19T15:59:06Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 495
+  "count": 494
  },
  "mentions": [
   {
@@ -767,7 +767,7 @@
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-333-ws-20261016201556277073.pdf"
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-333-ws-20261019151405502845.pdf"
   },
   {
    "topic": "land-use",
@@ -12590,37 +12590,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.bartowcountyga.gov/AGENDA.PUBLIC_MEETING_12-3-2025.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "fayette",
-   "placeName": "Fayette County",
-   "placeType": "county",
-   "fips": "13113",
-   "region": "Atlanta Regional Commission",
-   "date": "2025-11-13",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "multi-family",
-    "rezon",
-    "subdivision",
-    "variance",
-    "warehouse"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2025/Agenda/11-13-2025%20BOC%20Agenda.pdf"
   },
   {
    "topic": "land-use",
