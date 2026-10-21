@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-19T15:59:06Z",
+  "generatedAt": "2026-10-21T02:54:15Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 101
+  "count": 102
  },
  "mentions": [
   {
@@ -13,7 +13,7 @@
    "placeName": "Morgan County",
    "placeType": "county",
    "fips": "13211",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-10-20",
    "body": "Board of Commissioners",
    "confidence": "high",
@@ -160,7 +160,7 @@
    "placeName": "Coweta County",
    "placeType": "county",
    "fips": "13077",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-10-13",
    "body": "Board of Commissioners",
    "confidence": "high",
@@ -360,7 +360,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… l Commission Districts Adoption of an ordinance to amend Chapter 27 of the Code of DeKalb County, Georgia, to establish Data Center Definitions and Data Center Classifications for regulatory oversight of any potential data center development and opera …",
+   "excerpt": "… esolution of the Board of Commissioners of DeKalb County, Georgia Urging the Administration to Expand the Definition of Data Centers. Ordinance",
    "excerptTerm": "data center",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4491&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
   },
@@ -492,27 +492,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-09-11",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
-  },
-  {
-   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -591,7 +570,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… CHAIRMAN'S REPORT 6. DISTRICT COMMISSIONERS REPORT 7. PUBLIC HEARINGS: a. R-1 Moratorium b. Special Use \"Data Center\" Moratorium c. Public Utilities: Credit Check Application Policy/Ordinance 8. PREVIOUS BUSINESS ACTION: a. …",
+   "excerpt": "… IRMAN'S REPORT 6. DISTRICT COMMISSIONERS REPORT 7. PUBLIC HEARINGS: a. R-1 Moratorium b. Special Use \"Data Center\" Moratorium c. Public Utilities: Credit Check Application Policy/Ordinance 8. PREVIOUS BUSINESS ACTION: a …",
    "excerptTerm": "data center",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-877a1e52f5654c51ae9dc83c928fddff.pdf"
   },
@@ -601,7 +580,7 @@
    "placeName": "Morgan County",
    "placeType": "county",
    "fips": "13211",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-09-01",
    "body": "Board of Commissioners",
    "confidence": "high",
@@ -636,6 +615,27 @@
    "excerpt": "… Council Member Henderson, seconded by Council Member Davis to approve the revocation of the current moratorium for Data Centers which was set to remain in effect through October 20, 2026, now that the related ordinance has been adopted. …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0901_Minutes.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-08-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1746&Inline=True"
   },
   {
    "topic": "data-center",
@@ -748,7 +748,7 @@
    "placeName": "Morgan County",
    "placeType": "county",
    "fips": "13211",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-08-18",
    "body": "Board of Commissioners",
    "confidence": "high",
@@ -906,7 +906,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… . To adopt a resolution extending a temporary moratorium on rezoning applications and permits for new data centers in unincorporated Cobb County. Internal Audit 28. To approve an updated Internal Audit Department Chart …",
+   "excerpt": "… 27. To adopt a resolution extending a temporary moratorium on rezoning applications and permits for new data centers in unincorporated Cobb County. Internal Audit 28. To approve an updated Internal Audit Department Charter in …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10156,plainText=false)"
   },
@@ -958,7 +958,7 @@
    "placeName": "Morgan County",
    "placeType": "county",
    "fips": "13211",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-08-04",
    "body": "Board of Commissioners",
    "confidence": "high",
@@ -990,7 +990,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… s. (Commissioner Tash Allen) Synopsis: This resolution authorizes the County to evaluate the Lovejoy Data Center project submitted to the Atlanta Regional Commission as a Development of Regional Impact and …",
+   "excerpt": "… urposes. (Commissioner Tashé Allen) Synopsis: This resolution authorizes the County to evaluate the Lovejoy Data Center project submitted to the Atlanta Regional Commission as a Development of Regional Impact and provid …",
    "excerptTerm": "data center",
    "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5391&compileOutputType=1"
   },
@@ -1011,7 +1011,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… uance of Land Disturbance Permits, and the Issuance of Other Permits for Development of Any Data Center, Batter Energy Storage System, and Solar Power Farms; and for Other Lawful Purposes (ADDED) …",
+   "excerpt": "… s, the issuance of Land Disturbance Permits, and the Issuance of Other Permits for Development of Any Data Center, Batter Energy Storage System, and Solar Power Farms; and for Other Lawful Purposes (ADDED) - …",
    "excerptTerm": "data center",
    "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2987,plainText=false)"
   },
@@ -1084,7 +1084,7 @@
    "placeName": "Meriwether County",
    "placeType": "county",
    "fips": "13199",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-07-28",
    "body": "Board of Commissioners",
    "confidence": "high",
@@ -1126,7 +1126,7 @@
    "placeName": "Morgan County",
    "placeType": "county",
    "fips": "13211",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-07-21",
    "body": "Board of Commissioners",
    "confidence": "high",
@@ -1231,7 +1231,7 @@
    "placeName": "Coweta County",
    "placeType": "county",
    "fips": "13077",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-07-14",
    "body": "Board of Commissioners",
    "confidence": "high",
@@ -1242,7 +1242,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… 1. Discussion Regarding the Fiscal Year 2027 Budget and 2026 Millage Rate 2. Discussion Regarding the Coweta County Data Center Ordinance 3. Discussion Regarding the Georgia Cottage Food Law and Local Ordinances Adjournment As set forth in …",
+   "excerpt": "… Discussion Regarding the Fiscal Year 2027 Budget and 2026 Millage Rate 2. Discussion Regarding the Coweta County Data Center Ordinance 3. Discussion Regarding the Georgia Cottage Food Law and Local Ordinances Adjournment As set forth in t …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3536,plainText=false)"
   },
@@ -1273,7 +1273,7 @@
    "placeName": "Morgan County",
    "placeType": "county",
    "fips": "13211",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-07-07",
    "body": "Board of Commissioners",
    "confidence": "high",
@@ -1326,7 +1326,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… ovington, Georgia extending until October 20, 2026 a limited moratorium of the acceptance of applications for data center development. Motion carried with council members Rutberg, Henderson, Johnson and Turner voting in favor of the exte …",
+   "excerpt": "… of Covington, Georgia extending until October 20, 2026 a limited moratorium of the acceptance of applications for data center development. Motion carried with council members Rutberg, Henderson, Johnson and Turner voting in favor of t …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0706_Minutes.pdf"
   },
@@ -1336,7 +1336,7 @@
    "placeName": "Spalding County",
    "placeType": "county",
    "fips": "13255",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-06-25",
    "body": "Board of Commissioners",
    "confidence": "high",
@@ -1462,7 +1462,7 @@
    "placeName": "Coweta County",
    "placeType": "county",
    "fips": "13077",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-06-16",
    "body": "Board of Commissioners",
    "confidence": "high",
@@ -1473,7 +1473,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… ty Accountability Courts 15. Request Approval/Execution of a Resolution to Enact a Moratorium Associated with Data Centers 16. Request Approval/Execution of a Right-of-Entry Associated with Storm Drain Pipe Repair at 110 Hazelridge …",
+   "excerpt": "… County Accountability Courts 15. Request Approval/Execution of a Resolution to Enact a Moratorium Associated with Data Centers 16. Request Approval/Execution of a Right-of-Entry Associated with Storm Drain Pipe Repair at 110 Hazelridge Lane …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3495,plainText=false)"
   },
@@ -1494,7 +1494,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… by the Clayton County Department of Community Development relating to the establishment or expansion of data centers; to provide for an effective date of this resolution; and for other purposes. (Director Patrick Ejike) …",
+   "excerpt": "… ion by the Clayton County Department of Community Development relating to the establishment or expansion of data centers; to provide for an effective date of this resolution; and for other purposes. (Director Patrick Ejike) Sy …",
    "excerptTerm": "data center",
    "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5367&compileOutputType=1"
   },
@@ -1504,7 +1504,7 @@
    "placeName": "Coweta County",
    "placeType": "county",
    "fips": "13077",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "date": "2026-06-11",
    "body": "Board of Commissioners",
    "confidence": "high",
@@ -1515,7 +1515,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… on of Rules Regular Session 1. Discussion Regarding the Fiscal Year 2027 Budget 2. Discussion Regarding Proposed Data Center Ordinance and Authority 3. Discussion Regarding Potential Data Center Moratorium 4. Discussion Regarding an Intergove …",
+   "excerpt": "… n of Rules Regular Session 1. Discussion Regarding the Fiscal Year 2027 Budget 2. Discussion Regarding Proposed Data Center Ordinance and Authority 3. Discussion Regarding Potential Data Center Moratorium 4. Discussion Regarding an Int …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3526,plainText=false)"
   },
@@ -1704,7 +1704,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… r to approve extending until August 4, 2026, a limited moratorium on the acceptance of applications for Data Center Development. Motion carried unanimously. ****** 9. Motion made by Council Member Johnson, seconde …",
+   "excerpt": "… er Turner to approve extending until August 4, 2026, a limited moratorium on the acceptance of applications for Data Center Development. Motion carried unanimously. ****** 9. Motion made by Council Member Johnson, seconde …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0601_Minutes.pdf"
   },
@@ -1920,6 +1920,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "henry",
+   "placeName": "Henry County",
+   "placeType": "county",
+   "fips": "13151",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-03-31",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… Cooper Carry Inc. for on-call consulting services to support Henry County with technical guidance on data center development, including best practices, infrastructure considerations, and development agreement frame …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2475,plainText=false)"
+  },
+  {
+   "topic": "data-center",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -2040,7 +2061,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… use the property for. Ms. Bell stated that they said business park which could include several things, for example, data center. Commissioner Maxwell asked if this request was in conjunction with Funspot. Ms. Bell stated that all the parcels …",
+   "excerpt": "… to use the property for. Ms. Bell stated that they said business park which could include several things, for example, data center. Commissioner Maxwell asked if this request was in conjunction with Funspot. Ms. Bell stated that all the parcels wer …",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-12-2026%20BOC%20Agenda.pdf"
   },
@@ -2082,7 +2103,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… ton, Georgia enacting a limited moratorium until July 4, 2026 on the acceptance of applications for Data Center Development Motion carried unanimously. ****** 3. Motion made by Council Member Davis, seconde …",
+   "excerpt": "… Covington, Georgia enacting a limited moratorium until July 4, 2026 on the acceptance of applications for Data Center Development Motion carried unanimously. ****** 3. Motion made by Council Member Davis, seconded by …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0120_Minutes.pdf"
   },
@@ -2103,7 +2124,7 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… il Member Rutberg, seconded by Council Member Davis to amend the agenda to add a discussion of moratorium for Data Centers. Motion carried unanimously. ****** 3. Motion made by Council Member Henderson, seconded by Counc …",
+   "excerpt": "… uncil Member Rutberg, seconded by Council Member Davis to amend the agenda to add a discussion of moratorium for Data Centers. Motion carried unanimously. ****** 3. Motion made by Council Member Henderson, seconded by Counci …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0105_Minutes.pdf"
   },
