@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-19T15:59:06Z",
+  "generatedAt": "2026-10-21T02:54:15Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 39
@@ -12,6 +12,7 @@
    "type": "city",
    "region": "Atlanta",
    "topics": {
+    "alpr": 1,
     "data-center": 5,
     "land-use": 9
    },
@@ -55,7 +56,8 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 10
+    "alpr": 1,
+    "land-use": 15
    },
    "lastActivity": "2026-10-15"
   },
@@ -65,7 +67,7 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 7
+    "land-use": 8
    },
    "lastActivity": "2026-10-14"
   },
@@ -75,7 +77,7 @@
    "type": "consolidated",
    "region": "Middle Georgia",
    "topics": {
-    "alpr": 3,
+    "alpr": 7,
     "land-use": 18
    },
    "lastActivity": "2026-10-20"
@@ -84,7 +86,7 @@
    "placeId": "butts",
    "name": "Butts County",
    "type": "county",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "land-use": 5
    },
@@ -107,9 +109,10 @@
    "type": "city",
    "region": "West Georgia",
    "topics": {
-    "land-use": 14
+    "alpr": 1,
+    "land-use": 15
    },
-   "lastActivity": "2026-09-14"
+   "lastActivity": "2026-10-22"
   },
   {
    "placeId": "catoosa",
@@ -129,9 +132,9 @@
    "topics": {
     "alpr": 1,
     "data-center": 1,
-    "land-use": 11
+    "land-use": 6
    },
-   "lastActivity": "2026-09-11"
+   "lastActivity": "2026-08-28"
   },
   {
    "placeId": "cherokee",
@@ -139,6 +142,7 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
+    "alpr": 3,
     "data-center": 2,
     "land-use": 16
    },
@@ -160,6 +164,7 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
+    "alpr": 3,
     "data-center": 4,
     "land-use": 8
    },
@@ -203,7 +208,7 @@
    "placeId": "coweta",
    "name": "Coweta County",
    "type": "county",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "data-center": 4,
     "land-use": 19
@@ -214,7 +219,7 @@
    "placeId": "dawson",
    "name": "Dawson County",
    "type": "county",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "land-use": 8
    },
@@ -226,6 +231,7 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
+    "alpr": 8,
     "data-center": 15,
     "land-use": 19
    },
@@ -237,10 +243,11 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
+    "alpr": 4,
     "data-center": 2,
-    "land-use": 12
+    "land-use": 13
    },
-   "lastActivity": "2026-10-19"
+   "lastActivity": "2026-10-20"
   },
   {
    "placeId": "fayette",
@@ -248,6 +255,7 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
+    "alpr": 3,
     "data-center": 9,
     "land-use": 20
    },
@@ -259,7 +267,8 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "land-use": 20
+    "alpr": 1,
+    "land-use": 21
    },
    "lastActivity": "2026-10-20"
   },
@@ -281,9 +290,10 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
+    "alpr": 2,
     "land-use": 3
    },
-   "lastActivity": "2026-09-22"
+   "lastActivity": "2026-10-06"
   },
   {
    "placeId": "hall",
@@ -291,6 +301,7 @@
    "type": "county",
    "region": "Northeast Georgia",
    "topics": {
+    "alpr": 4,
     "land-use": 15
    },
    "lastActivity": "2026-11-16"
@@ -302,6 +313,7 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "alpr": 2,
+    "data-center": 1,
     "land-use": 14
    },
    "lastActivity": "2026-10-20"
@@ -312,15 +324,15 @@
    "type": "county",
    "region": null,
    "topics": {
-    "land-use": 9
+    "land-use": 10
    },
-   "lastActivity": "2026-10-13"
+   "lastActivity": "2026-11-09"
   },
   {
    "placeId": "meriwether",
    "name": "Meriwether County",
    "type": "county",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "data-center": 1,
     "land-use": 8
@@ -331,9 +343,9 @@
    "placeId": "morgan",
    "name": "Morgan County",
    "type": "county",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "alpr": 1,
+    "alpr": 2,
     "data-center": 6,
     "land-use": 16
    },
@@ -345,7 +357,7 @@
    "type": "consolidated",
    "region": "West Georgia",
    "topics": {
-    "alpr": 4,
+    "alpr": 5,
     "data-center": 3,
     "land-use": 23
    },
@@ -367,7 +379,7 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "alpr": 9,
+    "alpr": 11,
     "data-center": 21,
     "land-use": 11
    },
@@ -377,7 +389,7 @@
    "placeId": "pickens",
    "name": "Pickens County",
    "type": "county",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "land-use": 17
    },
@@ -398,7 +410,7 @@
    "placeId": "spalding",
    "name": "Spalding County",
    "type": "county",
-   "region": null,
+   "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "data-center": 1,
     "land-use": 11
