@@ -1,12 +1,33 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-19T15:59:06Z",
+  "generatedAt": "2026-10-21T02:54:15Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 26
+  "count": 65
  },
  "mentions": [
+  {
+   "topic": "alpr",
+   "placeId": "forsyth",
+   "placeName": "Forsyth County",
+   "placeType": "county",
+   "fips": "13117",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-20",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "dashcam"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5383,plainText=false)"
+  },
   {
    "topic": "alpr",
    "placeId": "columbia",
@@ -29,6 +50,27 @@
    "excerpt": "… (H1f) Authorization of Payment to Mainline Information Systems for Unitrends Appliance g. (H1g) Purchase of Genetec Servers from Dell for Life Cycle Replacement h. (H1h) Deductive Change Order 01 with R.D. Brown for the Sher …",
    "excerptTerm": "genetec",
    "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13868,plainText=false)"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "cherokee",
+   "placeName": "Cherokee County",
+   "placeType": "county",
+   "fips": "13057",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-20",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&event_id=1117"
   },
   {
    "topic": "alpr",
@@ -55,6 +97,158 @@
   },
   {
    "topic": "alpr",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "body cam"
+   ],
+   "tags": [],
+   "excerpt": "Commission District(s): All CO - Change Order No. 6 to Contract No. 1257650 BodyWorn™ Body Camera System (Multi-Year)(Sole Source). For use by the Marshal’s Office, Police Services (PS) and Animal Enforcement Servi …",
+   "excerptTerm": "body cam",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4494&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "gwinnett",
+   "placeName": "Gwinnett County",
+   "placeType": "county",
+   "fips": "13135",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [
+    "Skydio"
+   ],
+   "matchedTerms": [
+    "skydio"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261006/a_26864_2026.10.06___Business_Session_Agenda.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "gwinnett",
+   "placeName": "Gwinnett County",
+   "placeType": "county",
+   "fips": "13135",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [
+    "Skydio"
+   ],
+   "matchedTerms": [
+    "skydio"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261006/a_20424_2026.10.06___Work_Session_Agenda.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-06",
+   "body": "Committee of the Whole",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "body cam"
+   ],
+   "tags": [],
+   "excerpt": "Commission District(s): All CO - Change Order No. 6 to Contract No. 1257650 BodyWorn™ Body Camera System (Multi-Year)(Sole Source). For use by the Marshal’s Office, Police Services (PS) and Animal Enforcement Servi …",
+   "excerptTerm": "body cam",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4679&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "cherokee",
+   "placeName": "Cherokee County",
+   "placeType": "county",
+   "fips": "13057",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1620"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-29",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "body cam"
+   ],
+   "tags": [],
+   "excerpt": "Commission District(s): All CO - Change Order No. 6 to Contract No. 1257650 BodyWorn™ Body Camera System (Multi-Year)(Sole Source). For use by the Marshal’s Office, Police Services (PS) and Animal Enforcement Servi …",
+   "excerptTerm": "body cam",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4491&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
+   "placeType": "county",
+   "fips": "13113",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "body cam",
+    "surveillance equipment"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.fayettecountyga.gov/09-24-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "alpr",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -78,6 +272,51 @@
   },
   {
    "topic": "alpr",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-09-21",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise",
+    "body cam",
+    "body worn",
+    "fleet camera"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3934&Inline=True"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
+   "placeType": "county",
+   "fips": "13113",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "body cam"
+   ],
+   "tags": [],
+   "excerpt": "… STRATOR’S REPORTS: A. Contract 27001-B: Kenwood Park Erosion Stabilization (pages 77-82) B. Contract 27008-S: Body Cameras – Marshal & Animal Control (pages 83-85) C. Contract 27013-A: Asphalt Milling (pages 86-89) ATTORNEY’S REPORT …",
+   "excerptTerm": "body cam",
+   "sourceUrl": "https://www.fayettecountyga.gov/09-10-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "alpr",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -98,6 +337,69 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-689e9b7312de4e6b8cc046eb7f67c817.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "douglas",
+   "placeName": "Douglas County",
+   "placeType": "county",
+   "fips": "13097",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-01",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7525,plainText=false)"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "douglas",
+   "placeName": "Douglas County",
+   "placeType": "county",
+   "fips": "13097",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-08-31",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7517,plainText=false)"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "hall",
+   "placeName": "Hall County",
+   "placeType": "county",
+   "fips": "13139",
+   "region": "Northeast Georgia",
+   "date": "2026-08-27",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-vm-20260827200611174072.pdf"
   },
   {
    "topic": "alpr",
@@ -147,24 +449,133 @@
   },
   {
    "topic": "alpr",
-   "placeId": "morgan",
-   "placeName": "Morgan County",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
    "placeType": "county",
-   "fips": "13211",
-   "region": null,
-   "date": "2026-08-18",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-08-25",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "dash cam",
+    "dashcam"
+   ],
+   "tags": [],
+   "excerpt": "… hnology Product Solutions and Related Services (Cooperative Agreement No. 23-6692-01). For use by Fire Rescue to obtain dashcam equipment through the competitively let County / Omnia contract for the purchase of dashcam equipment, related accessor …",
+   "excerptTerm": "dashcam",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4487&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "barrow",
+   "placeName": "Barrow County",
+   "placeType": "county",
+   "fips": "13013",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-08-25",
    "body": "Board of Commissioners",
    "confidence": "medium",
    "context": null,
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1154"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "hall",
+   "placeName": "Hall County",
+   "placeType": "county",
+   "fips": "13139",
+   "region": "Northeast Georgia",
+   "date": "2026-08-24",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-ws-20260821194034801533.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-08-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "bodycam",
+    "lpr",
     "lpr camera"
    ],
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_08182026-870"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-08-18",
+   "body": "Committee of the Whole",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "dash cam",
+    "dashcam"
+   ],
+   "tags": [],
+   "excerpt": "… hnology Product Solutions and Related Services (Cooperative Agreement No. 23-6692-01). For use by Fire Rescue to obtain dashcam equipment through the competitively let County / Omnia contract for the purchase of dashcam equipment, related accessor …",
+   "excerptTerm": "dashcam",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4485&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "cherokee",
+   "placeName": "Cherokee County",
+   "placeType": "county",
+   "fips": "13057",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-08-18",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1600"
   },
   {
    "topic": "alpr",
@@ -188,6 +599,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-c83f3a2f035a4feda43980d8f6d2b7e5.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "clayton",
+   "placeName": "Clayton County",
+   "placeType": "county",
+   "fips": "13063",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-08-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [
+    "Fusus (Axon)"
+   ],
+   "matchedTerms": [
+    "axon enterprise",
+    "axon enterprise video",
+    "fusus"
+   ],
+   "tags": [],
+   "excerpt": "… gh Resolution 2023-080 to create a video and data collection system, and to update the vendor’s name change, from FUSUS to Axon Enterprise Video and Data Collection Renewal Package. 13. Resolution 2026-177: A resolution authorizin …",
+   "excerptTerm": "fusus",
+   "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5391&compileOutputType=1"
   },
   {
    "topic": "alpr",
@@ -277,7 +713,7 @@
     "flock"
    ],
    "tags": [],
-   "excerpt": "… e persons. Police Department A. Resolution amending Resolution No. 23-197 regarding the Flock Safety agreement for product replacement. (Presenter: Captain Anthony Militello, …",
+   "excerpt": "… se persons. Police Department A. Resolution amending Resolution No. 23-197 regarding the Flock Safety agreement for product replacement. (Presenter: Captain Anthony Militello, HC …",
    "excerptTerm": "flock",
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2600,plainText=false)"
   },
@@ -300,9 +736,32 @@
     "flock"
    ],
    "tags": [],
-   "excerpt": "… hibit 8) Police Department A. Resolution amending Resolution No. 23-197 regarding the Flock Safety agreement for product replacement. (Presenter: Captain Anthony Militello, …",
+   "excerpt": "… Exhibit 8) Police Department A. Resolution amending Resolution No. 23-197 regarding the Flock Safety agreement for product replacement. (Presenter: Captain Anthony Militello, HC …",
    "excerptTerm": "flock",
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2596,plainText=false)"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "douglas",
+   "placeName": "Douglas County",
+   "placeType": "county",
+   "fips": "13097",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-07-21",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [
+    "Avigilon (Motorola)"
+   ],
+   "matchedTerms": [
+    "avigilon"
+   ],
+   "tags": [],
+   "excerpt": "… 7. Approval of a corrective total amount for the previously approved Comcast Smart Solutions contract for Eagle Eye Avigilon video management hardware in the amount of $1,796.40, (Difference of $46.70) with the total monthly service amount …",
+   "excerptTerm": "avigilon",
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7439,plainText=false)"
   },
   {
    "topic": "alpr",
@@ -329,6 +788,29 @@
   },
   {
    "topic": "alpr",
+   "placeId": "douglas",
+   "placeName": "Douglas County",
+   "placeType": "county",
+   "fips": "13097",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-07-20",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [
+    "Avigilon (Motorola)"
+   ],
+   "matchedTerms": [
+    "avigilon"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7435,plainText=false)"
+  },
+  {
+   "topic": "alpr",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -349,6 +831,70 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-ebd41cb0ecd343a0adf29c6de6088edc.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-07-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "dash cam",
+    "dashcam"
+   ],
+   "tags": [],
+   "excerpt": "… hnology Product Solutions and Related Services (Cooperative Agreement No. 23-6692-01). For use by Fire Rescue to obtain dashcam equipment through the competitively let County / Omnia contract for the purchase of dashcam equipment, related accessor …",
+   "excerptTerm": "dashcam",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4482&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "hall",
+   "placeName": "Hall County",
+   "placeType": "county",
+   "fips": "13139",
+   "region": "Northeast Georgia",
+   "date": "2026-07-09",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-326-vm-20260708194125239425.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "hall",
+   "placeName": "Hall County",
+   "placeType": "county",
+   "fips": "13139",
+   "region": "Northeast Georgia",
+   "date": "2026-07-06",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-326-ws-20260702155907715213.pdf"
   },
   {
    "topic": "alpr",
@@ -396,6 +942,28 @@
   },
   {
    "topic": "alpr",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-06-23",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise",
+    "body cam"
+   ],
+   "tags": [],
+   "excerpt": "… (CEW). Ratifying increase in contract funds for 100 additional tasers and previously issued purchase order. Awarded to Axon Enterprise, Inc. Amount Not To Exceed: $1,442,514.00. Resolution",
+   "excerptTerm": "axon enterprise",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4479&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "alpr",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -407,11 +975,12 @@
    "context": "agenda-action",
    "sourceType": "legistar",
    "vendors": [
-    "Cellebrite",
     "ShotSpotter (SoundThinking)"
    ],
    "matchedTerms": [
-    "cellebrite",
+    "axon enterprise",
+    "body worn",
+    "gunfire detection",
     "shotspotter",
     "soundthinking"
    ],
@@ -419,6 +988,28 @@
    "excerpt": "To authorize the expenditure of $210,000.00 from the General Fund for the third year of a three-year contract with SoundThinking Inc., formerly ShotSpotter, Inc., for use of a gunfire detection, alert, and analysis program in the Phase II coverage …",
    "excerptTerm": "soundthinking",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6193&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-06-18",
+   "body": "Committee of the Whole",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise",
+    "body cam"
+   ],
+   "tags": [],
+   "excerpt": "… (CEW). Ratifying increase in contract funds for 100 additional tasers and previously issued purchase order. Awarded to Axon Enterprise, Inc. Amount Not To Exceed: $1,442,514.00. Resolution",
+   "excerptTerm": "axon enterprise",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4477&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
   },
   {
    "topic": "alpr",
@@ -439,7 +1030,7 @@
     "genetec"
    ],
    "tags": [],
-   "excerpt": "… 1f) Tyler Munis 2026-2027 Authorization of Payment g. (H1g) Agreement Renewal Number Four with A3 Communications for Genetec Video Management System Support h. (H1h) Agreement Renewal Number Two with Structure Media Solutions …",
+   "excerpt": "… r Munis 2026-2027 Authorization of Payment g. (H1g) Agreement Renewal Number Four with A3 Communications for Genetec Video Management System Support h. (H1h) Agreement Renewal Number Two with Structure Med …",
    "excerptTerm": "genetec",
    "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13650,plainText=false)"
   },
@@ -462,7 +1053,7 @@
     "flock"
    ],
    "tags": [],
-   "excerpt": "… (Sponsored by: Lester M. Miller, Mayor) The following citizens spoke in favor of removing the Flock cameras from the FY27 Budget: Angelia Hoomes Rhiannon Wimer …",
+   "excerpt": "… (Sponsored by: Lester M. Miller, Mayor) The following citizens spoke in favor of removing the Flock cameras from the FY27 Budget: • Angelia Hoomes • Rhiannon Wimer …",
    "excerptTerm": "flock",
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3600,plainText=false)"
   },
@@ -483,13 +1074,104 @@
    ],
    "matchedTerms": [
     "flock",
+    "lpr",
     "lpr camera",
     "safer city"
    ],
    "tags": [],
-   "excerpt": "… **** 9. Motion made by Council Member Turner, seconded by Council Member Henderson to approve consolidation of Flock agreements into a single comprehensive 10-year Safer City contract, incorporating current technology platforms an …",
+   "excerpt": "… ****** 9. Motion made by Council Member Turner, seconded by Council Member Henderson to approve consolidation of Flock agreements into a single comprehensive 10-year Safer City contract, incorporating current technology platforms and …",
    "excerptTerm": "flock",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0615_Minutes.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-06-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "body-worn"
+   ],
+   "tags": [],
+   "excerpt": "… Emergency Services (ARES). 7. Approve the transfer of ownership and custody of thirty-three (33) Reveal body-worn cameras, together with the associated charging and docking stations, monitors, and related hardware, t …",
+   "excerptTerm": "body-worn",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-d5fe02f4dfb840ea8a925eabc7469a2e.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-06-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "body-worn"
+   ],
+   "tags": [],
+   "excerpt": "… Emergency Services (ARES). 7. Approve the transfer of ownership and custody of thirty-three (33) Reveal body-worn cameras, together with the associated charging and docking stations, monitors, and related hardware, t …",
+   "excerptTerm": "body-worn",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-53c50a9b577e4da3ac29045ac55a9117.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "bibb",
+   "placeName": "Macon-Bibb County",
+   "placeType": "consolidated",
+   "fips": "13021",
+   "region": "Middle Georgia",
+   "date": "2026-06-02",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [
+    "ShotSpotter (SoundThinking)"
+   ],
+   "matchedTerms": [
+    "gunshot detection",
+    "shotspotter"
+   ],
+   "tags": [],
+   "excerpt": "… A Resolution Of The Macon-Bibb County Commission Authorizing The Mayor To Execute An Agreement With Shotspotter, Inc. For The Provision Of Gunshot Detection, Location, And Forensic Analysis Services, In The Amount Of …",
+   "excerptTerm": "shotspotter",
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3550,plainText=false)"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "bibb",
+   "placeName": "Macon-Bibb County",
+   "placeType": "consolidated",
+   "fips": "13021",
+   "region": "Middle Georgia",
+   "date": "2026-06-02",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [
+    "ShotSpotter (SoundThinking)"
+   ],
+   "matchedTerms": [
+    "gunshot detection",
+    "shotspotter"
+   ],
+   "tags": [],
+   "excerpt": "… A Resolution Of The Macon-Bibb County Commission Authorizing The Mayor To Execute An Agreement With Shotspotter, Inc. For The Provision Of Gunshot Detection, Location, And Forensic Analysis Services, In The Amount Of …",
+   "excerptTerm": "shotspotter",
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3536,plainText=false)"
   },
   {
    "topic": "alpr",
@@ -508,6 +1190,7 @@
     "Vigilant (Motorola)"
    ],
    "matchedTerms": [
+    "gunfire detection",
     "shotspotter",
     "soundthinking",
     "vigilant solutions"
@@ -516,6 +1199,31 @@
    "excerpt": "To authorize the Director of the Department of Public Safety to enter into contract with Motorola Solutions, DBA Vigilant Solutions, for the purchase of commercial license subscriptions for the Investigative Data Platform; to waive the competitive bid …",
    "excerptTerm": "vigilant solutions",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6187&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "clayton",
+   "placeName": "Clayton County",
+   "placeType": "county",
+   "fips": "13063",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-05-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [
+    "Fusus (Axon)"
+   ],
+   "matchedTerms": [
+    "axon enterprise",
+    "axon enterprise video",
+    "fusus"
+   ],
+   "tags": [],
+   "excerpt": "… gh Resolution 2023-080 to create a video and data collection system, and to update the vendor’s name change, from FUSUS to Axon Enterprise Video and Data Collection Renewal Package. 24. Resolution 2026-107: A resolution authorizin …",
+   "excerptTerm": "fusus",
+   "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5351&compileOutputType=1"
   },
   {
    "topic": "alpr",
@@ -533,6 +1241,7 @@
     "ShotSpotter (SoundThinking)"
    ],
    "matchedTerms": [
+    "gunfire detection",
     "shotspotter",
     "soundthinking"
    ],
@@ -540,6 +1249,70 @@
    "excerpt": "To authorize the Director of the Department of Public Safety to enter into a contract with SoundThinking Inc., formerly ShotSpotter, Inc., for the use of a gunfire detection, alert, and analysis program; to authorize reimbur …",
    "excerptTerm": "soundthinking",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6184&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-11",
+   "body": "Columbus City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "body worn"
+   ],
+   "tags": [],
+   "excerpt": "… t of Finance and Management to modify and extend a Universal Term Contract for the option to purchase Video Storage for Body Worn Cameras with CDW Government, LLC. and to declare an emergency. ($0.00) Ordinance",
+   "excerptTerm": "body worn",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6182&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-05-05",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "body cam",
+    "tag reader"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_05052026-850"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "clayton",
+   "placeName": "Clayton County",
+   "placeType": "county",
+   "fips": "13063",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-05-05",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5335&compileOutputType=1"
   },
   {
    "topic": "alpr",
@@ -564,26 +1337,109 @@
   },
   {
    "topic": "alpr",
+   "placeId": "carrollton",
+   "placeName": "City of Carrollton",
+   "placeType": "city",
+   "fips": null,
+   "region": "West Georgia",
+   "date": "2026-03-19",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "body cam",
+    "dash cam"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://drive.google.com/file/d/1NpCChLi0lVwVcartOVueIC2EArXFZMDc/view"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "bibb",
+   "placeName": "Macon-Bibb County",
+   "placeType": "consolidated",
+   "fips": "13021",
+   "region": "Middle Georgia",
+   "date": "2026-03-18",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "surveillance equipment"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3430,plainText=false)"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "bibb",
+   "placeName": "Macon-Bibb County",
+   "placeType": "consolidated",
+   "fips": "13021",
+   "region": "Middle Georgia",
+   "date": "2026-03-18",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "surveillance equipment"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3428,plainText=false)"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
+   "placeType": "county",
+   "fips": "13113",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-02-26",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "surveillance equipment"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-26-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "alpr",
    "placeId": "chatham",
    "placeName": "Chatham County",
    "placeType": "county",
    "fips": "13051",
    "region": "Coastal Georgia",
-   "date": "2026-01-09",
+   "date": "2025-12-19",
    "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
+   "confidence": "medium",
+   "context": null,
    "sourceType": "ocr",
-   "vendors": [
-    "Flock Safety"
-   ],
+   "vendors": [],
    "matchedTerms": [
-    "flock"
+    "axon enterprise"
    ],
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1727&Inline=True"
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1725&Inline=True"
   },
   {
    "topic": "alpr",
@@ -604,7 +1460,7 @@
     "flock"
    ],
    "tags": [],
-   "excerpt": "… tion made by Council Member Henderson, seconded by Council Member Rutberg to approve a 3 year contract with Flock, for integration of security cameras. Year 1 $100,200.00 Year 2 …",
+   "excerpt": "… . Motion made by Council Member Henderson, seconded by Council Member Rutberg to approve a 3 year contract with Flock, for integration of security cameras. Year 1 $100,200.00 Year 2 …",
    "excerptTerm": "flock",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2025_CityCouncil_1215_Minutes.pdf"
   }
