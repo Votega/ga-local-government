@@ -1,12 +1,33 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-21T02:54:15Z",
+  "generatedAt": "2026-10-22T14:13:33Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
   "count": 102
  },
  "mentions": [
+  {
+   "topic": "data-center",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
+   "placeType": "county",
+   "fips": "13113",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… rt of the millage rate. She stated that this was the first year that staff were anticipating some of the money from the data center vendors. She stated that the County was anticipating receiving an additional $7.7 million from personal properties from …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/10-22-2026%20BOC%20Agenda.pdf"
+  },
   {
    "topic": "data-center",
    "placeId": "morgan",
@@ -1329,27 +1350,6 @@
    "excerpt": "… of Covington, Georgia extending until October 20, 2026 a limited moratorium of the acceptance of applications for data center development. Motion carried with council members Rutberg, Henderson, Johnson and Turner voting in favor of t …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0706_Minutes.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "spalding",
-   "placeName": "Spalding County",
-   "placeType": "county",
-   "fips": "13255",
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-06-25",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://spaldingcounty.granicus.com/AgendaViewer.php?view_id=1&event_id=959"
   },
   {
    "topic": "data-center",
