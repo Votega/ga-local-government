@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-21T02:54:15Z",
+  "generatedAt": "2026-10-22T14:13:33Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 39
@@ -256,10 +256,10 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "alpr": 3,
-    "data-center": 9,
+    "data-center": 10,
     "land-use": 20
    },
-   "lastActivity": "2026-10-15"
+   "lastActivity": "2026-10-22"
   },
   {
    "placeId": "forsyth",
@@ -301,7 +301,7 @@
    "type": "county",
    "region": "Northeast Georgia",
    "topics": {
-    "alpr": 4,
+    "alpr": 3,
     "land-use": 15
    },
    "lastActivity": "2026-11-16"
@@ -324,7 +324,7 @@
    "type": "county",
    "region": null,
    "topics": {
-    "land-use": 10
+    "land-use": 11
    },
    "lastActivity": "2026-11-09"
   },
@@ -412,8 +412,7 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "data-center": 1,
-    "land-use": 11
+    "land-use": 10
    },
    "lastActivity": "2026-09-29"
   },
