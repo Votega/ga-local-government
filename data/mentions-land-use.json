@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-22T14:13:33Z",
+  "generatedAt": "2026-10-26T15:34:54Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 499
+  "count": 502
  },
  "mentions": [
   {
@@ -52,29 +52,6 @@
    "excerpt": "… ce 2. APPROVAL OF MINUTES 2.1. Additions/Deletions 3. OLD BUSINESS 4. NEW BUSINESS 4.1. V26-0287 – Variance requesting reduction of lot width from required 150’ to 40’ to create a 10-acre buildable lot – Applicant/O …",
    "excerptTerm": "variance",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-a2177b1cbbd44f408ecff390d1a2f23e.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-11-16",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon"
-   ],
-   "tags": [
-    "rezoning"
-   ],
-   "excerpt": "… ous meeting Old Business New Business 2 Another Special Use Test Item 3 Test Agenda Item Text for Rezone Other Business Adjourn *The Planning Commission’s decision will be the final action taken unless appealed to the Boar …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-358-vm-20261015180534805033.pdf"
   },
   {
    "topic": "land-use",
@@ -191,9 +168,84 @@
    "tags": [
     "special-land-use"
    ],
-   "excerpt": "… LUP-37-2026 District 3 - 230 Rocky Top Court 11. LUP-38-2026 District 3 - 568 Tate Creek Court 12. SLUP-10-2026 District 1 - 3261 Ernest Barrett Parkway 13. SLUP-11-2026 District 2 - 465 Big Shanty Road Other Busi …",
+   "excerpt": "… 12. LUP-19-2026 District 3 - 1884 Addison Road 13. LUP-35-2026 District 4 - 448 Hurt Road 14. SLUP-8-2026 District 2 - 2967 Olympic Industrial Drive 15. SLUP-9-2026 District 2 - 114 Townpark Drive Regular Cas …",
    "excerptTerm": "slup",
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10241,plainText=false)"
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10307,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-11-02",
+   "body": "Zoning Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… cres located on the east side of North Hague Avenue, 900± feet south of Trabue Road, From: R, Rural District, To: AR-1, Apartment Residential District (Rezoning #Z25-011). Ordinance",
+   "excerptTerm": "apartment",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6220&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "hall",
+   "placeName": "Hall County",
+   "placeType": "county",
+   "fips": "13139",
+   "region": "Northeast Georgia",
+   "date": "2026-11-02",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… person 4 Appointment of Planning Commission Member to Serve as Secretary for Preliminary and Final Subdivision Plat Review 5 Appointment of Planning Commission Secretary 6 Adoption of Hall County Planning Commis …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-357-vm-20261023190904479483.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-28",
+   "body": "Finance/Executive Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development"
+   ],
+   "excerpt": "… NG ITEM(S) 26-O-1542 (2) - AN ORDINANCE BY COUNCILMEMBER LILIANA BAKHTIARI TO PROVIDE FOR THE ANNEXATION OF PROPERTIES HAVING FRONTAGE ON GLYNN DRIVE, SE, IN UNINCORPORATED DEKALB COUNTY, TO THE CORPORAT …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3954&Inline=True"
   },
   {
    "topic": "land-use",
@@ -229,6 +281,156 @@
   },
   {
    "topic": "land-use",
+   "placeId": "gwinnett",
+   "placeName": "Gwinnett County",
+   "placeType": "county",
+   "fips": "13135",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-27",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261027/a_22349_2026.10.27___Public_Hearing_Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-27",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "land use permit",
+    "rezon",
+    "slup",
+    "special land use",
+    "townhome"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": "… tutional) zoning district to MR-1 (Medium Density Residential-1) zoning district to allow for a single-family attached (townhome) development, at 729 Old Briarcliff Road. Ordinance",
+   "excerptTerm": "townhome",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4495&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "cobb",
+   "placeName": "Cobb County",
+   "placeType": "county",
+   "fips": "13067",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-27",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation"
+   ],
+   "tags": [
+    "annexation"
+   ],
+   "excerpt": "… for animals who are victims of human cruelty or neglect. Community Development 18. To approve an annexation notice of Non-Objection per HB 489 Intergovernmental Agreement and HB 2 regarding a petition for the annexa …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10304,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": null,
+   "date": "2026-10-27",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… andy Flener, Deputy County Clerk) 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1682-26, Rezoning of Tax Map 23A Parcel 138A (55 Kenmore Lane) from C-2 to C-1 - (Clint Underwood, Director of Planning and …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&event_id=230"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "augusta",
+   "placeName": "Augusta-Richmond County",
+   "placeType": "consolidated",
+   "fips": "13245",
+   "region": "East Georgia",
+   "date": "2026-10-27",
+   "body": "Engineering Services Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/augustaga-pubu/MEET-Agenda-638f847b0a8141e594f3feaf99df0515.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-27",
+   "body": "Community Development/Human Services Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "land use plan",
+    "mixed use"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3953&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -256,6 +458,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-10-26",
+   "body": "Columbus City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… ment to enter into a Housing Development Agreement (HDA) with Columbus Housing Partnership Inc., for the George’s Creek apartment community. ($0.00) Ordinance",
+   "excerptTerm": "apartment",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6219&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "land-use",
    "placeId": "lumpkin",
    "placeName": "Lumpkin County",
    "placeType": "county",
@@ -276,6 +505,54 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4418,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "butts",
+   "placeName": "Butts County",
+   "placeType": "county",
+   "fips": "13035",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-10-26",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "future land use",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "rezoning"
+   ],
+   "excerpt": "… ing | Case # 06-04-2026 SU (Special Use) Brad Vaughan ◻ 2026-10-005 Hearing: Case # 06-05-2026 FLUM (Future Land Use Map) Brad Vaughan ◻ 2026-10-006 Report | Chief Financial Officer Rhonda Blissit ◻ 202 …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://buttsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1084,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-10-26",
+   "body": "Public Safety & Legal Administration Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… ARTIN, MICHAEL JULIAN BOND, AND ESHÉ COLLINS TO AMEND CHAPTER 10, ARTICLE II, DIVISION 2, SUBDIVISION II, SECTION 10-92(B) OF THE CITY OF ATLANTA CODE OF ORDINANCES SO AS TO PROVIDE AN EXEMPT …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3955&Inline=True"
   },
   {
    "topic": "land-use",
@@ -5846,31 +6123,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "lumpkin",
-   "placeName": "Lumpkin County",
-   "placeType": "county",
-   "fips": "13187",
-   "region": null,
-   "date": "2026-08-10",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "variance"
-   ],
-   "excerpt": "… wth Case 177 is requesting a variance to Section 26-70 (b) to allow a manufactured home/ mobile home within a subdivision. 8. Location: Eden Grove Class II Subdivision (1049 Ben Higgens Road, Dahlonega, GA 30533) Applicant: Jace …",
-   "excerptTerm": "subdivision",
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4199,plainText=false)"
-  },
-  {
-   "topic": "land-use",
    "placeId": "hall",
    "placeName": "Hall County",
    "placeType": "county",
@@ -7747,29 +7999,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2579,plainText=false)"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-07-09",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "variance"
-   ],
-   "tags": [
-    "variance"
-   ],
-   "excerpt": "… s $443,338.56. Public Hearing to amend Hall County's Zoning Map as follows: 20 1161 Candler Road | Variance to Article 8 | site development standards | on a 4.58± acre tract located on the east side of Candler Road …",
-   "excerptTerm": "variance",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-326-vm-20260708194125239425.pdf"
   },
   {
    "topic": "land-use",
@@ -10060,29 +10289,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "barrow",
-   "placeName": "Barrow County",
-   "placeType": "county",
-   "fips": "13013",
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-05-26",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "townhome"
-   ],
-   "tags": [
-    "development"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1124"
-  },
-  {
-   "topic": "land-use",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -10659,60 +10865,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-05-11",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "REZONINGS/AMENDMENTS",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6180&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-05-11",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "annexation",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "To accept the application (AN25-021) of Dublin MHP LLC for the annexation of certain territory containing 4.46± acres in Washington Township. ($0.00) Ordinance",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6182&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -11168,31 +11320,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "catoosa",
-   "placeName": "Catoosa County",
-   "placeType": "county",
-   "fips": "13047",
-   "region": null,
-   "date": "2026-04-28",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… er 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1660-26, Rezoning of Tax Map 80 Parcel 86 (Red Belt Road) from C-2 to C-1 - (Clint Underwood, Director of Planning and Insp …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=204"
-  },
-  {
-   "topic": "land-use",
    "placeId": "butts",
    "placeName": "Butts County",
    "placeType": "county",
@@ -11309,35 +11436,6 @@
    "excerpt": "… I. COUNCIL REQUESTS VII. AGENDA APPROVAL VIII. PUBLIC HEARINGS 1. ANX-2026-001 - Request for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2132&Inline=True"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "morgan",
-   "placeName": "Morgan County",
-   "placeType": "county",
-   "fips": "13211",
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-04-21",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "public-comment",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "conditional use",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "special-land-use",
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_04212026-847"
   },
   {
    "topic": "land-use",
@@ -11901,33 +11999,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/03-26-2026%20BOC%20Agenda.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-03-24",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "future land use",
-    "rezon"
-   ],
-   "tags": [
-    "annexation",
-    "comprehensive-plan",
-    "rezoning"
-   ],
-   "excerpt": "… anning Commission Regular Meeting January 27, 2026 6:00 PM IV. PUBLIC HEARINGS a. ANX-2026-001 - Request for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Dev …",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2126&Inline=True"
   },
   {
    "topic": "land-use",
