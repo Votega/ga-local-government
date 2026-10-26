@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-22T14:13:33Z",
+  "generatedAt": "2026-10-26T15:34:54Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 64
+  "count": 62
  },
  "mentions": [
   {
@@ -856,27 +856,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-07-09",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-326-vm-20260708194125239425.pdf"
-  },
-  {
-   "topic": "alpr",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -1228,27 +1207,6 @@
    "excerpt": "To authorize the Director of the Department of Public Safety to enter into a contract with SoundThinking Inc., formerly ShotSpotter, Inc., for the use of a gunfire detection, alert, and analysis program; to authorize reimbur …",
    "excerptTerm": "soundthinking",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6184&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-05-11",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "body worn"
-   ],
-   "tags": [],
-   "excerpt": "… t of Finance and Management to modify and extend a Universal Term Contract for the option to purchase Video Storage for Body Worn Cameras with CDW Government, LLC. and to declare an emergency. ($0.00) Ordinance",
-   "excerptTerm": "body worn",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6182&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "alpr",
