@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-22T14:13:33Z",
+  "generatedAt": "2026-10-26T15:34:54Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 39
@@ -13,10 +13,10 @@
    "region": "Atlanta",
    "topics": {
     "alpr": 1,
-    "data-center": 5,
-    "land-use": 9
+    "data-center": 6,
+    "land-use": 12
    },
-   "lastActivity": "2026-10-19"
+   "lastActivity": "2026-10-28"
   },
   {
    "placeId": "augusta",
@@ -24,10 +24,9 @@
    "type": "consolidated",
    "region": "East Georgia",
    "topics": {
-    "data-center": 1,
-    "land-use": 1
+    "land-use": 2
    },
-   "lastActivity": "2026-10-20"
+   "lastActivity": "2026-10-27"
   },
   {
    "placeId": "baldwin",
@@ -57,7 +56,7 @@
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "alpr": 1,
-    "land-use": 15
+    "land-use": 14
    },
    "lastActivity": "2026-10-15"
   },
@@ -88,9 +87,9 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 5
+    "land-use": 6
    },
-   "lastActivity": "2026-06-08"
+   "lastActivity": "2026-10-26"
   },
   {
    "placeId": "carroll",
@@ -122,7 +121,7 @@
    "topics": {
     "land-use": 15
    },
-   "lastActivity": "2026-10-20"
+   "lastActivity": "2026-10-27"
   },
   {
    "placeId": "chatham",
@@ -177,7 +176,7 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "data-center": 3,
-    "land-use": 15
+    "land-use": 16
    },
    "lastActivity": "2026-12-09"
   },
@@ -232,10 +231,10 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "alpr": 8,
-    "data-center": 15,
-    "land-use": 19
+    "data-center": 14,
+    "land-use": 20
    },
-   "lastActivity": "2026-10-20"
+   "lastActivity": "2026-10-27"
   },
   {
    "placeId": "douglas",
@@ -291,9 +290,9 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "alpr": 2,
-    "land-use": 3
+    "land-use": 4
    },
-   "lastActivity": "2026-10-06"
+   "lastActivity": "2026-10-27"
   },
   {
    "placeId": "hall",
@@ -301,10 +300,10 @@
    "type": "county",
    "region": "Northeast Georgia",
    "topics": {
-    "alpr": 3,
-    "land-use": 15
+    "alpr": 2,
+    "land-use": 14
    },
-   "lastActivity": "2026-11-16"
+   "lastActivity": "2026-11-02"
   },
   {
    "placeId": "henry",
@@ -324,7 +323,7 @@
    "type": "county",
    "region": null,
    "topics": {
-    "land-use": 11
+    "land-use": 10
    },
    "lastActivity": "2026-11-09"
   },
@@ -334,10 +333,10 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "data-center": 1,
+    "data-center": 2,
     "land-use": 8
    },
-   "lastActivity": "2026-09-29"
+   "lastActivity": "2026-10-27"
   },
   {
    "placeId": "morgan",
@@ -347,7 +346,7 @@
    "topics": {
     "alpr": 2,
     "data-center": 6,
-    "land-use": 16
+    "land-use": 15
    },
    "lastActivity": "2026-10-20"
   },
@@ -357,11 +356,11 @@
    "type": "consolidated",
    "region": "West Georgia",
    "topics": {
-    "alpr": 5,
-    "data-center": 3,
+    "alpr": 4,
+    "data-center": 4,
     "land-use": 23
    },
-   "lastActivity": "2026-10-26"
+   "lastActivity": "2026-11-02"
   },
   {
    "placeId": "newton",
@@ -401,8 +400,8 @@
    "type": "city",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "data-center": 3,
-    "land-use": 13
+    "data-center": 2,
+    "land-use": 12
    },
    "lastActivity": "2026-10-27"
   },
