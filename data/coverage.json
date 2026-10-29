@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-26T15:34:54Z",
+  "generatedAt": "2026-10-29T15:40:25Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 39
@@ -45,7 +45,7 @@
    "region": null,
    "topics": {
     "data-center": 2,
-    "land-use": 12
+    "land-use": 13
    },
    "lastActivity": "2026-10-06"
   },
@@ -98,7 +98,7 @@
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "data-center": 2,
-    "land-use": 16
+    "land-use": 14
    },
    "lastActivity": "2026-11-05"
   },
@@ -232,9 +232,9 @@
    "topics": {
     "alpr": 8,
     "data-center": 14,
-    "land-use": 20
+    "land-use": 21
    },
-   "lastActivity": "2026-10-27"
+   "lastActivity": "2026-11-05"
   },
   {
    "placeId": "douglas",
@@ -242,11 +242,11 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "alpr": 4,
+    "alpr": 3,
     "data-center": 2,
-    "land-use": 13
+    "land-use": 14
    },
-   "lastActivity": "2026-10-20"
+   "lastActivity": "2026-11-04"
   },
   {
    "placeId": "fayette",
@@ -290,7 +290,7 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "alpr": 2,
-    "land-use": 4
+    "land-use": 3
    },
    "lastActivity": "2026-10-27"
   },
@@ -315,7 +315,7 @@
     "data-center": 1,
     "land-use": 14
    },
-   "lastActivity": "2026-10-20"
+   "lastActivity": "2026-11-03"
   },
   {
    "placeId": "lumpkin",
@@ -344,11 +344,11 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "alpr": 2,
-    "data-center": 6,
-    "land-use": 15
+    "alpr": 1,
+    "data-center": 7,
+    "land-use": 14
    },
-   "lastActivity": "2026-10-20"
+   "lastActivity": "2026-11-03"
   },
   {
    "placeId": "muscogee",
@@ -413,7 +413,7 @@
    "topics": {
     "land-use": 10
    },
-   "lastActivity": "2026-09-29"
+   "lastActivity": "2026-10-27"
   },
   {
    "placeId": "walker",
