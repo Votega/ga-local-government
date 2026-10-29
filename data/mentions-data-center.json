@@ -1,12 +1,33 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-26T15:34:54Z",
+  "generatedAt": "2026-10-29T15:40:25Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 102
+  "count": 103
  },
  "mentions": [
+  {
+   "topic": "data-center",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-11-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_11032026-885"
+  },
   {
    "topic": "data-center",
    "placeId": "atlanta",
