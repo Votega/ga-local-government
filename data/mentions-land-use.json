@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-26T15:34:54Z",
+  "generatedAt": "2026-10-29T15:40:25Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 502
+  "count": 501
  },
  "mentions": [
   {
@@ -128,6 +128,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-11-05",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "land use permit",
+    "land use plan",
+    "rezon",
+    "slup",
+    "special land use"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": "… anning and Sustainability for a text amendment to amend Chapter 01: Issues, Opportunities, & Goals of the Comprehensive Land Use Plan. This amendment is for the adoption of the Comprehensive Housing Plan and its vision, goals, and strategies for address …",
+   "excerptTerm": "land use plan",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4535&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "land-use",
    "placeId": "carroll",
    "placeName": "Carroll County",
    "placeType": "county",
@@ -148,6 +177,83 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3025,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "douglas",
+   "placeName": "Douglas County",
+   "placeType": "county",
+   "fips": "13097",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-11-04",
+   "body": "Planning & Zoning",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "future land use",
+    "mixed use",
+    "rezon",
+    "subdivision",
+    "warehouse"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… 2 November 4, 2026 M2026- Brightstar Development Partners – a request for a Future Land Use 02/Z2026-89 Map amendment from MUC (mixed use corridor) to SL (suburban living) and a rezoning from R-LD …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7612,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-11-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_11032026-885"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "henry",
+   "placeName": "Henry County",
+   "placeType": "county",
+   "fips": "13151",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-11-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… e reasonable accommodations for those persons. and the request is for a single-family conservation subdivision. District III (Presenter: Alexius Jones, Planner II)(Exhibit 15) B. SU-26-01 (Publi …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2684,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -220,7 +326,7 @@
    ],
    "excerpt": "… person 4 Appointment of Planning Commission Member to Serve as Secretary for Preliminary and Final Subdivision Plat Review 5 Appointment of Planning Commission Secretary 6 Adoption of Hall County Planning Commis …",
    "excerptTerm": "subdivision",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-357-vm-20261023190904479483.pdf"
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-357-vm-20261029125011760680.pdf"
   },
   {
    "topic": "land-use",
@@ -246,6 +352,29 @@
    "excerpt": "… NG ITEM(S) 26-O-1542 (2) - AN ORDINANCE BY COUNCILMEMBER LILIANA BAKHTIARI TO PROVIDE FOR THE ANNEXATION OF PROPERTIES HAVING FRONTAGE ON GLYNN DRIVE, SE, IN UNINCORPORATED DEKALB COUNTY, TO THE CORPORAT …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3954&Inline=True"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "spalding",
+   "placeName": "Spalding County",
+   "placeType": "county",
+   "fips": "13255",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-10-27",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… Lot 20 of the 1st Land District, Parcel No. 279 02015, consisting of 60.96 acres. The applicant is seeking a variance to remove requirements of flood base elevations listed in Article 20, Sec. 2005 – F.4. 2. Ap …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://spaldingcounty.granicus.com/AgendaViewer.php?view_id=1&event_id=1042"
   },
   {
    "topic": "land-use",
@@ -377,7 +506,7 @@
    ],
    "excerpt": "… andy Flener, Deputy County Clerk) 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1682-26, Rezoning of Tax Map 23A Parcel 138A (55 Kenmore Lane) from C-2 to C-1 - (Clint Underwood, Director of Planning and …",
    "excerptTerm": "rezon",
-   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&event_id=230"
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=264"
   },
   {
    "topic": "land-use",
@@ -725,7 +854,7 @@
    ],
    "excerpt": "… M-23-07 (Public Hearing) - WITHDRAWN EPL Enterprises, Inc. of Lithonia, GA requests an amendment to the Comprehensive Plan for property located on Highway 155 North to the west of Valley Road in Land Lot 133 of the 11th Distri …",
    "excerptTerm": "comprehensive plan",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2670,plainText=false)"
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2679,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -6915,34 +7044,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "gwinnett",
-   "placeName": "Gwinnett County",
-   "placeType": "county",
-   "fips": "13135",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-07-28",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20260728/a_75722_2026.07.28___Public_Hearing_Agenda.pdf"
-  },
-  {
-   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -8492,31 +8593,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.bartowcountyga.gov/CommissionerOffice/AGENDA.PUBLIC_MEETING_7-1-2026.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "spalding",
-   "placeName": "Spalding County",
-   "placeType": "county",
-   "fips": "13255",
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-06-30",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… 107 of the 3rd Land District, Parcel No. 500 06006A, consisting of 0.8 acres. The applicant is requesting to rezone the property from R-1 (Single-Family Residential) to C-1 (Highway Commercial), for a continuance of …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://spaldingcounty.granicus.com/AgendaViewer.php?view_id=1&event_id=1019"
   },
   {
    "topic": "land-use",
@@ -10940,31 +11016,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "morgan",
-   "placeName": "Morgan County",
-   "placeType": "county",
-   "fips": "13211",
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-05-07",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "conditional use",
-    "variance"
-   ],
-   "tags": [
-    "special-land-use",
-    "variance"
-   ],
-   "excerpt": "… evelopment is requesting a text amendment to the Morgan County Zoning Ordinance related to advertisements for conditional use procedures. ADJOURNMENT I. The chairman will adjourn the meeting.",
-   "excerptTerm": "conditional use",
-   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_05072026-848"
-  },
-  {
-   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -11113,39 +11164,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-135a2d7305b4463aad259f5978df8d75.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "morgan",
-   "placeName": "Morgan County",
-   "placeType": "county",
-   "fips": "13211",
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-05-05",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "conditional use",
-    "mixed use",
-    "mixed-use",
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "special-land-use",
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_05052026-850"
   },
   {
    "topic": "land-use",
@@ -11715,26 +11733,28 @@
   },
   {
    "topic": "land-use",
-   "placeId": "carroll",
-   "placeName": "Carroll County",
+   "placeId": "banks",
+   "placeName": "Banks County",
    "placeType": "county",
-   "fips": "13045",
-   "region": "Broader Metropolitan Statistical Area",
+   "fips": "13011",
+   "region": null,
    "date": "2026-04-14",
    "body": "Board of Commissioners",
    "confidence": "high",
-   "context": "public-comment",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
+    "conditional use",
     "rezon"
    ],
    "tags": [
-    "rezoning"
+    "rezoning",
+    "special-land-use"
    ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2895,plainText=false)"
+   "excerpt": "… Selit Dr. for an outdoor storage yard. d. Z-26-04 An application has been submitted by Terry Rylee to Rezone the property identified as B19 005, a 1.5-acre parcel located at 899 Henderson from C2- General Commercial t …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-8545fdb0f2f148f9947cd3d69fe38970.pdf"
   },
   {
    "topic": "land-use",
@@ -11817,29 +11837,6 @@
    "excerpt": "… esolve all nonconformities. The subject property lies within an area designated for Low Density Residential uses on the Future Land Use Plan map. This request conforms to the Fayette County Future Land Use Plan, in that the proposed zoning is a less inten …",
    "excerptTerm": "future land use",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/04-09-2026%20BOC%20Agenda.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "carroll",
-   "placeName": "Carroll County",
-   "placeType": "county",
-   "fips": "13045",
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-04-09",
-   "body": "Board of Appeals",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "variance"
-   ],
-   "tags": [
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2873,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -12145,33 +12142,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3428,plainText=false)"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "henry",
-   "placeName": "Henry County",
-   "placeType": "county",
-   "fips": "13151",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-03-17",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "rezon",
-    "subdivision"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning"
-   ],
-   "excerpt": "… . Ordinance 26-01 B. COMP-AM-26-01 (Public Hearing) Resolution to amend the Henry County Comprehensive Plan to modify text and policy language to ensure consistency with the adopted 2026 Unified Land Devel …",
-   "excerptTerm": "comprehensive plan",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2463,plainText=false)"
   },
   {
    "topic": "land-use",
