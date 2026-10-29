@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-26T15:34:54Z",
+  "generatedAt": "2026-10-29T15:40:25Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 62
+  "count": 60
  },
  "mentions": [
   {
@@ -788,29 +788,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "douglas",
-   "placeName": "Douglas County",
-   "placeType": "county",
-   "fips": "13097",
-   "region": "Atlanta Regional Commission",
-   "date": "2026-07-20",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "public-comment",
-   "sourceType": "ocr",
-   "vendors": [
-    "Avigilon (Motorola)"
-   ],
-   "matchedTerms": [
-    "avigilon"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7435,plainText=false)"
-  },
-  {
-   "topic": "alpr",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -1207,28 +1184,6 @@
    "excerpt": "To authorize the Director of the Department of Public Safety to enter into a contract with SoundThinking Inc., formerly ShotSpotter, Inc., for the use of a gunfire detection, alert, and analysis program; to authorize reimbur …",
    "excerptTerm": "soundthinking",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6184&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "morgan",
-   "placeName": "Morgan County",
-   "placeType": "county",
-   "fips": "13211",
-   "region": "Broader Metropolitan Statistical Area",
-   "date": "2026-05-05",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "body cam",
-    "tag reader"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_05052026-850"
   },
   {
    "topic": "alpr",
