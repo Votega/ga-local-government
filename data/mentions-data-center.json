@@ -1,12 +1,33 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-29T15:40:25Z",
+  "generatedAt": "2026-10-30T19:36:37Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 103
+  "count": 106
  },
  "mentions": [
+  {
+   "topic": "data-center",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-11-05",
+   "body": "Committee of the Whole",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… trict(s): All Commission Districts A Resolution Requiring an Independent, Third-Party Health and Environmental Study of Data Centers and Their Possible Impact on DeKalb County and Board of Commissioners Review of the Study Before DeKalb County’s Data …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4496&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
   {
    "topic": "data-center",
    "placeId": "morgan",
@@ -27,6 +48,48 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_11032026-885"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-11-02",
+   "body": "Columbus City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… anagement, to modify and increase the architectural / engineering services agreement with BBCO Design LLC; for the 2026 Data Center West Facility Upgrades project; and to authorize an expenditure up to $154,660.00 within the Information Services Capit …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6221&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Atlanta",
+   "date": "2026-11-02",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3958&Inline=True"
   },
   {
    "topic": "data-center",
@@ -576,6 +639,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-09-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -699,27 +783,6 @@
    "excerpt": "… Council Member Henderson, seconded by Council Member Davis to approve the revocation of the current moratorium for Data Centers which was set to remain in effect through October 20, 2026, now that the related ordinance has been adopted. …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0901_Minutes.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-08-28",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1746&Inline=True"
   },
   {
    "topic": "data-center",
@@ -909,6 +972,27 @@
    "excerpt": "… Executive Session, and Regular Meeting Minutes from August 4, 2026. 8. PUBLIC HEARING 8.1 Public Hearing - Extension of Data Center Moratorium. Conduct a public hearing to consider a resolution to extend the moratorium related to Data Centers for an a …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1600"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "bacon",
+   "placeName": "Bacon County",
+   "placeType": "county",
+   "fips": "13005",
+   "region": null,
+   "date": "2026-08-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… Heart Foundation $190,000.00 to the Sheriff’s Foundation Gary Eden ield asked the Commissioners where they were at on Data Center Ordinances. Chairman Taylor answered that Spaulding County has a good one but it does not prevent Data Centers it just …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://baconcounty.org/uploads/Meeting%20minutes%208-18-2026.pdf"
   },
   {
    "topic": "data-center",
@@ -1791,27 +1875,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-155bd2dfb58249ff9617a51ff72a5c2b.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-05-18",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… ctor of the Department of Technology to enter into a contract with Technology Site Planners, Inc. (TechSite) to provide data center alarm monitoring and first responder services; to waive the competitive bidding provisions of Chapter 329 of the Columb …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6184&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "data-center",
