@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T19:04:27Z",
+  "generatedAt": "2026-10-31T20:13:59Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 54
+  "count": 55
  },
  "places": [
   {
@@ -148,10 +148,10 @@
    "type": "county",
    "region": "Coastal Georgia",
    "topics": {
-    "alpr": 1,
-    "data-center": 4,
-    "land-use": 6,
-    "local-taxes": 6
+    "alpr": 3,
+    "data-center": 6,
+    "land-use": 15,
+    "local-taxes": 11
    },
    "lastActivity": "2026-11-03"
   },
@@ -449,6 +449,17 @@
     "local-taxes": 25
    },
    "lastActivity": "2026-11-03"
+  },
+  {
+   "placeId": "lafayette",
+   "name": "City of LaFayette",
+   "type": "city",
+   "region": "Northwest Georgia",
+   "topics": {
+    "land-use": 4,
+    "local-taxes": 1
+   },
+   "lastActivity": "2026-09-14"
   },
   {
    "placeId": "liberty",
