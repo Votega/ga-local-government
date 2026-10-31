@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T19:04:27Z",
+  "generatedAt": "2026-10-31T20:13:59Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 656
+  "count": 669
  },
  "mentions": [
   {
@@ -4938,6 +4938,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-09-15",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… from the Public offered during this time. • Zoning Map Amendment – RZN-26-0007 – Applicant is requesting to rezone approximately 2 acres from Agricultural Forestry (A-F) to Agricultural Residential (A-R) zoning. …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_09152026-661"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -6145,6 +6170,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-09-01",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "mixed use",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… 9.78-acre tract. The minimum acreage for A-F is 3 acres, and A-R is 2 acres. 3. The current Future Land Use designation is “Rural.\" 4. This rezone will be pending approval of the plat, MIN-26-0017. UDC Section 121 …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_09012026-659"
+  },
+  {
+   "topic": "land-use",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -6492,6 +6546,37 @@
    "excerpt": "… single family residence. The house and accessory structures meet or exceed the requirements of the A-R district. The Future Land Use Map designates this area as Low Density Residential, which has a 1-acre minimum parcel size. The request to rezone t …",
    "excerptTerm": "future land use",
    "sourceUrl": "https://www.fayettecountyga.gov/08-27-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-08-26",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "multi-family",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… from Agricultural Forestry (A-F) to Commercial Neighborhood (C-N) zoning. Along with this will be a Future Land Use (FLU2026-05) change from “City of Kingsland” to “Commercial”. This parcel is located in District 2 at …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_08262026-656"
   },
   {
    "topic": "land-use",
@@ -7421,6 +7506,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-08-18",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "future land use",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_08182026-655"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -7934,6 +8046,52 @@
    "excerpt": "… IANCE II. READING AND APPROVAL OF PREVIOUS MINUTES III. OLD BUSINESS: IV. NEW BUSINESS: A. Rezones: RZ – 191190 Curtis Roper 580 Eagle Perch Rd, Ball Ground …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_08102026-191"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lafayette",
+   "placeName": "City of LaFayette",
+   "placeType": "city",
+   "fips": null,
+   "region": "Northwest Georgia",
+   "date": "2026-08-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… or Arnold called the Public Hearing to order. Mayor Arnold stated the purpose of the Public Hearing was to discuss the rezoning request from William Waldrop to rezone his property located at 0 Straight Gut Road from B-2 to R-2. Mr. Waldrop st …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://cityoflafayettega.sharepoint.com/:f:/g/citycouncil/EuKc0m_YjoNAk4vebrFW74sBlFkBC85MhltNsyE3iZFtug?e=HTLdYH"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lafayette",
+   "placeName": "City of LaFayette",
+   "placeType": "city",
+   "fips": null,
+   "region": "Northwest Georgia",
+   "date": "2026-08-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… CITY OF LAFAYETTE, GEORGIA Monday, August 10, 2026 Public Hearing Rezoning 6:15 P.M. 6:30 P.M. Regu …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://cityoflafayettega.sharepoint.com/:f:/g/citycouncil/EuKc0m_YjoNAk4vebrFW74sBlFkBC85MhltNsyE3iZFtug?e=HTLdYH"
   },
   {
    "topic": "land-use",
@@ -8645,6 +8803,36 @@
   },
   {
    "topic": "land-use",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-08-04",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_08042026-652"
+  },
+  {
+   "topic": "land-use",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -8790,6 +8978,36 @@
    "excerpt": "… **** 5. Motion made by Council Member Moore, seconded by Council Member Henderson to approve the initiation of a Future Land Use Map Amendment from IND (Industrial) to COM (Commercial) and a Rezoning from the current zoning district of M-2 (He …",
    "excerptTerm": "future land use",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0803_Minutes.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-07-29",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "multi-family",
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… ricultural Forestry (A-F) to Commercial Neighborhood (C-N) zoning. Along with this will be a Future Land Use (FLU2026-05) change from “City of Kingsland” to “Commercial”. This parcel is located in Dist …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07292026-650"
   },
   {
    "topic": "land-use",
@@ -9660,6 +9878,39 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=233"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-07-21",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "land use permit",
+    "multi-family",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use",
+    "variance"
+   ],
+   "excerpt": "… an advisory body that makes recommendations on zoning property, land use amendments, and comprehensive plan policy. 2. The decisions from the Planning Commission ultimately go to the Camden County Boa …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07212026-648"
   },
   {
    "topic": "land-use",
@@ -10668,6 +10919,32 @@
   },
   {
    "topic": "land-use",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-07-07",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "multi-family"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development"
+   ],
+   "excerpt": "… to allow a manufactured home in an R-2 zoning. FACTS & ISSUES: 1. Because this parcel has a future land use designation of “Commercial”, special use approval is required before a permit can be is …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07072026-646"
+  },
+  {
+   "topic": "land-use",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -10947,6 +11224,35 @@
    "excerpt": "… t 2 4. Public Hearing Regarding Petition # CONDUSE 26-02 Filed by JLH, LLC (dba Caswell Wrecker) Requesting a Conditional Use Permit for Property Located at 2657 W Hwy 16, Newnan - District 2 5. Public Hearing Regarding Petition # CONDUSE 26 …",
    "excerptTerm": "conditional use",
    "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3501,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-06-24",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "multi-family",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "variance"
+   ],
+   "excerpt": "… al Use to allow a manufactured home in an R-2 zoning. FACTS & ISSUES: 1. Because this parcel has a future land use designation of “Commercial”, special use approval is required before a permit can be issu …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_06242026-643"
   },
   {
    "topic": "land-use",
@@ -12151,6 +12457,29 @@
    "excerpt": "To authorize the Director of the Department of Development to enter into an Amendment to the Annexation Agreement between the City of Columbus, Plain Township, and the City of New Albany;; to adjust growth boundaries for sp …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6190&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lafayette",
+   "placeName": "City of LaFayette",
+   "placeType": "city",
+   "fips": null,
+   "region": "Northwest Georgia",
+   "date": "2026-06-08",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… nsmission bids G. Airport Engineering H. Wrestling building I. Pavilion at Greenway park J. Rezone at Straight Gut K. Cross Walk at Duke Joe Stock 4. ADJOURNMENT",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://cityoflafayettega.sharepoint.com/:f:/g/citycouncil/EuKc0m_YjoNAk4vebrFW74sBlFkBC85MhltNsyE3iZFtug?e=HTLdYH"
   },
   {
    "topic": "land-use",
@@ -16587,6 +16916,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://drive.google.com/file/d/1v39HO0bChFtyiNCyFmJFWuqGe50e9XYD/view"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lafayette",
+   "placeName": "City of LaFayette",
+   "placeType": "city",
+   "fips": null,
+   "region": "Northwest Georgia",
+   "date": "2026-01-02",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… int Committee Members 3. NEW BUSINESS A. Selection of firm for Safe Streets for All Planning grant B. Variance for pond construction at Traverse Park 4. COMMENTS A. Council Members B. City Clerk C. City At …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://cityoflafayettega.sharepoint.com/:f:/g/citycouncil/EuKc0m_YjoNAk4vebrFW74sBlFkBC85MhltNsyE3iZFtug?e=HTLdYH"
   },
   {
    "topic": "land-use",
