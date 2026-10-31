@@ -1,16 +1,16 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T14:57:40Z",
+  "generatedAt": "2026-10-31T19:04:27Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 46
+  "count": 54
  },
  "places": [
   {
    "placeId": "appling",
    "name": "Appling County",
    "type": "county",
-   "region": null,
+   "region": "South Georgia",
    "topics": {
     "local-taxes": 8
    },
@@ -20,7 +20,7 @@
    "placeId": "atkinson",
    "name": "Atkinson County",
    "type": "county",
-   "region": null,
+   "region": "South Georgia",
    "topics": {},
    "lastActivity": null
   },
@@ -28,7 +28,7 @@
    "placeId": "atlanta",
    "name": "City of Atlanta",
    "type": "city",
-   "region": "Atlanta",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 1,
     "data-center": 7,
@@ -52,7 +52,7 @@
    "placeId": "bacon",
    "name": "Bacon County",
    "type": "county",
-   "region": null,
+   "region": "South Georgia",
    "topics": {
     "data-center": 1,
     "land-use": 2,
@@ -64,7 +64,7 @@
    "placeId": "baker",
    "name": "Baker County",
    "type": "county",
-   "region": null,
+   "region": "South Georgia",
    "topics": {
     "alpr": 1,
     "data-center": 6,
@@ -77,7 +77,7 @@
    "placeId": "baldwin",
    "name": "Baldwin County",
    "type": "county",
-   "region": null,
+   "region": "Middle Georgia",
    "topics": {
     "land-use": 2,
     "local-taxes": 7
@@ -88,7 +88,7 @@
    "placeId": "banks",
    "name": "Banks County",
    "type": "county",
-   "region": null,
+   "region": "Northeast Georgia",
    "topics": {
     "data-center": 2,
     "land-use": 13,
@@ -100,7 +100,7 @@
    "placeId": "barrow",
    "name": "Barrow County",
    "type": "county",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 1,
     "land-use": 14,
@@ -112,7 +112,7 @@
    "placeId": "bartow",
    "name": "Bartow County",
    "type": "county",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "topics": {
     "land-use": 8,
     "local-taxes": 2
@@ -135,7 +135,7 @@
    "placeId": "butts",
    "name": "Butts County",
    "type": "county",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "topics": {
     "land-use": 6,
     "local-taxes": 11
@@ -143,10 +143,23 @@
    "lastActivity": "2026-10-26"
   },
   {
+   "placeId": "camden",
+   "name": "Camden County",
+   "type": "county",
+   "region": "Coastal Georgia",
+   "topics": {
+    "alpr": 1,
+    "data-center": 4,
+    "land-use": 6,
+    "local-taxes": 6
+   },
+   "lastActivity": "2026-11-03"
+  },
+  {
    "placeId": "carroll",
    "name": "Carroll County",
    "type": "county",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "West Georgia",
    "topics": {
     "data-center": 2,
     "land-use": 14,
@@ -170,7 +183,7 @@
    "placeId": "catoosa",
    "name": "Catoosa County",
    "type": "county",
-   "region": null,
+   "region": "Northwest Georgia",
    "topics": {
     "land-use": 14,
     "local-taxes": 3
@@ -194,7 +207,7 @@
    "placeId": "cherokee",
    "name": "Cherokee County",
    "type": "county",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 4,
     "data-center": 2,
@@ -220,7 +233,7 @@
    "placeId": "clayton",
    "name": "Clayton County",
    "type": "county",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 2,
     "data-center": 4,
@@ -233,7 +246,7 @@
    "placeId": "cobb",
    "name": "Cobb County",
    "type": "county",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "topics": {
     "data-center": 3,
     "land-use": 16,
@@ -245,7 +258,7 @@
    "placeId": "columbia",
    "name": "Columbia County",
    "type": "county",
-   "region": "Central Savannah River Area",
+   "region": "East Georgia",
    "topics": {
     "alpr": 2,
     "land-use": 21,
@@ -257,7 +270,7 @@
    "placeId": "covington",
    "name": "City of Covington",
    "type": "city",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 3,
     "data-center": 10,
@@ -270,7 +283,7 @@
    "placeId": "coweta",
    "name": "Coweta County",
    "type": "county",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "topics": {
     "data-center": 4,
     "land-use": 19,
@@ -282,7 +295,7 @@
    "placeId": "dawson",
    "name": "Dawson County",
    "type": "county",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "topics": {
     "land-use": 6,
     "local-taxes": 8
@@ -293,7 +306,7 @@
    "placeId": "dekalb",
    "name": "DeKalb County",
    "type": "county",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 8,
     "data-center": 15,
@@ -306,7 +319,7 @@
    "placeId": "douglas",
    "name": "Douglas County",
    "type": "county",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 3,
     "data-center": 2,
@@ -316,10 +329,22 @@
    "lastActivity": "2026-11-04"
   },
   {
+   "placeId": "effingham",
+   "name": "Effingham County",
+   "type": "county",
+   "region": "Coastal Georgia",
+   "topics": {
+    "data-center": 2,
+    "land-use": 25,
+    "local-taxes": 10
+   },
+   "lastActivity": "2026-11-03"
+  },
+  {
    "placeId": "fayette",
    "name": "Fayette County",
    "type": "county",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 3,
     "data-center": 10,
@@ -332,7 +357,7 @@
    "placeId": "forsyth",
    "name": "Forsyth County",
    "type": "county",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 1,
     "land-use": 21,
@@ -344,7 +369,7 @@
    "placeId": "fort-oglethorpe",
    "name": "City of Fort Oglethorpe",
    "type": "city",
-   "region": null,
+   "region": "Northwest Georgia",
    "topics": {
     "alpr": 2,
     "land-use": 24,
@@ -356,7 +381,7 @@
    "placeId": "fulton",
    "name": "Fulton County",
    "type": "county",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 1,
     "data-center": 3,
@@ -366,10 +391,22 @@
    "lastActivity": "2026-11-04"
   },
   {
+   "placeId": "gordon",
+   "name": "Gordon County",
+   "type": "county",
+   "region": "Northwest Georgia",
+   "topics": {
+    "data-center": 3,
+    "land-use": 17,
+    "local-taxes": 12
+   },
+   "lastActivity": "2026-11-09"
+  },
+  {
    "placeId": "gwinnett",
    "name": "Gwinnett County",
    "type": "county",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 2,
     "land-use": 3,
@@ -393,7 +430,7 @@
    "placeId": "henry",
    "name": "Henry County",
    "type": "county",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 2,
     "data-center": 1,
@@ -403,10 +440,45 @@
    "lastActivity": "2026-11-03"
   },
   {
+   "placeId": "houston",
+   "name": "Houston County",
+   "type": "county",
+   "region": "Middle Georgia",
+   "topics": {
+    "land-use": 17,
+    "local-taxes": 25
+   },
+   "lastActivity": "2026-11-03"
+  },
+  {
+   "placeId": "liberty",
+   "name": "Liberty County",
+   "type": "county",
+   "region": "Coastal Georgia",
+   "topics": {
+    "data-center": 1,
+    "land-use": 5,
+    "local-taxes": 1
+   },
+   "lastActivity": "2026-11-03"
+  },
+  {
+   "placeId": "lowndes",
+   "name": "Lowndes County",
+   "type": "county",
+   "region": "South Georgia",
+   "topics": {
+    "data-center": 2,
+    "land-use": 12,
+    "local-taxes": 2
+   },
+   "lastActivity": "2026-10-27"
+  },
+  {
    "placeId": "lumpkin",
    "name": "Lumpkin County",
    "type": "county",
-   "region": null,
+   "region": "Northeast Georgia",
    "topics": {
     "land-use": 10,
     "local-taxes": 8
@@ -417,7 +489,7 @@
    "placeId": "meriwether",
    "name": "Meriwether County",
    "type": "county",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "West Georgia",
    "topics": {
     "alpr": 1,
     "data-center": 2,
@@ -430,7 +502,7 @@
    "placeId": "morgan",
    "name": "Morgan County",
    "type": "county",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Northeast Georgia",
    "topics": {
     "alpr": 1,
     "data-center": 7,
@@ -456,17 +528,28 @@
    "placeId": "newton",
    "name": "Newton County",
    "type": "county",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "topics": {
     "land-use": 14
    },
    "lastActivity": "2026-09-29"
   },
   {
+   "placeId": "oconee",
+   "name": "Oconee County",
+   "type": "county",
+   "region": "Northeast Georgia",
+   "topics": {
+    "land-use": 15,
+    "local-taxes": 4
+   },
+   "lastActivity": "2026-11-03"
+  },
+  {
    "placeId": "paulding",
    "name": "Paulding County",
    "type": "county",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 11,
     "data-center": 21,
@@ -479,7 +562,7 @@
    "placeId": "pickens",
    "name": "Pickens County",
    "type": "county",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Northwest Georgia",
    "topics": {
     "land-use": 17,
     "local-taxes": 7
@@ -490,7 +573,7 @@
    "placeId": "rockdale",
    "name": "Rockdale County",
    "type": "county",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "topics": {
     "alpr": 3,
     "data-center": 7,
@@ -516,7 +599,7 @@
    "placeId": "socialcircle",
    "name": "City of Social Circle",
    "type": "city",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "topics": {
     "data-center": 2,
     "land-use": 12,
@@ -528,7 +611,7 @@
    "placeId": "spalding",
    "name": "Spalding County",
    "type": "county",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "topics": {
     "land-use": 10,
     "local-taxes": 7
@@ -536,10 +619,20 @@
    "lastActivity": "2026-11-02"
   },
   {
+   "placeId": "tift",
+   "name": "Tift County",
+   "type": "county",
+   "region": "South Georgia",
+   "topics": {
+    "local-taxes": 8
+   },
+   "lastActivity": "2026-09-14"
+  },
+  {
    "placeId": "walker",
    "name": "Walker County",
    "type": "county",
-   "region": null,
+   "region": "Northwest Georgia",
    "topics": {
     "data-center": 3,
     "land-use": 13,
@@ -551,7 +644,7 @@
    "placeId": "walton",
    "name": "Walton County",
    "type": "county",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "topics": {
     "land-use": 20,
     "local-taxes": 2
