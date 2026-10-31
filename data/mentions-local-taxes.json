@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T19:04:27Z",
+  "generatedAt": "2026-10-31T20:13:59Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
-  "count": 451
+  "count": 457
  },
  "mentions": [
   {
@@ -3038,6 +3038,29 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-09-15",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "referendum",
+    "rollback rate"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_09152026-661"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "baldwin",
    "placeName": "Baldwin County",
    "placeType": "county",
@@ -3098,6 +3121,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_09142026-657"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "lafayette",
+   "placeName": "City of LaFayette",
+   "placeType": "city",
+   "fips": null,
+   "region": "Northwest Georgia",
+   "date": "2026-09-14",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… A. The Haven B. Pee Wee Bailey 3. NEW BUSINESS A. Upcoming Events B. Adopt Property Tax millage rate C. October Council meeting date D. Finance Director E. Scare on the square road closure …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://cityoflafayettega.sharepoint.com/:f:/g/citycouncil/EuKc0m_YjoNAk4vebrFW74sBlFkBC85MhltNsyE3iZFtug?e=HTLdYH"
   },
   {
    "topic": "local-taxes",
@@ -4373,6 +4417,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-08-18",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_08182026-655"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "henry",
    "placeName": "Henry County",
    "placeType": "county",
@@ -5343,6 +5408,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-08-04",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… S: EXPENSES: ANNUAL: CAPITAL: $196,250.00 OTHER: FUNDING SOURCE: SPLOST IX – Roads, Streets, Bridges Equipment: 329-5-0000-542600 COMMISSION ACTION REQUESTED ON: August 4, 2026 PURPO …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_08042026-652"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -5922,6 +6008,29 @@
    "excerpt": "… Session, Executive Session, and Regular Meeting Minutes from July 7, 2026. 8. PUBLIC HEARING 8.1 Public Hearing - 2026 Millage Rate. Conduct a public hearing to receive input on the 2026 Millage Rate. 8.2 Public Hearing - Britton & Erika Felber - …",
    "excerptTerm": "millage",
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1582"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-07-21",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "millage",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07212026-648"
   },
   {
    "topic": "local-taxes",
@@ -6553,6 +6662,27 @@
    "excerpt": "… Company, Inc. located in Marietta, Georgia in the amount of $3,358,978.49. Funding is available through the 2021 SPLOST Fund and Federal Funds through the Georgia Department of Transportation (GDOT). 6. Budget Amendment 2-03 …",
    "excerptTerm": "splost",
    "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5375&compileOutputType=1"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-07-07",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "hotel motel tax"
+   ],
+   "tags": [],
+   "excerpt": "… e-Chairman Turner seconded to add ten thousand dollars ($10,000.00) to the Thiokol line item which is coming out of the hotel motel tax and approve the Annual Budget Adoption for fiscal year 2027 (July 1, 2026 to June 30, 2027) for all funds. So Voted: C …",
+   "excerptTerm": "hotel motel tax",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07072026-646"
   },
   {
    "topic": "local-taxes",
