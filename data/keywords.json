@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-30T19:36:37Z",
+  "generatedAt": "2026-10-31T02:23:14Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0"
  },
@@ -27,6 +27,12 @@
     "rezoning",
     "special-land-use",
     "variance"
+   ]
+  },
+  "local-taxes": {
+   "label": "Local taxes & referenda",
+   "tags": [
+    "local-taxes"
    ]
   }
  },
@@ -143,6 +149,36 @@
     "warehouse"
    ],
    "wholeWord": []
+  },
+  "local-taxes": {
+   "substring": [
+    "ad valorem",
+    "bond-for-title",
+    "floating local option",
+    "general obligation bond",
+    "homestead exemption",
+    "homestead option sales tax",
+    "hotel motel tax",
+    "hotel-motel tax",
+    "hotel/motel tax",
+    "local option sales tax",
+    "millage",
+    "notice of property tax",
+    "property tax increase",
+    "referendum",
+    "rollback rate",
+    "special purpose local option",
+    "splost",
+    "tax abatement",
+    "tax allocation district",
+    "tax digest",
+    "tax increment"
+   ],
+   "wholeWord": [
+    "flost",
+    "lhost",
+    "olost"
+   ]
   },
   "rezoning": {
    "substring": [
