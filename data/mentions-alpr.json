@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-30T19:36:37Z",
+  "generatedAt": "2026-10-31T02:23:14Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 60
+  "count": 63
  },
  "mentions": [
   {
@@ -28,6 +28,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1750&Inline=True"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "cherokee",
+   "placeName": "Cherokee County",
+   "placeType": "county",
+   "fips": "13057",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-11-03",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&event_id=1118"
   },
   {
    "topic": "alpr",
@@ -204,6 +225,28 @@
    "excerpt": "Commission District(s): All CO - Change Order No. 6 to Contract No. 1257650 BodyWorn™ Body Camera System (Multi-Year)(Sole Source). For use by the Marshal’s Office, Police Services (PS) and Animal Enforcement Servi …",
    "excerptTerm": "body cam",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4679&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "clarke",
+   "placeName": "Athens-Clarke County",
+   "placeType": "consolidated",
+   "fips": "13059",
+   "region": "Northeast Georgia",
+   "date": "2026-10-06",
+   "body": "Mayor & Commission Meetings",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise",
+    "body cam"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_10062026-3101"
   },
   {
    "topic": "alpr",
@@ -735,7 +778,7 @@
     "flock"
    ],
    "tags": [],
-   "excerpt": "… se persons. Police Department A. Resolution amending Resolution No. 23-197 regarding the Flock Safety agreement for product replacement. (Presenter: Captain Anthony Militello, HC …",
+   "excerpt": "… e persons. Police Department A. Resolution amending Resolution No. 23-197 regarding the Flock Safety agreement for product replacement. (Presenter: Captain Anthony Militello, HC …",
    "excerptTerm": "flock",
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2600,plainText=false)"
   },
@@ -1202,6 +1245,28 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6382&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "meriwether",
+   "placeName": "Meriwether County",
+   "placeType": "county",
+   "fips": "13199",
+   "region": "Broader Metropolitan Statistical Area",
+   "date": "2026-04-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "body cam",
+    "body-worn"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_04132026-641"
   },
   {
    "topic": "alpr",
