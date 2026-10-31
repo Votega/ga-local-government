@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T02:23:14Z",
+  "generatedAt": "2026-10-31T14:57:40Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 51
@@ -78,7 +78,7 @@
    "schedule": [
     {
      "body": "Board of Commissioners",
-     "when": "2nd Friday of every month, 5:00 p.m.",
+     "when": "2nd Thursday of every month, 5:00 p.m.",
      "location": "Board of Commissioners Conference Room"
     }
    ]
@@ -137,7 +137,7 @@
    ],
    "fips": "13007",
    "region": null,
-   "platform": "wix",
+   "platform": "wixtable",
    "links": {
     "base_url": "https://www.bakercountyga.com",
     "agendas_url": "https://www.bakercountyga.com/minutes-and-agendas"
@@ -1089,9 +1089,9 @@
    ],
    "fips": "13247",
    "region": "Atlanta Regional Commission",
-   "platform": "custom",
+   "platform": "wpmedia",
    "links": {
-    "base_url": "https://www.rockdalecountyga.gov/",
+    "base_url": "https://www.rockdalecountyga.gov",
     "agendas_url": "https://www.rockdalecountyga.gov/rockdale-board-of-commissioners-meeting-agenda/",
     "minutes_url": "https://www.rockdalecountyga.gov/boc-minutes/",
     "video_url": "https://www.rockdalecountyga.gov/board-of-commissioners-meeting-videos/"
