@@ -6,7 +6,7 @@ Published by [VoteGA.org](https://votega.org). Start with `latest.json`.
 
 ## Coverage
 
-- **42** jurisdictions scanned, of Georgia's 159 counties and ~537 cities.
+- **46** jurisdictions scanned, of Georgia's 159 counties and ~537 cities.
 - Last scan: **2026-10-31**
 - Only governments with an automated agenda feed are scanned; a place that is absent is **not covered yet**, which is different from *no mentions found*.
 
@@ -14,22 +14,23 @@ Published by [VoteGA.org](https://votega.org). Start with `latest.json`.
 
 | Topic | Mentions | Jurisdictions |
 | --- | --- | --- |
-| ALPR / surveillance | 63 | 22 |
-| Data centers | 108 | 23 |
-| Land use | 511 | 40 |
-| Local taxes & referenda | 351 | 39 |
+| ALPR / surveillance | 70 | 26 |
+| Data centers | 124 | 26 |
+| Land use | 559 | 44 |
+| Local taxes & referenda | 383 | 43 |
 
 ## ALPR vendors named
 
 | Vendor | Mentions |
 | --- | --- |
-| Flock Safety | 18 |
+| Flock Safety | 20 |
 | ShotSpotter (SoundThinking) | 4 |
 | Genetec | 2 |
 | Skydio | 2 |
 | Fusus (Axon) | 2 |
 | Avigilon (Motorola) | 1 |
 | Vigilant (Motorola) | 1 |
+| Axon Fleet | 1 |
 
 ## Read this before you use it
 
