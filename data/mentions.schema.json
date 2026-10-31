@@ -14,7 +14,8 @@
    "enum": [
     "alpr",
     "data-center",
-    "land-use"
+    "land-use",
+    "local-taxes"
    ]
   },
   "placeId": {
