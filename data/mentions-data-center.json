@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T02:23:14Z",
+  "generatedAt": "2026-10-31T14:57:40Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 108
+  "count": 124
  },
  "mentions": [
   {
@@ -174,6 +174,27 @@
    "excerpt": "… ruction Management, to modify and increase the architectural / engineering services agreement with TechSite; for the IT Data Center Facility project; and to authorize an expenditure up to $245,850.00 within the Information Services Capital Projects Fu …",
    "excerptTerm": "data center",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6219&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-10-22",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… s 1. Presentation from MPC on 2040 Comprehensive Plan Update 1. Five-Year Comprehensive Plan Update Presentation.pdf 2. Data Center Ordinance Development Discussion 2. Data Center Ordinance Development Presentation.pdf 3. Closed Executive Session: Per …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/october-22-2026-city-council-workshop/agenda.html"
   },
   {
    "topic": "data-center",
@@ -408,6 +429,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/10/BOC-minutes-10.6.26.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -447,6 +489,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_10062026-3101"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_ec86a6a047524541ac9d370df42316ba.pdf"
   },
   {
    "topic": "data-center",
@@ -552,6 +615,49 @@
    "excerpt": "… esolution of the Board of Commissioners of DeKalb County, Georgia Urging the Administration to Expand the Definition of Data Centers. Ordinance",
    "excerptTerm": "data center",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4491&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center",
+    "hyperscale"
+   ],
+   "tags": [],
+   "excerpt": "… Residential Subdivision) District to M-2 (General Industrial) District to permit a data center campus. FLUM2025-03: A request by MMM Acquisitions LLC to amend …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/09/9.24.26-BOC-ZPH-Packet.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/10/BOC-minutes-9.22.26.pdf"
   },
   {
    "topic": "data-center",
@@ -702,6 +808,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-09-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… n Adoption of an Ordinance Imposing a Temporary Moratorium on Development or Conversion Activity Related to Large-scale Data Centers with an Electrical Capacity of (10) Megawatts or Greater and Prohibiting the Conversion of Warehouses and Large Indust …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/september-10-2026-city-council-regular-meeting/agenda.html"
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -828,6 +955,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-08-27",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… n Adoption of an Ordinance Imposing a Temporary Moratorium on Development or Conversion Activity Related to Large-scale Data Centers with an Electrical Capacity of (10) Megawatts or Greater and Prohibiting the Conversion of Warehouses and Large Indust …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/august-27-2026-city-council-regular-meeting/agenda.html"
+  },
+  {
+   "topic": "data-center",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -846,6 +994,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/08-27-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-08-25",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/09/BOC-minutes-8.25.26.pdf"
   },
   {
    "topic": "data-center",
@@ -1332,6 +1501,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-07-23",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_0fbd71e1e4e347a8995e2bd57fd46ce6.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -1371,6 +1561,27 @@
    "excerpt": "… LOSURE OF EXECUTIVE SESSION 3. AMENDMENTS TO AGENDA 3.1 Amend to add item 6.3 under Commission Business - Moratorium on Data Centers. 3.2 Amend to add item 6.4 under Commission Business - Public Hearing to Extend Moratorium. 4. PRESENTATIONS/PROCLAMAT …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1582"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-07-16",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_875c9478df9046e48bb5fa6a7b6d8186.pdf"
   },
   {
    "topic": "data-center",
@@ -1521,6 +1732,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-07-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_228c67cb481a4a2baff3fdc9fcf54c06.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "covington",
    "placeName": "City of Covington",
    "placeType": "city",
@@ -1602,6 +1834,27 @@
    "excerpt": "… and Sustainability to amend Chapter 27 to Establish a Definition, Regulatory Guidelines, and Development Standards for Data Centers in M (Industrial), M-2 (Heavy Industrial), O-I (Office-Institutional), and O-D (Office-Distribution) zoning districts. …",
    "excerptTerm": "data center",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4479&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-06-23",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_989f83e32e6b43148c3429f0e77d4e3e.pdf"
   },
   {
    "topic": "data-center",
@@ -1857,6 +2110,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-06-02",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_1944d963c1364d869ba2d825a87fec3a.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -1920,6 +2194,28 @@
   },
   {
    "topic": "data-center",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-05-14",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center",
+    "hyperscale"
+   ],
+   "tags": [],
+   "excerpt": "… (Collaborative Residential Subdivision) District to M-2 (General Industrial) District to permit a data center campus LOCATION: NW Farmer Road and 2000 Irwin Bridge Road NW PARCEL: 041001008B and 0410010004 …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/05/5.14.26-PC-Packet.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -1938,6 +2234,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/05-13-2026%20Retreat%20Minutes-tps.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-05-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/06/BOC-minutes-5.12.26.pdf"
   },
   {
    "topic": "data-center",
@@ -2169,6 +2486,28 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-26-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-02-12",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center",
+    "hyperscale"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/02/2.12.26-PC-Packet-2.pdf"
   },
   {
    "topic": "data-center",
