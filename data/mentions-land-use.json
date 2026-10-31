@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T02:23:14Z",
+  "generatedAt": "2026-10-31T14:57:40Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 511
+  "count": 559
  },
  "mentions": [
   {
@@ -1037,6 +1037,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-10-26",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… t for FY 2027 2. Ordinance No. 2026-43 - Second and Final Reading (Stultz) Requested rezoning of C-1 property to C-2 zoning to allow for the construction of a larger building …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-October-26.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "butts",
    "placeName": "Butts County",
    "placeType": "county",
@@ -1082,6 +1107,56 @@
    "excerpt": "… ARTIN, MICHAEL JULIAN BOND, AND ESHÉ COLLINS TO AMEND CHAPTER 10, ARTICLE II, DIVISION 2, SUBDIVISION II, SECTION 10-92(B) OF THE CITY OF ATLANTA CODE OF ORDINANCES SO AS TO PROVIDE AN EXEMPT …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3955&Inline=True"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-10-22",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan"
+   ],
+   "tags": [
+    "comprehensive-plan"
+   ],
+   "excerpt": "… ving community for all. \" October 22, 2026 City Council Workshop Workshop Agenda Items 1. Presentation from MPC on 2040 Comprehensive Plan Update 1. Five-Year Comprehensive Plan Update Presentation.pdf 2. Data Center Ordinance Development Discussion 2. Data …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/october-22-2026-city-council-workshop/agenda.html"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-10-22",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "annexed",
+    "comprehensive plan",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/october-22-2026-city-council-regular-meeting/agenda.html"
   },
   {
    "topic": "land-use",
@@ -2215,6 +2290,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-10-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… 1. Ordinance No. 2026-42 - Budget for FY 2027 (Stultz) 2. Ordinance No. 2026-43 - Zoning amendment Requested rezoning of C-1 property to C-2 zoning to allow for the construction of a larger building Address: Lot 9 Joy Street …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/2026-10-12_City-Council_Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "atlanta",
    "placeName": "City of Atlanta",
    "placeType": "city",
@@ -2236,6 +2336,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3947&Inline=True"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-10-08",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "future land use",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "rezoning"
+   ],
+   "excerpt": "… f Coastal Engineering & Consulting, on behalf of the Property Owner, Mehul Sheth with DM Investment Holding, LLC, for a Future Land Use Map Amendment from Transportation/Communication/Utilities to Traditional Commercial for 3.12 acres at 815 Wheaton Stree …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/october-8-2026-city-council-regular-meeting/agenda.html"
   },
   {
    "topic": "land-use",
@@ -2390,6 +2515,34 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-46583f5dfb234249b9e7eb61aa450849.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/10/BOC-minutes-10.6.26.pdf"
   },
   {
    "topic": "land-use",
@@ -3191,6 +3344,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-09-28",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… Ordinances o Ordinance No. 2026-41 - Second/Final Reading (Stultz) Requested rezoning of C-2 property to C-2 zoning with a special exception to allow for the operation of a tobacco st …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/20260928-CCM-Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "atlanta",
    "placeName": "City of Atlanta",
    "placeType": "city",
@@ -3238,6 +3414,42 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://spaldingcounty.granicus.com/AgendaViewer.php?view_id=1&event_id=962"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "land use plan",
+    "mixed use",
+    "mixed-use",
+    "multi-family",
+    "rezon",
+    "subdivision",
+    "townhome",
+    "variance",
+    "warehouse"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… FLUM2025-03: A request by MMM Acquisitions LLC to amend the Future Land Use Map Category of parcels 041001008B & 0410010004 from Low Density Residentia …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/09/9.24.26-BOC-ZPH-Packet.pdf"
   },
   {
    "topic": "land-use",
@@ -3352,6 +3564,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2163&Inline=True"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use"
+   ],
+   "tags": [
+    "special-land-use"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/10/BOC-minutes-9.22.26.pdf"
   },
   {
    "topic": "land-use",
@@ -4169,6 +4404,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-09-14",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… September 14, 2026, 6p Ordinance No. 2026-41 - Zoning Amendment (Stultz) Requested rezoning of C-2 property to C-2 zoning with a special exception to allow for the operation of a tobacco store Addre …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-September-14.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "carrollton",
    "placeName": "City of Carrollton",
    "placeType": "city",
@@ -4214,6 +4472,32 @@
    "excerpt": "… ale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses and large industrial buildings to data centers use within unincorporated Chatham County. …",
    "excerptTerm": "warehouse",
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-09-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "townhome",
+    "warehouse"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development"
+   ],
+   "excerpt": "… f the Capital Improvements Element (Adopted by City Council in February 2023) which Amended the Chatham County-Savannah Comprehensive Plan (Plan 2040) and Transmittal to the Coastal Georgia Regional Commission for Regional and State Review Exihibit 1: FY25 I …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/september-10-2026-city-council-regular-meeting/agenda.html"
   },
   {
    "topic": "land-use",
@@ -4370,6 +4654,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10203,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/09/BOC-minutes-9.8.26-Workshop.pdf"
   },
   {
    "topic": "land-use",
@@ -5217,6 +5524,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-08-27",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "future land use",
+    "multi-family",
+    "rezon",
+    "subdivision",
+    "warehouse"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… C, 207 East 31st Street Starland LLC, Caroline Martha Braunschweig, Starland 302, Inc., and Azalea Row Realty LLC for a Future Land Use Map (FLUM) Amendment from Traditional Neighborhood to Traditional Commercial of 0.62 acres at 18, 19, 20, 23, 25, and 1 …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/august-27-2026-city-council-regular-meeting/agenda.html"
+  },
+  {
+   "topic": "land-use",
    "placeId": "newton",
    "placeName": "Newton County",
    "placeType": "county",
@@ -5680,6 +6016,31 @@
    "excerpt": "… d will be paid in full by Jackson County. Planning & Zoning 20 Public hearing to amend the Hall County Forward 2045 Comprehensive Plan. 21 Public hearing to amend the Code of Ordinances of Hall County with regard to Appendix A: Unified Develo …",
    "excerptTerm": "comprehensive plan",
    "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-ws-20260821194034801533.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-08-24",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… Ordinances 1. Ordinance No. 2026-39 - Second/Final Reading (Stultz) Requested rezoning of C-2 property to C-2 zoning with a special exception to allow for a church A …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-August-24.pdf"
   },
   {
    "topic": "land-use",
@@ -6247,6 +6608,30 @@
   },
   {
    "topic": "land-use",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-08-13",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… c Scott and Ashley Scott for a Zoning Map Amendment from RSF-20 (Residential Single-Family-20) to RMF-2-15 (Residential Multi-Family-2-15 units per acre) with a Condition for 0.45 Acres at 0 Mohawk Street (20782 01020) in Aldermanic District 6 (26-0024 …",
+   "excerptTerm": "multi-family",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/august-13-2026-city-council-regular-meeting/agenda.html"
+  },
+  {
+   "topic": "land-use",
    "placeId": "hall",
    "placeName": "Hall County",
    "placeType": "county",
@@ -6651,6 +7036,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-08-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… August 10, 2026, 6p 1. Ordinance No. 2026-39 - Zoning Amendment (Stultz) Requested rezoning of C-2 property to C-2 zoning with a special exception to allow for a church Address: 4039 Cloud Springs R …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-August-10.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "walton",
    "placeName": "Walton County",
    "placeType": "county",
@@ -6747,6 +7157,31 @@
    "excerpt": "… ties. IV. Morgan County Planning and Development is requesting a text amendment to Table 4.1 Permitted and Conditional Uses of the Morgan County Zoning Ordinance. ADJOURNMENT I. The chairman will adjourn the meeting.",
    "excerptTerm": "conditional use",
    "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_08062026-868"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-08-06",
+   "body": "Planning Advisory Board",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/2026.7.15.-Agenda.pdf"
   },
   {
    "topic": "land-use",
@@ -7337,6 +7772,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-07-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/08/BOC-minutes-7.28.26.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "newton",
    "placeName": "Newton County",
    "placeType": "county",
@@ -7486,6 +7944,29 @@
    "excerpt": "… ng A. Resolution approving a request for a new streetlight district for the King Oaks Subdivision on Campground Road. District 3 (Presenter: Kamryn Bowen, Planner I)(Exhibit 6) Reso …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2600,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-07-27",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… Ordinances 1. Ordinance No. 2026-37 - Second/Final Reading (Stultz) Requested rezoning of R-3 property to R-5 zoning Address: 100 Gross Crescent Circle, Fort Oglethorpe, Georgia 30742 …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-July-27.pdf"
   },
   {
    "topic": "land-use",
@@ -8324,6 +8805,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-07-13",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… July 13, 2026, 6p 1. Ordinance No. 2026-37 - Zoning Amendment (Stultz) Requested rezoning of R-3 property to R-5 zoning Address: 100 Gross Crescent Circle, Fort Oglethorpe, Georgia 30742 (MAP 0003 …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-July-13-1.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "carrollton",
    "placeName": "City of Carrollton",
    "placeType": "city",
@@ -8419,6 +8923,34 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3252,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-07-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "mixed-use",
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… ted at 0 Fort Argyle Road (PIN 11037 02002) from Chatham County to the City of Savannah. Exhibit 1: Draft Ordinance for Annexation of 0 Ft. Argyle Road.pdf 17. Petition of Coleman Company, Inc. on behalf of Brookhaven Development, LLC for Fort Argyle …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/july-9-2026-city-council-regular-meeting/agenda.html"
   },
   {
    "topic": "land-use",
@@ -8840,6 +9372,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-07-02",
+   "body": "Planning Advisory Board",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/2026.6.10.-Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "columbia",
    "placeName": "Columbia County",
    "placeType": "county",
@@ -8937,6 +9492,36 @@
    "excerpt": "To accept the application (AN25-013) of San Remo Townhomes, LLC for the annexation of certain territory containing 3.0± acres in Franklin & Norwich Township. ($0.00) Ordinance",
    "excerptTerm": "annexation",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6195&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-06-25",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "comprehensive plan",
+    "future land use",
+    "mixed-use",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… ment (City of Savannah) to Allow a Residential, Commercial, and Mixed-use Development (26-001014-ZA). This Supports the Annexation of 0 Ft. Argyle Road (11037 02002). Exhibit 1: MPC Recommendation Packet for 0 and 1150 Ft. Argyle Road (26-001014-ZA). …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/june-25-2026-city-council-regular-meeting/agenda.html"
   },
   {
    "topic": "land-use",
@@ -9192,6 +9777,58 @@
    "excerpt": "To accept the application (AN25-013) of San Remo Townhomes, LLC for the annexation of certain territory containing 3.0± acres in Franklin & Norwich Township. ($0.00) Ordinance",
    "excerptTerm": "annexation",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6193&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-06-22",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… ommodations 2. Ordinance No. 2026-33 - Second and Final Reading (Stultz) Requested subdivision of one R-1 property into two separate R-1 parcels Address: 60 Dyer Bridge Place, Ringgold, Georgia …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-June-22.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-06-18",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "special-land-use"
+   ],
+   "excerpt": "… omprehensively regulates zoning districts, permitted and conditional uses, development standards, subdivision regulations, environmental protections, stormwater management, buffers, tree protection, administrative proc …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/06/PC-Special-Called-Mtg-Agenda-6.18.26.pdf"
   },
   {
    "topic": "land-use",
@@ -9696,6 +10333,37 @@
   },
   {
    "topic": "land-use",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-06-11",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "conditional use",
+    "future land use",
+    "rezon",
+    "subdivision",
+    "warehouse"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": "… 2 ROCKDALE COUNTY DEPARTMENT OF PLANNING & DEVELOPMENT ZONING MAP FUTURE LAND USE MAP 3 ROCKDALE COUNTY DEPARTMENT OF PLANNING & DEVELOPMENT AERIAL MAP PR …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/06/6.11.26-PC-Packet.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -9762,6 +10430,31 @@
    "excerpt": "… ation. This grant is to go toward a consultation for a mural. RESULT: COMPLETED 2. Mixed-Use Development at Annie P. Henderson and N. Cherokee Road Community Development Director Ashley Davis stat …",
    "excerptTerm": "mixed-use",
    "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2146&Inline=True"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-06-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/06/BOC-minutes-6.9.26.pdf"
   },
   {
    "topic": "land-use",
@@ -9960,6 +10653,33 @@
    "excerpt": "To authorize the Director of the Department of Development to enter into an Amendment to the Annexation Agreement between the City of Columbus, Plain Township, and the City of New Albany;; to adjust growth boundaries for sp …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6190&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-06-08",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… June 8, 2026, 6p 1. Ordinance No. 2026-33 - Ordinance Amendment (Stultz) Requested subdivision of one R-1 property into two separate R-1 parcels Address: 60 Dyer Bridge Place, Ringgold, Georgia 30736 (MAP 0013 …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-June-8-r1.pdf"
   },
   {
    "topic": "land-use",
@@ -10475,6 +11195,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-06-01",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… Pledge of Allegiance Ordinances 1. Ordinance No. 2026-25 - Second/Final Reading (Stultz) Requested subdivision of one R-3 parcel into 36 separate R-3 parcels Address: 100 Thomas Road, Fort Oglethorpe, Georgia (MAP 0003F0 …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/06.01.2026-Special-Called-Meeting-Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "bartow",
    "placeName": "Bartow County",
    "placeType": "county",
@@ -10495,6 +11242,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.bartowcountyga.gov/CommissionerOffice/AGENDA.PUBLIC_MEETING_6-1-2026.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-05-28",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… nt #1 28. Settlement #2 MISCELLANEOUS 29. Authorize the City Manager to Approve Revision to a Previously Recorded Major Subdivision Plat, Portion of Lot 1, SEDA in Aldermanic District 5. (Development Services Department) Exhibit 1: Revised Plat.pdf",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/may-28-2026-city-council-regular-meeting/agenda.html"
   },
   {
    "topic": "land-use",
@@ -11003,6 +11773,74 @@
   },
   {
    "topic": "land-use",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-05-14",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "warehouse"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… ment of Grant Award -Transfer from Area 11.pdf 28. Approval of a Water & Sewer Agreement with Rockingham Farms, LLC for Warehouse Drive Phase 2B for Installation of 1,000 Linear Feet of Water Main and 900 Linear Feet of Sewer Main in the President S …",
+   "excerptTerm": "warehouse",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/may-14-2026-city-council-regular-meeting/agenda.html"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-05-14",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "annexed",
+    "apartment",
+    "comprehensive plan",
+    "conditional use",
+    "future land use",
+    "land use plan",
+    "mixed use",
+    "mixed-use",
+    "multi-family",
+    "multifamily",
+    "rezon",
+    "subdivision",
+    "townhome",
+    "variance",
+    "warehouse"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/05/5.14.26-PC-Packet.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "henry",
    "placeName": "Henry County",
    "placeType": "county",
@@ -11171,6 +12009,33 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_05112026-644"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-05-11",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… PUBLIC HEARING May 11, 2026, 6p 1. Ordinance No. 2026-25 - Subdivision of property (Stultz) Requested subdivision of one R-3 parcel into 36 separate R-3 parcels Address: 100 Thomas …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-May-11.pdf"
   },
   {
    "topic": "land-use",
@@ -11452,6 +12317,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-05-05",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan"
+   ],
+   "tags": [
+    "comprehensive-plan"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_2681a8bea0be4fa98919033eda2df31c.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "carrollton",
    "placeName": "City of Carrollton",
    "placeType": "city",
@@ -11498,6 +12386,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-04-27",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "mixed use",
+    "rezon",
+    "townhome"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-April-27.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "butts",
    "placeName": "Butts County",
    "placeType": "county",
@@ -11518,6 +12433,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://buttsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1042,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-04-23",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/april-23-2026-city-council-regular-meeting/agenda.html"
   },
   {
    "topic": "land-use",
@@ -11860,6 +12798,34 @@
   },
   {
    "topic": "land-use",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-04-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/04/BOC-minutes-4.14.26.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -11986,6 +12952,33 @@
    "excerpt": "… READING AND APPROVAL OF PREVIOUS MINUTES III. OLD BUSINESS: IV. NEW BUSINESS: A. Rezones and Conditional Uses: RZ – 191131 Bill Roland 315 Liberty Lane …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_04132026-178"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-04-13",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "mixed use",
+    "rezon",
+    "townhome"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… 1830 Fant Drive, Fort Oglethorpe, Georgia 30742 (MAP 0003C017) - Rezoning of R-5 property to Planned Mixed Use zoning to be compatible with the existing operation of an apartment complex 1875 Fant Drive, …",
+   "excerptTerm": "mixed use",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-April-13.pdf"
   },
   {
    "topic": "land-use",
@@ -12146,6 +13139,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-04-02",
+   "body": "Planning Advisory Board",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "mixed use",
+    "rezon",
+    "townhome"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/2026.4.2-PAB-Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -12202,6 +13222,57 @@
    "excerpt": "… PLEDGE TO THE FLAG IV. ADOPT AGENDA V. NEW BUSINESS 1. Discussion of the City of Greenville's Proposed Annexation of Property for Residential Development VI. EXECUTIVE SESSION 1. Litigation 2. Personnel 3. Rea …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_03232026-637"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-03-23",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "mixed use",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/doc00573420260220141747.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-03-23",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/20260323-CCM-Agenda.pdf"
   },
   {
    "topic": "land-use",
@@ -12487,6 +13558,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-03-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/20260309-Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -12509,6 +13605,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3192,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-03-05",
+   "body": "Planning Advisory Board",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/20260305-PAB-Agenda.pdf"
   },
   {
    "topic": "land-use",
@@ -12641,6 +13760,73 @@
   },
   {
    "topic": "land-use",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-02-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "rezon",
+    "subdivision",
+    "warehouse"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/03/BOC-minutes-2.17.26.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-02-12",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "comprehensive plan",
+    "future land use",
+    "land use plan",
+    "mixed use",
+    "mixed-use",
+    "multi-family",
+    "multifamily",
+    "rezon",
+    "subdivision",
+    "townhome",
+    "variance",
+    "warehouse"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… 1 ITEM R-3: FLUM2025-06 PURPOSE: A request by Quick Drop Towing and Recovery to amend the Future Land Use Map Category of parcel 0100010018 from Commercial to Light Industrial permit an expansion o …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/02/2.12.26-PC-Packet-2.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -12704,6 +13890,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-02-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "mixed use",
+    "rezon",
+    "subdivision",
+    "townhome"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/doc00553420260206150950.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -12724,6 +13939,34 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3184,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-02-05",
+   "body": "Planning Advisory Board",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "mixed use",
+    "rezon",
+    "townhome"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/2026.1.16.-Agenda.pdf"
   },
   {
    "topic": "land-use",
@@ -12749,6 +13992,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://drive.google.com/file/d/1ULD3YaLUZdUK0gnia10DMOCWU5XzwZKJ/view"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-01-26",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "townhome"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… 01- Second and Final Reading (Stultz) Requested rezoning of R-1 property to R-5 zoning to construct townhomes Address: 1161 Steele Road, Rossville, Georgia 30741 (MAP 0010C027) Property ow …",
+   "excerptTerm": "townhome",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-January-26.pdf"
   },
   {
    "topic": "land-use",
