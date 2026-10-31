@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T02:23:14Z",
+  "generatedAt": "2026-10-31T14:57:40Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 42
+  "count": 46
  },
  "places": [
   {
@@ -59,6 +59,19 @@
     "local-taxes": 3
    },
    "lastActivity": "2026-08-18"
+  },
+  {
+   "placeId": "baker",
+   "name": "Baker County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "alpr": 1,
+    "data-center": 6,
+    "land-use": 1,
+    "local-taxes": 6
+   },
+   "lastActivity": "2026-10-06"
   },
   {
    "placeId": "baldwin",
@@ -328,6 +341,18 @@
    "lastActivity": "2026-10-20"
   },
   {
+   "placeId": "fort-oglethorpe",
+   "name": "City of Fort Oglethorpe",
+   "type": "city",
+   "region": null,
+   "topics": {
+    "alpr": 2,
+    "land-use": 24,
+    "local-taxes": 3
+   },
+   "lastActivity": "2026-10-26"
+  },
+  {
    "placeId": "fulton",
    "name": "Fulton County",
    "type": "county",
@@ -460,6 +485,32 @@
     "local-taxes": 7
    },
    "lastActivity": "2026-10-19"
+  },
+  {
+   "placeId": "rockdale",
+   "name": "Rockdale County",
+   "type": "county",
+   "region": "Atlanta Regional Commission",
+   "topics": {
+    "alpr": 3,
+    "data-center": 7,
+    "land-use": 12,
+    "local-taxes": 18
+   },
+   "lastActivity": "2026-10-20"
+  },
+  {
+   "placeId": "savannah",
+   "name": "City of Savannah",
+   "type": "city",
+   "region": "Coastal Georgia",
+   "topics": {
+    "alpr": 1,
+    "data-center": 3,
+    "land-use": 11,
+    "local-taxes": 5
+   },
+   "lastActivity": "2026-10-22"
   },
   {
    "placeId": "socialcircle",
