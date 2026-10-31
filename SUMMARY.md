@@ -6,7 +6,7 @@ Published by [VoteGA.org](https://votega.org). Start with `latest.json`.
 
 ## Coverage
 
-- **54** jurisdictions scanned, of Georgia's 159 counties and ~537 cities.
+- **55** jurisdictions scanned, of Georgia's 159 counties and ~537 cities.
 - Last scan: **2026-10-31**
 - Only governments with an automated agenda feed are scanned; a place that is absent is **not covered yet**, which is different from *no mentions found*.
 
@@ -14,10 +14,10 @@ Published by [VoteGA.org](https://votega.org). Start with `latest.json`.
 
 | Topic | Mentions | Jurisdictions |
 | --- | --- | --- |
-| ALPR / surveillance | 71 | 27 |
-| Data centers | 136 | 31 |
-| Land use | 656 | 51 |
-| Local taxes & referenda | 451 | 51 |
+| ALPR / surveillance | 73 | 27 |
+| Data centers | 138 | 31 |
+| Land use | 669 | 52 |
+| Local taxes & referenda | 457 | 52 |
 
 ## ALPR vendors named
 
