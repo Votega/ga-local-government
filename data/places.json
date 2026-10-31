@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T14:57:40Z",
+  "generatedAt": "2026-10-31T19:04:27Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 51
+  "count": 60
  },
  "places": [
   {
@@ -15,7 +15,7 @@
     "appling"
    ],
    "fips": "13001",
-   "region": null,
+   "region": "South Georgia",
    "platform": "pdflinks",
    "links": {
     "base_url": "https://applingcountyga.org/",
@@ -69,7 +69,7 @@
     "atkinson"
    ],
    "fips": "13003",
-   "region": null,
+   "region": "South Georgia",
    "platform": "pdflinks",
    "links": {
     "base_url": "https://atkinsoncounty.org/",
@@ -113,7 +113,7 @@
     "bacon"
    ],
    "fips": "13005",
-   "region": null,
+   "region": "South Georgia",
    "platform": "pdflinks",
    "links": {
     "base_url": "https://baconcounty.org/",
@@ -136,7 +136,7 @@
     "baker"
    ],
    "fips": "13007",
-   "region": null,
+   "region": "South Georgia",
    "platform": "wixtable",
    "links": {
     "base_url": "https://www.bakercountyga.com",
@@ -159,7 +159,7 @@
     "baldwin"
    ],
    "fips": "13009",
-   "region": null,
+   "region": "Middle Georgia",
    "platform": "teammunicode",
    "links": {
     "base_url": "https://baldwincounty.teammunicode.com",
@@ -182,7 +182,7 @@
     "banks"
    ],
    "fips": "13011",
-   "region": null,
+   "region": "Northeast Georgia",
    "platform": "teammunicode",
    "links": {
     "base_url": "https://legacybankscountyga.teammunicode.com",
@@ -205,7 +205,7 @@
     "barrow"
    ],
    "fips": "13013",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "platform": "granicus",
    "links": {
     "base_url": "https://barrowga.org/",
@@ -228,7 +228,7 @@
     "bartow"
    ],
    "fips": "13015",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "platform": "revize",
    "links": {
     "base_url": "https://www.bartowcountyga.gov/index.php",
@@ -251,7 +251,7 @@
     "butts"
    ],
    "fips": "13035",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "platform": "civicclerk",
    "links": {
     "agendas_url": "https://buttsco.portal.civicclerk.com/"
@@ -265,6 +265,29 @@
    ]
   },
   {
+   "placeId": "camden",
+   "name": "Camden County",
+   "type": "county",
+   "county": "camden",
+   "counties": [
+    "camden"
+   ],
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "platform": "civicplus",
+   "links": {
+    "base_url": "https://www.camdencountyga.gov",
+    "agendas_url": "https://www.camdencountyga.gov/AgendaCenter"
+   },
+   "schedule": [
+    {
+     "body": "Board of County Commissioners",
+     "when": "1st and 3rd Tuesday of every month, 6:00 p.m. (exceptions are posted on the county calendar)",
+     "location": "Commission Chambers, 2nd Floor, Government Services Complex, 200 East 4th Street, Woodbine"
+    }
+   ]
+  },
+  {
    "placeId": "carroll",
    "name": "Carroll County",
    "type": "county",
@@ -273,7 +296,7 @@
     "carroll"
    ],
    "fips": "13045",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "West Georgia",
    "platform": "civicclerk",
    "links": {
     "base_url": "https://ga-carrollcounty.civicplus.com/182/Board-of-Commissioners",
@@ -296,7 +319,7 @@
     "catoosa"
    ],
    "fips": "13047",
-   "region": null,
+   "region": "Northwest Georgia",
    "platform": "granicus",
    "links": {
     "base_url": "https://www.catoosacountyga.gov/",
@@ -341,7 +364,7 @@
     "cherokee"
    ],
    "fips": "13057",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "granicus",
    "links": {
     "base_url": "https://www.cherokeecountyga.gov/",
@@ -365,7 +388,7 @@
     "dekalb"
    ],
    "fips": null,
-   "region": "Atlanta",
+   "region": "Metro Atlanta",
    "platform": "iqm2",
    "links": {
     "base_url": "https://citycouncil.atlantaga.gov/",
@@ -411,7 +434,7 @@
     "rockdale"
    ],
    "fips": null,
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "custom",
    "links": {
     "agendas_url": "https://www.conyersga.com/government/city-government/council-agendas-and-minutes"
@@ -433,7 +456,7 @@
     "newton"
    ],
    "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "platform": "corecode",
    "links": {
     "base_url": "https://www.cityofcovington.org"
@@ -452,10 +475,11 @@
    "type": "city",
    "county": "catoosa",
    "counties": [
-    "catoosa"
+    "catoosa",
+    "walker"
    ],
    "fips": null,
-   "region": null,
+   "region": "Northwest Georgia",
    "platform": "wpdatatables",
    "links": {
     "base_url": "https://fortogov.com",
@@ -478,7 +502,7 @@
     "walker"
    ],
    "fips": null,
-   "region": null,
+   "region": "Northwest Georgia",
    "platform": "sharepoint",
    "links": {
     "base_url": "https://mycityoflafayettega.org",
@@ -501,7 +525,7 @@
     "baldwin"
    ],
    "fips": null,
-   "region": null,
+   "region": "Middle Georgia",
    "platform": "unknown",
    "links": {
     "agendas_url": "https://www.milledgevillega.us/index.php/agendas-and-minutes/"
@@ -524,7 +548,7 @@
     "coweta"
    ],
    "fips": null,
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "unknown",
    "links": {
     "agendas_url": "https://www.citypalmetto.com/meetings"
@@ -556,7 +580,7 @@
     "walker"
    ],
    "fips": null,
-   "region": null,
+   "region": "Northwest Georgia",
    "platform": "squarespace",
    "links": {
     "base_url": "https://www.rossvillega.gov",
@@ -602,7 +626,7 @@
     "walton"
    ],
    "fips": null,
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "platform": "iqm2",
    "links": {
     "base_url": "https://www.socialcirclega.gov/departments/mayor-and-council",
@@ -625,7 +649,7 @@
     "clayton"
    ],
    "fips": "13063",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "primegov",
    "links": {
     "base_url": "https://claytoncountyga.primegov.com",
@@ -648,7 +672,7 @@
     "cobb"
    ],
    "fips": "13067",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "civicclerk",
    "links": {},
    "schedule": [
@@ -668,7 +692,7 @@
     "columbia"
    ],
    "fips": "13073",
-   "region": "Central Savannah River Area",
+   "region": "East Georgia",
    "platform": "civicclerk",
    "links": {
     "agendas_url": "https://columbiacoga.portal.civicclerk.com/"
@@ -715,7 +739,7 @@
     "coweta"
    ],
    "fips": "13077",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "platform": "civicclerk",
    "links": {
     "agendas_url": "https://cowetacoga.portal.civicclerk.com/"
@@ -737,7 +761,7 @@
     "dawson"
    ],
    "fips": "13085",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "platform": "municode",
    "links": {
     "agendas_url": "https://meetings.municode.com/PublishPage/index?cid=DAGA&ppid=d6a9cb0f-51b2-4f2b-9c12-76e9ed0e66e5"
@@ -759,7 +783,7 @@
     "dekalb"
    ],
    "fips": "13089",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "legistar",
    "links": {},
    "schedule": [
@@ -779,7 +803,7 @@
     "douglas"
    ],
    "fips": "13097",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "civicclerk",
    "links": {
     "base_url": "https://www.douglascountyga.gov/323/Board-of-Commissioners"
@@ -793,6 +817,28 @@
    ]
   },
   {
+   "placeId": "effingham",
+   "name": "Effingham County",
+   "type": "county",
+   "county": "effingham",
+   "counties": [
+    "effingham"
+   ],
+   "fips": "13103",
+   "region": "Coastal Georgia",
+   "platform": "municode",
+   "links": {
+    "agendas_url": "https://meetings.municode.com/PublishPage/index?cid=EFFINGHAM&ppid=9639c19d-1d1f-4201-b8ff-163a28a35f08"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Tuesday of every month, 5:00 p.m.",
+     "location": "Effingham Administration Complex, Commissioner Meeting Room, 804 S. Laurel Street, Springfield, GA 31329"
+    }
+   ]
+  },
+  {
    "placeId": "fayette",
    "name": "Fayette County",
    "type": "county",
@@ -801,7 +847,7 @@
     "fayette"
    ],
    "fips": "13113",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "revize",
    "links": {
     "base_url": "https://www.fayettecountyga.gov/",
@@ -824,7 +870,7 @@
     "forsyth"
    ],
    "fips": "13117",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "civicclerk",
    "links": {
     "base_url": "https://www.forsythco.com/government/",
@@ -847,7 +893,7 @@
     "fulton"
    ],
    "fips": "13121",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "legistar",
    "links": {},
    "schedule": [
@@ -855,6 +901,29 @@
      "body": "Board of Commissioners",
      "when": "1st and 3rd Wednesday of every month, 10:00 a.m.",
      "location": "Fulton County Government Center, Assembly Hall, 141 Pryor Street SW, Atlanta"
+    }
+   ]
+  },
+  {
+   "placeId": "gordon",
+   "name": "Gordon County",
+   "type": "county",
+   "county": "gordon",
+   "counties": [
+    "gordon"
+   ],
+   "fips": "13129",
+   "region": "Northwest Georgia",
+   "platform": "civicplus",
+   "links": {
+    "base_url": "https://www.gordoncountyga.gov",
+    "agendas_url": "https://www.gordoncountyga.gov/AgendaCenter"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Tuesday of every month, 6:00 p.m. (work session 5:00 p.m.)",
+     "location": "Assembly Room, Judicial Building, 101 South Piedmont Street, Calhoun"
     }
    ]
   },
@@ -867,7 +936,7 @@
     "gwinnett"
    ],
    "fips": "13135",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "gwinnett",
    "links": {
     "base_url": "https://www.gwinnettcounty.com/",
@@ -913,7 +982,7 @@
     "henry"
    ],
    "fips": "13151",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "civicclerk",
    "links": {},
    "schedule": [
@@ -921,6 +990,85 @@
      "body": "Board of Commissioners",
      "when": "1st Tuesday of every month, 9:00 a.m. and 3rd Tuesday of every month, 6:30 p.m.",
      "location": "Henry County Administration Building Community Room, 140 Henry Parkway, McDonough"
+    }
+   ]
+  },
+  {
+   "placeId": "houston",
+   "name": "Houston County",
+   "type": "county",
+   "county": "houston",
+   "counties": [
+    "houston"
+   ],
+   "fips": "13153",
+   "region": "Middle Georgia",
+   "platform": "htmltable",
+   "links": {
+    "base_url": "https://www.houstoncountyga.gov",
+    "agendas_url": "https://www.houstoncountyga.gov/commissioner/meeting-minutes.cms"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Tuesday of every month, 9:00 a.m.",
+     "location": "Houston County Courthouse, Commissioners Boardroom, 201 Perry Parkway, Perry"
+    },
+    {
+     "body": "Board of Commissioners",
+     "when": "3rd Tuesday of every month, 5:00 p.m.",
+     "location": "Annex Building, Commissioners Boardroom, 200 Carl Vinson Parkway, Warner Robins"
+    }
+   ]
+  },
+  {
+   "placeId": "liberty",
+   "name": "Liberty County",
+   "type": "county",
+   "county": "liberty",
+   "counties": [
+    "liberty"
+   ],
+   "fips": "13179",
+   "region": "Coastal Georgia",
+   "platform": "civicplus",
+   "links": {
+    "base_url": "https://www.libertycountyga.gov",
+    "agendas_url": "https://www.libertycountyga.gov/AgendaCenter"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Tuesday of every month, 6:00 p.m., and 3rd Thursday of every month, 5:00 p.m.",
+     "location": "Courthouse Annex, Commissioners' Board Room, 2nd Floor, 112 N. Main Street, Hinesville, GA 31313"
+    }
+   ]
+  },
+  {
+   "placeId": "lowndes",
+   "name": "Lowndes County",
+   "type": "county",
+   "county": "lowndes",
+   "counties": [
+    "lowndes"
+   ],
+   "fips": "13185",
+   "region": "South Georgia",
+   "platform": "civicplus",
+   "links": {
+    "base_url": "https://www.lowndescounty.com",
+    "agendas_url": "https://www.lowndescounty.com/AgendaCenter"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners (Regular Meeting)",
+     "when": "2nd and 4th Tuesday of every month, 5:30 p.m. (one meeting in November and December)",
+     "location": "Administration Building, 2nd Floor, 327 N. Ashley St., Valdosta, GA 31601"
+    },
+    {
+     "body": "Board of Commissioners (Work Session)",
+     "when": "Monday before each Tuesday regular meeting, 8:30 a.m.",
+     "location": "Administration Building, 2nd Floor, 327 N. Ashley St., Valdosta, GA 31601"
     }
    ]
   },
@@ -933,7 +1081,7 @@
     "lumpkin"
    ],
    "fips": "13187",
-   "region": null,
+   "region": "Northeast Georgia",
    "platform": "civicclerk",
    "links": {
     "agendas_url": "https://lumpkincoga.portal.civicclerk.com/"
@@ -975,7 +1123,7 @@
     "meriwether"
    ],
    "fips": "13199",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "West Georgia",
    "platform": "civicplus",
    "links": {
     "base_url": "https://www.meriwethercountyga.gov",
@@ -998,7 +1146,7 @@
     "morgan"
    ],
    "fips": "13211",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Northeast Georgia",
    "platform": "civicplus",
    "links": {
     "base_url": "https://www.morgancountyga.gov",
@@ -1021,7 +1169,7 @@
     "newton"
    ],
    "fips": "13217",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "platform": "civicplus",
    "links": {
     "base_url": "https://www.newtoncountyga.gov"
@@ -1035,6 +1183,33 @@
    ]
   },
   {
+   "placeId": "oconee",
+   "name": "Oconee County",
+   "type": "county",
+   "county": "oconee",
+   "counties": [
+    "oconee"
+   ],
+   "fips": "13219",
+   "region": "Northeast Georgia",
+   "platform": "civicclerk",
+   "links": {
+    "agendas_url": "https://oconeecountyga.portal.civicclerk.com/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Tuesday of every month, 6:00 p.m. (agenda-setting meeting on the 4th Tuesday)",
+     "location": "Oconee County Town Hall, 7635 Macon Highway, Watkinsville, GA 30677"
+    },
+    {
+     "body": "Planning Commission",
+     "when": "3rd Monday of every month, 6:00 p.m.",
+     "location": "Oconee County Town Hall, 7635 Macon Highway, Watkinsville, GA 30677"
+    }
+   ]
+  },
+  {
    "placeId": "paulding",
    "name": "Paulding County",
    "type": "county",
@@ -1043,7 +1218,7 @@
     "paulding"
    ],
    "fips": "13223",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "municode",
    "links": {
     "agendas_url": "https://meetings.municode.com/PublishPage/index?cid=PAULDINGGA&ppid=a023d971-d971-44ac-a411-85d5afa307e1"
@@ -1065,7 +1240,7 @@
     "pickens"
    ],
    "fips": "13227",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Northwest Georgia",
    "platform": "civicplus",
    "links": {
     "base_url": "https://www.pickenscountyga.gov",
@@ -1088,7 +1263,7 @@
     "rockdale"
    ],
    "fips": "13247",
-   "region": "Atlanta Regional Commission",
+   "region": "Metro Atlanta",
    "platform": "wpmedia",
    "links": {
     "base_url": "https://www.rockdalecountyga.gov",
@@ -1113,7 +1288,7 @@
     "spalding"
    ],
    "fips": "13255",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "platform": "granicus",
    "links": {
     "base_url": "https://www.spaldingcounty.com/",
@@ -1128,6 +1303,34 @@
    ]
   },
   {
+   "placeId": "tift",
+   "name": "Tift County",
+   "type": "county",
+   "county": "tift",
+   "counties": [
+    "tift"
+   ],
+   "fips": "13277",
+   "region": "South Georgia",
+   "platform": "htmltable",
+   "links": {
+    "base_url": "https://www.tiftcounty.org",
+    "agendas_url": "https://www.tiftcounty.org/government/resource_library.php"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners (Regular Meeting)",
+     "when": "2nd Monday of every month, 6:00 p.m.",
+     "location": "Room 207, Charles Kent Administration Building, 225 Tift Ave, Tifton, GA 31794"
+    },
+    {
+     "body": "Board of Commissioners (Work Session)",
+     "when": "First Tuesday after the first Monday of every month, 6:00 p.m.",
+     "location": "Room 207, Charles Kent Administration Building, 225 Tift Ave, Tifton, GA 31794"
+    }
+   ]
+  },
+  {
    "placeId": "walker",
    "name": "Walker County",
    "type": "county",
@@ -1136,7 +1339,7 @@
     "walker"
    ],
    "fips": "13295",
-   "region": null,
+   "region": "Northwest Georgia",
    "platform": "civicclerk",
    "links": {
     "base_url": "https://www.walkercountyga.gov/",
@@ -1159,7 +1362,7 @@
     "walton"
    ],
    "fips": "13297",
-   "region": "Broader Metropolitan Statistical Area",
+   "region": "Metro Atlanta",
    "platform": "teammunicode",
    "links": {
     "base_url": "https://waltoncounty-ga.municodemeetings.com",
@@ -1170,6 +1373,29 @@
      "body": "Board of Commissioners",
      "when": "1st Tuesday of every month, 6:00 p.m.",
      "location": "Historic Walton County Courthouse, 111 S Broad Street, Monroe"
+    }
+   ]
+  },
+  {
+   "placeId": "whitfield",
+   "name": "Whitfield County",
+   "type": "county",
+   "county": "whitfield",
+   "counties": [
+    "whitfield"
+   ],
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "platform": "htmltable",
+   "links": {
+    "base_url": "https://www.whitfieldcountyga.com",
+    "agendas_url": "https://www.whitfieldcountyga.com/government/elected_officials/board_of_commissioners/agenda_minutes_videos.php"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd Monday of every month, 6:00 p.m.",
+     "location": "Whitfield County Courthouse, 205 N. Selvidge St., Dalton, GA"
     }
    ]
   }
