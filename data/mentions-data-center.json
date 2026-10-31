@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T19:04:27Z",
+  "generatedAt": "2026-10-31T20:13:59Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 136
+  "count": 138
  },
  "mentions": [
   {
@@ -744,6 +744,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-09-29",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… __________________________________________________________ Convene Work Session 6:00 PM • Discussion regarding Data Center Ordinance. Adjourn Work Session As set forth in the Americans with Disabilities Act of 1990, Camden County d …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_09292026-665"
+  },
+  {
+   "topic": "data-center",
    "placeId": "rockdale",
    "placeName": "Rockdale County",
    "placeType": "county",
@@ -931,6 +952,27 @@
    "excerpt": "… trict(s): All Commission Districts A Resolution Requiring an Independent, Third-Party Health and Environmental Study of Data Centers and Their Possible Impact on DeKalb County and Board of Commissioners Review of the Study Before DeKalb County’s Data …",
    "excerptTerm": "data center",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4490&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-09-15",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_09152026-661"
   },
   {
    "topic": "data-center",
