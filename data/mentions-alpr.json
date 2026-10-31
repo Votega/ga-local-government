@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T19:04:27Z",
+  "generatedAt": "2026-10-31T20:13:59Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 71
+  "count": 73
  },
  "mentions": [
   {
@@ -878,6 +878,27 @@
   },
   {
    "topic": "alpr",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-07-21",
+   "body": "Board of County Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "plate reader"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07212026-648"
+  },
+  {
+   "topic": "alpr",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -965,6 +986,29 @@
    "excerpt": "… hnology Product Solutions and Related Services (Cooperative Agreement No. 23-6692-01). For use by Fire Rescue to obtain dashcam equipment through the competitively let County / Omnia contract for the purchase of dashcam equipment, related accessor …",
    "excerptTerm": "dashcam",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4482&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-07-07",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "license plate reader",
+    "lpr",
+    "plate reader"
+   ],
+   "tags": [],
+   "excerpt": "… : 7/7/26 PURPOSE: To request that the Board of Commissioners: a. Consider the approval to purchase of two (2) License Plate Readers FACTS & ISSUES: 1. Vendor is GSA (state contract pricing) approved Contract Holder. 2. Vendor has …",
+   "excerptTerm": "license plate reader",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07072026-646"
   },
   {
    "topic": "alpr",
