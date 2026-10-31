@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-30T19:36:37Z",
+  "generatedAt": "2026-10-31T02:23:14Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 106
+  "count": 108
  },
  "mentions": [
   {
@@ -48,6 +48,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_11032026-885"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "augusta",
+   "placeName": "Augusta-Richmond County",
+   "placeType": "consolidated",
+   "fips": "13245",
+   "region": "East Georgia",
+   "date": "2026-11-03",
+   "body": "Augusta Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… ipients. DELEGATION(S) B. Ms. Ashley Benton-Harold request Commission review of the September 15 and October 6, 2026 data center ordinance proceedings, verification and correction of the reported 11–0 versus 6–5 voting discrepancy, review of pub …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/augustaga-pubu/MEET-Agenda-3e833accc3794092aaa9eb3565191ecf.pdf"
   },
   {
    "topic": "data-center",
@@ -122,15 +143,15 @@
    "date": "2026-10-27",
    "body": "Board of Commissioners",
    "confidence": "high",
-   "context": "agenda-action",
+   "context": null,
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": "… Consider Approval of 90-Day Extension of R-1 Residential Lot Moratorium 9. Consider Approval of 90-Day Extension of Data Center Moratorium 10. Update and Discussion — Enterprise Fleet Management for Public Works 11. Renewal of Agreement for ACCG F …",
-   "excerptTerm": "data center",
+   "excerpt": null,
+   "excerptTerm": null,
    "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_10272026-661"
   },
   {
@@ -405,6 +426,27 @@
    "excerpt": "… trict(s): All Commission Districts A Resolution Requiring an Independent, Third-Party Health and Environmental Study of Data Centers and Their Possible Impact on DeKalb County and Board of Commissioners Review of the Study Before DeKalb County’s Data …",
    "excerptTerm": "data center",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4679&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "clarke",
+   "placeName": "Athens-Clarke County",
+   "placeType": "consolidated",
+   "fips": "13059",
+   "region": "Northeast Georgia",
+   "date": "2026-10-06",
+   "body": "Mayor & Commission Meetings",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_10062026-3101"
   },
   {
    "topic": "data-center",
@@ -1256,15 +1298,15 @@
    "date": "2026-07-28",
    "body": "Board of Commissioners",
    "confidence": "high",
-   "context": "agenda-action",
+   "context": null,
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "data center"
    ],
    "tags": [],
-   "excerpt": "… osition/In-house Commercial Revaluation XIII. NEW BUSINESS 1. Consider Approval of a Resolution Extending the Data Center Moratorium for an Additional Ninety (90) Days 2. Consider Approval of Ordinance Amendment 2026-01 Regarding Bo …",
-   "excerptTerm": "data center",
+   "excerpt": null,
+   "excerptTerm": null,
    "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_07282026-650"
   },
   {
