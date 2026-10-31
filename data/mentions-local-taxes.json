@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T02:23:14Z",
+  "generatedAt": "2026-10-31T14:57:40Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
-  "count": 351
+  "count": 383
  },
  "mentions": [
   {
@@ -576,6 +576,27 @@
    "excerpt": "… inclusion of certain Fulton County taxes in the computation of the tax allocation increment for the City of Alpharetta Tax Allocation District number three - North Point Mall and Activity Center; and for other purposes. (Ellis/Thorne) (APPROVED AS AMENDED) The C …",
    "excerptTerm": "tax allocation district",
    "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6398&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-20",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/10/BOC-minutes-10.20.26.pdf"
   },
   {
    "topic": "local-taxes",
@@ -1317,6 +1338,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-10-08",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Resolution Authorizing the Chatham County/City of Savannah Land Bank Authority to Use Up To $2,450,000 From “1K-in-10” SPLOST Blighted Property Acquisition Program Funds to Help it Purchase Approximately 1-1/2 Blocks of Vacant Blighted Property …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/october-8-2026-city-council-regular-meeting/agenda.html"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -1379,6 +1421,27 @@
    "excerpt": "Fiscal Year 2026 General Fund Millage Rate Public Hearing. PUBLIC HEARING CONDUCTED 6 Speakers: Maria Gaudio; Robby Caban; LA Pink; Janet Hill; Angeline Payn …",
    "excerptTerm": "millage",
    "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6397&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/10/BOC-minutes-10.6.26.pdf"
   },
   {
    "topic": "local-taxes",
@@ -2081,6 +2144,30 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "millage",
+    "splost",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/09/9.24.26-BOC-ZPH-Packet.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -2144,6 +2231,27 @@
    "excerpt": "… resolution; to provide an effective date of this resolution; and for other purposes. VI. AGENDA ITEMS 1. Millage Rate Presentation (CFO Terry Jackson) 2. Public Hearing 3. Resolution 2026-213: A resolution to p …",
    "excerptTerm": "millage",
    "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5606&compileOutputType=1"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/10/BOC-minutes-9.22.26.pdf"
   },
   {
    "topic": "local-taxes",
@@ -2640,6 +2748,28 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-09-14",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "special purpose local option"
+   ],
+   "tags": [],
+   "excerpt": "… ion No. 2026-03 - A resolution to authorize the opening of a separate bank account for Walker County Special Purpose Local Option Sales Tax proceeds (Stultz) Ordinances o Ordinance No. 2026-41 - First Readin …",
+   "excerptTerm": "special purpose local option",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-September-14.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "douglas",
    "placeName": "Douglas County",
    "placeType": "county",
@@ -2683,6 +2813,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-09-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_12ae5b319bd74cc2967a285e439fc432.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -2702,6 +2853,28 @@
    "excerpt": "… vember 3, 2026. Background/History/Details: The City of Fayetteville will conduct a special election regarding a homestead exemption question pursuant to the applicable local act. The proposed Intergovernmental Agreement (IGA) between Fayette County …",
    "excerptTerm": "homestead exemption",
    "sourceUrl": "https://www.fayettecountyga.gov/09-10-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-09-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "referendum"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/09/BOC-minutes-9.8.26-Workshop.pdf"
   },
   {
    "topic": "local-taxes",
@@ -2990,6 +3163,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-09-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_4c4d38bdaa99472fa71c7b821f3c90c0.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -3073,6 +3267,27 @@
    "excerpt": "… the Sandy Creek Road at Ellison Road Roundabout (Project #25TAB) and reallocation of $474,661.00 from the 2017 SPLOST Project #17TAG (Intersection Safety Improvements) to Project #25TAB. (pages 62-73) 10. Request to accept …",
    "excerptTerm": "splost",
    "sourceUrl": "https://www.fayettecountyga.gov/08-27-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-08-25",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/09/BOC-minutes-8.25.26.pdf"
   },
   {
    "topic": "local-taxes",
@@ -3348,6 +3563,30 @@
    "excerpt": "… CITIZENS REQUESTS VI. COUNCIL REQUESTS VII. AGENDA APPROVAL VIII. PUBLIC HEARINGS 1. 2026 Millage Rate Public Hearing 2. REZ-2026-006 - Request to Rezone from Agriculture (AG) to Residential-15 (R-15) as Par …",
    "excerptTerm": "millage",
    "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2160&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-08-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "homestead exemption",
+    "homestead option sales tax",
+    "millage",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/09/BOC-minutes-8.18.26.pdf"
   },
   {
    "topic": "local-taxes",
@@ -3672,6 +3911,50 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-08-13",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": "… torney August 13, 2026 City Council Special Meeting Special Meeting Agenda Items 1. Public Hearing on 2026 Property Tax Millage Rate Exhibit 1: State of Georgia Notice of Tax Increase.pdf Exhibit 2: 2026 Tax Digest and Five Year History.pdf",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/august-13-2026-city-council-special-meeting/agenda.html"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-08-13",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": "… Report - Crosspoint Market Exhibit 5 - Safety Plan - Crosspoint PUBLIC HEARINGS 12. Public Hearing on 2026 Property Tax Millage Rate. (Financial Services Department) Exhibit 1: State of Georgia Notice of Tax Increase.pdf Exhibit 2: 2026 Tax Digest …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/august-13-2026-city-council-regular-meeting/agenda.html"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "hall",
    "placeName": "Hall County",
    "placeType": "county",
@@ -3712,6 +3995,27 @@
    "excerpt": "… he intersection of Banks Road and Ellis Road and approval for staff to create a new project number out of 2017 SPLOST 17TAG. (pages 25-28) 6. Approval of Board of Assessors' recommendation to approve a disposition of tax refund, a …",
    "excerptTerm": "splost",
    "sourceUrl": "https://www.fayettecountyga.gov/08-13-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-08-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/08/BOC-minutes-8.11.26.pdf"
   },
   {
    "topic": "local-taxes",
@@ -3861,6 +4165,28 @@
    "excerpt": "… 1 of 5 Financial Services 7 First public hearing regarding Hall County's intent to levy a 2026 millage rate for the County's General Fund greater than the calculated full rollback per the State of Georgia f …",
    "excerptTerm": "millage",
    "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-328-ws-20260810131407101846.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-08-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "rollback rate"
+   ],
+   "tags": [],
+   "excerpt": "… henson Park (Lynn Fant-Burke, Kiwanis Club of Fort Oglethorpe) 2. Recommendation to adopt the millage rollback rate for 2026 property rates for Walker County (Huhn) 3. Recommendation to renew the …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-August-10.pdf"
   },
   {
    "topic": "local-taxes",
@@ -4477,6 +4803,50 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-07-29",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "flost",
+    "millage",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/08/BOC-Retreat-minutes-7.29.26.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-07-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/08/BOC-minutes-7.28.26.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -4540,6 +4910,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-07-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_0ddfe2ebd966416ea66e5f808096cc96.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "henry",
    "placeName": "Henry County",
    "placeType": "county",
@@ -4558,6 +4949,28 @@
    "excerpt": "… nter: Captain Anthony Militello, HCPD)(Exhibit 9) Resolution 26-293 SPLOST A. Resolution approving the Keys Ferry Road Extension Design Services Supplemental Ag …",
    "excerptTerm": "splost",
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2600,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-07-27",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "rollback rate"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-July-27.pdf"
   },
   {
    "topic": "local-taxes",
@@ -4908,6 +5321,29 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-07-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "flost",
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/07/BOC-minutes-7.14.26.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -5097,6 +5533,49 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-07-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": "… Attorney July 9, 2026 City Council Special Meeting Special Meeting Agenda Items 1. Public Hearing on 2026 Property Tax Millage Rate Exhibit 1: State of Georgia Notice of Tax Increase.pdf Exhibit 2: 2026 Tax Digest and Five Year History.pdf",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/july-9-2026-city-council-special-meeting/agenda.html"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-07-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… ECTION UNLESS NOTED OTHERWISE) ORDINANCES - FIRST READING 14. Approval to Amend the 2026 Revenue Ordinance to Adopt the Millage Rate of 11.749 Mills as the Final Millage Rate for 2026. (Financial Services Department) Exhibit 1: Revenue Ordinance A …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/july-9-2026-city-council-regular-meeting/agenda.html"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -5273,6 +5752,49 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-07-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "lhost",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_228c67cb481a4a2baff3fdc9fcf54c06.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-07-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_7b586d1679cf4eb3bc08f03a7634b9cb.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -5313,6 +5835,27 @@
    "excerpt": "… of the Department of Development to enter into an Enterprise Zone Agreement with Dupon USA LLC (the “Enterprise”) for a tax abatement of seventy-five percent (75%) for a period of ten (10) consecutive years in consideration of the Enterprise investing a …",
    "excerptTerm": "tax abatement",
    "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6195&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-06-23",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/07/BOC-minutes-6.23.26.pdf"
   },
   {
    "topic": "local-taxes",
@@ -5737,6 +6280,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-06-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/06/BOC-minutes-6.9.26.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -5951,6 +6515,27 @@
    "excerpt": "… Dollar Amount: _______________________ INSTRUCTIONS: THIS FORM SHOULD BE FILLED OUT BY THE □ SPLOST Dollar Amount: _______________________ DEPARTMENT HEAD WHO IS RESPONSIBLE FOR ALL …",
    "excerptTerm": "splost",
    "sourceUrl": "https://buttsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1045,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-06-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "lhost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_cecedfe34a5d4baba3516388b7bfba11.pdf"
   },
   {
    "topic": "local-taxes",
@@ -6342,6 +6927,28 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-05-14",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/05/5.14.26-PC-Packet.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -6643,6 +7250,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3484,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-04-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/05/BOC-minutes-4.28.26.pdf"
   },
   {
    "topic": "local-taxes",
@@ -7243,6 +7871,48 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-03-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/03/BOC-minutes-3.10.26.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-03-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/03/BOC-minutes-3.3.26.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "appling",
    "placeName": "Appling County",
    "placeType": "county",
@@ -7325,6 +7995,27 @@
    "excerpt": "… Dollar Amount: _______________________ INSTRUCTIONS: THIS FORM SHOULD BE FILLED OUT BY THE □ SPLOST Dollar Amount: _______________________ DEPARTMENT HEAD WHO IS RESPONSIBLE FOR ALL …",
    "excerptTerm": "splost",
    "sourceUrl": "https://buttsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=38,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-02-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/03/BOC-minutes-2.17.26.pdf"
   },
   {
    "topic": "local-taxes",
