@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-30T19:36:37Z",
+  "generatedAt": "2026-10-31T02:23:14Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 42
@@ -11,8 +11,10 @@
    "name": "Appling County",
    "type": "county",
    "region": null,
-   "topics": {},
-   "lastActivity": null
+   "topics": {
+    "local-taxes": 8
+   },
+   "lastActivity": "2026-10-08"
   },
   {
    "placeId": "atkinson",
@@ -30,7 +32,8 @@
    "topics": {
     "alpr": 1,
     "data-center": 7,
-    "land-use": 13
+    "land-use": 13,
+    "local-taxes": 10
    },
    "lastActivity": "2026-11-02"
   },
@@ -40,9 +43,10 @@
    "type": "consolidated",
    "region": "East Georgia",
    "topics": {
-    "land-use": 2
+    "data-center": 1,
+    "land-use": 3
    },
-   "lastActivity": "2026-10-27"
+   "lastActivity": "2026-11-03"
   },
   {
    "placeId": "bacon",
@@ -51,7 +55,8 @@
    "region": null,
    "topics": {
     "data-center": 1,
-    "land-use": 2
+    "land-use": 2,
+    "local-taxes": 3
    },
    "lastActivity": "2026-08-18"
   },
@@ -61,9 +66,10 @@
    "type": "county",
    "region": null,
    "topics": {
-    "land-use": 2
+    "land-use": 2,
+    "local-taxes": 7
    },
-   "lastActivity": "2026-08-25"
+   "lastActivity": "2026-11-05"
   },
   {
    "placeId": "banks",
@@ -72,9 +78,10 @@
    "region": null,
    "topics": {
     "data-center": 2,
-    "land-use": 13
+    "land-use": 13,
+    "local-taxes": 5
    },
-   "lastActivity": "2026-10-06"
+   "lastActivity": "2026-10-13"
   },
   {
    "placeId": "barrow",
@@ -83,9 +90,10 @@
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "alpr": 1,
-    "land-use": 14
+    "land-use": 14,
+    "local-taxes": 4
    },
-   "lastActivity": "2026-10-15"
+   "lastActivity": "2026-10-27"
   },
   {
    "placeId": "bartow",
@@ -93,7 +101,8 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 8
+    "land-use": 8,
+    "local-taxes": 2
    },
    "lastActivity": "2026-10-14"
   },
@@ -104,7 +113,8 @@
    "region": "Middle Georgia",
    "topics": {
     "alpr": 7,
-    "land-use": 19
+    "land-use": 19,
+    "local-taxes": 24
    },
    "lastActivity": "2026-11-03"
   },
@@ -114,7 +124,8 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 6
+    "land-use": 6,
+    "local-taxes": 11
    },
    "lastActivity": "2026-10-26"
   },
@@ -125,7 +136,8 @@
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "data-center": 2,
-    "land-use": 14
+    "land-use": 14,
+    "local-taxes": 3
    },
    "lastActivity": "2026-11-05"
   },
@@ -136,7 +148,8 @@
    "region": "West Georgia",
    "topics": {
     "alpr": 1,
-    "land-use": 16
+    "land-use": 16,
+    "local-taxes": 2
    },
    "lastActivity": "2026-11-02"
   },
@@ -146,7 +159,8 @@
    "type": "county",
    "region": null,
    "topics": {
-    "land-use": 15
+    "land-use": 14,
+    "local-taxes": 3
    },
    "lastActivity": "2026-10-27"
   },
@@ -158,7 +172,8 @@
    "topics": {
     "alpr": 3,
     "data-center": 1,
-    "land-use": 13
+    "land-use": 13,
+    "local-taxes": 13
    },
    "lastActivity": "2026-11-06"
   },
@@ -168,11 +183,12 @@
    "type": "county",
    "region": "Atlanta Regional Commission",
    "topics": {
-    "alpr": 3,
+    "alpr": 4,
     "data-center": 2,
-    "land-use": 16
+    "land-use": 16,
+    "local-taxes": 8
    },
-   "lastActivity": "2026-10-20"
+   "lastActivity": "2026-11-03"
   },
   {
    "placeId": "clarke",
@@ -180,7 +196,10 @@
    "type": "consolidated",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 7
+    "alpr": 1,
+    "data-center": 1,
+    "land-use": 7,
+    "local-taxes": 7
    },
    "lastActivity": "2026-11-04"
   },
@@ -192,9 +211,10 @@
    "topics": {
     "alpr": 2,
     "data-center": 4,
-    "land-use": 8
+    "land-use": 8,
+    "local-taxes": 16
    },
-   "lastActivity": "2026-10-20"
+   "lastActivity": "2026-11-03"
   },
   {
    "placeId": "cobb",
@@ -203,7 +223,8 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "data-center": 3,
-    "land-use": 16
+    "land-use": 16,
+    "local-taxes": 5
    },
    "lastActivity": "2026-12-09"
   },
@@ -214,7 +235,8 @@
    "region": "Central Savannah River Area",
    "topics": {
     "alpr": 2,
-    "land-use": 21
+    "land-use": 21,
+    "local-taxes": 2
    },
    "lastActivity": "2026-11-05"
   },
@@ -226,7 +248,8 @@
    "topics": {
     "alpr": 3,
     "data-center": 10,
-    "land-use": 7
+    "land-use": 7,
+    "local-taxes": 2
    },
    "lastActivity": "2026-09-01"
   },
@@ -237,7 +260,8 @@
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "data-center": 4,
-    "land-use": 19
+    "land-use": 19,
+    "local-taxes": 5
    },
    "lastActivity": "2026-10-20"
   },
@@ -247,9 +271,10 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 6
+    "land-use": 6,
+    "local-taxes": 8
    },
-   "lastActivity": "2026-10-20"
+   "lastActivity": "2026-11-05"
   },
   {
    "placeId": "dekalb",
@@ -259,7 +284,8 @@
    "topics": {
     "alpr": 8,
     "data-center": 15,
-    "land-use": 22
+    "land-use": 22,
+    "local-taxes": 12
    },
    "lastActivity": "2026-11-05"
   },
@@ -271,7 +297,8 @@
    "topics": {
     "alpr": 3,
     "data-center": 2,
-    "land-use": 13
+    "land-use": 13,
+    "local-taxes": 17
    },
    "lastActivity": "2026-11-04"
   },
@@ -283,7 +310,8 @@
    "topics": {
     "alpr": 3,
     "data-center": 10,
-    "land-use": 20
+    "land-use": 20,
+    "local-taxes": 20
    },
    "lastActivity": "2026-10-22"
   },
@@ -294,7 +322,8 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "alpr": 1,
-    "land-use": 21
+    "land-use": 21,
+    "local-taxes": 14
    },
    "lastActivity": "2026-10-20"
   },
@@ -306,7 +335,8 @@
    "topics": {
     "alpr": 1,
     "data-center": 3,
-    "land-use": 15
+    "land-use": 14,
+    "local-taxes": 13
    },
    "lastActivity": "2026-11-04"
   },
@@ -317,9 +347,10 @@
    "region": "Atlanta Regional Commission",
    "topics": {
     "alpr": 2,
-    "land-use": 3
+    "land-use": 3,
+    "local-taxes": 13
    },
-   "lastActivity": "2026-10-27"
+   "lastActivity": "2026-11-03"
   },
   {
    "placeId": "hall",
@@ -328,7 +359,8 @@
    "region": "Northeast Georgia",
    "topics": {
     "alpr": 2,
-    "land-use": 14
+    "land-use": 14,
+    "local-taxes": 4
    },
    "lastActivity": "2026-11-02"
   },
@@ -340,7 +372,8 @@
    "topics": {
     "alpr": 2,
     "data-center": 1,
-    "land-use": 14
+    "land-use": 14,
+    "local-taxes": 18
    },
    "lastActivity": "2026-11-03"
   },
@@ -350,7 +383,8 @@
    "type": "county",
    "region": null,
    "topics": {
-    "land-use": 10
+    "land-use": 10,
+    "local-taxes": 8
    },
    "lastActivity": "2026-11-09"
   },
@@ -360,8 +394,10 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
+    "alpr": 1,
     "data-center": 2,
-    "land-use": 8
+    "land-use": 9,
+    "local-taxes": 14
    },
    "lastActivity": "2026-10-27"
   },
@@ -373,7 +409,8 @@
    "topics": {
     "alpr": 1,
     "data-center": 7,
-    "land-use": 14
+    "land-use": 14,
+    "local-taxes": 15
    },
    "lastActivity": "2026-11-03"
   },
@@ -385,7 +422,8 @@
    "topics": {
     "alpr": 3,
     "data-center": 4,
-    "land-use": 23
+    "land-use": 23,
+    "local-taxes": 4
    },
    "lastActivity": "2026-11-02"
   },
@@ -407,7 +445,8 @@
    "topics": {
     "alpr": 11,
     "data-center": 21,
-    "land-use": 11
+    "land-use": 11,
+    "local-taxes": 23
    },
    "lastActivity": "2026-10-13"
   },
@@ -417,7 +456,8 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 17
+    "land-use": 17,
+    "local-taxes": 7
    },
    "lastActivity": "2026-10-19"
   },
@@ -428,7 +468,8 @@
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
     "data-center": 2,
-    "land-use": 12
+    "land-use": 12,
+    "local-taxes": 3
    },
    "lastActivity": "2026-10-27"
   },
@@ -438,9 +479,10 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 10
+    "land-use": 10,
+    "local-taxes": 7
    },
-   "lastActivity": "2026-10-27"
+   "lastActivity": "2026-11-02"
   },
   {
    "placeId": "walker",
@@ -449,7 +491,8 @@
    "region": null,
    "topics": {
     "data-center": 3,
-    "land-use": 13
+    "land-use": 13,
+    "local-taxes": 9
    },
    "lastActivity": "2026-11-05"
   },
@@ -459,7 +502,8 @@
    "type": "county",
    "region": "Broader Metropolitan Statistical Area",
    "topics": {
-    "land-use": 20
+    "land-use": 20,
+    "local-taxes": 2
    },
    "lastActivity": "2026-11-17"
   }
