@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T02:23:14Z",
+  "generatedAt": "2026-10-31T14:57:40Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 63
+  "count": 70
  },
  "mentions": [
   {
@@ -644,6 +644,27 @@
   },
   {
    "topic": "alpr",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-08-11",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "crime center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/08/BOC-minutes-8.11.26.pdf"
+  },
+  {
+   "topic": "alpr",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -850,6 +871,28 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3633,plainText=false)"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-07-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise",
+    "body worn"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/07/BOC-minutes-7.14.26.pdf"
   },
   {
    "topic": "alpr",
@@ -1227,6 +1270,27 @@
   },
   {
    "topic": "alpr",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-05-14",
+   "body": "City Council",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/may-14-2026-city-council-regular-meeting/agenda.html"
+  },
+  {
+   "topic": "alpr",
    "placeId": "fulton",
    "placeName": "Fulton County",
    "placeType": "county",
@@ -1267,6 +1331,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_04132026-641"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-04-13",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [
+    "Axon Fleet"
+   ],
+   "matchedTerms": [
+    "axon fleet"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-April-13.pdf"
   },
   {
    "topic": "alpr",
@@ -1355,6 +1442,28 @@
   },
   {
    "topic": "alpr",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": null,
+   "date": "2026-03-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "license plate reader",
+    "plate reader"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/20260309-Agenda.pdf"
+  },
+  {
+   "topic": "alpr",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -1373,6 +1482,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-26-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Atlanta Regional Commission",
+   "date": "2026-02-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/03/BOC-minutes-2.17.26.pdf"
   },
   {
    "topic": "alpr",
@@ -1396,6 +1528,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1727&Inline=True"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": null,
+   "date": "2026-01-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_cbc6e6b5b5c94590b8ab27ce0c73d26e.pdf"
   },
   {
    "topic": "alpr",
