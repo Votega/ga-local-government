@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T20:13:59Z",
+  "generatedAt": "2026-11-01T03:29:01Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 60
+  "count": 62
  },
  "places": [
   {
@@ -639,6 +639,23 @@
      "location": "City Community Room, 138 East Hightower Trail, Social Circle"
     }
    ]
+  },
+  {
+   "placeId": "thomasville",
+   "name": "City of Thomasville",
+   "type": "city",
+   "county": "thomas",
+   "counties": [
+    "thomas"
+   ],
+   "fips": null,
+   "region": "South Georgia",
+   "platform": "pdflinks",
+   "links": {
+    "base_url": "https://thomasville.org/",
+    "agendas_url": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes"
+   },
+   "schedule": []
   },
   {
    "placeId": "clayton",
@@ -1299,6 +1316,29 @@
      "body": "Board of Commissioners",
      "when": "2nd and 3rd Monday of each month, 6:00 p.m. ",
      "location": "Room 108, Annex Building 119 E. Solomon Street Griffin"
+    }
+   ]
+  },
+  {
+   "placeId": "thomas",
+   "name": "Thomas County",
+   "type": "county",
+   "county": "thomas",
+   "counties": [
+    "thomas"
+   ],
+   "fips": "13275",
+   "region": "South Georgia",
+   "platform": "nimblecal",
+   "links": {
+    "base_url": "https://thomascountyboc.org/",
+    "minutes_url": "https://thomascountyboc.org/about-us/county-commissioners/board-minutes/files"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd Tuesday of every month, 9:00 a.m., and 4th Tuesday, 6:00 p.m.",
+     "location": "Thomas County Historic Courthouse, 3rd Floor Commission Chambers, 225 North Broad Street, Thomasville, GA"
     }
    ]
   },
