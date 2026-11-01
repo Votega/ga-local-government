@@ -16,7 +16,7 @@ Published by [VoteGA.org](https://votega.org). Start with `latest.json`.
 | --- | --- | --- |
 | ALPR / surveillance | 77 | 29 |
 | Data centers | 146 | 33 |
-| Land use | 700 | 55 |
+| Land use | 699 | 55 |
 | Local taxes & referenda | 489 | 56 |
 
 ## ALPR vendors named
