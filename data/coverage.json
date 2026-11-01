@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T20:13:59Z",
+  "generatedAt": "2026-11-01T03:29:01Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 55
+  "count": 58
  },
  "places": [
   {
@@ -630,6 +630,29 @@
    "lastActivity": "2026-11-02"
   },
   {
+   "placeId": "thomas",
+   "name": "Thomas County",
+   "type": "county",
+   "region": "South Georgia",
+   "topics": {
+    "alpr": 1,
+    "land-use": 1,
+    "local-taxes": 4
+   },
+   "lastActivity": "2026-11-03"
+  },
+  {
+   "placeId": "thomasville",
+   "name": "City of Thomasville",
+   "type": "city",
+   "region": "South Georgia",
+   "topics": {
+    "land-use": 16,
+    "local-taxes": 7
+   },
+   "lastActivity": "2026-10-12"
+  },
+  {
    "placeId": "tift",
    "name": "Tift County",
    "type": "county",
@@ -661,6 +684,18 @@
     "local-taxes": 2
    },
    "lastActivity": "2026-11-17"
+  },
+  {
+   "placeId": "whitfield",
+   "name": "Whitfield County",
+   "type": "county",
+   "region": "Northwest Georgia",
+   "topics": {
+    "data-center": 7,
+    "land-use": 12,
+    "local-taxes": 17
+   },
+   "lastActivity": "2026-10-12"
   }
  ]
 }
