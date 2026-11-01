@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-01T03:29:01Z",
+  "generatedAt": "2026-11-01T14:16:18Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 145
+  "count": 146
  },
  "mentions": [
   {
@@ -531,6 +531,27 @@
    "excerpt": "… r June will be presented at next months meeting. Chairman's Report: Chairman Jensen noted the Board is working on a data center ordinance and an informational session on data centers will be held in October but the date is not finalized yet. R …",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/October%2012,%202026%20BOC%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "rossville",
+   "placeName": "City of Rossville",
+   "placeType": "city",
+   "fips": null,
+   "region": "Northwest Georgia",
+   "date": "2026-10-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rossvillega.gov/s/Agenda-Packet-October-2026.pdf"
   },
   {
    "topic": "data-center",
