@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-01T14:16:18Z",
+  "generatedAt": "2026-11-01T16:58:06Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 62
@@ -655,7 +655,18 @@
     "base_url": "https://thomasville.org/",
     "agendas_url": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes"
    },
-   "schedule": []
+   "schedule": [
+    {
+     "body": "City Council",
+     "when": "2nd and 4th Monday of each month, 6:00 p.m., unless otherwise posted",
+     "location": null
+    },
+    {
+     "body": "City Council Workshop",
+     "when": "1st and 3rd Wednesday of each month, 4:00 p.m., unless otherwise posted",
+     "location": null
+    }
+   ]
   },
   {
    "placeId": "clayton",
