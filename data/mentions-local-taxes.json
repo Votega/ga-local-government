@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-01T03:29:01Z",
+  "generatedAt": "2026-11-01T14:16:18Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
-  "count": 485
+  "count": 489
  },
  "mentions": [
   {
@@ -1543,6 +1543,29 @@
    "excerpt": "… f Minutes a. September 14th, 2026 Regular Business Meeting b. September 18th, 2026 Special Called/Millage Rate Public Hearing Meeting c. September 29th Noon & 6:00 PM Special Called/Public Hearing Meeting (7) Re …",
    "excerptTerm": "millage",
    "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/October%2012,%202026%20BOC%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rossville",
+   "placeName": "City of Rossville",
+   "placeType": "city",
+   "fips": null,
+   "region": "Northwest Georgia",
+   "date": "2026-10-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "splost",
+    "tax abatement"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rossvillega.gov/s/Agenda-Packet-October-2026.pdf"
   },
   {
    "topic": "local-taxes",
@@ -3475,6 +3498,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "thomas",
+   "placeName": "Thomas County",
+   "placeType": "county",
+   "fips": "13275",
+   "region": "South Georgia",
+   "date": "2026-09-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/e1/f0/e1f043adafe49fc480d4479447d102bd.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "rockdale",
    "placeName": "Rockdale County",
    "placeType": "county",
@@ -4828,6 +4872,27 @@
    "excerpt": "… he intersection of Banks Road and Ellis Road and approval for staff to create a new project number out of 2017 SPLOST 17TAG. (pages 25-28) 6. Approval of Board of Assessors' recommendation to approve a disposition of tax refund, a …",
    "excerptTerm": "splost",
    "sourceUrl": "https://www.fayettecountyga.gov/08-13-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "thomas",
+   "placeName": "Thomas County",
+   "placeType": "county",
+   "fips": "13275",
+   "region": "South Georgia",
+   "date": "2026-08-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/d4/70/d4704ad9e448f1e70972905b4a613e81.pdf"
   },
   {
    "topic": "local-taxes",
@@ -9183,6 +9248,27 @@
    "excerpt": "… Commissioner Robbins to approve the January Financial Statement as presented by Chief Finance Officer Debbie Godfrey, Local Option Sales Tax (LOST) collections: January collections of $1,182,892 were 9.84% less than budgeted collections of $1,312,008. This wa …",
    "excerptTerm": "local option sales tax",
    "sourceUrl": "https://www.whitfieldcountyga.com/BOC%20Regular%20Business%20Meeting%20April%2013,%202026.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-04-13",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/04.13.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED%20.pdf"
   },
   {
    "topic": "local-taxes",
