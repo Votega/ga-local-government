@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T20:13:59Z",
+  "generatedAt": "2026-11-01T03:29:01Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 669
+  "count": 698
  },
  "mentions": [
   {
@@ -2450,6 +2450,36 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomas",
+   "placeName": "Thomas County",
+   "placeType": "county",
+   "fips": "13275",
+   "region": "South Georgia",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "conditional use",
+    "mixed use",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/73/6b/736b3c59b7b3af88a30519d95234862f.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -2621,6 +2651,57 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3945&Inline=True"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-10-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… e request of the Whitfield County Board of Commissioners for Chapter 6 - Land Development Includes 3 Articles: Unified Subdivision Regulations, Road Use regulations, Regulatory Ordinances, and for other purposes. The motion was approved 4-0, with Co …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/October%2012,%202026%20BOC%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-10-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "annexed",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/10.12.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "land-use",
@@ -4963,6 +5044,59 @@
   },
   {
    "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-09-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… ton, Georgia. Parcels (12-146-03-000 and 12-146-02-000). Motion was to postpone until the City of Dalton approved the annexation of the parcels. The motion was approved 4-0, with Commissioners Robbins, Thomas, Staten and Jones in agreement. PUB …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20September%2014,%202026%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-09-14",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/09.14.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -6832,6 +6966,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-08-24",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/08.24.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -8023,6 +8184,63 @@
    "excerpt": "… gn. b. Planning Commission: Z-26-06 An application has been filed by Ryals Brothers Properties, LLC to Rezone a 10-acre portion of the property identified as B02 011, a 280.73-acre parcel located on W County Line Rd. f …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-e2c5e72b9ff2461f89ad7cc0b40cd927.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-08-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… they would. The motion was approved 3-0, with Commissioners Jones, Robbins and Thomas in agreement. City of Dalton Annexation - parcels 12-146-02-000 & 12-146-03-000: Motion was made by Commissioner Robbins and seconded by Commissioner Jones fo …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20August%2010,%202026%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-08-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "conditional use",
+    "multi-family",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/08.10.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "land-use",
@@ -9266,6 +9484,36 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-07-27",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "conditional use",
+    "multi-family",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/07.27.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "lowndes",
    "placeName": "Lowndes County",
    "placeType": "county",
@@ -10254,6 +10502,31 @@
    "excerpt": "… one. The proposed business is IT services and website design. 9. PLANNING & ZONING: a. Code Amendment: Class V Subdivision b. Code Amendment: Auto Broker c. Code Amendment: Home Occupation 10. PRESENTATIONS: a. Family Res …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-91f58e8a6acb4bf8aa37181da4495745.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-07-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "rezoning"
+   ],
+   "excerpt": "… Continued...... (19) SPLOST Sewer Extension - McFalls Street (20) Annexation Requests a. City of Dalton - parcel 12-146-03-000 b. City of Dalton - parcel 12-146-02-000 …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20July%2013,%202026%20Regular%20Business%20Meeting.pdf"
   },
   {
    "topic": "land-use",
@@ -11405,6 +11678,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-06-22",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/06.22.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -12380,6 +12676,33 @@
    "excerpt": "… OMMISSIONER'S REPORT 7. PUBLIC HEARINGS: a. CU-26-13 An application has been submitted by Donald Hannant for a Conditional Use on the property identified as B67F 006, a 1.77-acre parcel located at 134 Walkers Way to operate a home occup …",
    "excerptTerm": "conditional use",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-76478ac487be439790c9bb7964daf2c0.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-06-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "annexation",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… Continued...... (17) Public Works - Purchase of Heister (18) De- Annexation Request - Varnell parcel 11-188-02-000 (19) Annexation Request - Varnell parcel 11-245-03-128 (20) Rezoning Recom …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20June%208,%20%202026%20Regular%20Business%20Meeting%5B94%5D.pdf"
   },
   {
    "topic": "land-use",
@@ -14022,6 +14345,58 @@
   },
   {
    "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-05-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… (20) EMA - Radio Purchase for Sheriff's Office (21) Contact Extension - UGA Cooperative Extension Service (22) Annexation Requests a. Tunnel Hill parcels 28-307-04-000 & 12-079-36-000 b. Varnell parcel 11-172-01-009 …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20May%2011,%202026%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-05-11",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/05.11.2026%20City%20Council%20Meeting%20Minutes%20-%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -14527,6 +14902,34 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5049,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-04-27",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "comprehensive plan",
+    "multifamily",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/04.27.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "land-use",
@@ -15248,6 +15651,36 @@
   },
   {
    "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-04-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "annexed",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… House Lease Agreement (22) Westside Park Community Center - Survey Construction Staking (23) City of Dalton - De-Annexation parcel 12-158-01-032 (24) Rezoning Recommendations a. Gary Scharf - parcels (13-101-07-000, 13-101-08-00 …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/BOC%20Regular%20Business%20Meeting%20April%2013,%202026.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -15652,6 +16085,34 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-03-23",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "multifamily",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/03.23.2026%20City%20Council%20Meeting%20Minute%20APVD%20SIGNEDs.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -16036,6 +16497,64 @@
   },
   {
    "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-03-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20Regular%20Business%20Meeting%20March%209,%202026.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-03-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "conditional use",
+    "future land use",
+    "multi-family",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": "… es to the ordinance since its passage on first reading. The request is consistent with the Thomasville: Blueprint 2028 Comprehensive Plan and the Future Land Use Map. However, additional conditions are necessary to ensure the development is compatible with …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/03.09.2026%20City%20Council%20Meeting%20Minutes%20w_Exhibits_ADA.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -16297,6 +16816,40 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-02-23",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "annexed",
+    "comprehensive plan",
+    "conditional use",
+    "future land use",
+    "multi-family",
+    "multifamily",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/02.23.2026%20City%20Council%20Meeting%20Minutes_APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "butts",
    "placeName": "Butts County",
    "placeType": "county",
@@ -16467,6 +17020,64 @@
    "excerpt": "… 026, Board of Commissioners Meeting Minutes. (pages 21-31) OLD BUSINESS: NEW BUSINESS: 4. Consideration of an Annexation Notification from the Town of Tyrone regarding a request to annex one (1) parcel, Parcel No. 0739 023, a total …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-12-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-02-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… the desire of the Whitfield County Board of Commissioners to promote the goals, objectives, and policies of the Joint Comprehensive Plan for Whitfield County and the Cities of Cohutta, Dalton, Tunnel Hill and Varnell; and WHEREAS, it is the belief of t …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://www.whitfieldcountyga.com/BOC%20Regular%20Business%20Meeting%20February%209,%202026.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-02-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "annexed",
+    "comprehensive plan",
+    "future land use",
+    "multifamily",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/02.09.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "land-use",
@@ -16652,6 +17263,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-01-26",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/01.26.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "fort-oglethorpe",
    "placeName": "City of Fort Oglethorpe",
    "placeType": "city",
@@ -16811,6 +17449,59 @@
    "excerpt": "… ber Davis, seconded by Council Member Turner to amend the agenda to add a discussion of PAR25.0003 - Falcon Wood Annexation. Motion carried unanimously. ****** 4. Motion made by Council Member Davis, seconded by Council Mem …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0120_Minutes.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-01-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20January%2012,%202026%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-01-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/01.12.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "land-use",
@@ -17032,6 +17723,58 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2025-12-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2025%20Minutes/12.10.2025%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED_14pgs.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2025-12-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… 18). The motion was approved 4-0, with Commissioners Staten, Robbins, Thomas and Jones in agreement. City of Dalton Annexation - Parcel 12-159-01-029: Motion was made by Commissioner Staten and seconded by Commissioner Jones for no land use clas …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20December%208,%202025%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -17125,6 +17868,56 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.houstoncountyga.gov/minutes/2025-11-18%20Department%20Head%20Copy.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2025-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "rezoning"
+   ],
+   "excerpt": "… 75-02-003 d. Jesse Kell - Parcel No. 11-150-15-000 e. Loretta Harrison - Parcel No. 13-003-02-018 (15) Annexation Request - City of Dalton Parcel No. 12-159-01-029 Continued...... (16) Fire Department - MOU with G …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20November%2010,%202025%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2025-11-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multifamily",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2025%20Minutes/11.10.2025%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "land-use",
