@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T20:13:59Z",
+  "generatedAt": "2026-11-01T03:29:01Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 1337
+  "count": 1402
  },
  "mentions": [
   {
@@ -337,6 +337,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/09-24-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "thomas",
+   "placeName": "Thomas County",
+   "placeType": "county",
+   "fips": "13275",
+   "region": "South Georgia",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "in-car camera"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/7d/07/7d075b7db424d42479eb708c152cf335.pdf"
   },
   {
    "topic": "alpr",
@@ -2151,6 +2172,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-10-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… r June will be presented at next months meeting. Chairman's Report: Chairman Jensen noted the Board is working on a data center ordinance and an informational session on data centers will be held in October but the date is not finalized yet. R …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/October%2012,%202026%20BOC%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -2611,6 +2653,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_09152026-661"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-09-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20September%2014,%202026%20Regular%20Business%20Meeting.pdf"
   },
   {
    "topic": "data-center",
@@ -3139,6 +3202,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-08-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20August%2010,%202026%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -3535,6 +3619,27 @@
    "excerpt": "… Discussion Regarding the Fiscal Year 2027 Budget and 2026 Millage Rate 2. Discussion Regarding the Coweta County Data Center Ordinance 3. Discussion Regarding the Georgia Cottage Food Law and Local Ordinances Adjournment As set forth in t …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3536,plainText=false)"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-07-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20July%2013,%202026%20Regular%20Business%20Meeting.pdf"
   },
   {
    "topic": "data-center",
@@ -4295,6 +4400,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-04-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… approve the UZO text amendments by amending and by adding new definitions for \"Biohazard Waste,\" \"Biological Waste,\" \"Data Center,\" and \"Hazardous Waste;\" by revising Section 4-6-13 for additional requirements for biological, biohazard and hazardou …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.whitfieldcountyga.com/BOC%20Regular%20Business%20Meeting%20April%2013,%202026.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "socialcircle",
    "placeName": "City of Social Circle",
    "placeType": "city",
@@ -4400,6 +4526,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-03-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… Ordinance to be amended by amending by adding new definitions for \"Biohazard Waste,\" \"Biological Waste,\" \"Data Center,\" and \"Hazardous Waste;\" by revising Section 4-6-13 for additional requirements for biological, biohazard …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20Regular%20Business%20Meeting%20March%209,%202026.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -4461,6 +4608,27 @@
    "excerpt": "… to use the property for. Ms. Bell stated that they said business park which could include several things, for example, data center. Commissioner Maxwell asked if this request was in conjunction with Funspot. Ms. Bell stated that all the parcels wer …",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-12-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-02-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… Ordinance to be amended by amending by adding new definitions for \"Biohazard Waste,\" \"Biological Waste,\" \"Data Center,\" and \"Hazardous Waste;\" by revising Section 4-6-13 for additional requirements for biological, biohazard …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.whitfieldcountyga.com/BOC%20Regular%20Business%20Meeting%20February%209,%202026.pdf"
   },
   {
    "topic": "data-center",
@@ -6989,6 +7157,36 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomas",
+   "placeName": "Thomas County",
+   "placeType": "county",
+   "fips": "13275",
+   "region": "South Georgia",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "conditional use",
+    "mixed use",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/73/6b/736b3c59b7b3af88a30519d95234862f.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -7160,6 +7358,57 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3945&Inline=True"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-10-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… e request of the Whitfield County Board of Commissioners for Chapter 6 - Land Development Includes 3 Articles: Unified Subdivision Regulations, Road Use regulations, Regulatory Ordinances, and for other purposes. The motion was approved 4-0, with Co …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/October%2012,%202026%20BOC%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-10-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "annexed",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/10.12.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "land-use",
@@ -9502,6 +9751,59 @@
   },
   {
    "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-09-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… ton, Georgia. Parcels (12-146-03-000 and 12-146-02-000). Motion was to postpone until the City of Dalton approved the annexation of the parcels. The motion was approved 4-0, with Commissioners Robbins, Thomas, Staten and Jones in agreement. PUB …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20September%2014,%202026%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-09-14",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/09.14.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -11371,6 +11673,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-08-24",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/08.24.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -12562,6 +12891,63 @@
    "excerpt": "… gn. b. Planning Commission: Z-26-06 An application has been filed by Ryals Brothers Properties, LLC to Rezone a 10-acre portion of the property identified as B02 011, a 280.73-acre parcel located on W County Line Rd. f …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-e2c5e72b9ff2461f89ad7cc0b40cd927.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-08-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… they would. The motion was approved 3-0, with Commissioners Jones, Robbins and Thomas in agreement. City of Dalton Annexation - parcels 12-146-02-000 & 12-146-03-000: Motion was made by Commissioner Robbins and seconded by Commissioner Jones fo …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20August%2010,%202026%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-08-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "conditional use",
+    "multi-family",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/08.10.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "land-use",
@@ -13805,6 +14191,36 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-07-27",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "conditional use",
+    "multi-family",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/07.27.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "lowndes",
    "placeName": "Lowndes County",
    "placeType": "county",
@@ -14793,6 +15209,31 @@
    "excerpt": "… one. The proposed business is IT services and website design. 9. PLANNING & ZONING: a. Code Amendment: Class V Subdivision b. Code Amendment: Auto Broker c. Code Amendment: Home Occupation 10. PRESENTATIONS: a. Family Res …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-91f58e8a6acb4bf8aa37181da4495745.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-07-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "rezoning"
+   ],
+   "excerpt": "… Continued...... (19) SPLOST Sewer Extension - McFalls Street (20) Annexation Requests a. City of Dalton - parcel 12-146-03-000 b. City of Dalton - parcel 12-146-02-000 …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20July%2013,%202026%20Regular%20Business%20Meeting.pdf"
   },
   {
    "topic": "land-use",
@@ -15944,6 +16385,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-06-22",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/06.22.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -16919,6 +17383,33 @@
    "excerpt": "… OMMISSIONER'S REPORT 7. PUBLIC HEARINGS: a. CU-26-13 An application has been submitted by Donald Hannant for a Conditional Use on the property identified as B67F 006, a 1.77-acre parcel located at 134 Walkers Way to operate a home occup …",
    "excerptTerm": "conditional use",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-76478ac487be439790c9bb7964daf2c0.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-06-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "annexation",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… Continued...... (17) Public Works - Purchase of Heister (18) De- Annexation Request - Varnell parcel 11-188-02-000 (19) Annexation Request - Varnell parcel 11-245-03-128 (20) Rezoning Recom …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20June%208,%20%202026%20Regular%20Business%20Meeting%5B94%5D.pdf"
   },
   {
    "topic": "land-use",
@@ -18561,6 +19052,58 @@
   },
   {
    "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-05-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… (20) EMA - Radio Purchase for Sheriff's Office (21) Contact Extension - UGA Cooperative Extension Service (22) Annexation Requests a. Tunnel Hill parcels 28-307-04-000 & 12-079-36-000 b. Varnell parcel 11-172-01-009 …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20May%2011,%202026%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-05-11",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/05.11.2026%20City%20Council%20Meeting%20Minutes%20-%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -19066,6 +19609,34 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5049,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-04-27",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "comprehensive plan",
+    "multifamily",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/04.27.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "land-use",
@@ -19787,6 +20358,36 @@
   },
   {
    "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-04-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "annexed",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… House Lease Agreement (22) Westside Park Community Center - Survey Construction Staking (23) City of Dalton - De-Annexation parcel 12-158-01-032 (24) Rezoning Recommendations a. Gary Scharf - parcels (13-101-07-000, 13-101-08-00 …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/BOC%20Regular%20Business%20Meeting%20April%2013,%202026.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -20191,6 +20792,34 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-03-23",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "multifamily",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/03.23.2026%20City%20Council%20Meeting%20Minute%20APVD%20SIGNEDs.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -20575,6 +21204,64 @@
   },
   {
    "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-03-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20Regular%20Business%20Meeting%20March%209,%202026.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-03-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "conditional use",
+    "future land use",
+    "multi-family",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": "… es to the ordinance since its passage on first reading. The request is consistent with the Thomasville: Blueprint 2028 Comprehensive Plan and the Future Land Use Map. However, additional conditions are necessary to ensure the development is compatible with …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/03.09.2026%20City%20Council%20Meeting%20Minutes%20w_Exhibits_ADA.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "pickens",
    "placeName": "Pickens County",
    "placeType": "county",
@@ -20836,6 +21523,40 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-02-23",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "annexed",
+    "comprehensive plan",
+    "conditional use",
+    "future land use",
+    "multi-family",
+    "multifamily",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/02.23.2026%20City%20Council%20Meeting%20Minutes_APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "butts",
    "placeName": "Butts County",
    "placeType": "county",
@@ -21006,6 +21727,64 @@
    "excerpt": "… 026, Board of Commissioners Meeting Minutes. (pages 21-31) OLD BUSINESS: NEW BUSINESS: 4. Consideration of an Annexation Notification from the Town of Tyrone regarding a request to annex one (1) parcel, Parcel No. 0739 023, a total …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-12-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-02-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… the desire of the Whitfield County Board of Commissioners to promote the goals, objectives, and policies of the Joint Comprehensive Plan for Whitfield County and the Cities of Cohutta, Dalton, Tunnel Hill and Varnell; and WHEREAS, it is the belief of t …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://www.whitfieldcountyga.com/BOC%20Regular%20Business%20Meeting%20February%209,%202026.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-02-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "annexed",
+    "comprehensive plan",
+    "future land use",
+    "multifamily",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/02.09.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "land-use",
@@ -21191,6 +21970,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-01-26",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/01.26.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "fort-oglethorpe",
    "placeName": "City of Fort Oglethorpe",
    "placeType": "city",
@@ -21350,6 +22156,59 @@
    "excerpt": "… ber Davis, seconded by Council Member Turner to amend the agenda to add a discussion of PAR25.0003 - Falcon Wood Annexation. Motion carried unanimously. ****** 4. Motion made by Council Member Davis, seconded by Council Mem …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0120_Minutes.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-01-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20January%2012,%202026%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-01-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/01.12.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "land-use",
@@ -21571,6 +22430,58 @@
   },
   {
    "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2025-12-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2025%20Minutes/12.10.2025%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED_14pgs.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2025-12-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "annexation",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… 18). The motion was approved 4-0, with Commissioners Staten, Robbins, Thomas and Jones in agreement. City of Dalton Annexation - Parcel 12-159-01-029: Motion was made by Commissioner Staten and seconded by Commissioner Jones for no land use clas …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20December%208,%202025%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -21664,6 +22575,56 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.houstoncountyga.gov/minutes/2025-11-18%20Department%20Head%20Copy.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2025-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "rezoning"
+   ],
+   "excerpt": "… 75-02-003 d. Jesse Kell - Parcel No. 11-150-15-000 e. Loretta Harrison - Parcel No. 13-003-02-018 (15) Annexation Request - City of Dalton Parcel No. 12-159-01-029 Continued...... (16) Fire Department - MOU with G …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20November%2010,%202025%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2025-11-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multifamily",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2025%20Minutes/11.10.2025%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "land-use",
@@ -21839,6 +22800,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_11042026-3125"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "thomas",
+   "placeName": "Thomas County",
+   "placeType": "county",
+   "fips": "13275",
+   "region": "South Georgia",
+   "date": "2026-11-03",
+   "body": "Purchasing Committee",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/03/3a/033a308ceedbe955262981a1d6de3a85.pdf"
   },
   {
    "topic": "local-taxes",
@@ -22326,6 +23308,27 @@
    "excerpt": "… new project account to fund the project. (pages 72-79) 8. Approval of the October 1, 2026, Special Called Millage Rate Hearing (10:00 a.m.) Minutes. (pages 80-83) 9. Approval of the October 1, 2026, Special Called Millage Rate …",
    "excerptTerm": "millage",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/10-22-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "thomas",
+   "placeName": "Thomas County",
+   "placeType": "county",
+   "fips": "13275",
+   "region": "South Georgia",
+   "date": "2026-10-21",
+   "body": "Public Works Committee",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/b1/a0/b1a0d4ab202c48e5dc88bfb887b4c5bb.pdf"
   },
   {
    "topic": "local-taxes",
@@ -22984,6 +23987,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "thomas",
+   "placeName": "Thomas County",
+   "placeType": "county",
+   "fips": "13275",
+   "region": "South Georgia",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "flost",
+    "millage",
+    "splost",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/73/6b/736b3c59b7b3af88a30519d95234862f.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -23155,6 +24183,33 @@
    "excerpt": "… IRTY-FOUR THOUSAND THREE HUNDRED SEVENTY-FOUR DOLLARS AND SEVENTY-FIVE CENTS ($834,374.75), AND TAX ALLOCATION DISTRICT NUMBER FIVE - EASTSIDE (THE “EASTSIDE TAD”) IN AN AMOUNT NOT TO EXCEED SEVEN HUNDRED SIXTY THOU …",
    "excerptTerm": "tax allocation district",
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3945&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-10-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "flost",
+    "lhost",
+    "local option sales tax",
+    "millage",
+    "referendum",
+    "splost",
+    "tax abatement"
+   ],
+   "tags": [],
+   "excerpt": "… f Minutes a. September 14th, 2026 Regular Business Meeting b. September 18th, 2026 Special Called/Millage Rate Public Hearing Meeting c. September 29th Noon & 6:00 PM Special Called/Public Hearing Meeting (7) Re …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/October%2012,%202026%20BOC%20Regular%20Business%20Meeting.pdf"
   },
   {
    "topic": "local-taxes",
@@ -23950,6 +25005,48 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-09-29",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… VIN JENSEN, BARRY W. ROBBINS, ROBBY STATEN, JOHN THOMAS, GREG JONES) APPROVAL OF AGENDA PUBLIC HEARING 1. 2026 Millage Rate FOR CONSIDERATION 1. Resolution - Setting 2026 Millage Rate ADJOURN",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/September%2029,%202026,%20Special%20Called%20Meeting%20-%206PM.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-09-29",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… VIN JENSEN, BARRY W. ROBBINS, ROBBY STATEN, JOHN THOMAS, GREG JONES) APPROVAL OF AGENDA PUBLIC HEARING 1. 2026 Millage Rate ADJOURN",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/September%2029,%202026%20Special%20Called%20Meeting%20-NOON.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -24379,6 +25476,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-09-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… VIN JENSEN, BARRY W. ROBBINS, ROBBY STATEN, JOHN THOMAS, GREG JONES) APPROVAL OF AGENDA PUBLIC HEARING 1. 2026 Millage Rate ADJOURN",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/September%2018,%202026%20Special%20Called%20Meeting.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "baldwin",
    "placeName": "Baldwin County",
    "placeType": "county",
@@ -24785,6 +25903,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/baldwincga-pubu/MEET-Agenda-df0c1089080c401c97427d7c3f3b346d.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-09-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… by Commissioner Robbins to approve the June Financial Statement as presented by Chief Finance Officer Debbie Godfrey. Local Option Sales Tax (LOST) collections: June collections of $1,439,799 were 9.74% more than budgeted collections of $1,312,008. This was 8 …",
+   "excerptTerm": "local option sales tax",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20September%2014,%202026%20Regular%20Business%20Meeting.pdf"
   },
   {
    "topic": "local-taxes",
@@ -25480,6 +26621,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "thomas",
+   "placeName": "Thomas County",
+   "placeType": "county",
+   "fips": "13275",
+   "region": "South Georgia",
+   "date": "2026-08-25",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/f7/95/f7950836fd4ce5e12282d4bdaceb4380.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "rockdale",
    "placeName": "Rockdale County",
    "placeType": "county",
@@ -25689,6 +26851,27 @@
    "excerpt": "… oftware Discussion b. Planning & Zoning: Chambers Landing Appeal 4. RESOLUTIONS AND ORDINANCES: a. 2026 Millage Rate Adoption Resolution 5. CONTRACTS AND AGREEMENTS: a. Courthouse Roof Replacement - Change Order #1 6. MI …",
    "excerptTerm": "millage",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-6503b25e501b4af19829084677e7d8bc.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-08-24",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/08.24.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "local-taxes",
@@ -26417,6 +27600,28 @@
    "excerpt": "… of a State of Texas Department of Information Resources Contract (Texas DIR). This is a 2022 SPLOST project, Countywide Improvements Program B0010. PUBLIC COMMENT Those persons wishing to address the Board of Commissi …",
    "excerptTerm": "splost",
    "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10156,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-08-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… ed by Commissioner Jones to approve the May Financial Statement as presented by Chief Finance Officer Debbie Godfrey. Local Option Sales Tax (LOST) collections: May collections of $1,327,611 were 1.19% more than budgeted collections of $1,312,008. This was .7 …",
+   "excerptTerm": "local option sales tax",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20August%2010,%202026%20Regular%20Business%20Meeting.pdf"
   },
   {
    "topic": "local-taxes",
@@ -28046,6 +29251,28 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-07-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Continued...... (19) SPLOST Sewer Extension - McFalls Street (20) Annexation Requests a. City of Dalton - parcel 12-146-03-000 …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20July%2013,%202026%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "tift",
    "placeName": "Tift County",
    "placeType": "county",
@@ -29196,6 +30423,28 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-06-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… by Commissioner Staten to approve the March Financial Statement as presented by Chief Finance Officer Debbie Godfry. Local Option Sales Tax (LOST) collections: March collections of $1,398,109 were 6.56% more than budgeted collections of $1,312,008. This was …",
+   "excerptTerm": "local option sales tax",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20June%208,%20%202026%20Regular%20Business%20Meeting%5B94%5D.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "tift",
    "placeName": "Tift County",
    "placeType": "county",
@@ -29216,6 +30465,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.tiftcounty.org/Commission%20Agendas/Agenda%20-%20Regular%20Session%20-%2006.08.26.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-06-08",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/06.08.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
   },
   {
    "topic": "local-taxes",
@@ -29897,6 +31167,50 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-05-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Commissioner Robbins to approve the February Financial Statement as presented by Chief Finance Officer Debbie Godfrey, Local Option Sales Tax (LOST) collections: February collections of $1,237,666 were 5.67% less than budgeted collections of $1,312,008. This w …",
+   "excerptTerm": "local option sales tax",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20May%2011,%202026%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-05-11",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "hotel motel tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/05.11.2026%20City%20Council%20Meeting%20Minutes%20-%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -30516,6 +31830,29 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-04-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "hotel/motel tax",
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Commissioner Robbins to approve the January Financial Statement as presented by Chief Finance Officer Debbie Godfrey, Local Option Sales Tax (LOST) collections: January collections of $1,182,892 were 9.84% less than budgeted collections of $1,312,008. This wa …",
+   "excerptTerm": "local option sales tax",
+   "sourceUrl": "https://www.whitfieldcountyga.com/BOC%20Regular%20Business%20Meeting%20April%2013,%202026.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -30961,6 +32298,30 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-03-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "floating local option",
+    "flost",
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… eering Department: a. Proper Construction Corrective Change Order b. Design Contract 1 for 2024 SPLOST Intersection Project c. Design Contract 2 for 2024 SPLOST Intersection Project (19) Public Works Annual …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20Regular%20Business%20Meeting%20March%209,%202026.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "tift",
    "placeName": "Tift County",
    "placeType": "county",
@@ -30979,6 +32340,28 @@
    "excerpt": "… ystem from MCA to be Installed at EB Hamilton Sports Complex for a Cost of $121,507.43 to be Funded from SPLOST VI 7.3 Motion to Approve Resolution No 2026-06, Approval and Execution of Documents Necessary for the …",
    "excerptTerm": "splost",
    "sourceUrl": "https://www.tiftcounty.org/Commission%20Agendas/Agenda%20-%20Regular%20Session%20-%2003.09.26.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-03-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "referendum"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/03.09.2026%20City%20Council%20Meeting%20Minutes%20w_Exhibits_ADA.pdf"
   },
   {
    "topic": "local-taxes",
@@ -31084,6 +32467,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-26-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-02-23",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/02.23.2026%20City%20Council%20Meeting%20Minutes_APVD%20SIGNED.pdf"
   },
   {
    "topic": "local-taxes",
@@ -31193,6 +32597,29 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-02-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "flost",
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… 1 & 3, County School Board District 2, 4 and at large member will be held on May 19, 2026. Jensen further noted that a FLOST (Floating Homestead Local Option Sales Tax) informational session would be held in February. Report from Commission …",
+   "excerptTerm": "flost",
+   "sourceUrl": "https://www.whitfieldcountyga.com/BOC%20Regular%20Business%20Meeting%20February%209,%202026.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "tift",
    "placeName": "Tift County",
    "placeType": "county",
@@ -31280,6 +32707,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2026-01-26",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/01.26.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -31348,6 +32796,28 @@
    "excerpt": "… of the Mayor and Council of the City of Covington, Georgia to request that the Georgia General Assembly approve a Homestead Exemption from Ad Valorem Taxes levied by the City of Covington. Motion carried unanimously. ****** May …",
    "excerptTerm": "homestead exemption",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0120_Minutes.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-01-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Commissioner Robbins to approve the October Financial Statement as presented by Chief Finance Officer Debbie Godfrey. Local Option Sales Tax (LOST) collections: October collections of $1,357,508 were 2.13% more than budgeted collections of $1,329,167. This wa …",
+   "excerptTerm": "local option sales tax",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20January%2012,%202026%20Regular%20Business%20Meeting.pdf"
   },
   {
    "topic": "local-taxes",
@@ -31506,6 +32976,52 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "thomasville",
+   "placeName": "City of Thomasville",
+   "placeType": "city",
+   "fips": null,
+   "region": "South Georgia",
+   "date": "2025-12-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2025%20Minutes/12.10.2025%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED_14pgs.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2025-12-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "homestead exemption",
+    "local option sales tax",
+    "millage",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… enda. The motion was approved 3-0, with Commissioners Jones, Staten, and Thomas in agreement. PUBLIC HEARING: 1. MILLAGE RATE 2025: Chairman Jensen began the meeting by informing the audience that since 2016 the millage rate has s …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20December%208,%202025%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "chatham",
    "placeName": "Chatham County",
    "placeType": "county",
@@ -31631,6 +33147,70 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://baconcounty.org/uploads/November18%20regular%20meeting%20minutes.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2025-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… mmissioner Robbins to approve the July Financial Statement as presented by Deputy Chief Finance Officer Carol Roberts. Local Option Sales Tax (LOST) collections: August collections of $1,317,642 were .87% less than budgeted collections of $1,329.167. This was …",
+   "excerptTerm": "local option sales tax",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20November%2010,%202025%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2025-11-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… VIN JENSEN, BARRY W. ROBBINS, ROBBY STATEN, JOHN THOMAS, GREG JONES) APPROVAL OF AGENDA PUBLIC HEARING 1. 2025 Millage Rate ADJOURN",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/November%207,%202025%20Special%20Called%20Meeting%20-NOON.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2025-11-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… VIN JENSEN, BARRY W. ROBBINS, ROBBY STATEN, JOHN THOMAS, GREG JONES) APPROVAL OF AGENDA PUBLIC HEARING 1. 2025 Millage Rate FOR CONSIDERATION 1. Resolution - Setting Millage Rate ADJOURN",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/November%207,%202025%20Special%20Called%20Meeting%20-%206PM.pdf"
   }
  ]
 }
