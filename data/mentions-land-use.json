@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-01T14:16:18Z",
+  "generatedAt": "2026-11-01T16:58:06Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 700
+  "count": 699
  },
  "mentions": [
   {
@@ -10969,33 +10969,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://oconeecountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4213,plainText=false)"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "newton",
-   "placeName": "Newton County",
-   "placeType": "county",
-   "fips": "13217",
-   "region": "Metro Atlanta",
-   "date": "2026-07-07",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "future land use",
-    "land use permit",
-    "rezon"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "rezoning",
-    "special-land-use"
-   ],
-   "excerpt": "… Action item 7:30 P.M. ZONING & PUBLIC HEARING AGENDA_ 1. FLU26-000001 (Future land Use Permit) Location: 1042 Woodlawn Rd Applicant: Rhianon Mangan Map & Parcel Number: 0116-013F FLUM: AF (Agric …",
-   "excerptTerm": "future land use",
-   "sourceUrl": "https://www.newtoncountyga.gov/AgendaCenter/ViewFile/Agenda/_07072026-978"
   },
   {
    "topic": "land-use",
