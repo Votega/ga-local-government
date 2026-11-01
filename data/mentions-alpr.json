@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-10-31T20:13:59Z",
+  "generatedAt": "2026-11-01T03:29:01Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 73
+  "count": 74
  },
  "mentions": [
   {
@@ -338,6 +338,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/09-24-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "thomas",
+   "placeName": "Thomas County",
+   "placeType": "county",
+   "fips": "13275",
+   "region": "South Georgia",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "in-car camera"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/7d/07/7d075b7db424d42479eb708c152cf335.pdf"
   },
   {
    "topic": "alpr",
