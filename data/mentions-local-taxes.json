@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T03:42:35Z",
+  "generatedAt": "2026-11-02T11:37:31Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
-  "count": 491
+  "count": 492
  },
  "mentions": [
   {
@@ -434,9 +434,9 @@
     "splost"
    ],
    "tags": [],
-   "excerpt": "… n 2 $87,290.50 + Contingency $12,709.50) for the Chicago Avenue Maintenance Complex fence and gates to be funded by SPLOST 2022 and authorize the Chairman to sign all related documents pending final legal review. (Julia Janka) 14. App …",
+   "excerpt": "… n 2 $87,290.50 + Contingency $12,709.50) for the Chicago Avenue Maintenance Complex fence and gates to be funded by SPLOST 2022 and authorize the Chairman to sign all related documents pending final legal review. (Julia Janka) 15. App …",
    "excerptTerm": "splost",
-   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7617,plainText=false)"
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7623,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -591,27 +591,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3953&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-10-26",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "tax increment"
-   ],
-   "tags": [],
-   "excerpt": "… applicable portion of those service payments to the Columbus City Schools; to establish a municipal public improvement tax increment equivalent fund for the deposit of the remainder of those non-school service payments; and to declare an emergency. ($0 …",
-   "excerptTerm": "tax increment",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6219&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "local-taxes",
@@ -1138,27 +1117,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_10192026-198"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-10-19",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "general obligation bond"
-   ],
-   "tags": [],
-   "excerpt": "To authorize the issuance of limited tax general obligation bonds, in one or more series, in an amount not to exceed $35,835,000.00 for the purpose of providing funds to refund certain …",
-   "excerptTerm": "general obligation bond",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6217&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "local-taxes",
@@ -3604,6 +3562,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-09-08",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-71aa648697644fc1874e0e2f82011a2b.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -4442,48 +4421,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_08182026-870"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "lumpkin",
-   "placeName": "Lumpkin County",
-   "placeType": "county",
-   "fips": "13187",
-   "region": "Northeast Georgia",
-   "date": "2026-08-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "public-comment",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4257,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "lumpkin",
-   "placeName": "Lumpkin County",
-   "placeType": "county",
-   "fips": "13187",
-   "region": "Northeast Georgia",
-   "date": "2026-08-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4259,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -6001,6 +5938,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-07-28",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-bda37099b46c4f0cbc2099f363be5f5a.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -6565,6 +6523,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-07-14",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-6d0ed340752f4fc8aaff15b39da580a4.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -7102,28 +7081,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-29",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "tax abatement",
-    "tax increment"
-   ],
-   "tags": [],
-   "excerpt": "… of the Department of Development to enter into an Enterprise Zone Agreement with Dupon USA LLC (the “Enterprise”) for a tax abatement of seventy-five percent (75%) for a period of ten (10) consecutive years in consideration of the Enterprise investing a …",
-   "excerptTerm": "tax abatement",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6195&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "liberty",
    "placeName": "Liberty County",
    "placeType": "county",
@@ -7295,28 +7252,6 @@
    "excerpt": "… Consideration to adopt the FY 2027 Budget and the FY 2027 Budget Resolution. c) Consideration to adopt the Millage Rate for the 2026 Tax Digest. d) Consideration to approve Strongside Solutions as Barrow County's Medical …",
    "excerptTerm": "millage",
    "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1136"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-22",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "tax abatement",
-    "tax increment"
-   ],
-   "tags": [],
-   "excerpt": "… of the Department of Development to enter into an Enterprise Zone Agreement with Dupon USA LLC (the “Enterprise”) for a tax abatement of seventy-five percent (75%) for a period of ten (10) consecutive years in consideration of the Enterprise investing a …",
-   "excerptTerm": "tax abatement",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6193&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "local-taxes",
@@ -7716,6 +7651,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-06-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… HEARING: 9:00 a.m. The budget tentatively adopted by the Consolidated Government of Columbus, Georgia, requires a millage rate higher than the rollback millage rate. Therefore, before the Consolidated Government of Columbus, Georgi …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-c2a149bd3e1048afbc51e7a88341041b.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "lowndes",
    "placeName": "Lowndes County",
    "placeType": "county",
@@ -8062,6 +8018,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-06-02",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… HEARING: 6:00 p.m. The budget tentatively adopted by the Consolidated Government of Columbus, Georgia, requires a millage rate higher than the rollback millage rate. Therefore, before the Consolidated Government of Columbus, Georgi …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-39e0f695df7f48c18ab2283ffbedba3b.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -8322,6 +8299,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://applingcountyga.org/wp-content/uploads/2026/08/Appling-Co-Board-of-Commissioners-Regular-Meeting-June-2-2026.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-26",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem"
+   ],
+   "tags": [],
+   "excerpt": "… attached Tabulation of Bid sheet. (Mayor Pro-Tem) 5. 2nd Reading: An ordinance to provide for a levy of increase on ad valorem taxes for blighted property; to provide for identification of blighted property; to provide for remediation; to …",
+   "excerptTerm": "ad valorem",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-e7e78c55234a4ec0a3236ec9b798ea7d.pdf"
   },
   {
    "topic": "local-taxes",
@@ -8587,6 +8585,30 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-0708ef2a5131475ea93da3fb1765c3b2.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "local option sales tax",
+    "special purpose local option",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… attached Tabulation of Bid sheet. (Mayor Pro-Tem) 7. 1st Reading- An ordinance to provide for a levy of increase on ad valorem taxes for blighted property; to provide for identification of blighted property; to provide for remediation; to …",
+   "excerptTerm": "ad valorem",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-b8fd3b606fe34aa2a9b5f95e1c5b625f.pdf"
   },
   {
    "topic": "local-taxes",
