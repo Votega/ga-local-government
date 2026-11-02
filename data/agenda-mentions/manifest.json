@@ -5,11 +5,11 @@
  "description": "Where ALPR/surveillance, data centers, land use and local taxes appear on Georgia county and city agendas and minutes, with the source document for every mention, plus the jurisdiction registry and per-place coverage.",
  "repo": "Votega/ga-local-government",
  "publisher": "VoteGA.org",
- "generatedAt": "2026-11-02T03:42:32Z",
- "publishedAt": "2026-11-02T03:42:35Z",
+ "generatedAt": "2026-11-02T11:37:29Z",
+ "publishedAt": "2026-11-02T11:37:31Z",
  "updateCadence": "Twice weekly (Mondays and Thursdays).",
  "schemaVersion": "1.0.0",
- "rowCount": 1415,
+ "rowCount": 1412,
  "source": "the published agendas and minutes of Georgia county and municipal governments",
  "license": {
   "name": "Creative Commons Attribution-ShareAlike 4.0 International",
@@ -20,7 +20,7 @@
   {
    "path": "SUMMARY.md",
    "description": "Human-readable overview.",
-   "bytes": 2948
+   "bytes": 2920
   },
   {
    "path": "data/coverage.json",
@@ -35,32 +35,32 @@
   {
    "path": "data/mentions-alpr.json",
    "description": "Mentions for the ALPR / surveillance topic.",
-   "bytes": 49557
+   "bytes": 48183
   },
   {
    "path": "data/mentions-data-center.json",
    "description": "Mentions for the Data centers topic.",
-   "bytes": 101420
+   "bytes": 105909
   },
   {
    "path": "data/mentions-land-use.json",
    "description": "Mentions for the Land use topic.",
-   "bytes": 520575
+   "bytes": 507794
   },
   {
    "path": "data/mentions-local-taxes.json",
    "description": "Mentions for the Local taxes & referenda topic.",
-   "bytes": 326140
+   "bytes": 326643
   },
   {
    "path": "data/mentions.csv",
    "description": "Every mention, as a spreadsheet.",
-   "bytes": 520760
+   "bytes": 513348
   },
   {
    "path": "data/mentions.json",
    "description": "Every mention.",
-   "bytes": 997144
+   "bytes": 987981
   },
   {
    "path": "data/mentions.schema.json",
@@ -70,7 +70,7 @@
   {
    "path": "data/places.json",
    "description": "Jurisdiction registry.",
-   "bytes": 37681
+   "bytes": 37743
   },
   {
    "path": "latest.json",
