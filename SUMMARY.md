@@ -23,22 +23,21 @@ freshness of all of it.
 
 | Topic | Mentions | Jurisdictions |
 | --- | --- | --- |
-| ALPR / surveillance | 77 | 29 |
-| Data centers | 149 | 33 |
-| Land use | 698 | 55 |
-| Local taxes & referenda | 491 | 56 |
+| ALPR / surveillance | 76 | 29 |
+| Data centers | 158 | 33 |
+| Land use | 686 | 55 |
+| Local taxes & referenda | 492 | 56 |
 
 ## ALPR vendors named
 
 | Vendor | Mentions |
 | --- | --- |
-| Flock Safety | 22 |
-| ShotSpotter (SoundThinking) | 4 |
+| Flock Safety | 23 |
 | Genetec | 2 |
 | Skydio | 2 |
 | Fusus (Axon) | 2 |
+| ShotSpotter (SoundThinking) | 2 |
 | Avigilon (Motorola) | 1 |
-| Vigilant (Motorola) | 1 |
 | Axon Fleet | 1 |
 
 ## Read this before you use it
