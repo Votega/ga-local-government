@@ -4,10 +4,19 @@ What Georgia county and city governments are discussing on their published agend
 
 Published by [VoteGA.org](https://votega.org). Start with `latest.json`.
 
+**This repository carries more than one dataset.** `latest.json` and the files
+it names are the agenda-mention dataset, refreshed twice weekly. Property tax
+millage rates are published here too, on their own annual cadence. Each dataset
+describes itself in `data/<dataset>/manifest.json`, so listing
+`data/*/manifest.json` tells you what is here. A manifest's `generatedAt` is
+when the DATA was produced; `publishedAt` is when it was last mirrored — they
+are not the same, which is why no single file in this repo claims to state the
+freshness of all of it.
+
 ## Coverage
 
 - **59** jurisdictions scanned, of Georgia's 159 counties and ~537 cities.
-- Last scan: **2026-11-01**
+- Last scan: **2026-11-02**
 - Only governments with an automated agenda feed are scanned; a place that is absent is **not covered yet**, which is different from *no mentions found*.
 
 ## Mentions by topic
@@ -15,9 +24,9 @@ Published by [VoteGA.org](https://votega.org). Start with `latest.json`.
 | Topic | Mentions | Jurisdictions |
 | --- | --- | --- |
 | ALPR / surveillance | 77 | 29 |
-| Data centers | 146 | 33 |
-| Land use | 699 | 55 |
-| Local taxes & referenda | 489 | 56 |
+| Data centers | 149 | 33 |
+| Land use | 698 | 55 |
+| Local taxes & referenda | 491 | 56 |
 
 ## ALPR vendors named
 
