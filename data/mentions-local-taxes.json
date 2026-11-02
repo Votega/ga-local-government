@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-01T16:58:06Z",
+  "generatedAt": "2026-11-02T03:42:35Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
-  "count": 489
+  "count": 491
  },
  "mentions": [
   {
@@ -2938,6 +2938,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-09-15",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Raw Water Pumps at the Water Treatment Plant 2. Authorization to Execute Payment on New Fire Apparatus from SPLOST and Authorize Short Term Loan from General Fund Reserves Up to $100,000 3. Consideration to Tr …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2168&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "lumpkin",
    "placeName": "Lumpkin County",
    "placeType": "county",
@@ -3602,6 +3623,27 @@
    "excerpt": "… o Adopt an Enterprise Funds & Special Revenue Budget for Fiscal 2027 12.3. Resolution R-063-26 to Adopt a Millage Rate for the Unincorporated and Incorporated Areas of Walker County 12.4. Resolution R-064-26 to Award a …",
    "excerptTerm": "millage",
    "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4274,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-09-03",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2166&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -4354,27 +4396,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3266,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-08-18",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage"
-   ],
-   "tags": [],
-   "excerpt": "… CITIZENS REQUESTS VI. COUNCIL REQUESTS VII. AGENDA APPROVAL VIII. PUBLIC HEARINGS 1. 2026 Millage Rate Public Hearing 2. REZ-2026-006 - Request to Rezone from Agriculture (AG) to Residential-15 (R-15) as Par …",
-   "excerptTerm": "millage",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2160&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -5227,12 +5248,12 @@
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
-    "millage"
+    "property tax increase"
    ],
    "tags": [],
-   "excerpt": "… CALL TO ORDER Roll Call II. PLEDGE OF ALLEGIANCE III. INVOCATION IV. AGENDA ITEMS 1. 2026 Millage Rate Public Hearing 2. Planning Commission Review a. REZ-2026-006 - Request to Rezone from Agricult …",
-   "excerptTerm": "millage",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2159&Inline=True"
+   "excerpt": "… Public Hearing Agenda I. CALL TO ORDER 1. Roll Call II. PUBLIC HEARING 1. 2026 Proposed Property Tax Increase III. ADJOURN Persons with hearing or speech disabilities who need to contact the City of Social Circle …",
+   "excerptTerm": "property tax increase",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2158&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -6130,27 +6151,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-07-21",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2152&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -6476,6 +6476,27 @@
    "excerpt": "… IV. ROLL CALL V. SECOND PUBLIC HEARING AS REQUIRED BY THE STATE ON THE COUNTY'S 2026 MILLAGE LEVY To hold a Public Hearing as required by state law on the County's intent to levy a …",
    "excerptTerm": "millage",
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1744&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-07-14",
+   "body": "Historic Preservation Commission",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2152&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -8364,6 +8385,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5130,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-05-19",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "hotel motel tax",
+    "local option sales tax",
+    "millage",
+    "splost",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2138&Inline=True"
   },
   {
    "topic": "local-taxes",
