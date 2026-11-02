@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-01T16:58:06Z",
+  "generatedAt": "2026-11-02T03:42:35Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 146
+  "count": 149
  },
  "mentions": [
   {
@@ -2152,6 +2152,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-06-23",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Offic …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2144&Inline=True"
+  },
+  {
+   "topic": "data-center",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -2572,6 +2593,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-05-19",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… r Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Off …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2138&Inline=True"
+  },
+  {
+   "topic": "data-center",
    "placeId": "gordon",
    "placeName": "Gordon County",
    "placeType": "county",
@@ -2741,27 +2783,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-04-21",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… r Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Off …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2132&Inline=True"
-  },
-  {
-   "topic": "data-center",
    "placeId": "whitfield",
    "placeName": "Whitfield County",
    "placeType": "county",
@@ -2788,8 +2809,8 @@
    "placeType": "city",
    "fips": null,
    "region": "Metro Atlanta",
-   "date": "2026-04-06",
-   "body": "Planning Commission",
+   "date": "2026-04-02",
+   "body": "City Council",
    "confidence": "high",
    "context": "agenda-action",
    "sourceType": "ocr",
@@ -2798,9 +2819,9 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Offici …",
+   "excerpt": "… 1. ANX-2026-001. Request to Annex Tax Parcel C1480001 +/- 123.36 Acres as Part of a Proposed Data Center Development. 1402 Roy Malcom Road. 2. FLUM-2026-001. Request to Amend the Future Land Use Map to Designate T …",
    "excerptTerm": "data center",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2133&Inline=True"
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2131&Inline=True"
   },
   {
    "topic": "data-center",
@@ -3015,6 +3036,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-01-20",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… of Amendments to the City of Social Circle’s Unified Development Code, Sections 2.3.1 & 3.4.6.A, Regarding Data Center Regulations and Standards. 4. Consideration of Amendments to the City of Social Circle’s Unified Development …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2119&Inline=True"
+  },
+  {
+   "topic": "data-center",
    "placeId": "covington",
    "placeName": "City of Covington",
    "placeType": "city",
@@ -3054,6 +3096,27 @@
    "excerpt": "… uncil Member Rutberg, seconded by Council Member Davis to amend the agenda to add a discussion of moratorium for Data Centers. Motion carried unanimously. ****** 3. Motion made by Council Member Henderson, seconded by Counci …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0105_Minutes.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2025-12-16",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… . Consideration of an Intergovernmental Agreement with Walton County for the Provision of Water to Supply Data Centers XII. EXECUTIVE SESSION An Executive Session may be called: • To discuss pending and/or po …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2111&Inline=True"
   },
   {
    "topic": "data-center",
