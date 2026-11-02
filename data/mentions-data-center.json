@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T03:42:35Z",
+  "generatedAt": "2026-11-02T11:37:31Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 149
+  "count": 158
  },
  "mentions": [
   {
@@ -114,27 +114,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-11-02",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… anagement, to modify and increase the architectural / engineering services agreement with BBCO Design LLC; for the 2026 Data Center West Facility Upgrades project; and to authorize an expenditure up to $154,660.00 within the Information Services Capit …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6221&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "data-center",
    "placeId": "atlanta",
    "placeName": "City of Atlanta",
    "placeType": "city",
@@ -216,27 +195,6 @@
    "excerpt": "… __________________________________________________________ Convene Work Session 6:00 PM • Discussion regarding Data Center Ordinance. Adjourn Work Session As set forth in the Americans with Disabilities Act of 1990, Camden County d …",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_10272026-674"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-10-26",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… ruction Management, to modify and increase the architectural / engineering services agreement with TechSite; for the IT Data Center Facility project; and to authorize an expenditure up to $245,850.00 within the Information Services Capital Projects Fu …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6219&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "data-center",
@@ -892,6 +850,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-09-22",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… n Section 3 of that Ordinance; and for other purposes. (Councilor Cogle) PUBLIC AGENDA 1. Mr. Paul Olson, Re: Data Center and Transparency Act of Georgia. 2. Ms. Latisha Spikes, Re: Cost of Living, Community Future, and Improvement Sugges …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-47091c946fc6435c9996e70b8bad63e1.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -1309,6 +1288,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-4b05fa3853ec4025a61f8ba195b42275.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-08-25",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-1f0e0c3ced204c35b6dd2ef26a24f5cd.pdf"
   },
   {
    "topic": "data-center",
@@ -1753,6 +1753,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-07-28",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-bda37099b46c4f0cbc2099f363be5f5a.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -1939,6 +1960,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-a1c7758398e84dcd984b9089d676195f.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-07-14",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "hyperscale"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-6d0ed340752f4fc8aaff15b39da580a4.pdf"
   },
   {
    "topic": "data-center",
@@ -2257,27 +2299,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-22",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… agement, to enter into a professional architectural / engineering services agreement with BBCO Design LLC, for the 2026 Data Center West Facility Upgrades project; to authorize an expenditure up to $282,791.00 within the Information Services Capital P …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6193&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -2296,6 +2317,27 @@
    "excerpt": "… and Sustainability to amend Chapter 27 to Establish a Definition, Regulatory Guidelines, and Development Standards for Data Centers in M (Industrial), M-2 (Heavy Industrial), O-I (Office-Institutional), and O-D (Office-Distribution) zoning districts. …",
    "excerptTerm": "data center",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4477&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-06-16",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-acfa81937b2d40358f6993bc12583ec5.pdf"
   },
   {
    "topic": "data-center",
@@ -2404,6 +2446,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-06-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-c2a149bd3e1048afbc51e7a88341041b.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -2464,6 +2527,27 @@
    "excerpt": "… peakers: Eric Strickland (Corporate Property Assessments); Mike Russell (Elections); LA Pink (Sheriff); Gregory Thomas (Data Centers); Maggie McCullom (Senior/Youth Recreation Centers); Janet Hill (Deed Fraud); Mike Johnson (District 5 Representative) …",
    "excerptTerm": "data center",
    "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6387&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-06-02",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… Corie Wilson, Re: Notification and Inclusion of All Taxpayers Affected by Technology Overlay District Ordinance – Data Center. 6. Dr. Natalie Nicole, representing Role Model Academy of Arts, Re: Citizen Participation in Local Government. …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-39e0f695df7f48c18ab2283ffbedba3b.pdf"
   },
   {
    "topic": "data-center",
@@ -2530,27 +2614,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-01",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… ctor of the Department of Technology to enter into a contract with Technology Site Planners, Inc. (TechSite) to provide data center alarm monitoring and first responder services; to waive the competitive bidding provisions of Chapter 329 of the Columb …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6187&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "data-center",
    "placeId": "covington",
    "placeName": "City of Covington",
    "placeType": "city",
@@ -2590,6 +2653,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-155bd2dfb58249ff9617a51ff72a5c2b.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-26",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-e7e78c55234a4ec0a3236ec9b798ea7d.pdf"
   },
   {
    "topic": "data-center",
@@ -2699,6 +2783,28 @@
   },
   {
    "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center",
+    "hyperscale"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-b8fd3b606fe34aa2a9b5f95e1c5b625f.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "clayton",
    "placeName": "Clayton County",
    "placeType": "county",
@@ -2780,6 +2886,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0504_Minutes.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-04-14",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-6341fd4389bc41b29776097773eb26f1.pdf"
   },
   {
    "topic": "data-center",
@@ -2867,6 +2994,28 @@
   },
   {
    "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-03-24",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center",
+    "hyperscale"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-e9b894ac06f446d693bc093c25dd503b.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "fulton",
    "placeName": "Fulton County",
    "placeType": "county",
@@ -2909,6 +3058,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-03-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-88bb014cddb7417f9ddeb255d11f9f6d.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "whitfield",
    "placeName": "Whitfield County",
    "placeType": "county",
@@ -2948,6 +3118,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-26-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-02-24",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-19c256d9d4654206be5a840a65c9d462.pdf"
   },
   {
    "topic": "data-center",
