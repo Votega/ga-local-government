@@ -9,9 +9,10 @@ it names are the agenda-mention dataset, refreshed twice weekly. Property tax
 millage rates are published here too, on their own annual cadence. Each dataset
 describes itself in `data/<dataset>/manifest.json`, so listing
 `data/*/manifest.json` tells you what is here. A manifest's `generatedAt` is
-when the DATA was produced; `publishedAt` is when it was last mirrored — they
-are not the same, which is why no single file in this repo claims to state the
-freshness of all of it.
+when the DATA was produced, which is not when it was last mirrored — which is
+why no single file in this repo claims to state the freshness of all of it.
+Manifests carry no wall-clock time, so an unchanged dataset republishes
+identically; when a file was last written is in this repo's git history.
 
 ## Coverage
 
@@ -24,9 +25,9 @@ freshness of all of it.
 | Topic | Mentions | Jurisdictions |
 | --- | --- | --- |
 | ALPR / surveillance | 76 | 29 |
-| Data centers | 158 | 33 |
+| Data centers | 159 | 33 |
 | Land use | 686 | 55 |
-| Local taxes & referenda | 492 | 56 |
+| Local taxes & referenda | 493 | 56 |
 
 ## ALPR vendors named
 
