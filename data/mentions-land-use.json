@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T03:42:35Z",
+  "generatedAt": "2026-11-02T11:37:31Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 698
+  "count": 686
  },
  "mentions": [
   {
@@ -528,6 +528,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "coweta",
+   "placeName": "Coweta County",
+   "placeType": "county",
+   "fips": "13077",
+   "region": "Metro Atlanta",
+   "date": "2026-11-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3718,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "columbia",
    "placeName": "Columbia County",
    "placeType": "county",
@@ -734,58 +759,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-11-02",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… cres located on the east side of North Hague Avenue, 900± feet south of Trabue Road, From: R, Rural District, To: AR-1, Apartment Residential District (Rezoning #Z25-011). Ordinance",
-   "excerptTerm": "apartment",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6220&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-11-02",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "apartment"
-   ],
-   "tags": [
-    "annexation",
-    "development"
-   ],
-   "excerpt": "To set forth a statement of municipal services and zoning conditions to be provided to the area contained in a proposed annexation (AN26-017) of 5.8± Acres in Franklin Township to the city of Columbus as required by the Ohio Revised Code and to decla …",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6221&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
    "placeId": "hall",
    "placeName": "Hall County",
    "placeType": "county",
@@ -972,6 +945,29 @@
    "excerpt": "… Lot 20 of the 1st Land District, Parcel No. 279 02015, consisting of 60.96 acres. The applicant is seeking a variance to remove requirements of flood base elevations listed in Article 20, Sec. 2005 – F.4. 2. Ap …",
    "excerptTerm": "variance",
    "sourceUrl": "https://spaldingcounty.granicus.com/AgendaViewer.php?view_id=1&event_id=1042"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-10-27",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multifamily"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-15ddf03680454dfaa67d37da8e66cd78.pdf"
   },
   {
    "topic": "land-use",
@@ -1170,60 +1166,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3953&Inline=True"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-10-26",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… North Cassady Avenue, 1,238± feet north of Airport Drive, From: CPD, Commercial Planned Development District, To: AR-1, Apartment Residential District (Rezoning #Z26-015). Ordinance",
-   "excerptTerm": "apartment",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6218&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-10-26",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… ment to enter into a Housing Development Agreement (HDA) with Columbus Housing Partnership Inc., for the George’s Creek apartment community. ($0.00) Ordinance",
-   "excerptTerm": "apartment",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6219&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "land-use",
@@ -2036,62 +1978,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-10-19",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… d on the west side of Demorest Road; 460± feet north of White Spruce Lane, From: R, Rural District, To: L-AR-1, Limited Apartment Residential District (Rezoning #Z25-055). Ordinance",
-   "excerptTerm": "apartment",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6216&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-10-19",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "annexation",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "To set forth a statement of municipal services and zoning conditions to be provided to the area contained in a proposed annexation (AN26-018) of 1.949± Acres in Mifflin Township to the city of Columbus as required by the Ohio Revised Code and to decl …",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6217&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
    "placeId": "hall",
    "placeName": "Hall County",
    "placeType": "county",
@@ -2524,6 +2410,29 @@
    "excerpt": "… 13. 2026-02-LUP: Application by CHRISTIAN CORLEY-ANDERSON requesting to renew an existing Land Use Permit to continue the operation of her residential Be Free Fitness business. Property is located in Land Lot …",
    "excerptTerm": "land use permit",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-88aa4905a5944413b6afbae04cdca768.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-10-13",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multifamily"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-0461b4636cfd4846810f3bff5dfb68eb.pdf"
   },
   {
    "topic": "land-use",
@@ -3906,56 +3815,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-09-28",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… eight and area regulations, of the Columbus City codes; for the property located at 966 DUBLIN RD. (43215), to allow an apartment complex with reduced development standards in the M, Manufacturing District and the CPD, Commercial Planned Development …",
-   "excerptTerm": "apartment",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6210&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-09-28",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation"
-   ],
-   "tags": [
-    "annexation"
-   ],
-   "excerpt": "To accept the application (AN26-008) of Tracy L. Zwayer & Richard L. Zwayer, II, Trustee et al. for the annexation of certain territory containing 279.5± acres in Brown & Norwich Township. ($0.00) Ordinance",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6211&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
    "placeId": "fort-oglethorpe",
    "placeName": "City of Fort Oglethorpe",
    "placeType": "city",
@@ -4197,6 +4056,30 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-5ff47cbd526d45dd98174b3db16a9979.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-09-22",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "multifamily"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-47091c946fc6435c9996e70b8bad63e1.pdf"
   },
   {
    "topic": "land-use",
@@ -5096,54 +4979,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-09-14",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "REZONINGS/AMENDMENTS",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6206&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-09-14",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation"
-   ],
-   "tags": [
-    "annexation"
-   ],
-   "excerpt": "To accept the application (AN26-008) of Tracy L. Zwayer & Richard L. Zwayer, II, Trustee et al. for the annexation of certain territory containing 279.5± acres in Brown & Norwich Township. ($0.00) Ordinance",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6209&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -5521,6 +5356,30 @@
    "excerpt": "… n by JOEL L. LARKIN / SAMS, LARKIN & HUFF, LLP requesting to amend zoning condition #9 from prior rezoning application 2020-16-Z which limits the hours of operation on the property from 7:00 am to 7:00 …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-ce977a5ef5a9430eab33c2ceb54e17b1.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-09-08",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multifamily",
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-71aa648697644fc1874e0e2f82011a2b.pdf"
   },
   {
    "topic": "land-use",
@@ -6375,56 +6234,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-08-31",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… ocated at the northwest corner of North Cassidy Avenue and East 6th Street, From: M-2, Manufacturing District and AR-1, Apartment Residential District, To: L-M, Limited Manufacturing District (Rezoning #Z20-034). , and to declare an emergency. Ordin …",
-   "excerptTerm": "apartment",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6204&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-08-31",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation"
-   ],
-   "tags": [
-    "annexation"
-   ],
-   "excerpt": "To set forth a statement of municipal services and zoning conditions to be provided to the area contained in a proposed annexation (AN26-001) of 4.23± Acres in Prairie Township to the city of Columbus as required by the Ohio Revised Code and to decla …",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6205&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
    "placeId": "lumpkin",
    "placeName": "Lumpkin County",
    "placeType": "county",
@@ -6772,6 +6581,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-08-25",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-1f0e0c3ced204c35b6dd2ef26a24f5cd.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -6994,83 +6826,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/08.24.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-08-24",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "REZONINGS/AMENDMENTS",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6200&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-08-24",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "annexation",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "To accept the application (AN26-002) of Charritos Properties LLC for the annexation of certain territory containing 1.681± acres in Jackson Township. ($0.00) Ordinance",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6203&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "lumpkin",
-   "placeName": "Lumpkin County",
-   "placeType": "county",
-   "fips": "13187",
-   "region": "Northeast Georgia",
-   "date": "2026-08-24",
-   "body": "Land Use & Development Regulations Review Committee",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "multifamily"
-   ],
-   "tags": [
-    "development"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4244,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -10347,6 +10102,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-07-14",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-6d0ed340752f4fc8aaff15b39da580a4.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -11234,60 +11012,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-29",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… d on the west side of Demorest Road; 460± feet north of White Spruce Lane, From: R, Rural District, To: L-AR-1, Limited Apartment Residential District (Rezoning #Z25-055). Ordinance",
-   "excerptTerm": "apartment",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6194&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-29",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "apartment",
-    "townhome",
-    "warehouse"
-   ],
-   "tags": [
-    "annexation",
-    "development"
-   ],
-   "excerpt": "To accept the application (AN25-013) of San Remo Townhomes, LLC for the annexation of certain territory containing 3.0± acres in Franklin & Norwich Township. ($0.00) Ordinance",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6195&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
    "placeId": "lowndes",
    "placeName": "Lowndes County",
    "placeType": "county",
@@ -11626,64 +11350,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-22",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… s located on the north side of Kinnear Road, 900± feet west of Olentangy River Road, From: R, Rural District, To: AR-3, Apartment Residential District (Rezoning #Z22-050). Ordinance",
-   "excerptTerm": "apartment",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6192&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-22",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "apartment",
-    "rezon",
-    "subdivision",
-    "townhome",
-    "variance"
-   ],
-   "tags": [
-    "annexation",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "To accept the application (AN25-013) of San Remo Townhomes, LLC for the annexation of certain territory containing 3.0± acres in Franklin & Norwich Township. ($0.00) Ordinance",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6193&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
    "placeId": "fort-oglethorpe",
    "placeName": "City of Fort Oglethorpe",
    "placeType": "city",
@@ -11940,6 +11606,29 @@
    "excerpt": "… ce 2. APPROVAL OF MINUTES 2.1. Additions/Deletions 3. OLD BUSINESS 4. NEW BUSINESS 4.1. V26-0138 – Variance to request reduction of the required roof pitch of 5:12, allow vinyl/aluminum siding and waive required ga …",
    "excerptTerm": "variance",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-4563e92ef2b44847897050b16281939f.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-06-16",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multifamily"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-acfa81937b2d40358f6993bc12583ec5.pdf"
   },
   {
    "topic": "land-use",
@@ -12487,6 +12176,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-06-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multifamily"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… n boundaries of a district located at 2458 and 2464 Martha’s Loop (parcel # 085-054017A/026) from Residential Multifamily 2 (RMF2) Zoning District to Single Family Residential – 4 (SFR4) Zoning District. (Planning Department and PAC rec …",
+   "excerptTerm": "multifamily",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-c2a149bd3e1048afbc51e7a88341041b.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -12628,60 +12340,6 @@
    "excerpt": "… LLEGIANCE II. READING AND APPROVAL OF PREVIOUS MINUTES III. OLD BUSINESS: IV. NEW BUSINESS: A. Rezones and Special Uses: RZ – 191144 -Lisa Quinton 740 Eagle Perch Rd & Redtail …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_06082026-184"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-08",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "mixed-use",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… e north side of Hard Road, 150± feet west of Stoneford Drive, From: L-RR, Limited Rural Residential District, To: AR-1, Apartment Residential District (Rezoning #Z25-044). Ordinance",
-   "excerptTerm": "apartment",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6188&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-08",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "apartment",
-    "subdivision"
-   ],
-   "tags": [
-    "annexation",
-    "development"
-   ],
-   "excerpt": "To authorize the Director of the Department of Development to enter into an Amendment to the Annexation Agreement between the City of Columbus, Plain Township, and the City of New Albany;; to adjust growth boundaries for sp …",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6190&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "land-use",
@@ -13271,63 +12929,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-01",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… District, RRR, Restricted Rural Residential District and PUD-6, Planned Unit Development District, To: L-AR-1, Limited Apartment Residential District (Rezoning #Z26-011). Ordinance",
-   "excerptTerm": "apartment",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6185&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-01",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "apartment",
-    "mixed-use",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "annexation",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "To authorize the Director of the Department of Public Utilities to enter into an annexation agreement between the City of Columbus and the Board of Trustees of Berkshire Township, Delaware County, Ohio. ($0.00) …",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6187&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "land-use",
    "placeId": "fort-oglethorpe",
    "placeName": "City of Fort Oglethorpe",
    "placeType": "city",
@@ -13454,6 +13055,29 @@
    "excerpt": "… r the development of single-family detached dwellings, to be developed as Phases 3 and 4 of the existing Champions Runs Subdivision, at 8277 Norris Lake Way. Ordinance",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4538&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-26",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-e7e78c55234a4ec0a3236ec9b798ea7d.pdf"
   },
   {
    "topic": "land-use",
@@ -14011,33 +13635,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_05182026-183"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-05-18",
-   "body": "Zoning Committee",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… e north side of Hard Road, 150± feet west of Stoneford Drive, From: L-RR, Limited Rural Residential District, To: AR-1, Apartment Residential District (Rezoning #Z25-044). Ordinance",
-   "excerptTerm": "apartment",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6183&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "land-use",
@@ -14840,6 +14437,30 @@
   },
   {
    "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-04-28",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "multifamily"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-73bfc09ea2a448e6a58471c65ae76ca6.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -15503,6 +15124,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-04-14",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multifamily"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-6341fd4389bc41b29776097773eb26f1.pdf"
+  },
+  {
+   "topic": "land-use",
    "placeId": "lowndes",
    "placeName": "Lowndes County",
    "placeType": "county",
@@ -15853,31 +15497,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/effingham-pubu/MEET-Agenda-33a432a12d2f441488f2148526245ac8.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "coweta",
-   "placeName": "Coweta County",
-   "placeType": "county",
-   "fips": "13077",
-   "region": "Metro Atlanta",
-   "date": "2026-04-07",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "subdivision"
-   ],
-   "tags": [
-    "development",
-    "rezoning"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3282,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -16452,6 +16071,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.bartowcountyga.gov/CommissionerOffice/PUBLIC%20MEETING%20AGENDA%203-11-2026.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-03-10",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-88bb014cddb7417f9ddeb255d11f9f6d.pdf"
   },
   {
    "topic": "land-use",
