@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T15:40:34Z",
+  "generatedAt": "2026-11-02T19:01:37Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 1414
@@ -5538,7 +5538,7 @@
    ],
    "excerpt": "… e reasonable accommodations for those persons. and the request is for a single-family conservation subdivision. District III (Presenter: Alexius Jones, Planner II)(Exhibit 15) B. SU-26-01 (Publi …",
    "excerptTerm": "subdivision",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2684,plainText=false)"
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2688,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -5840,7 +5840,7 @@
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://drive.google.com/file/d/1JZyoScrOr0gqDMIQjxmzWEmiMRrpDG0R/view"
+   "sourceUrl": "https://drive.google.com/file/d/1F26LmgwzPmHZOqn5FW63BVTDy_xys7Wb/view"
   },
   {
    "topic": "land-use",
@@ -22847,7 +22847,7 @@
    "tags": [],
    "excerpt": "… Members of the Lumpkin County Board of Commissioners (District 3 Commissioner Nathan Davis) 16. 2026-67 IGA for TSPLOST Distribution Regular Meeting 17. 2026-68 TSPLOST Resolution Call for Election Regular Meeting 18. 2026-69 Resolution …",
    "excerptTerm": "splost",
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4449,plainText=false)"
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4451,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -22888,9 +22888,9 @@
     "splost"
    ],
    "tags": [],
-   "excerpt": "… m, utilizing Omnia Partners MICPA Contract with funding provided through Restricted Hotel/Motel Taxes. (Presenter: Lynn Planchon, Capital Projects Director)(Exhibit 2) B. Resolution to …",
+   "excerpt": "… m, utilizing Omnia Partners MICPA Contract with funding provided through Restricted Hotel/Motel Taxes. (Presenter: Lynn Planchon, Capital Projects Director)(Exhibit 2) B. (Removed from …",
    "excerptTerm": "hotel/motel tax",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2684,plainText=false)"
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2688,plainText=false)"
   },
   {
    "topic": "local-taxes",
