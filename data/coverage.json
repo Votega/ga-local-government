@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T03:42:35Z",
+  "generatedAt": "2026-11-02T11:37:31Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 59
@@ -289,7 +289,7 @@
     "land-use": 19,
     "local-taxes": 5
    },
-   "lastActivity": "2026-10-20"
+   "lastActivity": "2026-11-03"
   },
   {
    "placeId": "dawson",
@@ -491,8 +491,8 @@
    "type": "county",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 10,
-    "local-taxes": 8
+    "land-use": 9,
+    "local-taxes": 6
    },
    "lastActivity": "2026-11-09"
   },
@@ -528,12 +528,12 @@
    "type": "consolidated",
    "region": "West Georgia",
    "topics": {
-    "alpr": 3,
-    "data-center": 4,
-    "land-use": 23,
-    "local-taxes": 4
+    "alpr": 2,
+    "data-center": 13,
+    "land-use": 12,
+    "local-taxes": 7
    },
-   "lastActivity": "2026-11-02"
+   "lastActivity": "2026-10-27"
   },
   {
    "placeId": "newton",
