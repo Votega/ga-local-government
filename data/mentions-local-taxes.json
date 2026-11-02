@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T11:37:31Z",
+  "generatedAt": "2026-11-02T15:40:34Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
-  "count": 492
+  "count": 493
  },
  "mentions": [
   {
@@ -196,7 +196,7 @@
    "tags": [],
    "excerpt": "… Members of the Lumpkin County Board of Commissioners (District 3 Commissioner Nathan Davis) 16. 2026-67 IGA for TSPLOST Distribution Regular Meeting 17. 2026-68 TSPLOST Resolution Call for Election Regular Meeting 18. 2026-69 Resolution …",
    "excerptTerm": "splost",
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4441,plainText=false)"
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4449,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -8585,6 +8585,30 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-0708ef2a5131475ea93da3fb1765c3b2.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "local option sales tax",
+    "special purpose local option",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… attached Tabulation of Bid sheet. (Mayor Pro-Tem) 7. 1st Reading- An ordinance to provide for a levy of increase on ad valorem taxes for blighted property; to provide for identification of blighted property; to provide for remediation; to …",
+   "excerptTerm": "ad valorem",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-b8fd3b606fe34aa2a9b5f95e1c5b625f.pdf"
   },
   {
    "topic": "local-taxes",
