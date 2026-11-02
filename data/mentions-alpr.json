@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T03:42:35Z",
+  "generatedAt": "2026-11-02T11:37:31Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 77
+  "count": 76
  },
  "mentions": [
   {
@@ -408,6 +408,29 @@
   },
   {
    "topic": "alpr",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-09-22",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-47091c946fc6435c9996e70b8bad63e1.pdf"
+  },
+  {
+   "topic": "alpr",
    "placeId": "atlanta",
    "placeName": "City of Atlanta",
    "placeType": "city",
@@ -802,6 +825,27 @@
   },
   {
    "topic": "alpr",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-08-11",
+   "body": "City Council",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "surveillance camera"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-a7269b2461e44d02b1b1644e943fec3e.pdf"
+  },
+  {
+   "topic": "alpr",
    "placeId": "clayton",
    "placeName": "Clayton County",
    "placeType": "county",
@@ -1099,27 +1143,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-29",
-   "body": "Columbus City Council",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "surveillance system"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6195&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
-  },
-  {
-   "topic": "alpr",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -1162,33 +1185,6 @@
    "excerpt": "… (CEW). Ratifying increase in contract funds for 100 additional tasers and previously issued purchase order. Awarded to Axon Enterprise, Inc. Amount Not To Exceed: $1,442,514.00. Resolution",
    "excerptTerm": "axon enterprise",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4479&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-22",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [
-    "ShotSpotter (SoundThinking)"
-   ],
-   "matchedTerms": [
-    "axon enterprise",
-    "body worn",
-    "gunfire detection",
-    "shotspotter",
-    "soundthinking"
-   ],
-   "tags": [],
-   "excerpt": "To authorize the expenditure of $210,000.00 from the General Fund for the third year of a three-year contract with SoundThinking Inc., formerly ShotSpotter, Inc., for use of a gunfire detection, alert, and analysis program in the Phase II coverage …",
-   "excerptTerm": "soundthinking",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6193&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "alpr",
@@ -1373,33 +1369,6 @@
    "excerpt": "… A Resolution Of The Macon-Bibb County Commission Authorizing The Mayor To Execute An Agreement With Shotspotter, Inc. For The Provision Of Gunshot Detection, Location, And Forensic Analysis Services, In The Amount Of …",
    "excerptTerm": "shotspotter",
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3536,plainText=false)"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-06-01",
-   "body": "Columbus City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [
-    "ShotSpotter (SoundThinking)",
-    "Vigilant (Motorola)"
-   ],
-   "matchedTerms": [
-    "gunfire detection",
-    "shotspotter",
-    "soundthinking",
-    "vigilant solutions"
-   ],
-   "tags": [],
-   "excerpt": "To authorize the Director of the Department of Public Safety to enter into contract with Motorola Solutions, DBA Vigilant Solutions, for the purchase of commercial license subscriptions for the Investigative Data Platform; to waive the competitive bid …",
-   "excerptTerm": "vigilant solutions",
-   "sourceUrl": "https://columbus.legistar.com/MeetingDetail.aspx?LEGID=6187&GID=139&G=4F637594-17B0-4E92-8196-37F14328D337"
   },
   {
    "topic": "alpr",
