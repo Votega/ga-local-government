@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T11:37:31Z",
+  "generatedAt": "2026-11-02T15:40:34Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 1412
+  "count": 1414
  },
  "mentions": [
   {
@@ -4499,6 +4499,28 @@
   },
   {
    "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center",
+    "hyperscale"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-b8fd3b606fe34aa2a9b5f95e1c5b625f.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "clayton",
    "placeName": "Clayton County",
    "placeType": "county",
@@ -5795,7 +5817,7 @@
    ],
    "excerpt": "… person 4 Appointment of Planning Commission Member to Serve as Secretary for Preliminary and Final Subdivision Plat Review 5 Appointment of Planning Commission Secretary 6 Adoption of Hall County Planning Commis …",
    "excerptTerm": "subdivision",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-357-vm-20261030200821039378.pdf"
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-357-vm-20261102131441519833.pdf"
   },
   {
    "topic": "land-use",
@@ -22825,7 +22847,7 @@
    "tags": [],
    "excerpt": "… Members of the Lumpkin County Board of Commissioners (District 3 Commissioner Nathan Davis) 16. 2026-67 IGA for TSPLOST Distribution Regular Meeting 17. 2026-68 TSPLOST Resolution Call for Election Regular Meeting 18. 2026-69 Resolution …",
    "excerptTerm": "splost",
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4441,plainText=false)"
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4449,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -31214,6 +31236,30 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-0708ef2a5131475ea93da3fb1765c3b2.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "local option sales tax",
+    "special purpose local option",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… attached Tabulation of Bid sheet. (Mayor Pro-Tem) 7. 1st Reading- An ordinance to provide for a levy of increase on ad valorem taxes for blighted property; to provide for identification of blighted property; to provide for remediation; to …",
+   "excerptTerm": "ad valorem",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-b8fd3b606fe34aa2a9b5f95e1c5b625f.pdf"
   },
   {
    "topic": "local-taxes",
