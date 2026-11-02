@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T11:37:31Z",
+  "generatedAt": "2026-11-02T15:40:34Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 158
+  "count": 159
  },
  "mentions": [
   {
@@ -2780,6 +2780,28 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/06/BOC-minutes-5.12.26.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "muscogee",
+   "placeName": "Columbus-Muscogee County",
+   "placeType": "consolidated",
+   "fips": "13215",
+   "region": "West Georgia",
+   "date": "2026-05-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center",
+    "hyperscale"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-b8fd3b606fe34aa2a9b5f95e1c5b625f.pdf"
   },
   {
    "topic": "data-center",
