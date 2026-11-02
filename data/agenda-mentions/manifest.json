@@ -1,0 +1,87 @@
+{
+ "manifestSchemaVersion": "1.0.0",
+ "dataset": "agenda-mentions",
+ "title": "Georgia local-government agenda topic mentions",
+ "description": "Where ALPR/surveillance, data centers, land use and local taxes appear on Georgia county and city agendas and minutes, with the source document for every mention, plus the jurisdiction registry and per-place coverage.",
+ "repo": "Votega/ga-local-government",
+ "publisher": "VoteGA.org",
+ "generatedAt": "2026-11-02T03:42:32Z",
+ "publishedAt": "2026-11-02T03:42:35Z",
+ "updateCadence": "Twice weekly (Mondays and Thursdays).",
+ "schemaVersion": "1.0.0",
+ "rowCount": 1415,
+ "source": "the published agendas and minutes of Georgia county and municipal governments",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+ },
+ "files": [
+  {
+   "path": "SUMMARY.md",
+   "description": "Human-readable overview.",
+   "bytes": 2948
+  },
+  {
+   "path": "data/coverage.json",
+   "description": "Per-place coverage.",
+   "bytes": 13556
+  },
+  {
+   "path": "data/keywords.json",
+   "description": "The matching lexicon.",
+   "bytes": 5713
+  },
+  {
+   "path": "data/mentions-alpr.json",
+   "description": "Mentions for the ALPR / surveillance topic.",
+   "bytes": 49557
+  },
+  {
+   "path": "data/mentions-data-center.json",
+   "description": "Mentions for the Data centers topic.",
+   "bytes": 101420
+  },
+  {
+   "path": "data/mentions-land-use.json",
+   "description": "Mentions for the Land use topic.",
+   "bytes": 520575
+  },
+  {
+   "path": "data/mentions-local-taxes.json",
+   "description": "Mentions for the Local taxes & referenda topic.",
+   "bytes": 326140
+  },
+  {
+   "path": "data/mentions.csv",
+   "description": "Every mention, as a spreadsheet.",
+   "bytes": 520760
+  },
+  {
+   "path": "data/mentions.json",
+   "description": "Every mention.",
+   "bytes": 997144
+  },
+  {
+   "path": "data/mentions.schema.json",
+   "description": "JSON Schema for one mention.",
+   "bytes": 2103
+  },
+  {
+   "path": "data/places.json",
+   "description": "Jurisdiction registry.",
+   "bytes": 37681
+  },
+  {
+   "path": "latest.json",
+   "description": "This dataset's own index: topics, coverage and files.",
+   "bytes": 1219
+  }
+ ],
+ "coverage": {
+  "placesScanned": 59,
+  "universeCounties": 159,
+  "universeCities": 537,
+  "lastScan": "2026-11-02"
+ }
+}
