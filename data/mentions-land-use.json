@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T15:40:34Z",
+  "generatedAt": "2026-11-02T19:01:37Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
@@ -499,7 +499,7 @@
    ],
    "excerpt": "… e reasonable accommodations for those persons. and the request is for a single-family conservation subdivision. District III (Presenter: Alexius Jones, Planner II)(Exhibit 15) B. SU-26-01 (Publi …",
    "excerptTerm": "subdivision",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2684,plainText=false)"
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2688,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -801,7 +801,7 @@
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://drive.google.com/file/d/1JZyoScrOr0gqDMIQjxmzWEmiMRrpDG0R/view"
+   "sourceUrl": "https://drive.google.com/file/d/1F26LmgwzPmHZOqn5FW63BVTDy_xys7Wb/view"
   },
   {
    "topic": "land-use",
