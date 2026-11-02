@@ -1,0 +1,113 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Georgia county ad valorem millage rate record",
+ "description": "One tax district in one county in one tax year, from the Georgia Department of Revenue's Tax Digest Consolidated Summaries. The key is (countyCode, districtCode, taxYear, occurrence).",
+ "type": "object",
+ "properties": {
+  "taxYear": {
+   "type": [
+    "number",
+    "null"
+   ],
+   "description": "Tax year the digest describes."
+  },
+  "countyCode": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "DOR county code, 1-159 alphabetically. Part of the key."
+  },
+  "countyName": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Canonical county name for that code. DOR abbreviates some names per row, giving 191 distinct names for 159 codes, so this is the modal name per code and NOT a join key."
+  },
+  "countyNameAsFiled": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "The county name exactly as that year's workbook wrote it."
+  },
+  "districtCode": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Tax district code within the county. Part of the key. Only codes 0-3 mean the same thing statewide (countywide/state/school/county incorporated); above that they are per-county arbitrary."
+  },
+  "districtName": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "District name as filed. DRIFTS BETWEEN YEARS for ~15% of districts, in both directions, with no consistent transform. Never join on it."
+  },
+  "districtType": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Derived classification: countywide, state, school, city_school, county_incorporated, county_unincorporated, county_service_district, city, fire, tad, cid, bid, ssd, hospital, library, recreation, development_authority."
+  },
+  "occurrence": {
+   "type": [
+    "number",
+    "null"
+   ],
+   "description": "1 for every row except where DOR lists the same county/district/year twice. Part of the key so repeated rows stay distinguishable; they are published unmerged."
+  },
+  "millageMO": {
+   "type": [
+    "number",
+    "null"
+   ],
+   "description": "Maintenance-and-operations millage rate. null = none reported."
+  },
+  "millageBond": {
+   "type": [
+    "number",
+    "null"
+   ],
+   "description": "Bond millage rate. null = none reported."
+  },
+  "totalTaxMO": {
+   "type": [
+    "number",
+    "null"
+   ],
+   "description": "Total M&O tax levied, in dollars."
+  },
+  "totalTaxBond": {
+   "type": [
+    "number",
+    "null"
+   ],
+   "description": "Total bond tax levied, in dollars."
+  },
+  "assessedValueMO": {
+   "type": [
+    "number",
+    "null"
+   ],
+   "description": "Net M&O assessed value (40% of fair market value)."
+  },
+  "assessedValueBond": {
+   "type": [
+    "number",
+    "null"
+   ],
+   "description": "Net bond assessed value."
+  }
+ },
+ "required": [
+  "taxYear",
+  "countyCode",
+  "districtCode",
+  "districtType"
+ ],
+ "additionalProperties": false
+}
