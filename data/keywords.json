@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T20:36:49Z",
+  "generatedAt": "2026-11-04T10:55:57Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0"
  },
@@ -172,7 +172,8 @@
     "tax abatement",
     "tax allocation district",
     "tax digest",
-    "tax increment"
+    "tax increment",
+    "tax rate"
    ],
    "wholeWord": [
     "flost",
