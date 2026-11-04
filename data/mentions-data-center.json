@@ -1,12 +1,33 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T20:36:49Z",
+  "generatedAt": "2026-11-04T10:55:57Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 159
+  "count": 160
  },
  "mentions": [
+  {
+   "topic": "data-center",
+   "placeId": "carroll",
+   "placeName": "Carroll County",
+   "placeType": "county",
+   "fips": "13045",
+   "region": "West Georgia",
+   "date": "2026-11-17",
+   "body": "Planning & Zoning",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… ing for the Proposed Amendments to the Zoning Ordinance to regulate solar farms, battery energy storage facilities, and data centers. 6. Business Session 7. Adjournment",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3042,plainText=false)"
+  },
   {
    "topic": "data-center",
    "placeId": "dekalb",
@@ -1018,27 +1039,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-09-11",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
-  },
-  {
-   "topic": "data-center",
    "placeId": "savannah",
    "placeName": "City of Savannah",
    "placeType": "city",
@@ -1183,6 +1183,27 @@
    "excerpt": "… Council Member Henderson, seconded by Council Member Davis to approve the revocation of the current moratorium for Data Centers which was set to remain in effect through October 20, 2026, now that the related ordinance has been adopted. …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0901_Minutes.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-08-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1746&Inline=True"
   },
   {
    "topic": "data-center",
