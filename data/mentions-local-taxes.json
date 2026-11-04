@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T20:36:49Z",
+  "generatedAt": "2026-11-04T10:55:57Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
@@ -9,12 +9,12 @@
  "mentions": [
   {
    "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
+   "placeId": "forsyth",
+   "placeName": "Forsyth County",
    "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-11-06",
+   "fips": "13117",
+   "region": "Metro Atlanta",
+   "date": "2026-11-05",
    "body": "Board of Commissioners",
    "confidence": "high",
    "context": "unknown",
@@ -26,7 +26,7 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1750&Inline=True"
+   "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5398,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -170,7 +170,8 @@
    "vendors": [],
    "matchedTerms": [
     "referendum",
-    "splost"
+    "splost",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": null,
@@ -196,7 +197,7 @@
    "tags": [],
    "excerpt": "… Members of the Lumpkin County Board of Commissioners (District 3 Commissioner Nathan Davis) 16. 2026-67 IGA for TSPLOST Distribution Regular Meeting 17. 2026-68 TSPLOST Resolution Call for Election Regular Meeting 18. 2026-69 Resolution …",
    "excerptTerm": "splost",
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4451,plainText=false)"
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4453,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -264,6 +265,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "gwinnett",
+   "placeName": "Gwinnett County",
+   "placeType": "county",
+   "fips": "13135",
+   "region": "Metro Atlanta",
+   "date": "2026-11-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261103/a_51979_2026.11.03___Business_Session_Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "gordon",
    "placeName": "Gordon County",
    "placeType": "county",
@@ -306,27 +328,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "cherokee",
-   "placeName": "Cherokee County",
-   "placeType": "county",
-   "fips": "13057",
-   "region": "Metro Atlanta",
-   "date": "2026-11-03",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… n on Case #26-10-051V. 11. CONSENT AGENDA 11.1 Adoption of Updated Cherokee County Title VI Plan. Consider request from SPLOST/Roadway Department for adoption of an updated Cherokee County Title VI Plan establishing compliance with Title VI of th …",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&event_id=1118"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "camden",
    "placeName": "Camden County",
    "placeType": "county",
@@ -341,7 +342,8 @@
    "matchedTerms": [
     "millage",
     "splost",
-    "tax digest"
+    "tax digest",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": null,
@@ -456,7 +458,8 @@
     "hotel/motel tax",
     "splost",
     "tax abatement",
-    "tax allocation district"
+    "tax allocation district",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": "… ORDINANCE BY FINANCE/EXECUTIVE COMMITTEE TO AMEND SECTION 146-26 OF ATLANTA CITY CODE, TO SET THE AD VALOREM TAX RATE FOR THE GENERAL LEVY, BONDED INDEBTEDNESS LEVY, PARKS LEVY, EDUCATION LEVY, SPECIAL …",
@@ -480,7 +483,8 @@
     "ad valorem",
     "hotel/motel tax",
     "splost",
-    "tax abatement"
+    "tax abatement",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": null,
@@ -1157,33 +1161,13 @@
     "hotel/motel tax",
     "splost",
     "tax abatement",
-    "tax allocation district"
+    "tax allocation district",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3950&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-10-16",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… t Program (PSGP) for the new Marine Patrol facility. (NOTE; A match of up to $250, 000 will be required (SPLOST & CIP Funds). 9. Request Board approval of resolution and approval of execution of warranty deed …",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1747&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -1269,7 +1253,8 @@
     "ad valorem",
     "hotel/motel tax",
     "splost",
-    "tax abatement"
+    "tax abatement",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": "… XECUTIVE COMMITTEE TO AMEND SECTION 146-26 OF ATLANTA CITY CODE OF ORDINANCES, TO SET THE AD VALOREM TAX RATE FOR THE GENERAL LEVY, BONDED INDEBTEDNESS LEVY, PARKS …",
@@ -1495,7 +1480,8 @@
     "millage",
     "referendum",
     "splost",
-    "tax abatement"
+    "tax abatement",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": "… f Minutes a. September 14th, 2026 Regular Business Meeting b. September 18th, 2026 Special Called/Millage Rate Public Hearing Meeting c. September 29th Noon & 6:00 PM Special Called/Public Hearing Meeting (7) Re …",
@@ -1956,7 +1942,8 @@
     "millage",
     "rollback rate",
     "splost",
-    "tax digest"
+    "tax digest",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": "… 1 Public Hearing • To receive comments from the public regarding the proposed Millage Rate. Public Hearing To receive comments from the public regarding the following items: • Zoning Map Amendm …",
@@ -2113,7 +2100,8 @@
     "hotel/motel tax",
     "splost",
     "tax abatement",
-    "tax allocation district"
+    "tax allocation district",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": null,
@@ -2310,7 +2298,8 @@
     "ad valorem",
     "hotel/motel tax",
     "splost",
-    "tax abatement"
+    "tax abatement",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": null,
@@ -2505,6 +2494,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_09282026-3087"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-09-25",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1749&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -2766,6 +2776,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "covington",
+   "placeName": "City of Covington",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-09-21",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": "… y Council Member Davis to approve a resolution amending the FY 2027 Budget to reflect recent changes in the final tax digest and liability insurance renewal. Motion carried unanimously. CoC09212026 …",
+   "excerptTerm": "tax digest",
+   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0921_Minutes.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "atlanta",
    "placeName": "City of Atlanta",
    "placeType": "city",
@@ -2781,7 +2812,8 @@
     "ad valorem",
     "hotel/motel tax",
     "splost",
-    "tax abatement"
+    "tax abatement",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": null,
@@ -3371,27 +3403,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-09-11",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "baker",
    "placeName": "Baker County",
    "placeType": "county",
@@ -3973,6 +3984,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7517,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-08-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1746&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -4722,27 +4754,6 @@
    "excerpt": "… ESENTING ◻ 2026-08-022 Public Hearing Instructions Michael Brewer ◻ 2026-08-023 Millage Presentation Brad Johnson ◻ 2026-08-024 Public Hearing | 2026 County M & O Milla …",
    "excerptTerm": "millage",
    "sourceUrl": "https://buttsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1071,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-08-14",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1745&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -5500,6 +5511,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "gwinnett",
+   "placeName": "Gwinnett County",
+   "placeType": "county",
+   "fips": "13135",
+   "region": "Metro Atlanta",
+   "date": "2026-08-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… Call To Order II. Opening Remarks by Chairwoman III. Approval of Agenda IV. Public Hearing on 2026 Proposed Millage Rate V. Adjournment",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20260804/a_25070_2026.08.04___Special_Called_Meeting_Agenda_2026_Proposed_Millage_Rate_1100am.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "gordon",
    "placeName": "Gordon County",
    "placeType": "county",
@@ -5687,7 +5719,8 @@
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
-    "splost"
+    "splost",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": "… S: EXPENSES: ANNUAL: CAPITAL: $196,250.00 OTHER: FUNDING SOURCE: SPLOST IX – Roads, Streets, Bridges Equipment: 329-5-0000-542600 COMMISSION ACTION REQUESTED ON: August 4, 2026 PURPO …",
@@ -5826,6 +5859,27 @@
    "excerpt": "… *** 11. Motion made by Council Member Henderson, seconded by Council Member Rutberg to approve levying the 2026 Millage Rate at 6.173 mils. Motion carried unanimously. ****** 12. Motion made by Council Member Johnson, secon …",
    "excerptTerm": "millage",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0803_Minutes.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-07-31",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1745&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -6431,9 +6485,9 @@
     "millage"
    ],
    "tags": [],
-   "excerpt": "… IV. ROLL CALL V. SECOND PUBLIC HEARING AS REQUIRED BY THE STATE ON THE COUNTY'S 2026 MILLAGE LEVY To hold a Public Hearing as required by state law on the County's intent to levy a …",
+   "excerpt": "… IV. ROLL CALL V. FIRST PUBLIC HEARING AS REQUIRED BY THE STATE ON THE COUNTY'S 2026 MILLAGE LEVY To hold a Public Hearing as required by state law on the County's intent to levy a …",
    "excerptTerm": "millage",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1744&Inline=True"
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1743&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -6710,27 +6764,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://buttsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1052,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-07-10",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1742&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -7081,6 +7114,28 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-06-26",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1740&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "liberty",
    "placeName": "Liberty County",
    "placeType": "county",
@@ -7296,28 +7351,6 @@
    "excerpt": "Commission District(s): 4 & 6 To Allocate $500,000.00 of Category B3 - Bicycle Paths/Lanes/Multi-use Trails1 SPLOST II Funding for the Laredo Drive Bicycle Facility Resolution",
    "excerptTerm": "splost",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4477&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-06-17",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1740&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -7541,27 +7574,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/effingham-pubu/MEET-Agenda-d3b20f2163fe43d989588df71a1678e7.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-06-12",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1735&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -7904,7 +7916,8 @@
     "lhost",
     "local option sales tax",
     "millage",
-    "referendum"
+    "referendum",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": null,
@@ -8386,6 +8399,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-05-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1737&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "socialcircle",
    "placeName": "City of Social Circle",
    "placeType": "city",
@@ -8743,27 +8777,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-05-08",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1736&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -8782,6 +8795,27 @@
    "excerpt": "… ssure Compliance with the Constitution of the State of Georgia Concerning General Obligation Sales Tax Bonds (ESPLOST VII 2025) to be Issued by the Walker County Board of Education 17.4. Resolution R-035-26 to Approve Issuanc …",
    "excerptTerm": "splost",
    "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3227,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-05-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1736&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -9125,27 +9159,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/effingham-pubu/MEET-Agenda-4cd46faf4db74c45866c0cf3d1e34303.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-04-21",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1730&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -9587,6 +9600,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-03-27",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1731&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -9939,27 +9973,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-02-27",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1733&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -10087,6 +10100,28 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-02-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1728&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -10193,6 +10228,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.houstoncountyga.gov/minutes/2026-02-03%20Department%20Head%20Copy%20(002).pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-01-30",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1726&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -10332,27 +10388,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-01-09",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1727&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -10418,6 +10453,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.houstoncountyga.gov/minutes/2026-01-06_department%20head%20agenda%20copy.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2025-12-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1725&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -10524,34 +10580,13 @@
     "homestead exemption",
     "local option sales tax",
     "millage",
-    "splost"
+    "splost",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": "… enda. The motion was approved 3-0, with Commissioners Jones, Staten, and Thomas in agreement. PUBLIC HEARING: 1. MILLAGE RATE 2025: Chairman Jensen began the meeting by informing the audience that since 2016 the millage rate has s …",
    "excerptTerm": "millage",
    "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20December%208,%202025%20Regular%20Business%20Meeting.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2025-12-05",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage",
-    "tax abatement"
-   ],
-   "tags": [],
-   "excerpt": "… ty. This would be the cancellation of the previous resolution and ordinance allowing such tax abatement benefits. 3. Request Board approval of the Fiscal Year 2026/2027 Budget Adoption and Millage …",
-   "excerptTerm": "tax abatement",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1712&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -10618,6 +10653,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2025-11-21",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1724&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "houston",
    "placeName": "Houston County",
    "placeType": "county",
@@ -10680,48 +10736,6 @@
    "excerpt": "… mmissioner Robbins to approve the July Financial Statement as presented by Deputy Chief Finance Officer Carol Roberts. Local Option Sales Tax (LOST) collections: August collections of $1,317,642 were .87% less than budgeted collections of $1,329.167. This was …",
    "excerptTerm": "local option sales tax",
    "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20November%2010,%202025%20Regular%20Business%20Meeting.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "whitfield",
-   "placeName": "Whitfield County",
-   "placeType": "county",
-   "fips": "13313",
-   "region": "Northwest Georgia",
-   "date": "2025-11-07",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage"
-   ],
-   "tags": [],
-   "excerpt": "… VIN JENSEN, BARRY W. ROBBINS, ROBBY STATEN, JOHN THOMAS, GREG JONES) APPROVAL OF AGENDA PUBLIC HEARING 1. 2025 Millage Rate ADJOURN",
-   "excerptTerm": "millage",
-   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/November%207,%202025%20Special%20Called%20Meeting%20-NOON.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "whitfield",
-   "placeName": "Whitfield County",
-   "placeType": "county",
-   "fips": "13313",
-   "region": "Northwest Georgia",
-   "date": "2025-11-07",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage"
-   ],
-   "tags": [],
-   "excerpt": "… VIN JENSEN, BARRY W. ROBBINS, ROBBY STATEN, JOHN THOMAS, GREG JONES) APPROVAL OF AGENDA PUBLIC HEARING 1. 2025 Millage Rate FOR CONSIDERATION 1. Resolution - Setting Millage Rate ADJOURN",
-   "excerptTerm": "millage",
-   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/November%207,%202025%20Special%20Called%20Meeting%20-%206PM.pdf"
   }
  ]
 }
