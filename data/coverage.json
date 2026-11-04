@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T20:36:49Z",
+  "generatedAt": "2026-11-04T10:55:57Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 59
@@ -91,7 +91,7 @@
    "region": "Northeast Georgia",
    "topics": {
     "data-center": 2,
-    "land-use": 13,
+    "land-use": 14,
     "local-taxes": 5
    },
    "lastActivity": "2026-10-13"
@@ -161,11 +161,11 @@
    "type": "county",
    "region": "West Georgia",
    "topics": {
-    "data-center": 2,
-    "land-use": 14,
+    "data-center": 3,
+    "land-use": 15,
     "local-taxes": 3
    },
-   "lastActivity": "2026-11-05"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "carrollton",
@@ -196,12 +196,12 @@
    "type": "county",
    "region": "Coastal Georgia",
    "topics": {
-    "alpr": 3,
+    "alpr": 1,
     "data-center": 1,
-    "land-use": 13,
-    "local-taxes": 13
+    "land-use": 6,
+    "local-taxes": 12
    },
-   "lastActivity": "2026-11-06"
+   "lastActivity": "2026-09-25"
   },
   {
    "placeId": "cherokee",
@@ -209,12 +209,12 @@
    "type": "county",
    "region": "Metro Atlanta",
    "topics": {
-    "alpr": 4,
+    "alpr": 3,
     "data-center": 2,
     "land-use": 16,
-    "local-taxes": 8
+    "local-taxes": 7
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-02"
   },
   {
    "placeId": "clarke",
@@ -227,7 +227,7 @@
     "land-use": 7,
     "local-taxes": 7
    },
-   "lastActivity": "2026-11-04"
+   "lastActivity": "2026-11-05"
   },
   {
    "placeId": "clayton",
@@ -272,12 +272,12 @@
    "type": "city",
    "region": "Metro Atlanta",
    "topics": {
-    "alpr": 3,
+    "alpr": 4,
     "data-center": 10,
-    "land-use": 7,
-    "local-taxes": 2
+    "land-use": 9,
+    "local-taxes": 3
    },
-   "lastActivity": "2026-09-01"
+   "lastActivity": "2026-10-19"
   },
   {
    "placeId": "coweta",
@@ -359,11 +359,11 @@
    "type": "county",
    "region": "Metro Atlanta",
    "topics": {
-    "alpr": 1,
+    "alpr": 2,
     "land-use": 21,
-    "local-taxes": 14
+    "local-taxes": 15
    },
-   "lastActivity": "2026-10-20"
+   "lastActivity": "2026-11-05"
   },
   {
    "placeId": "fort-oglethorpe",
@@ -410,7 +410,7 @@
    "topics": {
     "alpr": 2,
     "land-use": 3,
-    "local-taxes": 13
+    "local-taxes": 15
    },
    "lastActivity": "2026-11-03"
   },
@@ -421,7 +421,7 @@
    "region": "Northeast Georgia",
    "topics": {
     "alpr": 2,
-    "land-use": 14,
+    "land-use": 13,
     "local-taxes": 4
    },
    "lastActivity": "2026-11-02"
@@ -578,7 +578,7 @@
     "land-use": 17,
     "local-taxes": 7
    },
-   "lastActivity": "2026-10-19"
+   "lastActivity": "2026-11-09"
   },
   {
    "placeId": "rockdale",
@@ -704,10 +704,10 @@
    "region": "Northwest Georgia",
    "topics": {
     "data-center": 7,
-    "land-use": 12,
-    "local-taxes": 17
+    "land-use": 13,
+    "local-taxes": 15
    },
-   "lastActivity": "2026-10-12"
+   "lastActivity": "2026-11-09"
   }
  ]
 }
