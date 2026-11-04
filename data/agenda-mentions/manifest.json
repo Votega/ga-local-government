@@ -5,10 +5,10 @@
  "description": "Where ALPR/surveillance, data centers, land use and local taxes appear on Georgia county and city agendas and minutes, with the source document for every mention, plus the jurisdiction registry and per-place coverage.",
  "repo": "Votega/ga-local-government",
  "publisher": "VoteGA.org",
- "generatedAt": "2026-11-02T20:36:45Z",
+ "generatedAt": "2026-11-04T10:55:50Z",
  "updateCadence": "Twice weekly (Mondays and Thursdays).",
  "schemaVersion": "1.0.0",
- "rowCount": 1414,
+ "rowCount": 1411,
  "source": "the published agendas and minutes of Georgia county and municipal governments",
  "license": {
   "name": "Creative Commons Attribution-ShareAlike 4.0 International",
@@ -24,42 +24,42 @@
   {
    "path": "data/coverage.json",
    "description": "Per-place coverage.",
-   "bytes": 13556
+   "bytes": 13555
   },
   {
    "path": "data/keywords.json",
    "description": "The matching lexicon.",
-   "bytes": 5713
+   "bytes": 5729
   },
   {
    "path": "data/mentions-alpr.json",
    "description": "Mentions for the ALPR / surveillance topic.",
-   "bytes": 48183
+   "bytes": 47865
   },
   {
    "path": "data/mentions-data-center.json",
    "description": "Mentions for the Data centers topic.",
-   "bytes": 106490
+   "bytes": 107217
   },
   {
    "path": "data/mentions-land-use.json",
    "description": "Mentions for the Land use topic.",
-   "bytes": 507794
+   "bytes": 506412
   },
   {
    "path": "data/mentions-local-taxes.json",
    "description": "Mentions for the Local taxes & referenda topic.",
-   "bytes": 327543
+   "bytes": 327053
   },
   {
    "path": "data/mentions.csv",
    "description": "Every mention, as a spreadsheet.",
-   "bytes": 514161
+   "bytes": 513603
   },
   {
    "path": "data/mentions.json",
    "description": "Every mention.",
-   "bytes": 989462
+   "bytes": 987999
   },
   {
    "path": "data/mentions.schema.json",
@@ -81,6 +81,6 @@
   "placesScanned": 59,
   "universeCounties": 159,
   "universeCities": 537,
-  "lastScan": "2026-11-02"
+  "lastScan": "2026-11-04"
  }
 }
