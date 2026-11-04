@@ -1,54 +1,32 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-02T20:36:49Z",
+  "generatedAt": "2026-11-04T10:55:57Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 76
+  "count": 75
  },
  "mentions": [
   {
    "topic": "alpr",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
+   "placeId": "forsyth",
+   "placeName": "Forsyth County",
    "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-11-06",
+   "fips": "13117",
+   "region": "Metro Atlanta",
+   "date": "2026-11-05",
    "body": "Board of Commissioners",
-   "confidence": "medium",
-   "context": null,
+   "confidence": "high",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
-    "axon enterprise",
-    "surveillance camera"
+    "dashcam"
    ],
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1750&Inline=True"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "cherokee",
-   "placeName": "Cherokee County",
-   "placeType": "county",
-   "fips": "13057",
-   "region": "Metro Atlanta",
-   "date": "2026-11-03",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&event_id=1118"
+   "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5398,plainText=false)"
   },
   {
    "topic": "alpr",
@@ -428,6 +406,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-47091c946fc6435c9996e70b8bad63e1.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "covington",
+   "placeName": "City of Covington",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-09-21",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": "… Motion carried unanimously. ****** Rosie Crawford thanked the City for checking on her property, discussed Flock camera issues, and thanked council for appointments to the CRB. Diane Gaither-Howard discussed issues with …",
+   "excerptTerm": "flock",
+   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0921_Minutes.pdf"
   },
   {
    "topic": "alpr",
@@ -1548,27 +1549,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-03-13",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1732&Inline=True"
-  },
-  {
-   "topic": "alpr",
    "placeId": "fort-oglethorpe",
    "placeName": "City of Fort Oglethorpe",
    "placeType": "city",
@@ -1635,29 +1615,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-01-09",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [
-    "Flock Safety"
-   ],
-   "matchedTerms": [
-    "flock"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1727&Inline=True"
-  },
-  {
-   "topic": "alpr",
    "placeId": "baker",
    "placeName": "Baker County",
    "placeType": "county",
@@ -1678,6 +1635,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_cbc6e6b5b5c94590b8ab27ce0c73d26e.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2025-12-19",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1725&Inline=True"
   },
   {
    "topic": "alpr",
