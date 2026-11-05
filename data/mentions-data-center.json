@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-04T10:55:57Z",
+  "generatedAt": "2026-11-05T17:12:40Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
@@ -27,6 +27,27 @@
    "excerpt": "… ing for the Proposed Amendments to the Zoning Ordinance to regulate solar farms, battery energy storage facilities, and data centers. 6. Business Session 7. Adjournment",
    "excerptTerm": "data center",
    "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3042,plainText=false)"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "rossville",
+   "placeName": "City of Rossville",
+   "placeType": "city",
+   "fips": null,
+   "region": "Northwest Georgia",
+   "date": "2026-11-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rossvillega.gov/s/Agenda-Packet-November-2026.pdf"
   },
   {
    "topic": "data-center",
@@ -1834,27 +1855,6 @@
    "excerpt": "… d - Please State Your Name And Address 11. Adjournment There will be an information sharing session to address data center ordinance considerations following the adjournment of the regular meeting.",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_07282026-566"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "cobb",
-   "placeName": "Cobb County",
-   "placeType": "county",
-   "fips": "13067",
-   "region": "Metro Atlanta",
-   "date": "2026-07-28",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10080,plainText=false)"
   },
   {
    "topic": "data-center",
