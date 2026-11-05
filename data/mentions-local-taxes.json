@@ -1,12 +1,117 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-04T10:55:57Z",
+  "generatedAt": "2026-11-05T17:12:40Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
-  "count": 493
+  "count": 499
  },
  "mentions": [
+  {
+   "topic": "local-taxes",
+   "placeId": "lumpkin",
+   "placeName": "Lumpkin County",
+   "placeType": "county",
+   "fips": "13187",
+   "region": "Northeast Georgia",
+   "date": "2026-11-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4468,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "lumpkin",
+   "placeName": "Lumpkin County",
+   "placeType": "county",
+   "fips": "13187",
+   "region": "Northeast Georgia",
+   "date": "2026-11-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Members of the Lumpkin County Board of Commissioners (District 3 Commissioner Nathan Davis) 16. 2026-67 IGA for TSPLOST Distribution 17. 2026-68 TSPLOST Resolution Call for Election 18. 2026-69 Resolution Requesting Georgia Department of …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4466,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "lumpkin",
+   "placeName": "Lumpkin County",
+   "placeType": "county",
+   "fips": "13187",
+   "region": "Northeast Georgia",
+   "date": "2026-11-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4465,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "cobb",
+   "placeName": "Cobb County",
+   "placeType": "county",
+   "fips": "13067",
+   "region": "Metro Atlanta",
+   "date": "2026-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… . 33. To approve Change Orders (final) to contracts for completed resurfacing projects in the 2022 SPLOST Transportation Improvements Program Fund. 34. To approve Change Orders (final) to construction contracts for c …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10325,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "rossville",
+   "placeName": "City of Rossville",
+   "placeType": "city",
+   "fips": null,
+   "region": "Northwest Georgia",
+   "date": "2026-11-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rossvillega.gov/s/Agenda-Packet-November-2026.pdf"
+  },
   {
    "topic": "local-taxes",
    "placeId": "forsyth",
@@ -238,9 +343,9 @@
     "splost"
    ],
    "tags": [],
-   "excerpt": "… m, utilizing Omnia Partners MICPA Contract with funding provided through Restricted Hotel/Motel Taxes. (Presenter: Lynn Planchon, Capital Projects Director)(Exhibit 2) B. (Removed from …",
+   "excerpt": "… itage Park Veterans Museum, utilizing Omnia Partners MICPA Contract with funding provided through Restricted Hotel/Motel Taxes. (Presenter: Lynn Planchon, Capital Projects Director)(Exhibit 2) Resolution 26-377 B. …",
    "excerptTerm": "hotel/motel tax",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2688,plainText=false)"
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2689,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -325,6 +430,27 @@
    "excerpt": "… 1.16 and to extend the contract term from January 29, 2027 to March 5, 2027. Funds are available through 2021 SPLOST Fund. Change Order #14 Line Item Cost #14 – RFI #65 & #72 Bond Beam …",
    "excerptTerm": "splost",
    "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5439&compileOutputType=1"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "cherokee",
+   "placeName": "Cherokee County",
+   "placeType": "county",
+   "fips": "13057",
+   "region": "Metro Atlanta",
+   "date": "2026-11-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… n on Case #26-10-051V. 11. CONSENT AGENDA 11.1 Adoption of Updated Cherokee County Title VI Plan. Consider request from SPLOST/Roadway Department for adoption of an updated Cherokee County Title VI Plan establishing compliance with Title VI of th …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1636"
   },
   {
    "topic": "local-taxes",
