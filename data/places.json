@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-04T10:55:57Z",
+  "generatedAt": "2026-11-05T17:12:40Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 62
@@ -17,6 +17,9 @@
    "fips": "13001",
    "region": "South Georgia",
    "platform": "pdflinks",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://applingcountyga.org/",
     "agendas_url": "https://applingcountyga.org/?page_id=98"
@@ -38,6 +41,9 @@
    "fips": "13059",
    "region": "Northeast Georgia",
    "platform": "civicplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.accgov.com",
     "agendas_url": "https://www.accgov.com/AgendaCenter"
@@ -71,6 +77,9 @@
    "fips": "13003",
    "region": "South Georgia",
    "platform": "pdflinks",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://atkinsoncounty.org/",
     "agendas_url": "https://atkinsoncounty.org/agenda/"
@@ -92,6 +101,9 @@
    "fips": "13245",
    "region": "East Georgia",
    "platform": "teammunicode",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://augustarichmond-ga.municodemeetings.com",
     "agendas_url": "https://augustarichmond-ga.municodemeetings.com/"
@@ -115,6 +127,9 @@
    "fips": "13005",
    "region": "South Georgia",
    "platform": "pdflinks",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://baconcounty.org/",
     "agendas_url": "https://baconcounty.org/minutes-agendas.php"
@@ -138,6 +153,9 @@
    "fips": "13007",
    "region": "South Georgia",
    "platform": "wixtable",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.bakercountyga.com",
     "agendas_url": "https://www.bakercountyga.com/minutes-and-agendas"
@@ -161,6 +179,9 @@
    "fips": "13009",
    "region": "Middle Georgia",
    "platform": "teammunicode",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://baldwincounty.teammunicode.com",
     "agendas_url": "https://www.baldwincountyga.com/1209/Agendas-Minutes"
@@ -184,6 +205,9 @@
    "fips": "13011",
    "region": "Northeast Georgia",
    "platform": "teammunicode",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://legacybankscountyga.teammunicode.com",
     "agendas_url": "https://www.bankscountyga.org/1228/Agendas-and-Minutes"
@@ -207,6 +231,9 @@
    "fips": "13013",
    "region": "Metro Atlanta",
    "platform": "granicus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://barrowga.org/",
     "agendas_url": "https://barrowga.granicus.com/ViewPublisher.php?view_id=1"
@@ -230,6 +257,9 @@
    "fips": "13015",
    "region": "Metro Atlanta",
    "platform": "revize",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.bartowcountyga.gov/index.php",
     "agendas_url": "https://www.bartowcountyga.gov/departments/county_commissioner/public_meeting_minutes/index.php"
@@ -253,6 +283,9 @@
    "fips": "13035",
    "region": "Metro Atlanta",
    "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "not-published"
+   },
    "links": {
     "agendas_url": "https://buttsco.portal.civicclerk.com/"
    },
@@ -275,6 +308,9 @@
    "fips": "13039",
    "region": "Coastal Georgia",
    "platform": "civicplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.camdencountyga.gov",
     "agendas_url": "https://www.camdencountyga.gov/AgendaCenter"
@@ -298,6 +334,11 @@
    "fips": "13045",
    "region": "West Georgia",
    "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "available",
+    "firstMeeting": "2024-11-05",
+    "lastMeeting": "2026-11-03"
+   },
    "links": {
     "base_url": "https://ga-carrollcounty.civicplus.com/182/Board-of-Commissioners",
     "agendas_url": "https://carrollcoga.portal.civicclerk.com/"
@@ -321,6 +362,9 @@
    "fips": "13047",
    "region": "Northwest Georgia",
    "platform": "granicus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.catoosacountyga.gov/",
     "agendas_url": "https://catoosaga.granicus.com/ViewPublisher.php?view_id=1"
@@ -344,6 +388,9 @@
    "fips": "13051",
    "region": "Coastal Georgia",
    "platform": "iqm2",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "agendas_url": "https://chathamcountyga.iqm2.com/Citizens/Calendar.aspx"
    },
@@ -366,6 +413,9 @@
    "fips": "13057",
    "region": "Metro Atlanta",
    "platform": "granicus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.cherokeecountyga.gov/",
     "agendas_url": "https://cherokeega.granicus.com/ViewPublisher.php?view_id=1"
@@ -390,6 +440,9 @@
    "fips": null,
    "region": "Metro Atlanta",
    "platform": "iqm2",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://citycouncil.atlantaga.gov/",
     "agendas_url": "https://atlantacityga.iqm2.com/Citizens/calendar.aspx"
@@ -413,6 +466,9 @@
    "fips": null,
    "region": "West Georgia",
    "platform": "gdrive",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://carrolltonga.com/",
     "agendas_url": "https://carrolltonga.com/agendas-minutes-and-summaries/"
@@ -436,6 +492,9 @@
    "fips": null,
    "region": "Metro Atlanta",
    "platform": "custom",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "agendas_url": "https://www.conyersga.com/government/city-government/council-agendas-and-minutes"
    },
@@ -458,6 +517,9 @@
    "fips": null,
    "region": "Metro Atlanta",
    "platform": "corecode",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.cityofcovington.org"
    },
@@ -481,6 +543,9 @@
    "fips": null,
    "region": "Northwest Georgia",
    "platform": "wpdatatables",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://fortogov.com",
     "agendas_url": "https://fortogov.com/mayor-council/"
@@ -504,6 +569,9 @@
    "fips": null,
    "region": "Northwest Georgia",
    "platform": "sharepoint",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://mycityoflafayettega.org",
     "agendas_url": "https://mycityoflafayettega.org/government/agendas_minutes.php"
@@ -527,6 +595,9 @@
    "fips": null,
    "region": "Middle Georgia",
    "platform": "unknown",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "agendas_url": "https://www.milledgevillega.us/index.php/agendas-and-minutes/"
    },
@@ -550,6 +621,9 @@
    "fips": null,
    "region": "Metro Atlanta",
    "platform": "drupalviews",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "agendas_url": "https://www.citypalmetto.com/meetings"
    },
@@ -582,6 +656,9 @@
    "fips": null,
    "region": "Northwest Georgia",
    "platform": "packetarchive",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.rossvillega.gov",
     "agendas_url": "https://www.rossvillega.gov/mayor-city-council"
@@ -605,6 +682,9 @@
    "fips": null,
    "region": "Coastal Georgia",
    "platform": "agendaplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "agendas_url": "https://agenda.savannahga.gov/publishing/ap-agendas.html",
     "minutes_url": "https://www.savannahga.gov/2460/Action-Minutes"
@@ -628,6 +708,9 @@
    "fips": null,
    "region": "Metro Atlanta",
    "platform": "iqm2",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.socialcirclega.gov/departments/mayor-and-council",
     "agendas_url": "https://socialcirclecityga.iqm2.com/Citizens/Calendar.aspx"
@@ -651,6 +734,9 @@
    "fips": null,
    "region": "South Georgia",
    "platform": "pdflinks",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://thomasville.org/",
     "agendas_url": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes"
@@ -679,6 +765,9 @@
    "fips": "13063",
    "region": "Metro Atlanta",
    "platform": "primegov",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://claytoncountyga.primegov.com",
     "agendas_url": "https://claytoncountyga.primegov.com/public/portal?fromiframe=true"
@@ -702,6 +791,9 @@
    "fips": "13067",
    "region": "Metro Atlanta",
    "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "not-published"
+   },
    "links": {},
    "schedule": [
     {
@@ -722,6 +814,9 @@
    "fips": "13073",
    "region": "East Georgia",
    "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "not-published"
+   },
    "links": {
     "agendas_url": "https://columbiacoga.portal.civicclerk.com/"
    },
@@ -742,6 +837,9 @@
    "fips": "13215",
    "region": "West Georgia",
    "platform": "teammunicode",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://columbus-ga.municodemeetings.com",
     "agendas_url": "https://columbus-ga.municodemeetings.com/"
@@ -770,6 +868,11 @@
    "fips": "13077",
    "region": "Metro Atlanta",
    "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "available",
+    "firstMeeting": "2024-11-05",
+    "lastMeeting": "2026-11-05"
+   },
    "links": {
     "agendas_url": "https://cowetacoga.portal.civicclerk.com/"
    },
@@ -792,6 +895,9 @@
    "fips": "13085",
    "region": "Metro Atlanta",
    "platform": "municode",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "agendas_url": "https://meetings.municode.com/PublishPage/index?cid=DAGA&ppid=d6a9cb0f-51b2-4f2b-9c12-76e9ed0e66e5"
    },
@@ -814,6 +920,11 @@
    "fips": "13089",
    "region": "Metro Atlanta",
    "platform": "legistar",
+   "recordedVotes": {
+    "status": "available",
+    "firstMeeting": "2025-11-04",
+    "lastMeeting": "2026-11-05"
+   },
    "links": {},
    "schedule": [
     {
@@ -834,6 +945,11 @@
    "fips": "13097",
    "region": "Metro Atlanta",
    "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "available",
+    "firstMeeting": "2024-11-18",
+    "lastMeeting": "2026-11-04"
+   },
    "links": {
     "base_url": "https://www.douglascountyga.gov/323/Board-of-Commissioners"
    },
@@ -856,6 +972,9 @@
    "fips": "13103",
    "region": "Coastal Georgia",
    "platform": "municode",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "agendas_url": "https://meetings.municode.com/PublishPage/index?cid=EFFINGHAM&ppid=9639c19d-1d1f-4201-b8ff-163a28a35f08"
    },
@@ -878,6 +997,9 @@
    "fips": "13113",
    "region": "Metro Atlanta",
    "platform": "revize",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.fayettecountyga.gov/",
     "agendas_url": "https://www.fayettecountyga.gov/government/board_of_commissioners/agendas_minutes.php"
@@ -901,6 +1023,11 @@
    "fips": "13117",
    "region": "Metro Atlanta",
    "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "available",
+    "firstMeeting": "2024-11-07",
+    "lastMeeting": "2026-10-20"
+   },
    "links": {
     "base_url": "https://www.forsythco.com/government/",
     "agendas_url": "https://www.forsythco.com/government/forsyth-county-meetings/"
@@ -924,6 +1051,11 @@
    "fips": "13121",
    "region": "Metro Atlanta",
    "platform": "legistar",
+   "recordedVotes": {
+    "status": "available",
+    "firstMeeting": "2025-11-05",
+    "lastMeeting": "2026-11-04"
+   },
    "links": {},
    "schedule": [
     {
@@ -944,6 +1076,9 @@
    "fips": "13129",
    "region": "Northwest Georgia",
    "platform": "civicplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.gordoncountyga.gov",
     "agendas_url": "https://www.gordoncountyga.gov/AgendaCenter"
@@ -967,6 +1102,9 @@
    "fips": "13135",
    "region": "Metro Atlanta",
    "platform": "gwinnett",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.gwinnettcounty.com/",
     "agendas_url": "https://www.gwinnettcounty.com/government/departments/county-clerk/boards-authorities/-/bacs/meetings/52"
@@ -990,6 +1128,9 @@
    "fips": "13139",
    "region": "Northeast Georgia",
    "platform": "agendapub",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.hallcounty.org",
     "agendas_url": "https://agendapub.hallcounty.org/"
@@ -1013,6 +1154,9 @@
    "fips": "13151",
    "region": "Metro Atlanta",
    "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "not-published"
+   },
    "links": {},
    "schedule": [
     {
@@ -1033,6 +1177,9 @@
    "fips": "13153",
    "region": "Middle Georgia",
    "platform": "htmltable",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.houstoncountyga.gov",
     "agendas_url": "https://www.houstoncountyga.gov/commissioner/meeting-minutes.cms"
@@ -1061,6 +1208,9 @@
    "fips": "13179",
    "region": "Coastal Georgia",
    "platform": "civicplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.libertycountyga.gov",
     "agendas_url": "https://www.libertycountyga.gov/AgendaCenter"
@@ -1084,6 +1234,9 @@
    "fips": "13185",
    "region": "South Georgia",
    "platform": "civicplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.lowndescounty.com",
     "agendas_url": "https://www.lowndescounty.com/AgendaCenter"
@@ -1112,6 +1265,11 @@
    "fips": "13187",
    "region": "Northeast Georgia",
    "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "available",
+    "firstMeeting": "2024-11-19",
+    "lastMeeting": "2026-11-04"
+   },
    "links": {
     "agendas_url": "https://lumpkincoga.portal.civicclerk.com/"
    },
@@ -1132,6 +1290,11 @@
    "fips": "13021",
    "region": "Middle Georgia",
    "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "available",
+    "firstMeeting": "2024-11-05",
+    "lastMeeting": "2026-11-05"
+   },
    "links": {
     "agendas_url": "https://maconbibbcoga.portal.civicclerk.com/"
    },
@@ -1154,6 +1317,9 @@
    "fips": "13199",
    "region": "West Georgia",
    "platform": "civicplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.meriwethercountyga.gov",
     "agendas_url": "https://www.meriwethercountyga.gov/AgendaCenter"
@@ -1177,6 +1343,9 @@
    "fips": "13211",
    "region": "Northeast Georgia",
    "platform": "civicplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.morgancountyga.gov",
     "agendas_url": "https://www.morgancountyga.gov/AgendaCenter"
@@ -1200,6 +1369,9 @@
    "fips": "13217",
    "region": "Metro Atlanta",
    "platform": "civicplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.newtoncountyga.gov"
    },
@@ -1222,6 +1394,9 @@
    "fips": "13219",
    "region": "Northeast Georgia",
    "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "not-published"
+   },
    "links": {
     "agendas_url": "https://oconeecountyga.portal.civicclerk.com/"
    },
@@ -1249,6 +1424,9 @@
    "fips": "13223",
    "region": "Metro Atlanta",
    "platform": "municode",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "agendas_url": "https://meetings.municode.com/PublishPage/index?cid=PAULDINGGA&ppid=a023d971-d971-44ac-a411-85d5afa307e1"
    },
@@ -1271,6 +1449,9 @@
    "fips": "13227",
    "region": "Northwest Georgia",
    "platform": "civicplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.pickenscountyga.gov",
     "agendas_url": "https://www.pickenscountyga.gov/AgendaCenter"
@@ -1294,6 +1475,9 @@
    "fips": "13247",
    "region": "Metro Atlanta",
    "platform": "wpmedia",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.rockdalecountyga.gov",
     "agendas_url": "https://www.rockdalecountyga.gov/rockdale-board-of-commissioners-meeting-agenda/",
@@ -1319,6 +1503,9 @@
    "fips": "13255",
    "region": "Metro Atlanta",
    "platform": "granicus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.spaldingcounty.com/",
     "agendas_url": "https://spaldingcounty.granicus.com/ViewPublisher.php?view_id=1"
@@ -1342,6 +1529,9 @@
    "fips": "13275",
    "region": "South Georgia",
    "platform": "nimblecal",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://thomascountyboc.org/",
     "minutes_url": "https://thomascountyboc.org/about-us/county-commissioners/board-minutes/files"
@@ -1365,6 +1555,9 @@
    "fips": "13277",
    "region": "South Georgia",
    "platform": "htmltable",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.tiftcounty.org",
     "agendas_url": "https://www.tiftcounty.org/government/resource_library.php"
@@ -1393,6 +1586,11 @@
    "fips": "13295",
    "region": "Northwest Georgia",
    "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "available",
+    "firstMeeting": "2024-11-14",
+    "lastMeeting": "2026-10-20"
+   },
    "links": {
     "base_url": "https://www.walkercountyga.gov/",
     "agendas_url": "https://www.walkercountyga.gov/government/board_of_commissioners/meeting_agendas.php"
@@ -1416,6 +1614,9 @@
    "fips": "13297",
    "region": "Metro Atlanta",
    "platform": "teammunicode",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://waltoncounty-ga.municodemeetings.com",
     "agendas_url": "https://waltoncounty-ga.municodemeetings.com/"
@@ -1439,6 +1640,9 @@
    "fips": "13313",
    "region": "Northwest Georgia",
    "platform": "htmltable",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
    "links": {
     "base_url": "https://www.whitfieldcountyga.com",
     "agendas_url": "https://www.whitfieldcountyga.com/government/elected_officials/board_of_commissioners/agenda_minutes_videos.php"
