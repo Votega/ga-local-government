@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-05T17:12:40Z",
+  "generatedAt": "2026-11-09T19:32:20Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 62
@@ -336,8 +336,8 @@
    "platform": "civicclerk",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2024-11-05",
-    "lastMeeting": "2026-11-03"
+    "firstMeeting": "2024-12-03",
+    "lastMeeting": "2026-11-05"
    },
    "links": {
     "base_url": "https://ga-carrollcounty.civicplus.com/182/Board-of-Commissioners",
@@ -870,8 +870,8 @@
    "platform": "civicclerk",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2024-11-05",
-    "lastMeeting": "2026-11-05"
+    "firstMeeting": "2024-11-14",
+    "lastMeeting": "2026-11-06"
    },
    "links": {
     "agendas_url": "https://cowetacoga.portal.civicclerk.com/"
@@ -922,7 +922,7 @@
    "platform": "legistar",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2025-11-04",
+    "firstMeeting": "2025-11-10",
     "lastMeeting": "2026-11-05"
    },
    "links": {},
@@ -1025,8 +1025,8 @@
    "platform": "civicclerk",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2024-11-07",
-    "lastMeeting": "2026-10-20"
+    "firstMeeting": "2024-11-12",
+    "lastMeeting": "2026-11-05"
    },
    "links": {
     "base_url": "https://www.forsythco.com/government/",
@@ -1053,7 +1053,7 @@
    "platform": "legistar",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2025-11-05",
+    "firstMeeting": "2025-11-19",
     "lastMeeting": "2026-11-04"
    },
    "links": {},
@@ -1268,7 +1268,7 @@
    "recordedVotes": {
     "status": "available",
     "firstMeeting": "2024-11-19",
-    "lastMeeting": "2026-11-04"
+    "lastMeeting": "2026-11-09"
    },
    "links": {
     "agendas_url": "https://lumpkincoga.portal.civicclerk.com/"
@@ -1292,7 +1292,7 @@
    "platform": "civicclerk",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2024-11-05",
+    "firstMeeting": "2024-11-13",
     "lastMeeting": "2026-11-05"
    },
    "links": {
@@ -1589,7 +1589,7 @@
    "recordedVotes": {
     "status": "available",
     "firstMeeting": "2024-11-14",
-    "lastMeeting": "2026-10-20"
+    "lastMeeting": "2026-11-05"
    },
    "links": {
     "base_url": "https://www.walkercountyga.gov/",
