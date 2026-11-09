@@ -1,9 +1,9 @@
 {
  "schemaVersion": "1.0.0",
- "generatedAt": "2026-11-05T17:12:40Z",
+ "generatedAt": "2026-11-09T19:32:20Z",
  "publisher": "VoteGA.org",
  "description": "Georgia local-government agenda topic mentions (ALPR, data centers, land use), the jurisdiction registry, and per-place coverage.",
- "lastScan": "2026-11-05",
+ "lastScan": "2026-11-09",
  "coverage": {
   "placesScanned": 59,
   "universeCounties": 159,
@@ -13,25 +13,25 @@
   {
    "topic": "alpr",
    "label": "ALPR / surveillance",
-   "mentions": 76,
+   "mentions": 79,
    "file": "data/mentions-alpr.json"
   },
   {
    "topic": "data-center",
    "label": "Data centers",
-   "mentions": 160,
+   "mentions": 163,
    "file": "data/mentions-data-center.json"
   },
   {
    "topic": "land-use",
    "label": "Land use",
-   "mentions": 682,
+   "mentions": 688,
    "file": "data/mentions-land-use.json"
   },
   {
    "topic": "local-taxes",
    "label": "Local taxes & referenda",
-   "mentions": 499,
+   "mentions": 500,
    "file": "data/mentions-local-taxes.json"
   }
  ],
