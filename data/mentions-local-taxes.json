@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-05T17:12:40Z",
+  "generatedAt": "2026-11-09T19:32:20Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
-  "count": 499
+  "count": 500
  },
  "mentions": [
   {
@@ -51,24 +51,74 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "lumpkin",
-   "placeName": "Lumpkin County",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
    "placeType": "county",
-   "fips": "13187",
-   "region": "Northeast Georgia",
+   "fips": "13113",
+   "region": "Metro Atlanta",
    "date": "2026-11-12",
    "body": "Board of Commissioners",
    "confidence": "high",
-   "context": "unknown",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "homestead exemption",
+    "homestead option sales tax",
+    "lhost",
+    "local option sales tax",
+    "millage",
+    "referendum",
+    "special purpose local option",
+    "splost",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": "… CONSENT AGENDA: 3. Approval to authorize staff to acquire all fee simple right-of-way and easements for the 2017 SPLOST Stormwater Category II, Tier II Project: 178 Crabapple Lane Culvert Replacement (21SAT). (pages 6-8) 4. …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/11-12-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Metro Atlanta",
+   "date": "2026-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
     "splost"
    ],
    "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4465,plainText=false)"
+   "excerpt": "… on to approve the purchase of listed vehicles for the Sheriff's Office from Hardy Family Ford utilizing SPLOST funds in the amount of $602,995.00. 6. Discuss action to approve the purchase of listed motorcycles for t …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-7211d0cb7c9746478f52e3659b15a1a6.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Metro Atlanta",
+   "date": "2026-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… maintenance, and repair of all card access points at County facilities. Seeking increase in contract funds to allocate SPLOST funds. Awarded to Southeastern Security Professionals, LLC.: Amount Not To Exceed: $66,299.99. Resolution",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4497&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
   },
   {
    "topic": "local-taxes",
@@ -93,6 +143,94 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-11-10",
+   "body": "Finance/Executive Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "hotel/motel tax",
+    "splost",
+    "tax abatement"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3961&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "appling",
+   "placeName": "Appling County",
+   "placeType": "county",
+   "fips": "13001",
+   "region": "South Georgia",
+   "date": "2026-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "referendum",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… d of Commissioners Regular Monthly Meeting Schedule D. Truck Purchase for County Extensions Services E. T-SPLOST (TIA3) Referendum F. Oak Street Buildings – Roof Repairs G. Bulldozer – Landfill H. SunCode Energy …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://applingcountyga.org/wp-content/uploads/2026/11/Agenda-Commissioners-Meeting-November-10-2026-Regular-Meeting.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "whitfield",
+   "placeName": "Whitfield County",
+   "placeType": "county",
+   "fips": "13313",
+   "region": "Northwest Georgia",
+   "date": "2026-11-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… ade by Commissioner Staten and seconded by Commissioner Robbins to approve the August Financial Statement as presented. Local Option Sales Tax (LOST) collections: August collections of $1,405,727 were 7.14% more than budgeted collections of $1,312,008. This was …",
+   "excerptTerm": "local option sales tax",
+   "sourceUrl": "https://www.whitfieldcountyga.com/BOC%20November%209,%202026%20Regular%20Business%20Meeting.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "tift",
+   "placeName": "Tift County",
+   "placeType": "county",
+   "fips": "13277",
+   "region": "South Georgia",
+   "date": "2026-11-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… lia Blvd and Ty Ty Sparks Rd (Salem Church Rd to Hwy 319) for an Estimated Cost of $3M to be funded from SPLOST VI and LMIG. 7.2 Motion to Approve a Temporary Easement Agreement with the Tifton-Tift Count …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.tiftcounty.org/Commission%20Agendas/Agenda%20-%20Regular%20Session%20-%2011.09.26.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "rossville",
    "placeName": "City of Rossville",
    "placeType": "city",
@@ -111,6 +249,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.rossvillega.gov/s/Agenda-Packet-November-2026.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "meriwether",
+   "placeName": "Meriwether County",
+   "placeType": "county",
+   "fips": "13199",
+   "region": "West Georgia",
+   "date": "2026-11-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_11092026-662"
   },
   {
    "topic": "local-taxes",
@@ -214,7 +373,7 @@
     "millage"
    ],
    "tags": [],
-   "excerpt": "Request approval of the Fulton County, Georgia Supplemental Tax Resolution adopting the 2026 Millage Rate for the Fulton County School Board. CM Action Item - Open & Responsible Government",
+   "excerpt": "Request approval of the Fulton County, Georgia Supplemental Tax Resolution adopting the 2026 Millage Rate for the Fulton County School Board. (APPROVED) CM Action Item - Open & Responsible Government",
    "excerptTerm": "millage",
    "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6399&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
   },
@@ -3054,27 +3213,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-09-15",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… Raw Water Pumps at the Water Treatment Plant 2. Authorization to Execute Payment on New Fire Apparatus from SPLOST and Authorize Short Term Loan from General Fund Reserves Up to $100,000 3. Consideration to Tr …",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2168&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "lumpkin",
    "placeName": "Lumpkin County",
    "placeType": "county",
@@ -3739,27 +3877,6 @@
    "excerpt": "… o Adopt an Enterprise Funds & Special Revenue Budget for Fiscal 2027 12.3. Resolution R-063-26 to Adopt a Millage Rate for the Unincorporated and Incorporated Areas of Walker County 12.4. Resolution R-064-26 to Award a …",
    "excerptTerm": "millage",
    "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4274,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-09-03",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2166&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -4533,6 +4650,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3266,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-08-18",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… CITIZENS REQUESTS VI. COUNCIL REQUESTS VII. AGENDA APPROVAL VIII. PUBLIC HEARINGS 1. 2026 Millage Rate Public Hearing 2. REZ-2026-006 - Request to Rezone from Agriculture (AG) to Residential-15 (R-15) as Par …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2160&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -5322,12 +5460,12 @@
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
-    "property tax increase"
+    "millage"
    ],
    "tags": [],
-   "excerpt": "… Public Hearing Agenda I. CALL TO ORDER 1. Roll Call II. PUBLIC HEARING 1. 2026 Proposed Property Tax Increase III. ADJOURN Persons with hearing or speech disabilities who need to contact the City of Social Circle …",
-   "excerptTerm": "property tax increase",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2158&Inline=True"
+   "excerpt": "… CALL TO ORDER Roll Call II. PLEDGE OF ALLEGIANCE III. INVOCATION IV. AGENDA ITEMS 1. 2026 Millage Rate Public Hearing 2. Planning Commission Review a. REZ-2026-006 - Request to Rezone from Agricult …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2159&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -6289,6 +6427,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-07-21",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2152&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -6614,27 +6773,6 @@
    "excerpt": "… IV. ROLL CALL V. FIRST PUBLIC HEARING AS REQUIRED BY THE STATE ON THE COUNTY'S 2026 MILLAGE LEVY To hold a Public Hearing as required by state law on the County's intent to levy a …",
    "excerptTerm": "millage",
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1743&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-07-14",
-   "body": "Historic Preservation Commission",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2152&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -7915,27 +8053,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "barrow",
-   "placeName": "Barrow County",
-   "placeType": "county",
-   "fips": "13013",
-   "region": "Metro Atlanta",
-   "date": "2026-06-09",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1129"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "whitfield",
    "placeName": "Whitfield County",
    "placeType": "county",
@@ -8543,31 +8660,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1737&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-05-19",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "hotel motel tax",
-    "local option sales tax",
-    "millage",
-    "splost",
-    "tax digest"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2138&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -9371,27 +9463,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-8b49cef7e2f04e02b6a068772d978ecb.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "paulding",
-   "placeName": "Paulding County",
-   "placeType": "county",
-   "fips": "13223",
-   "region": "Metro Atlanta",
-   "date": "2026-04-14",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-17453c2f44b641d6b8cdab849b6021a9.pdf"
   },
   {
    "topic": "local-taxes",
@@ -10645,30 +10716,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "fayette",
-   "placeName": "Fayette County",
-   "placeType": "county",
-   "fips": "13113",
-   "region": "Metro Atlanta",
-   "date": "2025-12-11",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "homestead exemption",
-    "millage",
-    "splost",
-    "tax digest"
-   ],
-   "tags": [],
-   "excerpt": "… ight Program. (pages 4-7) 2. Approval to acquire all fee simple right-of-way and easements for the proposed 2017 SPLOST; Stormwater Category IV Project 311 Friendship Church Road Culvert Replacement (17SAS). (pages 8-9) 3. …",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2025/Agenda/12-11-2025%20BOC%20Agenda.pdf"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "thomasville",
    "placeName": "City of Thomasville",
    "placeType": "city",
@@ -10840,28 +10887,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://baconcounty.org/uploads/November18%20regular%20meeting%20minutes.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "whitfield",
-   "placeName": "Whitfield County",
-   "placeType": "county",
-   "fips": "13313",
-   "region": "Northwest Georgia",
-   "date": "2025-11-10",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "local option sales tax",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… mmissioner Robbins to approve the July Financial Statement as presented by Deputy Chief Finance Officer Carol Roberts. Local Option Sales Tax (LOST) collections: August collections of $1,317,642 were .87% less than budgeted collections of $1,329.167. This was …",
-   "excerptTerm": "local option sales tax",
-   "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20November%2010,%202025%20Regular%20Business%20Meeting.pdf"
   }
  ]
 }
