@@ -5,11 +5,10 @@
  "description": "Every taxing jurisdiction's millage rate, tax levied and assessed value, by county and tax district, for each published tax year.",
  "repo": "Votega/ga-local-government",
  "publisher": "VoteGA.org",
- "generatedAt": "2026-11-02T02:54:27Z",
- "publishedAt": "2026-11-02T02:54:30Z",
+ "generatedAt": "2026-11-09T20:11:18Z",
  "updateCadence": "Polled monthly; the source changes once a year, when DOR publishes a new tax year's workbook.",
  "schemaVersion": "1.0.0",
- "rowCount": 10643,
+ "rowCount": 12186,
  "source": "Georgia Department of Revenue, Local Government Services — Tax Digest Consolidated Summaries (https://dor.georgia.gov/local-government-services/digest-compliance/digest-consolidated-summaries)",
  "license": {
   "name": "Creative Commons Attribution-ShareAlike 4.0 International",
@@ -20,31 +19,32 @@
   {
    "path": "MILLAGE.md",
    "description": "How to read the dataset, and its known source quirks.",
-   "bytes": 3090
+   "bytes": 3194
   },
   {
    "path": "data/millage-places.json",
    "description": "Per-place reduction rendered on votega.org.",
-   "bytes": 473327
+   "bytes": 516141
   },
   {
    "path": "data/millage.csv",
    "description": "The same rows as a spreadsheet.",
-   "bytes": 983134
+   "bytes": 1228015
   },
   {
    "path": "data/millage.json",
    "description": "Every row, columnar: field names once, rows as arrays.",
-   "bytes": 1862012
+   "bytes": 2322671
   },
   {
    "path": "data/millage.schema.json",
    "description": "JSON Schema for one row, with per-field notes.",
-   "bytes": 2986
+   "bytes": 3458
   }
  ],
  "coverage": {
   "taxYears": [
+   2019,
    2020,
    2021,
    2022,
