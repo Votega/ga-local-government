@@ -1,12 +1,99 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-05T17:12:40Z",
+  "generatedAt": "2026-11-09T19:32:20Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 76
+  "count": 79
  },
  "mentions": [
+  {
+   "topic": "alpr",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-11-12",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [
+    "ShotSpotter (SoundThinking)"
+   ],
+   "matchedTerms": [
+    "shotspotter"
+   ],
+   "tags": [],
+   "excerpt": "… rgetown Water Reclamation Facility Expansion.pdf 25. Authorize the City Manager to Execute a Contract for Phase III for ShotSpotter Subscription with ShotSpotter in the Amount of $262,500. (SPD) Exhibit 1: Funding Verification - ShotSpotter Phase 3.pd …",
+   "excerptTerm": "shotspotter",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/november-12-2026-city-council-regular-meeting/agenda.html"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
+   "placeType": "county",
+   "fips": "13113",
+   "region": "Metro Atlanta",
+   "date": "2026-11-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "body cam",
+    "dash cam"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/11-12-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-11-10",
+   "body": "City Utilities Committee",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "surveillance camera"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3963&Inline=True"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "fort-oglethorpe",
+   "placeName": "City of Fort Oglethorpe",
+   "placeType": "city",
+   "fips": null,
+   "region": "Northwest Georgia",
+   "date": "2026-11-09",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "in-car camera"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-November-9.pdf"
+  },
   {
    "topic": "alpr",
    "placeId": "forsyth",
@@ -1005,29 +1092,6 @@
    "excerpt": "… Exhibit 8) Police Department A. Resolution amending Resolution No. 23-197 regarding the Flock Safety agreement for product replacement. (Presenter: Captain Anthony Militello, HC …",
    "excerptTerm": "flock",
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2596,plainText=false)"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "douglas",
-   "placeName": "Douglas County",
-   "placeType": "county",
-   "fips": "13097",
-   "region": "Metro Atlanta",
-   "date": "2026-07-21",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [
-    "Avigilon (Motorola)"
-   ],
-   "matchedTerms": [
-    "avigilon"
-   ],
-   "tags": [],
-   "excerpt": "… 7. Approval of a corrective total amount for the previously approved Comcast Smart Solutions contract for Eagle Eye Avigilon video management hardware in the amount of $1,796.40, (Difference of $46.70) with the total monthly service amount …",
-   "excerptTerm": "avigilon",
-   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7439,plainText=false)"
   },
   {
    "topic": "alpr",
