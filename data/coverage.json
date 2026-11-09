@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-05T17:12:40Z",
+  "generatedAt": "2026-11-09T19:32:20Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 59
@@ -12,9 +12,9 @@
    "type": "county",
    "region": "South Georgia",
    "topics": {
-    "local-taxes": 8
+    "local-taxes": 9
    },
-   "lastActivity": "2026-10-08"
+   "lastActivity": "2026-11-10"
   },
   {
    "placeId": "atkinson",
@@ -30,12 +30,12 @@
    "type": "city",
    "region": "Metro Atlanta",
    "topics": {
-    "alpr": 1,
-    "data-center": 7,
-    "land-use": 13,
-    "local-taxes": 10
+    "alpr": 2,
+    "data-center": 9,
+    "land-use": 15,
+    "local-taxes": 11
    },
-   "lastActivity": "2026-11-02"
+   "lastActivity": "2026-11-10"
   },
   {
    "placeId": "augusta",
@@ -91,7 +91,7 @@
    "region": "Northeast Georgia",
    "topics": {
     "data-center": 2,
-    "land-use": 14,
+    "land-use": 13,
     "local-taxes": 5
    },
    "lastActivity": "2026-10-13"
@@ -103,10 +103,10 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 1,
-    "land-use": 14,
-    "local-taxes": 4
+    "land-use": 15,
+    "local-taxes": 3
    },
-   "lastActivity": "2026-10-27"
+   "lastActivity": "2026-11-12"
   },
   {
    "placeId": "bartow",
@@ -214,7 +214,7 @@
     "land-use": 16,
     "local-taxes": 8
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-12"
   },
   {
    "placeId": "clarke",
@@ -236,7 +236,7 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 2,
-    "data-center": 4,
+    "data-center": 3,
     "land-use": 8,
     "local-taxes": 16
    },
@@ -249,7 +249,7 @@
    "region": "Metro Atlanta",
    "topics": {
     "data-center": 2,
-    "land-use": 16,
+    "land-use": 17,
     "local-taxes": 6
    },
    "lastActivity": "2026-12-09"
@@ -297,10 +297,10 @@
    "type": "county",
    "region": "Metro Atlanta",
    "topics": {
-    "land-use": 6,
+    "land-use": 7,
     "local-taxes": 8
    },
-   "lastActivity": "2026-11-05"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "dekalb",
@@ -309,11 +309,11 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 8,
-    "data-center": 15,
+    "data-center": 16,
     "land-use": 22,
-    "local-taxes": 12
+    "local-taxes": 13
    },
-   "lastActivity": "2026-11-05"
+   "lastActivity": "2026-11-10"
   },
   {
    "placeId": "douglas",
@@ -321,12 +321,12 @@
    "type": "county",
    "region": "Metro Atlanta",
    "topics": {
-    "alpr": 3,
+    "alpr": 2,
     "data-center": 2,
-    "land-use": 13,
+    "land-use": 14,
     "local-taxes": 17
    },
-   "lastActivity": "2026-11-04"
+   "lastActivity": "2026-11-16"
   },
   {
    "placeId": "effingham",
@@ -346,12 +346,12 @@
    "type": "county",
    "region": "Metro Atlanta",
    "topics": {
-    "alpr": 3,
-    "data-center": 10,
+    "alpr": 4,
+    "data-center": 11,
     "land-use": 20,
     "local-taxes": 20
    },
-   "lastActivity": "2026-10-22"
+   "lastActivity": "2026-11-12"
   },
   {
    "placeId": "forsyth",
@@ -363,7 +363,7 @@
     "land-use": 21,
     "local-taxes": 15
    },
-   "lastActivity": "2026-11-05"
+   "lastActivity": "2026-11-10"
   },
   {
    "placeId": "fort-oglethorpe",
@@ -371,11 +371,11 @@
    "type": "city",
    "region": "Northwest Georgia",
    "topics": {
-    "alpr": 2,
-    "land-use": 24,
+    "alpr": 3,
+    "land-use": 23,
     "local-taxes": 3
    },
-   "lastActivity": "2026-10-26"
+   "lastActivity": "2026-11-09"
   },
   {
    "placeId": "fulton",
@@ -421,10 +421,10 @@
    "region": "Northeast Georgia",
    "topics": {
     "alpr": 2,
-    "land-use": 12,
+    "land-use": 14,
     "local-taxes": 4
    },
-   "lastActivity": "2026-11-02"
+   "lastActivity": "2026-11-16"
   },
   {
    "placeId": "henry",
@@ -491,8 +491,8 @@
    "type": "county",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 8,
-    "local-taxes": 9
+    "land-use": 9,
+    "local-taxes": 8
    },
    "lastActivity": "2026-11-17"
   },
@@ -503,11 +503,11 @@
    "region": "West Georgia",
    "topics": {
     "alpr": 1,
-    "data-center": 2,
-    "land-use": 9,
-    "local-taxes": 14
+    "data-center": 3,
+    "land-use": 8,
+    "local-taxes": 15
    },
-   "lastActivity": "2026-10-27"
+   "lastActivity": "2026-11-09"
   },
   {
    "placeId": "morgan",
@@ -530,10 +530,10 @@
    "topics": {
     "alpr": 2,
     "data-center": 14,
-    "land-use": 12,
+    "land-use": 13,
     "local-taxes": 8
    },
-   "lastActivity": "2026-10-27"
+   "lastActivity": "2026-11-10"
   },
   {
    "placeId": "newton",
@@ -563,11 +563,11 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 11,
-    "data-center": 21,
+    "data-center": 22,
     "land-use": 11,
     "local-taxes": 23
    },
-   "lastActivity": "2026-10-13"
+   "lastActivity": "2026-11-10"
   },
   {
    "placeId": "pickens",
@@ -612,12 +612,12 @@
    "type": "city",
    "region": "Coastal Georgia",
    "topics": {
-    "alpr": 1,
+    "alpr": 2,
     "data-center": 3,
     "land-use": 11,
     "local-taxes": 5
    },
-   "lastActivity": "2026-10-22"
+   "lastActivity": "2026-11-12"
   },
   {
    "placeId": "socialcircle",
@@ -625,11 +625,11 @@
    "type": "city",
    "region": "Metro Atlanta",
    "topics": {
-    "data-center": 5,
+    "data-center": 2,
     "land-use": 12,
-    "local-taxes": 5
+    "local-taxes": 3
    },
-   "lastActivity": "2026-10-13"
+   "lastActivity": "2026-10-27"
   },
   {
    "placeId": "spalding",
@@ -649,10 +649,10 @@
    "region": "South Georgia",
    "topics": {
     "alpr": 3,
-    "land-use": 2,
+    "land-use": 3,
     "local-taxes": 6
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-10"
   },
   {
    "placeId": "thomasville",
@@ -660,7 +660,7 @@
    "type": "city",
    "region": "South Georgia",
    "topics": {
-    "land-use": 17,
+    "land-use": 16,
     "local-taxes": 8
    },
    "lastActivity": "2026-10-12"
@@ -671,9 +671,9 @@
    "type": "county",
    "region": "South Georgia",
    "topics": {
-    "local-taxes": 8
+    "local-taxes": 9
    },
-   "lastActivity": "2026-09-14"
+   "lastActivity": "2026-11-09"
   },
   {
    "placeId": "walker",
@@ -704,8 +704,8 @@
    "type": "county",
    "region": "Northwest Georgia",
    "topics": {
-    "data-center": 7,
-    "land-use": 13,
+    "data-center": 8,
+    "land-use": 12,
     "local-taxes": 15
    },
    "lastActivity": "2026-11-09"
