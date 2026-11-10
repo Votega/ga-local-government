@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-09T19:32:20Z",
+  "generatedAt": "2026-11-10T22:35:26Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 163
+  "count": 162
  },
  "mentions": [
   {
@@ -48,6 +48,27 @@
    "excerpt": "… rom 2025. Real property growth increased by 2.59% and property growth grew by almost $2.05 billion, largely related to data center leasing. Motor vehicles decreased and so did other heavy-duty equipment and mobile homes. The total growth increase wa …",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/11-12-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "paulding",
+   "placeName": "Paulding County",
+   "placeType": "county",
+   "fips": "13223",
+   "region": "Metro Atlanta",
+   "date": "2026-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "public-comment",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-fe0764f493fe4860b3609e3df9695ca0.pdf"
   },
   {
    "topic": "data-center",
@@ -2047,27 +2068,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "cherokee",
-   "placeName": "Cherokee County",
-   "placeType": "county",
-   "fips": "13057",
-   "region": "Metro Atlanta",
-   "date": "2026-07-21",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… LOSURE OF EXECUTIVE SESSION 3. AMENDMENTS TO AGENDA 3.1 Amend to add item 6.3 under Commission Business - Moratorium on Data Centers. 3.2 Amend to add item 6.4 under Commission Business - Public Hearing to Extend Moratorium. 4. PRESENTATIONS/PROCLAMAT …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1582"
-  },
-  {
-   "topic": "data-center",
    "placeId": "baker",
    "placeName": "Baker County",
    "placeType": "county",
@@ -3097,27 +3097,6 @@
    "excerpt": "… for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Offici …",
    "excerptTerm": "data center",
    "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2133&Inline=True"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "henry",
-   "placeName": "Henry County",
-   "placeType": "county",
-   "fips": "13151",
-   "region": "Metro Atlanta",
-   "date": "2026-03-31",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… Cooper Carry Inc. for on-call consulting services to support Henry County with technical guidance on data center development, including best practices, infrastructure considerations, and development agreement frame …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2475,plainText=false)"
   },
   {
    "topic": "data-center",
