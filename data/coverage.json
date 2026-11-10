@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-09T19:32:20Z",
+  "generatedAt": "2026-11-10T22:35:26Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 59
@@ -210,11 +210,11 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 4,
-    "data-center": 2,
+    "data-center": 1,
     "land-use": 16,
-    "local-taxes": 8
+    "local-taxes": 7
    },
-   "lastActivity": "2026-11-12"
+   "lastActivity": "2026-11-16"
   },
   {
    "placeId": "clarke",
@@ -310,7 +310,7 @@
    "topics": {
     "alpr": 8,
     "data-center": 16,
-    "land-use": 22,
+    "land-use": 20,
     "local-taxes": 13
    },
    "lastActivity": "2026-11-10"
@@ -410,7 +410,7 @@
    "topics": {
     "alpr": 2,
     "land-use": 3,
-    "local-taxes": 15
+    "local-taxes": 13
    },
    "lastActivity": "2026-11-03"
   },
@@ -422,7 +422,7 @@
    "topics": {
     "alpr": 2,
     "land-use": 14,
-    "local-taxes": 4
+    "local-taxes": 3
    },
    "lastActivity": "2026-11-16"
   },
@@ -433,11 +433,10 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 2,
-    "data-center": 1,
-    "land-use": 14,
+    "land-use": 15,
     "local-taxes": 18
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "houston",
@@ -469,9 +468,9 @@
    "topics": {
     "data-center": 1,
     "land-use": 5,
-    "local-taxes": 1
+    "local-taxes": 2
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-12"
   },
   {
    "placeId": "lowndes",
@@ -563,7 +562,7 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 11,
-    "data-center": 22,
+    "data-center": 23,
     "land-use": 11,
     "local-taxes": 23
    },
@@ -575,10 +574,10 @@
    "type": "county",
    "region": "Northwest Georgia",
    "topics": {
-    "land-use": 17,
+    "land-use": 18,
     "local-taxes": 7
    },
-   "lastActivity": "2026-11-09"
+   "lastActivity": "2026-11-16"
   },
   {
    "placeId": "rockdale",
@@ -640,7 +639,7 @@
     "land-use": 10,
     "local-taxes": 7
    },
-   "lastActivity": "2026-11-02"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "thomas",
@@ -696,7 +695,7 @@
     "land-use": 20,
     "local-taxes": 2
    },
-   "lastActivity": "2026-11-17"
+   "lastActivity": "2026-12-10"
   },
   {
    "placeId": "whitfield",
