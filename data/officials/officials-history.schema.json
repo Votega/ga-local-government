@@ -1,0 +1,113 @@
+{
+ "$schema": "http://json-schema.org/draft-07/schema#",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-local-government/main/data/officials/officials-history.schema.json",
+ "title": "VoteGA local official (one person's term in one seat)",
+ "schemaVersion": "1.0.0",
+ "schemaStability": "Stable field names and meanings. One row per person per term. HISTORY IS NOT BACKFILLED: it begins at `metadata.historyStartsAt`, so a seat with a single holder here means no earlier holder is RECORDED, not that there was none. No contact fields. New fields are appended, never reordered.",
+ "type": "object",
+ "required": [
+  "jurisdiction",
+  "seat_id",
+  "name"
+ ],
+ "properties": {
+  "jurisdiction": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "jurisdiction slug (joins data/places.json `placeId`)"
+  },
+  "seat_id": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "stable seat key; every holder of a seat, past and present, shares it"
+  },
+  "seat": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "display label of the seat (may be reworded over time; seat_id never is)"
+  },
+  "name": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "name as the body styles it"
+  },
+  "role": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "canonical function (Mayor, Council Member, Commissioner, ...)"
+  },
+  "title": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "verbatim office label when a body uses a distinctive one"
+  },
+  "party": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "party on a partisan seat; null for nonpartisan municipal seats"
+  },
+  "takes_office": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "ISO date the person began holding the seat; null = held before recording began"
+  },
+  "leaves_office": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "ISO date the hold ENDS, exclusive (first day they no longer hold it); null = still holding"
+  },
+  "leave_reason": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "term-ended | resigned | removed | deceased; null while holding"
+  },
+  "last_elected": {
+   "type": [
+    "integer",
+    "null"
+   ],
+   "description": "year of the election that seated them"
+  },
+  "term_end": {
+   "type": [
+    "integer",
+    "null"
+   ],
+   "description": "year the current term ends; null when not established"
+  },
+  "source": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "primary-source URL a person confirmed the row against"
+  },
+  "status": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "null for a normal holder; \"Suspended\" = still legally holds the seat while an interim serves"
+  }
+ }
+}
