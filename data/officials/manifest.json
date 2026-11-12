@@ -5,7 +5,7 @@
  "description": "Elected county commissions and city councils: who holds each seat now (officials), and every recorded holder of every seat, one row per person per term (officials-history). History is not backfilled: it starts at historyStartsAt.",
  "repo": "Votega/ga-local-government",
  "publisher": "VoteGA.org",
- "generatedAt": "2026-11-10T22:35:26Z",
+ "generatedAt": "2026-11-12T17:30:16Z",
  "updateCadence": "Twice weekly (Mondays and Thursdays), from a hand-maintained roster; a person confirms every row against its `source`.",
  "schemaVersion": "1.0.0",
  "rowCount": 352,
