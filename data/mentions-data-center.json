@@ -1,12 +1,33 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-10T22:35:26Z",
+  "generatedAt": "2026-11-12T17:30:16Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 162
+  "count": 163
  },
  "mentions": [
+  {
+   "topic": "data-center",
+   "placeId": "effingham",
+   "placeName": "Effingham County",
+   "placeType": "county",
+   "fips": "13103",
+   "region": "Coastal Georgia",
+   "date": "2026-11-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/effingham-pubu/MEET-Agenda-4a737d59a401417fbd7fd597e964fdba.pdf"
+  },
   {
    "topic": "data-center",
    "placeId": "carroll",
