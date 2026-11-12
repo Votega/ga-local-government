@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-10T22:35:26Z",
+  "generatedAt": "2026-11-12T17:30:16Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 59
@@ -297,10 +297,10 @@
    "type": "county",
    "region": "Metro Atlanta",
    "topics": {
-    "land-use": 7,
+    "land-use": 8,
     "local-taxes": 8
    },
-   "lastActivity": "2026-11-17"
+   "lastActivity": "2026-11-19"
   },
   {
    "placeId": "dekalb",
@@ -310,7 +310,7 @@
    "topics": {
     "alpr": 8,
     "data-center": 16,
-    "land-use": 20,
+    "land-use": 22,
     "local-taxes": 13
    },
    "lastActivity": "2026-11-10"
@@ -334,11 +334,11 @@
    "type": "county",
    "region": "Coastal Georgia",
    "topics": {
-    "data-center": 2,
+    "data-center": 3,
     "land-use": 25,
-    "local-taxes": 10
+    "local-taxes": 9
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "fayette",
@@ -434,9 +434,9 @@
    "topics": {
     "alpr": 2,
     "land-use": 15,
-    "local-taxes": 18
+    "local-taxes": 17
    },
-   "lastActivity": "2026-11-17"
+   "lastActivity": "2026-11-19"
   },
   {
    "placeId": "houston",
@@ -659,10 +659,10 @@
    "type": "city",
    "region": "South Georgia",
    "topics": {
-    "land-use": 16,
+    "land-use": 17,
     "local-taxes": 8
    },
-   "lastActivity": "2026-10-12"
+   "lastActivity": "2026-10-26"
   },
   {
    "placeId": "tift",
