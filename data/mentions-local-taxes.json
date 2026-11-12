@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-10T22:35:26Z",
+  "generatedAt": "2026-11-12T17:30:16Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
-  "count": 497
+  "count": 495
  },
  "mentions": [
   {
@@ -9423,28 +9423,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "henry",
-   "placeName": "Henry County",
-   "placeType": "county",
-   "fips": "13151",
-   "region": "Metro Atlanta",
-   "date": "2026-04-14",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "flost",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… r)(Exhibit 12) Announcement #3: The Following item will be added to tonight’s Regular agenda: T-SPLOST item. 1. Resolution approving a payment to Georgia DOT in the amount of $29,354,340 f …",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2489,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -9888,27 +9866,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.houstoncountyga.gov/minutes/2026-03-17%20Department%20Head%20Copy.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "effingham",
-   "placeName": "Effingham County",
-   "placeType": "county",
-   "fips": "13103",
-   "region": "Coastal Georgia",
-   "date": "2026-03-17",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/effingham-pubu/MEET-Agenda-32088c8996344738b1cac1a08b2a3e98.pdf"
   },
   {
    "topic": "local-taxes",
