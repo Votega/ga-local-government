@@ -1,12 +1,86 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-12T17:30:16Z",
+  "generatedAt": "2026-11-14T01:00:25Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
-  "count": 495
+  "count": 496
  },
  "mentions": [
+  {
+   "topic": "local-taxes",
+   "placeId": "cobb",
+   "placeName": "Cobb County",
+   "placeType": "county",
+   "fips": "13067",
+   "region": "Metro Atlanta",
+   "date": "2026-11-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "special purpose local option",
+    "tax allocation district"
+   ],
+   "tags": [],
+   "excerpt": "… Gold, Silver, and Bronze Award. PUBLIC HEARING 3. To conduct a public hearing regarding proposed Cobb County Tax Allocation District #1: Town Center Area Redevelopment Plan. PUBLIC COMMENT Those persons wishing to address the Board of Com …",
+   "excerptTerm": "tax allocation district",
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10349,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "fulton",
+   "placeName": "Fulton County",
+   "placeType": "county",
+   "fips": "13121",
+   "region": "Metro Atlanta",
+   "date": "2026-11-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "local option sales tax",
+    "special purpose local option",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Bonds and the final contract payments to be made by the County in respect thereof; providing for the levy of an annual ad valorem tax and the pledge of the full faith and credit of the County to meet its payment obligations thereunder; and for other …",
+   "excerptTerm": "ad valorem",
+   "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6400&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": "Northeast Georgia",
+   "date": "2026-11-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "homestead exemption",
+    "local option sales tax",
+    "millage",
+    "splost",
+    "tax abatement",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_11172026-889"
+  },
   {
    "topic": "local-taxes",
    "placeId": "lumpkin",
@@ -51,6 +125,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "houston",
+   "placeName": "Houston County",
+   "placeType": "county",
+   "fips": "13153",
+   "region": "Middle Georgia",
+   "date": "2026-11-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… e Extension project, with Georgia Power, in an amount not to exceed $2,612,827. This project will be funded by the 2024 SPLOST and the Georgia Department of Transportation. 4. Resolution (Ocmulgee National Park and Preserve Initiative) – Comm …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.houstoncountyga.gov/minutes/2026-11-17%20Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "henry",
    "placeName": "Henry County",
    "placeType": "county",
@@ -68,7 +163,185 @@
    "tags": [],
    "excerpt": "… unty Funds Account. (Presenter: Rhett Wheeler, Director of Fleet Services)(Exhibit 6) SPLOST A. Resolution approving a change order for Sol Construction, LLC in the amount of $13 …",
    "excerptTerm": "splost",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2695,plainText=false)"
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2702,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "gwinnett",
+   "placeName": "Gwinnett County",
+   "placeType": "county",
+   "fips": "13135",
+   "region": "Metro Atlanta",
+   "date": "2026-11-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261117/a_62106_2026.11.17___Public_Hearing_Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "gordon",
+   "placeName": "Gordon County",
+   "placeType": "county",
+   "fips": "13129",
+   "region": "Northwest Georgia",
+   "date": "2026-11-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… request from Administration to approve contract with Denson Engineering, Inc. for design services for the 2018 SPLOST Sugar Valley Station project in the amount of $20,000 budgeted using GL Account 328-542511. XII.​ Ad …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.gordoncountyga.gov/AgendaCenter/ViewFile/Agenda/_11172026-1133"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Metro Atlanta",
+   "date": "2026-11-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "Commission District(s): All To Appropriate SPLOST 1 3J Funding to Purchase, Install and Repair Lou Walker Kitchen Equipment, Substitute Item & Correction to Agenda Item …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4498&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "clarke",
+   "placeName": "Athens-Clarke County",
+   "placeType": "consolidated",
+   "fips": "13059",
+   "region": "Northeast Georgia",
+   "date": "2026-11-17",
+   "body": "Mayor & Commission Meetings",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "referendum",
+    "special purpose local option",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… 7 contingency funds to support expanded day services provided by the Sparrow’s Nest. 6. Adopt: TSPLOST 2023 Project 11, East Athens MLK Parkway Oconee River Greenway Trail – Budget Ordinance – 176/2026 …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_11172026-3143"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-11-17",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "referendum",
+    "splost",
+    "tax abatement"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_11172026-677"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "spalding",
+   "placeName": "Spalding County",
+   "placeType": "county",
+   "fips": "13255",
+   "region": "Metro Atlanta",
+   "date": "2026-11-16",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://spaldingcounty.granicus.com/AgendaViewer.php?view_id=1&event_id=955"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "douglas",
+   "placeName": "Douglas County",
+   "placeType": "county",
+   "fips": "13097",
+   "region": "Metro Atlanta",
+   "date": "2026-11-16",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… ly purchased ambulances for the Douglas County Fire Department, in the amount of $7,294.24 to be funded through SPLOST 2022 funds and authorize the Chairman to sign all related documents pending further legal review. (Julia Janka) 19. …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7673,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-11-16",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "hotel/motel tax",
+    "millage",
+    "splost",
+    "tax abatement",
+    "tax allocation district"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3966&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -5128,27 +5401,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-08-13",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage"
-   ],
-   "tags": [],
-   "excerpt": "… 3 of 5 Other Business - Financial Services 32 First public hearing regarding Hall County's intent to levy a 2026 millage rate for the County's General Fund greater than the calculated full rollback per the State of Georgia for …",
-   "excerptTerm": "millage",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-328-vm-20260812192908006643.pdf"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -5273,27 +5525,6 @@
    "excerpt": "… a Public Hearing Regarding the Proposed Fiscal Year 2027 Budget 5. First Public Hearing Regarding the Proposed 2026 Millage Rates Coweta County Board of Commissioners Page 1 of 3 6 …",
    "excerptTerm": "millage",
    "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3612,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "cobb",
-   "placeName": "Cobb County",
-   "placeType": "county",
-   "fips": "13067",
-   "region": "Metro Atlanta",
-   "date": "2026-08-11",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… of a State of Texas Department of Information Resources Contract (Texas DIR). This is a 2022 SPLOST project, Countywide Improvements Program B0010. PUBLIC COMMENT Those persons wishing to address the Board of Commissi …",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10156,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -5901,29 +6132,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "cherokee",
-   "placeName": "Cherokee County",
-   "placeType": "county",
-   "fips": "13057",
-   "region": "Metro Atlanta",
-   "date": "2026-08-04",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "millage",
-    "referendum",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… Session, Executive Session, and Regular Meeting Minutes from July 21, 2026. 8. PUBLIC HEARING 8.1 Public Hearing - 2026 Millage Rate. Conduct a public hearing to receive input on the 2026 Millage Rate; followed by adoption of the Millage Rates for …",
-   "excerptTerm": "millage",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1587"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "catoosa",
    "placeName": "Catoosa County",
    "placeType": "county",
@@ -6080,27 +6288,6 @@
    "excerpt": "Request for the Board of Commissioners to approve a Resolution requesting the Call for a Ballot Referendum to approve the imposition of a Transportation Special Purpose Local Option Sales Tax (TSPLOST); for approval of an Inte …",
    "excerptTerm": "referendum",
    "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6395&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "douglas",
-   "placeName": "Douglas County",
-   "placeType": "county",
-   "fips": "13097",
-   "region": "Metro Atlanta",
-   "date": "2026-08-03",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7449,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -7989,27 +8176,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Metro Atlanta",
-   "date": "2026-06-09",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… Rescue (FR) to obtain roof maintenance, repair, and replacement services at County-owned facilities. Seeking to utilize SPLOST II funds for the roof replacement and repairs at North DeKalb Comprehensive Health Center, East DeKalb Health Center, E …",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4478&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "clayton",
    "placeName": "Clayton County",
    "placeType": "county",
@@ -8403,27 +8569,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Metro Atlanta",
-   "date": "2026-06-02",
-   "body": "Committee of the Whole",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… Rescue (FR) to obtain roof maintenance, repair, and replacement services at County-owned facilities. Seeking to utilize SPLOST II funds for the roof replacement and repairs at North DeKalb Comprehensive Health Center, East DeKalb Health Center, E …",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4476&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "clayton",
    "placeName": "Clayton County",
    "placeType": "county",
@@ -8680,27 +8825,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.gordoncountyga.gov/AgendaCenter/ViewFile/Agenda/_05192026-1094"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "clayton",
-   "placeName": "Clayton County",
-   "placeType": "county",
-   "fips": "13063",
-   "region": "Metro Atlanta",
-   "date": "2026-05-19",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… ce adjustment to align with the U.S Bureau of Labor Statistics reports. Funding is available through the 2021 SPLOST Fund. 6. Recommendation for Contract Amendment: ITB #24-79 Construction of Fire Station #9 for Clayton County, …",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5351&compileOutputType=1"
   },
   {
    "topic": "local-taxes",
@@ -9599,28 +9723,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "gordon",
-   "placeName": "Gordon County",
-   "placeType": "county",
-   "fips": "13129",
-   "region": "Northwest Georgia",
-   "date": "2026-04-07",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "flost",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.gordoncountyga.gov/AgendaCenter/ViewFile/Agenda/_04072026-1084"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -10124,27 +10226,6 @@
    "excerpt": "… Dollar Amount: _______________________ INSTRUCTIONS: THIS FORM SHOULD BE FILLED OUT BY THE □ SPLOST Dollar Amount: _______________________ DEPARTMENT HEAD WHO IS RESPONSIBLE FOR ALL …",
    "excerptTerm": "splost",
    "sourceUrl": "https://buttsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=38,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "rockdale",
-   "placeName": "Rockdale County",
-   "placeType": "county",
-   "fips": "13247",
-   "region": "Metro Atlanta",
-   "date": "2026-02-17",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/03/BOC-minutes-2.17.26.pdf"
   },
   {
    "topic": "local-taxes",
@@ -10737,49 +10818,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1724&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "houston",
-   "placeName": "Houston County",
-   "placeType": "county",
-   "fips": "13153",
-   "region": "Middle Georgia",
-   "date": "2025-11-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.houstoncountyga.gov/minutes/2025-11-18%20Department%20Head%20Copy.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "bacon",
-   "placeName": "Bacon County",
-   "placeType": "county",
-   "fips": "13005",
-   "region": "South Georgia",
-   "date": "2025-11-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage",
-    "tax digest"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://baconcounty.org/uploads/November18%20regular%20meeting%20minutes.pdf"
   }
  ]
 }
