@@ -1,12 +1,33 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-12T17:30:16Z",
+  "generatedAt": "2026-11-14T01:00:25Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 163
+  "count": 161
  },
  "mentions": [
+  {
+   "topic": "data-center",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": "Northeast Georgia",
+   "date": "2026-11-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_11172026-889"
+  },
   {
    "topic": "data-center",
    "placeId": "effingham",
@@ -48,6 +69,48 @@
    "excerpt": "… ing for the Proposed Amendments to the Zoning Ordinance to regulate solar farms, battery energy storage facilities, and data centers. 6. Business Session 7. Adjournment",
    "excerptTerm": "data center",
    "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3042,plainText=false)"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-11-17",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_11172026-677"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-11-16",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… MARTIN, LILIANA BAKHTIARI, MATT WESTMORELAND, BYRON D. AMOS, AND MICHAEL JULIAN BOND REQUIRING DATA CENTERS LOCATED WITHIN THE CITY OF ATLANTA, AND DATA CENTERS SERVED BY THE CITY OF A …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3966&Inline=True"
   },
   {
    "topic": "data-center",
@@ -1774,27 +1837,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "cobb",
-   "placeName": "Cobb County",
-   "placeType": "county",
-   "fips": "13067",
-   "region": "Metro Atlanta",
-   "date": "2026-08-11",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… 27. To adopt a resolution extending a temporary moratorium on rezoning applications and permits for new data centers in unincorporated Cobb County. Internal Audit 28. To approve an updated Internal Audit Department Charter in …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10156,plainText=false)"
-  },
-  {
-   "topic": "data-center",
    "placeId": "whitfield",
    "placeName": "Whitfield County",
    "placeType": "county",
@@ -2635,27 +2677,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Metro Atlanta",
-   "date": "2026-06-09",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… DeKalb County Board of Commissioners to hold a public hearing to consider and review whether to extend a moratorium on Data Centers in DeKalb County. Resolution",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4478&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
-  },
-  {
-   "topic": "data-center",
    "placeId": "clayton",
    "placeName": "Clayton County",
    "placeType": "county",
@@ -2716,27 +2737,6 @@
    "excerpt": "… Corie Wilson, Re: Notification and Inclusion of All Taxpayers Affected by Technology Overlay District Ordinance – Data Center. 6. Dr. Natalie Nicole, representing Role Model Academy of Arts, Re: Citizen Participation in Local Government. …",
    "excerptTerm": "data center",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-39e0f695df7f48c18ab2283ffbedba3b.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Metro Atlanta",
-   "date": "2026-06-02",
-   "body": "Committee of the Whole",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "Data Center Discussion",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4476&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
   },
   {
    "topic": "data-center",
@@ -3164,27 +3164,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "fulton",
-   "placeName": "Fulton County",
-   "placeType": "county",
-   "fips": "13121",
-   "region": "Metro Atlanta",
-   "date": "2026-03-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… range a speaking date, contact the Clerk’s Office. (CONDUCTED) 14 Speakers: LA Pink (Fulton Corruption); Merlon Pierce (Data Centers/Chem Trails); Joyce Farmer (Fulton County Jail/Sheriff); Dr. Valerie Montgomery Rice (#26-0156); Jeromey Beaman (#26-0 …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6380&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
-  },
-  {
-   "topic": "data-center",
    "placeId": "covington",
    "placeName": "City of Covington",
    "placeType": "city",
@@ -3287,28 +3266,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-19c256d9d4654206be5a840a65c9d462.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "rockdale",
-   "placeName": "Rockdale County",
-   "placeType": "county",
-   "fips": "13247",
-   "region": "Metro Atlanta",
-   "date": "2026-02-12",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center",
-    "hyperscale"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/02/2.12.26-PC-Packet-2.pdf"
   },
   {
    "topic": "data-center",
