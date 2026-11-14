@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-12T17:30:16Z",
+  "generatedAt": "2026-11-14T01:00:25Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 59
@@ -30,12 +30,12 @@
    "type": "city",
    "region": "Metro Atlanta",
    "topics": {
-    "alpr": 2,
-    "data-center": 9,
-    "land-use": 15,
-    "local-taxes": 11
+    "alpr": 3,
+    "data-center": 10,
+    "land-use": 16,
+    "local-taxes": 12
    },
-   "lastActivity": "2026-11-10"
+   "lastActivity": "2026-11-16"
   },
   {
    "placeId": "augusta",
@@ -56,7 +56,7 @@
    "topics": {
     "data-center": 1,
     "land-use": 2,
-    "local-taxes": 3
+    "local-taxes": 2
    },
    "lastActivity": "2026-08-18"
   },
@@ -106,7 +106,7 @@
     "land-use": 15,
     "local-taxes": 3
    },
-   "lastActivity": "2026-11-12"
+   "lastActivity": "2026-11-19"
   },
   {
    "placeId": "bartow",
@@ -148,12 +148,12 @@
    "type": "county",
    "region": "Coastal Georgia",
    "topics": {
-    "alpr": 3,
-    "data-center": 6,
+    "alpr": 4,
+    "data-center": 7,
     "land-use": 15,
-    "local-taxes": 11
+    "local-taxes": 12
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "carroll",
@@ -188,7 +188,7 @@
     "land-use": 14,
     "local-taxes": 3
    },
-   "lastActivity": "2026-10-27"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "chatham",
@@ -212,9 +212,9 @@
     "alpr": 4,
     "data-center": 1,
     "land-use": 16,
-    "local-taxes": 7
+    "local-taxes": 6
    },
-   "lastActivity": "2026-11-16"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "clarke",
@@ -224,10 +224,10 @@
    "topics": {
     "alpr": 1,
     "data-center": 1,
-    "land-use": 7,
-    "local-taxes": 7
+    "land-use": 8,
+    "local-taxes": 8
    },
-   "lastActivity": "2026-11-05"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "clayton",
@@ -238,9 +238,9 @@
     "alpr": 2,
     "data-center": 3,
     "land-use": 8,
-    "local-taxes": 16
+    "local-taxes": 15
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "cobb",
@@ -248,8 +248,8 @@
    "type": "county",
    "region": "Metro Atlanta",
    "topics": {
-    "data-center": 2,
-    "land-use": 17,
+    "data-center": 1,
+    "land-use": 15,
     "local-taxes": 6
    },
    "lastActivity": "2026-12-09"
@@ -264,7 +264,7 @@
     "land-use": 21,
     "local-taxes": 2
    },
-   "lastActivity": "2026-11-05"
+   "lastActivity": "2026-11-19"
   },
   {
    "placeId": "covington",
@@ -289,7 +289,7 @@
     "land-use": 19,
     "local-taxes": 5
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-19"
   },
   {
    "placeId": "dawson",
@@ -308,12 +308,12 @@
    "type": "county",
    "region": "Metro Atlanta",
    "topics": {
-    "alpr": 8,
-    "data-center": 16,
+    "alpr": 9,
+    "data-center": 14,
     "land-use": 22,
-    "local-taxes": 13
+    "local-taxes": 12
    },
-   "lastActivity": "2026-11-10"
+   "lastActivity": "2026-11-19"
   },
   {
    "placeId": "douglas",
@@ -384,11 +384,11 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 1,
-    "data-center": 3,
+    "data-center": 2,
     "land-use": 14,
-    "local-taxes": 13
+    "local-taxes": 14
    },
-   "lastActivity": "2026-11-04"
+   "lastActivity": "2026-11-18"
   },
   {
    "placeId": "gordon",
@@ -397,10 +397,10 @@
    "region": "Northwest Georgia",
    "topics": {
     "data-center": 3,
-    "land-use": 17,
+    "land-use": 18,
     "local-taxes": 12
    },
-   "lastActivity": "2026-11-09"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "gwinnett",
@@ -409,10 +409,10 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 2,
-    "land-use": 3,
-    "local-taxes": 13
+    "land-use": 4,
+    "local-taxes": 14
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "hall",
@@ -421,8 +421,8 @@
    "region": "Northeast Georgia",
    "topics": {
     "alpr": 2,
-    "land-use": 14,
-    "local-taxes": 3
+    "land-use": 13,
+    "local-taxes": 2
    },
    "lastActivity": "2026-11-16"
   },
@@ -447,7 +447,7 @@
     "land-use": 17,
     "local-taxes": 25
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "lafayette",
@@ -493,7 +493,7 @@
     "land-use": 9,
     "local-taxes": 8
    },
-   "lastActivity": "2026-11-17"
+   "lastActivity": "2026-11-18"
   },
   {
    "placeId": "meriwether",
@@ -515,11 +515,11 @@
    "region": "Northeast Georgia",
    "topics": {
     "alpr": 1,
-    "data-center": 7,
+    "data-center": 8,
     "land-use": 14,
-    "local-taxes": 15
+    "local-taxes": 16
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "muscogee",
@@ -529,10 +529,10 @@
    "topics": {
     "alpr": 2,
     "data-center": 14,
-    "land-use": 13,
+    "land-use": 14,
     "local-taxes": 8
    },
-   "lastActivity": "2026-11-10"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "newton",
@@ -586,11 +586,11 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 3,
-    "data-center": 7,
-    "land-use": 12,
-    "local-taxes": 18
+    "data-center": 6,
+    "land-use": 11,
+    "local-taxes": 17
    },
-   "lastActivity": "2026-10-20"
+   "lastActivity": "2026-11-12"
   },
   {
    "placeId": "rossville",
@@ -636,8 +636,8 @@
    "type": "county",
    "region": "Metro Atlanta",
    "topics": {
-    "land-use": 10,
-    "local-taxes": 7
+    "land-use": 9,
+    "local-taxes": 8
    },
    "lastActivity": "2026-11-17"
   },
