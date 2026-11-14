@@ -1,12 +1,99 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-12T17:30:16Z",
+  "generatedAt": "2026-11-14T01:00:25Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 79
+  "count": 82
  },
  "mentions": [
+  {
+   "topic": "alpr",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Metro Atlanta",
+   "date": "2026-11-17",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "crime center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4498&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "clayton",
+   "placeName": "Clayton County",
+   "placeType": "county",
+   "fips": "13063",
+   "region": "Metro Atlanta",
+   "date": "2026-11-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [
+    "Verra Mobility"
+   ],
+   "matchedTerms": [
+    "verra mobility"
+   ],
+   "tags": [],
+   "excerpt": "… hods. The BOC approved the award of the above-referenced contract with American Traffic Solutions, Inc., dba Verra Mobility, located in Tempe, Arizona on November 6, 2018. This recommendation is to amend the current contract to reduce Ver …",
+   "excerptTerm": "verra mobility",
+   "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5447&compileOutputType=1"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-11-17",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise",
+    "body cam"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_11172026-677"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-11-16",
+   "body": "City Council",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "surveillance camera"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3966&Inline=True"
+  },
   {
    "topic": "alpr",
    "placeId": "savannah",
@@ -135,6 +222,30 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1636"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "rockdale",
+   "placeName": "Rockdale County",
+   "placeType": "county",
+   "fips": "13247",
+   "region": "Metro Atlanta",
+   "date": "2026-10-27",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "axon enterprise",
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/11/BOC-minutes-10.27.26.pdf"
   },
   {
    "topic": "alpr",
@@ -1458,31 +1569,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "clayton",
-   "placeName": "Clayton County",
-   "placeType": "county",
-   "fips": "13063",
-   "region": "Metro Atlanta",
-   "date": "2026-05-19",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [
-    "Fusus (Axon)"
-   ],
-   "matchedTerms": [
-    "axon enterprise",
-    "axon enterprise video",
-    "fusus"
-   ],
-   "tags": [],
-   "excerpt": "… gh Resolution 2023-080 to create a video and data collection system, and to update the vendor’s name change, from FUSUS to Axon Enterprise Video and Data Collection Renewal Package. 24. Resolution 2026-107: A resolution authorizin …",
-   "excerptTerm": "fusus",
-   "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5351&compileOutputType=1"
-  },
-  {
-   "topic": "alpr",
    "placeId": "savannah",
    "placeName": "City of Savannah",
    "placeType": "city",
@@ -1674,29 +1760,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-26-2026%20BOC%20Agenda.pdf"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "rockdale",
-   "placeName": "Rockdale County",
-   "placeType": "county",
-   "fips": "13247",
-   "region": "Metro Atlanta",
-   "date": "2026-02-17",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [
-    "Flock Safety"
-   ],
-   "matchedTerms": [
-    "flock"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/03/BOC-minutes-2.17.26.pdf"
   },
   {
    "topic": "alpr",
