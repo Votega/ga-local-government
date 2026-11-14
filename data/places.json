@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-12T17:30:16Z",
+  "generatedAt": "2026-11-14T01:00:25Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 62
@@ -1292,7 +1292,7 @@
    "platform": "civicclerk",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2024-11-13",
+    "firstMeeting": "2024-11-14",
     "lastMeeting": "2026-11-12"
    },
    "links": {
