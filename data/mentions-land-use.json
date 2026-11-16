@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-14T01:00:25Z",
+  "generatedAt": "2026-11-16T19:37:10Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 692
+  "count": 687
  },
  "mentions": [
   {
@@ -930,7 +930,7 @@
    ],
    "excerpt": "… 27 Planning Commission Meeting Schedule New Business 3 3411 Springdale Forrest Circle | Special Use | for a minor subdivision | on a 2.09± acre tract located on the north side of Springdale Forrest Circle approximately 330 feet nor …",
    "excerptTerm": "subdivision",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-359-vm-20261113221236777831.pdf"
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-359-vm-20261116155642167196.pdf"
   },
   {
    "topic": "land-use",
@@ -5815,7 +5815,7 @@
    "tags": [
     "rezoning"
    ],
-   "excerpt": "Commission District(s): 2 and 6 Application of Mohammad Alawneh to rezone property from O-I (Office-Institution) zoning district to C-1 (Local Commercial) zoning district to allow salon suites …",
+   "excerpt": "Commission District(s): 2 and 6 Application of Mohammad Alawneh to rezone property from O-I (Office-Institution) zoning district to C-1 (Local Commercial) zoning district to allow a personal s …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4489&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
   },
@@ -6278,7 +6278,7 @@
    "tags": [
     "rezoning"
    ],
-   "excerpt": "Commission District(s): 2 and 6 Application of Mohammad Alawneh to rezone property from O-I (Office-Institution) zoning district to C-1 (Local Commercial) zoning district to allow salon suites …",
+   "excerpt": "Commission District(s): 2 and 6 Application of Mohammad Alawneh to rezone property from O-I (Office-Institution) zoning district to C-1 (Local Commercial) zoning district to allow a personal s …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4490&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
   },
@@ -6850,7 +6850,7 @@
    "tags": [
     "rezoning"
    ],
-   "excerpt": "Commission District(s): 2 and 6 Application of Mohammad Alawneh to rezone property from O-I (Office-Institution) zoning district to C-1 (Local Commercial) zoning district to allow salon suites …",
+   "excerpt": "Commission District(s): 2 and 6 Application of Mohammad Alawneh to rezone property from O-I (Office-Institution) zoning district to C-1 (Local Commercial) zoning district to allow a personal s …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4488&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
   },
@@ -8342,35 +8342,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/08.24.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-08-24",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… d will be paid in full by Jackson County. Planning & Zoning 20 Public hearing to amend the Hall County Forward 2045 Comprehensive Plan. 21 Public hearing to amend the Code of Ordinances of Hall County with regard to Appendix A: Unified Develo …",
-   "excerptTerm": "comprehensive plan",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-ws-20260821194034801533.pdf"
   },
   {
    "topic": "land-use",
@@ -11086,39 +11057,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "camden",
-   "placeName": "Camden County",
-   "placeType": "county",
-   "fips": "13039",
-   "region": "Coastal Georgia",
-   "date": "2026-07-21",
-   "body": "Board of County Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "future land use",
-    "land use permit",
-    "multi-family",
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "special-land-use",
-    "variance"
-   ],
-   "excerpt": "… an advisory body that makes recommendations on zoning property, land use amendments, and comprehensive plan policy. 2. The decisions from the Planning Commission ultimately go to the Camden County Boa …",
-   "excerptTerm": "comprehensive plan",
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07212026-648"
-  },
-  {
-   "topic": "land-use",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -12093,32 +12031,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "camden",
-   "placeName": "Camden County",
-   "placeType": "county",
-   "fips": "13039",
-   "region": "Coastal Georgia",
-   "date": "2026-07-07",
-   "body": "Board of County Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "future land use",
-    "multi-family"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development"
-   ],
-   "excerpt": "… to allow a manufactured home in an R-2 zoning. FACTS & ISSUES: 1. Because this parcel has a future land use designation of “Commercial”, special use approval is required before a permit can be is …",
-   "excerptTerm": "future land use",
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07072026-646"
-  },
-  {
-   "topic": "land-use",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -13073,29 +12985,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3600,plainText=false)"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "baldwin",
-   "placeName": "Baldwin County",
-   "placeType": "county",
-   "fips": "13009",
-   "region": "Middle Georgia",
-   "date": "2026-06-16",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "multi-family"
-   ],
-   "tags": [
-    "development"
-   ],
-   "excerpt": "… ounty Manager. 5. Harrisburg Road Moratorium Resolution R-2026-45 - a resolution to enact a moratorium on multi-family residential development in the area of Harrisburg Road - Interim County Manager. 6. Solid Waste Collection Serv …",
-   "excerptTerm": "multi-family",
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/baldwincga-pubu/MEET-Agenda-f5ac1a7e0b244f5fa4abfc600309eef5.pdf"
   },
   {
    "topic": "land-use",
@@ -15391,29 +15280,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://buttsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1042,plainText=false)"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "coweta",
-   "placeName": "Coweta County",
-   "placeType": "county",
-   "fips": "13077",
-   "region": "Metro Atlanta",
-   "date": "2026-04-23",
-   "body": "Board of Zoning Appeals",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "variance"
-   ],
-   "tags": [
-    "variance"
-   ],
-   "excerpt": "… ch 26, 2026 Petitions 2. Public Hearing Regarding Petition # VAR 26-002 Filed by Virginia Singh Requesting a Buffer Variance for Property Located at the Southwest Corner of SR 34 West and Bruce Jackson Road, Newnan - District 2 3. …",
-   "excerptTerm": "variance",
-   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3321,plainText=false)"
   },
   {
    "topic": "land-use",
