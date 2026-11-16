@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-14T01:00:25Z",
+  "generatedAt": "2026-11-16T19:37:10Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 82
+  "count": 79
  },
  "mentions": [
   {
@@ -914,27 +914,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-08-24",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-ws-20260821194034801533.pdf"
-  },
-  {
-   "topic": "alpr",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -1206,27 +1185,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "camden",
-   "placeName": "Camden County",
-   "placeType": "county",
-   "fips": "13039",
-   "region": "Coastal Georgia",
-   "date": "2026-07-21",
-   "body": "Board of County Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "plate reader"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07212026-648"
-  },
-  {
-   "topic": "alpr",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -1314,29 +1272,6 @@
    "excerpt": "… hnology Product Solutions and Related Services (Cooperative Agreement No. 23-6692-01). For use by Fire Rescue to obtain dashcam equipment through the competitively let County / Omnia contract for the purchase of dashcam equipment, related accessor …",
    "excerptTerm": "dashcam",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4482&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "camden",
-   "placeName": "Camden County",
-   "placeType": "county",
-   "fips": "13039",
-   "region": "Coastal Georgia",
-   "date": "2026-07-07",
-   "body": "Board of County Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "license plate reader",
-    "lpr",
-    "plate reader"
-   ],
-   "tags": [],
-   "excerpt": "… : 7/7/26 PURPOSE: To request that the Board of Commissioners: a. Consider the approval to purchase of two (2) License Plate Readers FACTS & ISSUES: 1. Vendor is GSA (state contract pricing) approved Contract Holder. 2. Vendor has …",
-   "excerptTerm": "license plate reader",
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07072026-646"
   },
   {
    "topic": "alpr",
