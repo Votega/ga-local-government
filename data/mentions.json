@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-14T01:00:25Z",
+  "generatedAt": "2026-11-16T19:37:10Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 1431
+  "count": 1421
  },
  "mentions": [
   {
@@ -913,27 +913,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-08-24",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-ws-20260821194034801533.pdf"
-  },
-  {
-   "topic": "alpr",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -1205,27 +1184,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "camden",
-   "placeName": "Camden County",
-   "placeType": "county",
-   "fips": "13039",
-   "region": "Coastal Georgia",
-   "date": "2026-07-21",
-   "body": "Board of County Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "plate reader"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07212026-648"
-  },
-  {
-   "topic": "alpr",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -1313,29 +1271,6 @@
    "excerpt": "… hnology Product Solutions and Related Services (Cooperative Agreement No. 23-6692-01). For use by Fire Rescue to obtain dashcam equipment through the competitively let County / Omnia contract for the purchase of dashcam equipment, related accessor …",
    "excerptTerm": "dashcam",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4482&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "camden",
-   "placeName": "Camden County",
-   "placeType": "county",
-   "fips": "13039",
-   "region": "Coastal Georgia",
-   "date": "2026-07-07",
-   "body": "Board of County Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "license plate reader",
-    "lpr",
-    "plate reader"
-   ],
-   "tags": [],
-   "excerpt": "… : 7/7/26 PURPOSE: To request that the Board of Commissioners: a. Consider the approval to purchase of two (2) License Plate Readers FACTS & ISSUES: 1. Vendor is GSA (state contract pricing) approved Contract Holder. 2. Vendor has …",
-   "excerptTerm": "license plate reader",
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07072026-646"
   },
   {
    "topic": "alpr",
@@ -6136,7 +6071,7 @@
    ],
    "excerpt": "… 27 Planning Commission Meeting Schedule New Business 3 3411 Springdale Forrest Circle | Special Use | for a minor subdivision | on a 2.09± acre tract located on the north side of Springdale Forrest Circle approximately 330 feet nor …",
    "excerptTerm": "subdivision",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-359-vm-20261113221236777831.pdf"
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-359-vm-20261116155642167196.pdf"
   },
   {
    "topic": "land-use",
@@ -11021,7 +10956,7 @@
    "tags": [
     "rezoning"
    ],
-   "excerpt": "Commission District(s): 2 and 6 Application of Mohammad Alawneh to rezone property from O-I (Office-Institution) zoning district to C-1 (Local Commercial) zoning district to allow salon suites …",
+   "excerpt": "Commission District(s): 2 and 6 Application of Mohammad Alawneh to rezone property from O-I (Office-Institution) zoning district to C-1 (Local Commercial) zoning district to allow a personal s …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4489&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
   },
@@ -11484,7 +11419,7 @@
    "tags": [
     "rezoning"
    ],
-   "excerpt": "Commission District(s): 2 and 6 Application of Mohammad Alawneh to rezone property from O-I (Office-Institution) zoning district to C-1 (Local Commercial) zoning district to allow salon suites …",
+   "excerpt": "Commission District(s): 2 and 6 Application of Mohammad Alawneh to rezone property from O-I (Office-Institution) zoning district to C-1 (Local Commercial) zoning district to allow a personal s …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4490&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
   },
@@ -12056,7 +11991,7 @@
    "tags": [
     "rezoning"
    ],
-   "excerpt": "Commission District(s): 2 and 6 Application of Mohammad Alawneh to rezone property from O-I (Office-Institution) zoning district to C-1 (Local Commercial) zoning district to allow salon suites …",
+   "excerpt": "Commission District(s): 2 and 6 Application of Mohammad Alawneh to rezone property from O-I (Office-Institution) zoning district to C-1 (Local Commercial) zoning district to allow a personal s …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4488&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
   },
@@ -13548,35 +13483,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/08.24.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-08-24",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… d will be paid in full by Jackson County. Planning & Zoning 20 Public hearing to amend the Hall County Forward 2045 Comprehensive Plan. 21 Public hearing to amend the Code of Ordinances of Hall County with regard to Appendix A: Unified Develo …",
-   "excerptTerm": "comprehensive plan",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-ws-20260821194034801533.pdf"
   },
   {
    "topic": "land-use",
@@ -16292,39 +16198,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "camden",
-   "placeName": "Camden County",
-   "placeType": "county",
-   "fips": "13039",
-   "region": "Coastal Georgia",
-   "date": "2026-07-21",
-   "body": "Board of County Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "future land use",
-    "land use permit",
-    "multi-family",
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "special-land-use",
-    "variance"
-   ],
-   "excerpt": "… an advisory body that makes recommendations on zoning property, land use amendments, and comprehensive plan policy. 2. The decisions from the Planning Commission ultimately go to the Camden County Boa …",
-   "excerptTerm": "comprehensive plan",
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07212026-648"
-  },
-  {
-   "topic": "land-use",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -17299,32 +17172,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "camden",
-   "placeName": "Camden County",
-   "placeType": "county",
-   "fips": "13039",
-   "region": "Coastal Georgia",
-   "date": "2026-07-07",
-   "body": "Board of County Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "future land use",
-    "multi-family"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development"
-   ],
-   "excerpt": "… to allow a manufactured home in an R-2 zoning. FACTS & ISSUES: 1. Because this parcel has a future land use designation of “Commercial”, special use approval is required before a permit can be is …",
-   "excerptTerm": "future land use",
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07072026-646"
-  },
-  {
-   "topic": "land-use",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -18279,29 +18126,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3600,plainText=false)"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "baldwin",
-   "placeName": "Baldwin County",
-   "placeType": "county",
-   "fips": "13009",
-   "region": "Middle Georgia",
-   "date": "2026-06-16",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "multi-family"
-   ],
-   "tags": [
-    "development"
-   ],
-   "excerpt": "… ounty Manager. 5. Harrisburg Road Moratorium Resolution R-2026-45 - a resolution to enact a moratorium on multi-family residential development in the area of Harrisburg Road - Interim County Manager. 6. Solid Waste Collection Serv …",
-   "excerptTerm": "multi-family",
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/baldwincga-pubu/MEET-Agenda-f5ac1a7e0b244f5fa4abfc600309eef5.pdf"
   },
   {
    "topic": "land-use",
@@ -20597,29 +20421,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://buttsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1042,plainText=false)"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "coweta",
-   "placeName": "Coweta County",
-   "placeType": "county",
-   "fips": "13077",
-   "region": "Metro Atlanta",
-   "date": "2026-04-23",
-   "body": "Board of Zoning Appeals",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "variance"
-   ],
-   "tags": [
-    "variance"
-   ],
-   "excerpt": "… ch 26, 2026 Petitions 2. Public Hearing Regarding Petition # VAR 26-002 Filed by Virginia Singh Requesting a Buffer Variance for Property Located at the Southwest Corner of SR 34 West and Bruce Jackson Road, Newnan - District 2 3. …",
-   "excerptTerm": "variance",
-   "sourceUrl": "https://cowetacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3321,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -23020,6 +22821,48 @@
    "excerpt": "… Gold, Silver, and Bronze Award. PUBLIC HEARING 3. To conduct a public hearing regarding proposed Cobb County Tax Allocation District #1: Town Center Area Redevelopment Plan. PUBLIC COMMENT Those persons wishing to address the Board of Com …",
    "excerptTerm": "tax allocation district",
    "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10349,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-11-19",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… Chairman Martin Turner Roll Call Public Hearing • To receive comments from the public regarding the tentative Millage Rate. Adjourn Public Hearing As set forth in the Americans with Disabilities Act of 1992, Camden County does …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_11192026-679"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-11-19",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… Chairman Martin Turner Roll Call Public Hearing • To receive comments from the public regarding the tentative Millage Rate. Adjourn Public Hearing As set forth in the Americans with Disabilities Act of 1992, Camden County does …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_11192026-678"
   },
   {
    "topic": "local-taxes",
@@ -27875,27 +27718,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-08-24",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage"
-   ],
-   "tags": [],
-   "excerpt": "… of the County Attorney. Financial Services 13 Second public hearing regarding Hall County's intent to levy a 2026 millage rate for the County's General Fund greater than the calculated full rollback per the State of Georgia f …",
-   "excerptTerm": "millage",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-ws-20260821194034801533.pdf"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "dawson",
    "placeName": "Dawson County",
    "placeType": "county",
@@ -29773,29 +29595,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "camden",
-   "placeName": "Camden County",
-   "placeType": "county",
-   "fips": "13039",
-   "region": "Coastal Georgia",
-   "date": "2026-07-21",
-   "body": "Board of County Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "local option sales tax",
-    "millage",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07212026-648"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -30449,27 +30248,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "camden",
-   "placeName": "Camden County",
-   "placeType": "county",
-   "fips": "13039",
-   "region": "Coastal Georgia",
-   "date": "2026-07-07",
-   "body": "Board of County Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "hotel motel tax"
-   ],
-   "tags": [],
-   "excerpt": "… e-Chairman Turner seconded to add ten thousand dollars ($10,000.00) to the Thiokol line item which is coming out of the hotel motel tax and approve the Annual Budget Adoption for fiscal year 2027 (July 1, 2026 to June 30, 2027) for all funds. So Voted: C …",
-   "excerptTerm": "hotel motel tax",
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07072026-646"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "baker",
    "placeName": "Baker County",
    "placeType": "county",
@@ -30928,27 +30706,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3600,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "baldwin",
-   "placeName": "Baldwin County",
-   "placeType": "county",
-   "fips": "13009",
-   "region": "Middle Georgia",
-   "date": "2026-06-16",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "homestead option sales tax"
-   ],
-   "tags": [],
-   "excerpt": "… 2 - a resolution to authorize acceptance of the Emergency Management Performance Grant - EMA Director. 3. Local Homestead Option Sales Tax Resolution R-2026-43 - a resolution to authorize a request that the local legislative delegation file Local …",
-   "excerptTerm": "homestead option sales tax",
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/baldwincga-pubu/MEET-Agenda-f5ac1a7e0b244f5fa4abfc600309eef5.pdf"
   },
   {
    "topic": "local-taxes",
