@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-16T19:37:10Z",
+  "generatedAt": "2026-11-18T18:15:30Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 79
+  "count": 81
  },
  "mentions": [
   {
@@ -180,6 +180,28 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-November-9.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-11-06",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise",
+    "surveillance camera"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1750&Inline=True"
   },
   {
    "topic": "alpr",
@@ -1655,6 +1677,27 @@
   },
   {
    "topic": "alpr",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-03-13",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1732&Inline=True"
+  },
+  {
+   "topic": "alpr",
    "placeId": "fort-oglethorpe",
    "placeName": "City of Fort Oglethorpe",
    "placeType": "city",
@@ -1698,6 +1741,29 @@
   },
   {
    "topic": "alpr",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-01-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1727&Inline=True"
+  },
+  {
+   "topic": "alpr",
    "placeId": "baker",
    "placeName": "Baker County",
    "placeType": "county",
@@ -1718,27 +1784,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_cbc6e6b5b5c94590b8ab27ce0c73d26e.pdf"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2025-12-19",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1725&Inline=True"
   },
   {
    "topic": "alpr",
