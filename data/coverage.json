@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-16T19:37:10Z",
+  "generatedAt": "2026-11-18T18:15:30Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "count": 59
@@ -67,11 +67,11 @@
    "region": "South Georgia",
    "topics": {
     "alpr": 1,
-    "data-center": 6,
+    "data-center": 4,
     "land-use": 1,
-    "local-taxes": 6
+    "local-taxes": 3
    },
-   "lastActivity": "2026-10-06"
+   "lastActivity": "2026-07-16"
   },
   {
    "placeId": "baldwin",
@@ -174,10 +174,10 @@
    "region": "West Georgia",
    "topics": {
     "alpr": 1,
-    "land-use": 16,
+    "land-use": 17,
     "local-taxes": 2
    },
-   "lastActivity": "2026-11-02"
+   "lastActivity": "2026-11-19"
   },
   {
    "placeId": "catoosa",
@@ -188,7 +188,7 @@
     "land-use": 14,
     "local-taxes": 3
    },
-   "lastActivity": "2026-11-17"
+   "lastActivity": "2026-11-24"
   },
   {
    "placeId": "chatham",
@@ -196,12 +196,12 @@
    "type": "county",
    "region": "Coastal Georgia",
    "topics": {
-    "alpr": 1,
+    "alpr": 3,
     "data-center": 1,
-    "land-use": 6,
-    "local-taxes": 12
+    "land-use": 11,
+    "local-taxes": 13
    },
-   "lastActivity": "2026-09-25"
+   "lastActivity": "2026-11-06"
   },
   {
    "placeId": "cherokee",
@@ -212,7 +212,7 @@
     "alpr": 4,
     "data-center": 1,
     "land-use": 16,
-    "local-taxes": 6
+    "local-taxes": 7
    },
    "lastActivity": "2026-11-17"
   },
@@ -224,8 +224,8 @@
    "topics": {
     "alpr": 1,
     "data-center": 1,
-    "land-use": 8,
-    "local-taxes": 8
+    "land-use": 7,
+    "local-taxes": 7
    },
    "lastActivity": "2026-11-17"
   },
@@ -326,7 +326,7 @@
     "land-use": 14,
     "local-taxes": 17
    },
-   "lastActivity": "2026-11-16"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "effingham",
@@ -361,9 +361,9 @@
    "topics": {
     "alpr": 2,
     "land-use": 21,
-    "local-taxes": 15
+    "local-taxes": 16
    },
-   "lastActivity": "2026-11-10"
+   "lastActivity": "2026-11-19"
   },
   {
    "placeId": "fort-oglethorpe",
@@ -410,7 +410,7 @@
    "topics": {
     "alpr": 2,
     "land-use": 4,
-    "local-taxes": 14
+    "local-taxes": 15
    },
    "lastActivity": "2026-11-17"
   },
@@ -482,7 +482,7 @@
     "land-use": 12,
     "local-taxes": 2
    },
-   "lastActivity": "2026-10-27"
+   "lastActivity": "2026-11-30"
   },
   {
    "placeId": "lumpkin",
@@ -490,10 +490,10 @@
    "type": "county",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 9,
+    "land-use": 10,
     "local-taxes": 8
    },
-   "lastActivity": "2026-11-18"
+   "lastActivity": "2026-12-08"
   },
   {
    "placeId": "meriwether",
