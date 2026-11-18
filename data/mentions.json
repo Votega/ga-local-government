@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-16T19:37:10Z",
+  "generatedAt": "2026-11-18T18:15:30Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 1421
+  "count": 1427
  },
  "mentions": [
   {
@@ -179,6 +179,28 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-November-9.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-11-06",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise",
+    "surveillance camera"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1750&Inline=True"
   },
   {
    "topic": "alpr",
@@ -1654,6 +1676,27 @@
   },
   {
    "topic": "alpr",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-03-13",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1732&Inline=True"
+  },
+  {
+   "topic": "alpr",
    "placeId": "fort-oglethorpe",
    "placeName": "City of Fort Oglethorpe",
    "placeType": "city",
@@ -1697,6 +1740,29 @@
   },
   {
    "topic": "alpr",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-01-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1727&Inline=True"
+  },
+  {
+   "topic": "alpr",
    "placeId": "baker",
    "placeName": "Baker County",
    "placeType": "county",
@@ -1717,27 +1783,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_cbc6e6b5b5c94590b8ab27ce0c73d26e.pdf"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2025-12-19",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1725&Inline=True"
   },
   {
    "topic": "alpr",
@@ -2667,27 +2712,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "baker",
-   "placeName": "Baker County",
-   "placeType": "county",
-   "fips": "13007",
-   "region": "South Georgia",
-   "date": "2026-10-06",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_ec86a6a047524541ac9d370df42316ba.pdf"
-  },
-  {
-   "topic": "data-center",
    "placeId": "atlanta",
    "placeName": "City of Atlanta",
    "placeType": "city",
@@ -3067,6 +3091,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-09-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
+  },
+  {
+   "topic": "data-center",
    "placeId": "savannah",
    "placeName": "City of Savannah",
    "placeType": "city",
@@ -3211,27 +3256,6 @@
    "excerpt": "… Council Member Henderson, seconded by Council Member Davis to approve the revocation of the current moratorium for Data Centers which was set to remain in effect through October 20, 2026, now that the related ordinance has been adopted. …",
    "excerptTerm": "data center",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0901_Minutes.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-08-28",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1746&Inline=True"
   },
   {
    "topic": "data-center",
@@ -3841,27 +3865,6 @@
    "excerpt": "… d - Please State Your Name And Address 11. Adjournment There will be an information sharing session to address data center ordinance considerations following the adjournment of the regular meeting.",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_07282026-566"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "baker",
-   "placeName": "Baker County",
-   "placeType": "county",
-   "fips": "13007",
-   "region": "South Georgia",
-   "date": "2026-07-23",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_0fbd71e1e4e347a8995e2bd57fd46ce6.pdf"
   },
   {
    "topic": "data-center",
@@ -5221,6 +5224,78 @@
   },
   {
    "topic": "land-use",
+   "placeId": "lumpkin",
+   "placeName": "Lumpkin County",
+   "placeType": "county",
+   "fips": "13187",
+   "region": "Northeast Georgia",
+   "date": "2026-12-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multifamily",
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… 4:00 PM • CALL TO ORDER • PUBLIC HEARING - PROPOSED REVISIONS 1. Ch. 26 Land Development, Art. III - Subdivisions, Sec. 26-64 Class V Subdivision 2. Ch. 26 Land Development, Art. III - Subdivisions, Sec. 26-65 Class VI …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4512,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lowndes",
+   "placeName": "Lowndes County",
+   "placeType": "county",
+   "fips": "13185",
+   "region": "South Georgia",
+   "date": "2026-11-30",
+   "body": "Greater Lowndes Planning Commission",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation"
+   ],
+   "tags": [
+    "annexation"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_11302026-578"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": "Northwest Georgia",
+   "date": "2026-11-24",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… er 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1683-26, Rezoning of Tax Map 20D Parcel 238 and Tax Map 21B Parcel 84 (382 Foster Road, 14/34 Foster Road) from R-1 to PUD …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&event_id=231"
+  },
+  {
+   "topic": "land-use",
    "placeId": "henry",
    "placeName": "Henry County",
    "placeType": "county",
@@ -5250,6 +5325,36 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2700,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "forsyth",
+   "placeName": "Forsyth County",
+   "placeType": "county",
+   "fips": "13117",
+   "region": "Metro Atlanta",
+   "date": "2026-11-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use",
+    "rezon",
+    "subdivision",
+    "variance",
+    "warehouse"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "special-land-use",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5419,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -5385,6 +5490,31 @@
    "excerpt": "… approving the update to the Local Emergency Operations Plan. Community Development 13. To approve a corrected annexation notice of Non-Objection with Stipulations per HB 489 Intergovernmental Agreement and HB 2 regarding a petit …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10349,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "carrollton",
+   "placeName": "City of Carrollton",
+   "placeType": "city",
+   "fips": null,
+   "region": "West Georgia",
+   "date": "2026-11-19",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "mixed use",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://drive.google.com/file/d/1y5qdGuWeVGMXDjHpN4CTe6Gi_po_KL9C/view"
   },
   {
    "topic": "land-use",
@@ -5618,9 +5748,9 @@
     "development",
     "rezoning"
    ],
-   "excerpt": "… hon Penn, Director, Henry County Parks and Recreation) VI. CONSENT AGENDA Annexation A. AX-26-04 The City of Hampton has received a request for annexation of property at …",
+   "excerpt": "… ly Miles, Communications & Public Information Department) VI. CONSENT AGENDA (Shannan Sagnot) Annexation A. AX-26-04 The City of Hampton has received a request for annexation of property at the north- …",
    "excerptTerm": "annexation",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2702,plainText=false)"
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2705,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -5801,7 +5931,7 @@
    ],
    "excerpt": "… Commissioner Melear 1. (I1b1) RZ26-11-01, Rezoning from R-A (Residential Agricultural) to S-1 (Special), 3894 Gordon Hwy, Tax Map 043 …",
    "excerptTerm": "rezon",
-   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13942,plainText=false)"
+   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13954,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -5919,7 +6049,7 @@
    ],
    "excerpt": "… R-49 on the 14.9 +/- acre property at 5297 Ball Ground Highway. 8.3 Public Hearing - Case #26-11-043S - Holly Springs Deannexation/Rezoning - Hickory Flat Commercial (District 2). Conduct a public hearing to consider Case #26-11-043S - Holly Springs …",
    "excerptTerm": "annexation",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&event_id=1119"
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1643"
   },
   {
    "topic": "land-use",
@@ -5942,7 +6072,7 @@
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&event_id=286"
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=266"
   },
   {
    "topic": "land-use",
@@ -6097,33 +6227,6 @@
    "excerpt": "… ariance Meeting. AGENDA V2026-14 David Pounds – a request for a Hardship Variance for a large lot subdivision located at 3331 Richardson Road, Villa Rica, 30180. Land lot(s) 137, District 2, Section 5 & Parcel(s) 4 …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7628,plainText=false)"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "cherokee",
-   "placeName": "Cherokee County",
-   "placeType": "county",
-   "fips": "13057",
-   "region": "Metro Atlanta",
-   "date": "2026-11-16",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… 26.621 +/- acres of property from AG (General Agriculture) to R-40 (Single Family Residential) for a 25-lot residential subdivision. Case #26-11-036S -David Millis for The Anvil Academy (Applicant); Christian Outreach Ministries (Owner) (Dist. 2). The …",
-   "excerptTerm": "subdivision",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&event_id=1206"
   },
   {
    "topic": "land-use",
@@ -8834,6 +8937,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-10-16",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan"
+   ],
+   "tags": [
+    "comprehensive-plan"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1747&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -11534,33 +11660,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "clarke",
-   "placeName": "Athens-Clarke County",
-   "placeType": "consolidated",
-   "fips": "13059",
-   "region": "Northeast Georgia",
-   "date": "2026-09-15",
-   "body": "Mayor & Commission Meetings",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "future land use",
-    "mixed-use",
-    "rezon"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_09152026-3078"
-  },
-  {
-   "topic": "land-use",
    "placeId": "cherokee",
    "placeName": "Cherokee County",
    "placeType": "county",
@@ -11860,6 +11959,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://drive.google.com/file/d/1Rzzk0_kH1-aDS3yLl-2hVDMCDIw2uYAe/view"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-09-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "warehouse"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… ale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses and large industrial buildings to data centers use within unincorporated Chatham County. …",
+   "excerptTerm": "warehouse",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
   },
   {
    "topic": "land-use",
@@ -12965,29 +13087,6 @@
    "excerpt": "… tion Statue (O.C.G.A. §§ 36-67A-1 et seq.) requires disclosure of certain campaign contributions made by applicants for rezoning actions and by opponents of rezoning application. A rezoning applicant or opponent of a rezoning application must di …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/effingham-pubu/MEET-Agenda-ba2bea2b66e64668b56bcb316b41c37a.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-08-28",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "warehouse"
-   ],
-   "tags": [
-    "development"
-   ],
-   "excerpt": "… le data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses and large industrial buildings to data centers use within unincorporated Chatham County. …",
-   "excerptTerm": "warehouse",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1746&Inline=True"
   },
   {
    "topic": "land-use",
@@ -14152,6 +14251,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-08-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… 10 12. SECOND READINGS 1. The Petitioner, Richard Peterson, is proposing to rezone 8804 Whitefield Ave from Residential One Family Residential Environmental Overlay to Business …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1745&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "savannah",
    "placeName": "City of Savannah",
    "placeType": "city",
@@ -15178,6 +15300,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "cherokee",
+   "placeName": "Cherokee County",
+   "placeType": "county",
+   "fips": "13057",
+   "region": "Metro Atlanta",
+   "date": "2026-08-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "mixed-use",
+    "multi-family",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… Co., LLC (BOC Dist. 4). Applicant is requesting to rezone 2.0 +/- acres from R-40 to R-20 for a four-lot single family subdivision. 10.2 Case #26-07-015 - Parks F. Huff for Midway Electrical Contracting, Inc. (BOC Dist. 4). Applicant is requesting to …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1587"
+  },
+  {
+   "topic": "land-use",
    "placeId": "catoosa",
    "placeName": "Catoosa County",
    "placeType": "county",
@@ -15401,29 +15552,6 @@
    "excerpt": "… **** 5. Motion made by Council Member Moore, seconded by Council Member Henderson to approve the initiation of a Future Land Use Map Amendment from IND (Industrial) to COM (Commercial) and a Rezoning from the current zoning district of M-2 (He …",
    "excerptTerm": "future land use",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0803_Minutes.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-07-31",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon"
-   ],
-   "tags": [
-    "rezoning"
-   ],
-   "excerpt": "… 10 12. SECOND READINGS 1. The Petitioner, Richard Peterson, is proposing to rezone 8804 Whitefield Ave from Residential One Family Residential Environmental Overlay to Business …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1745&Inline=True"
   },
   {
    "topic": "land-use",
@@ -16684,6 +16812,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-07-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan"
+   ],
+   "tags": [
+    "comprehensive-plan"
+   ],
+   "excerpt": "… ion of executed Resolution to permit MPC to transmit the draft of the Chatham County-Savannah 2040-2045 Comprehensive Plan Update to the State of Georgia. (NOTE: Deadline for submittal was June 26, 2026.) 9. Reque …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1742&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "walton",
    "placeName": "Walton County",
    "placeType": "county",
@@ -17322,31 +17473,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-06-26",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "multi-family",
-    "rezon"
-   ],
-   "tags": [
-    "development",
-    "rezoning"
-   ],
-   "excerpt": "… Environmental Overlay and Institutional-Professional Environmental Overlay to Planned Unit Development Multi-Family Environment Overlay. MPC File Number: Z-0426-000617, PINs: 10219 01004, 10219 01007, Th …",
-   "excerptTerm": "multi-family",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1740&Inline=True"
-  },
-  {
-   "topic": "land-use",
    "placeId": "savannah",
    "placeName": "City of Savannah",
    "placeType": "city",
@@ -17808,6 +17934,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-06-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… Environmental Overlay and Institutional-Professional Environmental Overlay to Planned Unit Development Multi-Family Environment Overlay. MPC File Number: Z-0426-000617, PINs: 10219 01004, 10219 01007, Th …",
+   "excerptTerm": "multi-family",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1740&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "walton",
    "placeName": "Walton County",
    "placeType": "county",
@@ -18218,6 +18369,31 @@
    "excerpt": "… tion Statue (O.C.G.A. §§ 36-67A-1 et seq.) requires disclosure of certain campaign contributions made by applicants for rezoning actions and by opponents of rezoning application. A rezoning applicant or opponent of a rezoning application must di …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/effingham-pubu/MEET-Agenda-d3b20f2163fe43d989588df71a1678e7.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-06-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… Environmental Overlay and Institutional-Professional Environmental Overlay to Planned Unit Development Multi-Family Environment Overlay. MPC File Number: Z-0426-000617, PINs: 10219 01004, 10219 01007, Th …",
+   "excerptTerm": "multi-family",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1735&Inline=True"
   },
   {
    "topic": "land-use",
@@ -19197,31 +19373,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "catoosa",
-   "placeName": "Catoosa County",
-   "placeType": "county",
-   "fips": "13047",
-   "region": "Northwest Georgia",
-   "date": "2026-05-26",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… er 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1664-26, Rezoning of Tax Map 45 Parcel 74D (32 Lane Road) from A-1 to C-1 - (Clint Underwood, Director of Planning and Insp …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=208"
-  },
-  {
-   "topic": "land-use",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -19736,29 +19887,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "forsyth",
-   "placeName": "Forsyth County",
-   "placeType": "county",
-   "fips": "13117",
-   "region": "Metro Atlanta",
-   "date": "2026-05-12",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon"
-   ],
-   "tags": [
-    "rezoning"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5101,plainText=false)"
-  },
-  {
-   "topic": "land-use",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -19943,6 +20071,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-05-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… Request Board approval to execute resolution and restrictive covenant pertaining to lot 16 Green Island Subdivision, Green Island, Chatham County, Georgia. This action will place the restrictive covenant on lot 16 which …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1736&Inline=True"
+  },
+  {
+   "topic": "land-use",
    "placeId": "walton",
    "placeName": "Walton County",
    "placeType": "county",
@@ -20039,29 +20190,6 @@
    "excerpt": "Request approval of a Resolution approving a Monthly Parking Agreement between Fulton County, Georgia, a political subdivision of the state of Georgia, and Legacy Parking Company, to provide parking for Superior Court Administration, the Clerk of …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6384&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-05-06",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "subdivision"
-   ],
-   "tags": [
-    "development"
-   ],
-   "excerpt": "… Request Board approval to execute resolution and restrictive covenant pertaining to lot 16 Green Island Subdivision, Green Island, Chatham County, Georgia. This action will place the restrictive covenant on lot 16 which …",
-   "excerptTerm": "subdivision",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1736&Inline=True"
   },
   {
    "topic": "land-use",
@@ -20617,6 +20745,29 @@
    "excerpt": "… tion Statue (O.C.G.A. §§ 36-67A-1 et seq.) requires disclosure of certain campaign contributions made by applicants for rezoning actions and by opponents of rezoning application. A rezoning applicant or opponent of a rezoning application must di …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/effingham-pubu/MEET-Agenda-4cd46faf4db74c45866c0cf3d1e34303.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-04-21",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1730&Inline=True"
   },
   {
    "topic": "land-use",
@@ -21238,55 +21389,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "lowndes",
-   "placeName": "Lowndes County",
-   "placeType": "county",
-   "fips": "13185",
-   "region": "South Georgia",
-   "date": "2026-03-30",
-   "body": "Greater Lowndes Planning Commission",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "multi-family",
-    "rezon",
-    "subdivision"
-   ],
-   "tags": [
-    "development",
-    "rezoning"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_03302026-551"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-03-27",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon"
-   ],
-   "tags": [
-    "rezoning"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1731&Inline=True"
-  },
-  {
-   "topic": "land-use",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -21574,6 +21676,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0316_Minutes.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-03-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1732&Inline=True"
   },
   {
    "topic": "land-use",
@@ -21889,6 +22014,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://drive.google.com/file/d/1t0NOX_4wLp88WQ9pLjquxlZiITECzRPY/view"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-02-27",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… D READINGS The petitioner, Police Recreation Association of Savannah Inc, is proposing to Rezone/Map Amendment to allow continuation of the existing Residential Duplex and Club/Lodge uses, while imple …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1733&Inline=True"
   },
   {
    "topic": "land-use",
@@ -22281,29 +22429,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-01-30",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon"
-   ],
-   "tags": [
-    "rezoning"
-   ],
-   "excerpt": "… D READINGS The petitioner, Police Recreation Association of Savannah Inc, is proposing to Rezone/Map Amendment to allow continuation of the existing Residential Duplex and Club/Lodge uses, while imple …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1726&Inline=True"
-  },
-  {
-   "topic": "land-use",
    "placeId": "thomasville",
    "placeName": "City of Thomasville",
    "placeType": "city",
@@ -22518,6 +22643,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://thomasville.org/city-council/agendas-and-minutes/archived-council-meeting-minutes/2026%20Minutes/01.12.2026%20City%20Council%20Meeting%20Minutes%20APVD%20SIGNED.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-01-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… ed items. The petitioner, Police Recreation Association of Savannah Inc, is proposing to Rezone/Map Amendment to allow continuation of the existing Residential Duplex and Club/Lodge uses, while imple …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1727&Inline=True"
   },
   {
    "topic": "land-use",
@@ -22801,6 +22949,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "forsyth",
+   "placeName": "Forsyth County",
+   "placeType": "county",
+   "fips": "13117",
+   "region": "Metro Atlanta",
+   "date": "2026-11-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5419,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "cobb",
    "placeName": "Cobb County",
    "placeType": "county",
@@ -22934,7 +23103,7 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4468,plainText=false)"
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4499,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -22955,7 +23124,7 @@
    "tags": [],
    "excerpt": "… Members of the Lumpkin County Board of Commissioners (District 3 Commissioner Nathan Davis) 16. 2026-67 IGA for TSPLOST Distribution 17. 2026-68 TSPLOST Resolution Call for Election 18. 2026-69 Resolution Requesting Georgia Department of …",
    "excerptTerm": "splost",
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4466,plainText=false)"
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4501,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -22995,9 +23164,9 @@
     "splost"
    ],
    "tags": [],
-   "excerpt": "… unty Funds Account. (Presenter: Rhett Wheeler, Director of Fleet Services)(Exhibit 6) SPLOST A. Resolution approving a change order for Sol Construction, LLC in the amount of $13 …",
+   "excerpt": "… Account. (Presenter: Rhett Wheeler, Director of Fleet Services)(Exhibit 6) Resolution 26-396 SPLOST A. Resolution approving a change order for Sol Construction, LLC in the amount of $139,225. …",
    "excerptTerm": "splost",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2702,plainText=false)"
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2705,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -23040,6 +23209,27 @@
    "excerpt": "… request from Administration to approve contract with Denson Engineering, Inc. for design services for the 2018 SPLOST Sugar Valley Station project in the amount of $20,000 budgeted using GL Account 328-542511. XII.​ Ad …",
    "excerptTerm": "splost",
    "sourceUrl": "https://www.gordoncountyga.gov/AgendaCenter/ViewFile/Agenda/_11172026-1133"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "douglas",
+   "placeName": "Douglas County",
+   "placeType": "county",
+   "fips": "13097",
+   "region": "Metro Atlanta",
+   "date": "2026-11-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… ly purchased ambulances for the Douglas County Fire Department, in the amount of $7,294.24 to be funded through SPLOST 2022 funds and authorize the Chairman to sign all related documents pending further legal review. 22. Approval of a …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7688,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -23440,6 +23630,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_11092026-662"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-11-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Connection Partnership Grant. 3. Request approval of a resolution to open an account with GA Fund 1 for SPLOST VIII proceeds. 4. Request Board Approval to Add One Additional Community Paramedic I Position …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1750&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -24623,6 +24834,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3950&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-10-16",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… t Program (PSGP) for the new Marine Patrol facility. (NOTE; A match of up to $250, 000 will be required (SPLOST & CIP Funds). 9. Request Board approval of resolution and approval of execution of warranty deed …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1747&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -25952,27 +26184,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-09-25",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1749&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "baldwin",
    "placeName": "Baldwin County",
    "placeType": "county",
@@ -26620,28 +26831,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "clarke",
-   "placeName": "Athens-Clarke County",
-   "placeType": "consolidated",
-   "fips": "13059",
-   "region": "Northeast Georgia",
-   "date": "2026-09-15",
-   "body": "Mayor & Commission Meetings",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "homestead exemption",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_09152026-3078"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "cherokee",
    "placeName": "Cherokee County",
    "placeType": "county",
@@ -26837,24 +27026,24 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "baker",
-   "placeName": "Baker County",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
    "placeType": "county",
-   "fips": "13007",
-   "region": "South Georgia",
+   "fips": "13051",
+   "region": "Coastal Georgia",
    "date": "2026-09-11",
    "body": "Board of Commissioners",
    "confidence": "high",
-   "context": null,
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
-    "millage"
+    "splost"
    ],
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_12ae5b319bd74cc2967a285e439fc432.pdf"
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -27336,27 +27525,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "baker",
-   "placeName": "Baker County",
-   "placeType": "county",
-   "fips": "13007",
-   "region": "South Georgia",
-   "date": "2026-09-01",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_4c4d38bdaa99472fa71c7b821f3c90c0.pdf"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -27397,27 +27565,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7517,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-08-28",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1746&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -28170,6 +28317,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-08-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1745&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "savannah",
    "placeName": "City of Savannah",
    "placeType": "city",
@@ -28839,6 +29007,28 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "gwinnett",
+   "placeName": "Gwinnett County",
+   "placeType": "county",
+   "fips": "13135",
+   "region": "Metro Atlanta",
+   "date": "2026-08-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20260804/a_73554_2026.08.04_Work_Session_Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "gordon",
    "placeName": "Gordon County",
    "placeType": "county",
@@ -28882,27 +29072,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "douglas",
-   "placeName": "Douglas County",
-   "placeType": "county",
-   "fips": "13097",
-   "region": "Metro Atlanta",
-   "date": "2026-08-04",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… nt of $33,745.93 (quote in the amount of $30,678.12 + 10% contingency amount of $3,067.81) to be funded by 2022 SPLOST funds and authorize the Chairman to sign all related documents pending final legal review. 20. Approval of a contra …",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7453,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "clayton",
    "placeName": "Clayton County",
    "placeType": "county",
@@ -28942,6 +29111,29 @@
    "excerpt": "… min Complex 1130 Bluffs Pkwy, Canton, GA 30114 11:00 AM CALL TO ORDER 1. Conduct a Public Hearing for input on the 2026 Millage Rate. ADJOURN",
    "excerptTerm": "millage",
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1617"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "cherokee",
+   "placeName": "Cherokee County",
+   "placeType": "county",
+   "fips": "13057",
+   "region": "Metro Atlanta",
+   "date": "2026-08-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "referendum",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Session, Executive Session, and Regular Meeting Minutes from July 21, 2026. 8. PUBLIC HEARING 8.1 Public Hearing - 2026 Millage Rate. Conduct a public hearing to receive input on the 2026 Millage Rate; followed by adoption of the Millage Rates for …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1587"
   },
   {
    "topic": "local-taxes",
@@ -29125,27 +29317,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-07-31",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1745&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "rockdale",
    "placeName": "Rockdale County",
    "placeType": "county",
@@ -29317,27 +29488,6 @@
    "excerpt": "… ernmental Agreement between Effingham County and the cities of Guyton, Rincon and Springfield related to SPLOST 2. [2026-344 Resolution] Tim Callanan (Approved) Consideration to approve Resolution# 026-01 …",
    "excerptTerm": "splost",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/effingham-pubu/MEET-Agenda-c3497b64ddf34f2cac53c7fa30bb27fd.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "baker",
-   "placeName": "Baker County",
-   "placeType": "county",
-   "fips": "13007",
-   "region": "South Georgia",
-   "date": "2026-07-28",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_0ddfe2ebd966416ea66e5f808096cc96.pdf"
   },
   {
    "topic": "local-taxes",
@@ -29725,9 +29875,9 @@
     "millage"
    ],
    "tags": [],
-   "excerpt": "… IV. ROLL CALL V. FIRST PUBLIC HEARING AS REQUIRED BY THE STATE ON THE COUNTY'S 2026 MILLAGE LEVY To hold a Public Hearing as required by state law on the County's intent to levy a …",
+   "excerpt": "… IV. ROLL CALL V. SECOND PUBLIC HEARING AS REQUIRED BY THE STATE ON THE COUNTY'S 2026 MILLAGE LEVY To hold a Public Hearing as required by state law on the County's intent to levy a …",
    "excerptTerm": "millage",
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1743&Inline=True"
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1744&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -29983,6 +30133,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://buttsco.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1052,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-07-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1742&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -30312,28 +30483,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-06-26",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1740&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "liberty",
    "placeName": "Liberty County",
    "placeType": "county",
@@ -30552,6 +30701,28 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-06-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1740&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -30751,6 +30922,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/effingham-pubu/MEET-Agenda-d3b20f2163fe43d989588df71a1678e7.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-06-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1735&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -31513,27 +31705,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-05-22",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1737&Inline=True"
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "houston",
    "placeName": "Houston County",
    "placeType": "county",
@@ -31845,6 +32016,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-05-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1736&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -31863,27 +32055,6 @@
    "excerpt": "… ssure Compliance with the Constitution of the State of Georgia Concerning General Obligation Sales Tax Bonds (ESPLOST VII 2025) to be Issued by the Walker County Board of Education 17.4. Resolution R-035-26 to Approve Issuanc …",
    "excerptTerm": "splost",
    "sourceUrl": "https://walkercoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3227,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-05-06",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1736&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -32230,6 +32401,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-04-21",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1730&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -32558,27 +32750,6 @@
    "excerpt": "Discussion: a. TSPLOST · Reviewed TSPLOST 1 and TSPLOST 2 Collections · Discussed the TSPLOST 3 Projections (GSU) · Reviewed the TSPLOST 3 Sch …",
    "excerptTerm": "splost",
    "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6383&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-03-27",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1731&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -32913,6 +33084,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-02-27",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1733&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -33016,28 +33208,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3392,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-02-13",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost",
-    "tax digest"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1728&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -33147,27 +33317,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.houstoncountyga.gov/minutes/2026-02-03%20Department%20Head%20Copy%20(002).pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2026-01-30",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1726&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -33307,6 +33456,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2026-01-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1727&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -33372,27 +33542,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.houstoncountyga.gov/minutes/2026-01-06_department%20head%20agenda%20copy.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2025-12-19",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1725&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -33485,6 +33634,28 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "chatham",
+   "placeName": "Chatham County",
+   "placeType": "county",
+   "fips": "13051",
+   "region": "Coastal Georgia",
+   "date": "2025-12-05",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "tax abatement"
+   ],
+   "tags": [],
+   "excerpt": "… ty. This would be the cancellation of the previous resolution and ordinance allowing such tax abatement benefits. 3. Request Board approval of the Fiscal Year 2026/2027 Budget Adoption and Millage …",
+   "excerptTerm": "tax abatement",
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1712&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -33545,27 +33716,6 @@
    "excerpt": "… S None IX. NEW BUSINESS ACTION ITEMS A. Adopt Resolution 2026 County Maintenance and Operation Millage Rate & Tax Levy B. Adopt Resolution 2026 County Fire & Rescue Millage Rate & Tax Levy C. Adopt Resolu …",
    "excerptTerm": "millage",
    "sourceUrl": "https://applingcountyga.org/wp-content/uploads/2025/11/Agenda-Commissioners-Meeting-December-2-2025-Regular-Meeting.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "chatham",
-   "placeName": "Chatham County",
-   "placeType": "county",
-   "fips": "13051",
-   "region": "Coastal Georgia",
-   "date": "2025-11-21",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1724&Inline=True"
   }
  ]
 }
