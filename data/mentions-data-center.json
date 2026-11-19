@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-18T18:15:30Z",
+  "generatedAt": "2026-11-19T13:41:41Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 159
+  "count": 164
  },
  "mentions": [
   {
@@ -912,6 +912,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": "South Georgia",
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_ec86a6a047524541ac9d370df42316ba.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "atlanta",
    "placeName": "City of Atlanta",
    "placeType": "city",
@@ -1165,15 +1186,15 @@
   },
   {
    "topic": "data-center",
-   "placeId": "atlanta",
-   "placeName": "City of Atlanta",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-09-21",
-   "body": "City Council",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2026-09-15",
+   "body": "Board of Commissioners",
    "confidence": "high",
-   "context": "unknown",
+   "context": null,
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -1182,7 +1203,7 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3934&Inline=True"
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/09/20260911193836.pdf"
   },
   {
    "topic": "data-center",
@@ -1309,6 +1330,27 @@
    "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
    "excerptTerm": "data center",
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2026-09-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… onded by Commissioner Darriel Nobles. Motion carried unanimously. Business  Cryptocurrency, Data Mining, and Data Centers Ordinance: County Manager John Jones addressed the Board regarding proposed changes to the Cryptocurrency, Data …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/09/09_10_2026_PUBLIC_HEARING.pdf"
   },
   {
    "topic": "data-center",
@@ -1606,6 +1648,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-08-25",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… the Agenda VIII. First Reading IX. Second Reading/Public Hearing 1. ULDC ordinance amendment related to Data Centers. Planning Commission voted to approve with proposed changes and notes from Planning Commission by a vote …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5220,plainText=false)"
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -1813,6 +1876,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-140b84c276c443a1870d10104604b0d7.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-08-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… ic Participation Regarding Matters on the Agenda VIII. First Reading 1. ULDC ordinance amendment related to Data Centers. Planning Commission voted to approve with proposed changes and notes from Planning Commission by a vote …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4206,plainText=false)"
   },
   {
    "topic": "data-center",
@@ -2065,6 +2149,27 @@
    "excerpt": "… d - Please State Your Name And Address 11. Adjournment There will be an information sharing session to address data center ordinance considerations following the adjournment of the regular meeting.",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_07282026-566"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": "South Georgia",
+   "date": "2026-07-23",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_0fbd71e1e4e347a8995e2bd57fd46ce6.pdf"
   },
   {
    "topic": "data-center",
