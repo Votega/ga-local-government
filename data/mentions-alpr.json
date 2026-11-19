@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-19T13:41:41Z",
+  "generatedAt": "2026-11-19T18:16:51Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 82
+  "count": 81
  },
  "mentions": [
   {
@@ -1541,27 +1541,6 @@
    "excerpt": "… A Resolution Of The Macon-Bibb County Commission Authorizing The Mayor To Execute An Agreement With Shotspotter, Inc. For The Provision Of Gunshot Detection, Location, And Forensic Analysis Services, In The Amount Of …",
    "excerptTerm": "shotspotter",
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3536,plainText=false)"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "savannah",
-   "placeName": "City of Savannah",
-   "placeType": "city",
-   "fips": null,
-   "region": "Coastal Georgia",
-   "date": "2026-05-14",
-   "body": "City Council",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://agenda.savannahga.gov/publishing/may-14-2026-city-council-regular-meeting/agenda.html"
   },
   {
    "topic": "alpr",
