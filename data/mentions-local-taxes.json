@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-19T13:41:41Z",
+  "generatedAt": "2026-11-19T18:16:51Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
-  "count": 522
+  "count": 521
  },
  "mentions": [
   {
@@ -49,7 +49,7 @@
    "tags": [],
    "excerpt": "… Gold, Silver, and Bronze Award. PUBLIC HEARING 3. To conduct a public hearing regarding proposed Cobb County Tax Allocation District #1: Town Center Area Redevelopment Plan. PUBLIC COMMENT Those persons wishing to address the Board of Com …",
    "excerptTerm": "tax allocation district",
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10349,plainText=false)"
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10359,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -92,30 +92,6 @@
    "excerpt": "… Chairman Martin Turner Roll Call Public Hearing • To receive comments from the public regarding the tentative Millage Rate. Adjourn Public Hearing As set forth in the Americans with Disabilities Act of 1992, Camden County does …",
    "excerptTerm": "millage",
    "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_11192026-678"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "fulton",
-   "placeName": "Fulton County",
-   "placeType": "county",
-   "fips": "13121",
-   "region": "Metro Atlanta",
-   "date": "2026-11-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "ad valorem",
-    "local option sales tax",
-    "special purpose local option",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… Bonds and the final contract payments to be made by the County in respect thereof; providing for the levy of an annual ad valorem tax and the pledge of the full faith and credit of the County to meet its payment obligations thereunder; and for other …",
-   "excerptTerm": "ad valorem",
-   "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6400&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
   },
   {
    "topic": "local-taxes",
@@ -247,7 +223,7 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261117/a_62106_2026.11.17___Public_Hearing_Agenda.pdf"
+   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261117/a_80124_2026.11.17___AMENDED_Public_Hearing_Agenda.pdf"
   },
   {
    "topic": "local-taxes",
