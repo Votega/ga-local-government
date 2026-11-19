@@ -24,10 +24,10 @@ identically; when a file was last written is in this repo's git history.
 
 | Topic | Mentions | Jurisdictions |
 | --- | --- | --- |
-| ALPR / surveillance | 82 | 30 |
+| ALPR / surveillance | 81 | 30 |
 | Data centers | 164 | 34 |
-| Land use | 708 | 58 |
-| Local taxes & referenda | 522 | 59 |
+| Land use | 705 | 58 |
+| Local taxes & referenda | 521 | 59 |
 
 ## ALPR vendors named
 
