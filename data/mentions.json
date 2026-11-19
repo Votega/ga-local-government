@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-19T13:41:41Z",
+  "generatedAt": "2026-11-19T18:16:51Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 1476
+  "count": 1471
  },
  "mentions": [
   {
@@ -1540,27 +1540,6 @@
    "excerpt": "… A Resolution Of The Macon-Bibb County Commission Authorizing The Mayor To Execute An Agreement With Shotspotter, Inc. For The Provision Of Gunshot Detection, Location, And Forensic Analysis Services, In The Amount Of …",
    "excerptTerm": "shotspotter",
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3536,plainText=false)"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "savannah",
-   "placeName": "City of Savannah",
-   "placeType": "city",
-   "fips": null,
-   "region": "Coastal Georgia",
-   "date": "2026-05-14",
-   "body": "City Council",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://agenda.savannahga.gov/publishing/may-14-2026-city-council-regular-meeting/agenda.html"
   },
   {
    "topic": "alpr",
@@ -5394,6 +5373,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "savannah",
+   "placeName": "City of Savannah",
+   "placeType": "city",
+   "fips": null,
+   "region": "Coastal Georgia",
+   "date": "2026-11-24",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… Resolution to Amend the Resolution Adopted October 8, 2026, Authorizing CHSA Development, Inc. to Sell 16 New 2-Bedroom Apartments, Resident Service Center, Parking Area, Four Associated Lots Known as 916 Martin Luther King, Jr. Boulevard, to Substi …",
+   "excerptTerm": "apartment",
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/november-24-2026-city-council-regular-meeting/agenda.html"
+  },
+  {
+   "topic": "land-use",
    "placeId": "catoosa",
    "placeName": "Catoosa County",
    "placeType": "county",
@@ -5612,7 +5616,7 @@
    ],
    "excerpt": "… approving the update to the Local Emergency Operations Plan. Community Development 13. To approve a corrected annexation notice of Non-Objection with Stipulations per HB 489 Intergovernmental Agreement and HB 2 regarding a petit …",
    "excerptTerm": "annexation",
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10349,plainText=false)"
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10359,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -5690,33 +5694,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4478,plainText=false)"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "fulton",
-   "placeName": "Fulton County",
-   "placeType": "county",
-   "fips": "13121",
-   "region": "Metro Atlanta",
-   "date": "2026-11-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "multifamily",
-    "subdivision",
-    "warehouse"
-   ],
-   "tags": [
-    "annexation",
-    "development"
-   ],
-   "excerpt": "… proval of the 2027 annual operating budget for Cooperative Extension services in the amount of $227,832.00, through its annexation as FY2027 Addendum E to the MOU between Fulton County and the Board of Regents of the University System of Georgia on b …",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6400&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
   },
   {
    "topic": "land-use",
@@ -5901,7 +5878,7 @@
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261117/a_62106_2026.11.17___Public_Hearing_Agenda.pdf"
+   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261117/a_80124_2026.11.17___AMENDED_Public_Hearing_Agenda.pdf"
   },
   {
    "topic": "land-use",
@@ -19997,31 +19974,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "savannah",
-   "placeName": "City of Savannah",
-   "placeType": "city",
-   "fips": null,
-   "region": "Coastal Georgia",
-   "date": "2026-05-14",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "warehouse"
-   ],
-   "tags": [
-    "development",
-    "rezoning"
-   ],
-   "excerpt": "… ment of Grant Award -Transfer from Area 11.pdf 28. Approval of a Water & Sewer Agreement with Rockingham Farms, LLC for Warehouse Drive Phase 2B for Installation of 1,000 Linear Feet of Water Main and 900 Linear Feet of Sewer Main in the President S …",
-   "excerptTerm": "warehouse",
-   "sourceUrl": "https://agenda.savannahga.gov/publishing/may-14-2026-city-council-regular-meeting/agenda.html"
-  },
-  {
-   "topic": "land-use",
    "placeId": "rockdale",
    "placeName": "Rockdale County",
    "placeType": "county",
@@ -20896,29 +20848,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://drive.google.com/file/d/1xk5P1vVjmJ8BpENCQkspZjsx14frjFcq/view"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "walton",
-   "placeName": "Walton County",
-   "placeType": "county",
-   "fips": "13297",
-   "region": "Metro Atlanta",
-   "date": "2026-04-21",
-   "body": "Board of Appeals",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "variance"
-   ],
-   "tags": [
-    "variance"
-   ],
-   "excerpt": "… ance 2. APPROVAL OF MINUTES 2.1. Additions/Deletions 3. OLD BUSINESS 4. NEW BUSINESS 4.1. V26-0076-Variance to reduce lot width on 4.79 acres to create 2 buildable lots with Lot 1 being 2.00 acres 200’ of lot wid …",
-   "excerptTerm": "variance",
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-a9d7a1b8c277404e9da6a1b15d0d5f5f.pdf"
   },
   {
    "topic": "land-use",
@@ -22235,31 +22164,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "pickens",
-   "placeName": "Pickens County",
-   "placeType": "county",
-   "fips": "13227",
-   "region": "Northwest Georgia",
-   "date": "2026-03-09",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "conditional use",
-    "rezon"
-   ],
-   "tags": [
-    "rezoning",
-    "special-land-use"
-   ],
-   "excerpt": "… LLEGIANCE II. READING AND APPROVAL OF PREVIOUS MINUTES III. OLD BUSINESS: IV. NEW BUSINESS: A. Rezones and Conditional Uses: RZ – 191110 - Jordan Deeney on behalf of Sean Catlett …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_03092026-176"
-  },
-  {
-   "topic": "land-use",
    "placeId": "fort-oglethorpe",
    "placeName": "City of Fort Oglethorpe",
    "placeType": "city",
@@ -23451,7 +23355,7 @@
    "tags": [],
    "excerpt": "… Gold, Silver, and Bronze Award. PUBLIC HEARING 3. To conduct a public hearing regarding proposed Cobb County Tax Allocation District #1: Town Center Area Redevelopment Plan. PUBLIC COMMENT Those persons wishing to address the Board of Com …",
    "excerptTerm": "tax allocation district",
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10349,plainText=false)"
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10359,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -23494,30 +23398,6 @@
    "excerpt": "… Chairman Martin Turner Roll Call Public Hearing • To receive comments from the public regarding the tentative Millage Rate. Adjourn Public Hearing As set forth in the Americans with Disabilities Act of 1992, Camden County does …",
    "excerptTerm": "millage",
    "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_11192026-678"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "fulton",
-   "placeName": "Fulton County",
-   "placeType": "county",
-   "fips": "13121",
-   "region": "Metro Atlanta",
-   "date": "2026-11-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "ad valorem",
-    "local option sales tax",
-    "special purpose local option",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… Bonds and the final contract payments to be made by the County in respect thereof; providing for the levy of an annual ad valorem tax and the pledge of the full faith and credit of the County to meet its payment obligations thereunder; and for other …",
-   "excerptTerm": "ad valorem",
-   "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6400&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
   },
   {
    "topic": "local-taxes",
@@ -23649,7 +23529,7 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261117/a_62106_2026.11.17___Public_Hearing_Agenda.pdf"
+   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261117/a_80124_2026.11.17___AMENDED_Public_Hearing_Agenda.pdf"
   },
   {
    "topic": "local-taxes",
