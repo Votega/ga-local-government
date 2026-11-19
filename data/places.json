@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-18T18:15:30Z",
+  "generatedAt": "2026-11-19T13:41:41Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 62
+  "count": 67
  },
  "places": [
   {
@@ -923,7 +923,7 @@
    "recordedVotes": {
     "status": "available",
     "firstMeeting": "2025-11-18",
-    "lastMeeting": "2026-11-17"
+    "lastMeeting": "2026-11-19"
    },
    "links": {},
    "schedule": [
@@ -947,7 +947,7 @@
    "platform": "civicclerk",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2024-11-18",
+    "firstMeeting": "2024-11-19",
     "lastMeeting": "2026-11-17"
    },
    "links": {
@@ -1009,6 +1009,31 @@
      "body": "Board of Commissioners",
      "when": "2nd and 4th Thursday of every month, 5:00 p.m.",
      "location": "140 Stonewall Avenue West, Public Meeting Room, Fayetteville"
+    }
+   ]
+  },
+  {
+   "placeId": "floyd",
+   "name": "Floyd County",
+   "type": "county",
+   "county": "floyd",
+   "counties": [
+    "floyd"
+   ],
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "platform": "civicclerk",
+   "recordedVotes": {
+    "status": "not-published"
+   },
+   "links": {
+    "agendas_url": "https://floydcountyga.gov/board_and_committees/board_of_commissioners/boc_agendas_minutes.php"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd and 4th Tuesday of every month, 6:00 p.m.",
+     "location": "Administration Building, 12 East 4th Avenue, Suite 206 (Commissioners Meeting Room), Rome"
     }
    ]
   },
@@ -1144,6 +1169,32 @@
    ]
   },
   {
+   "placeId": "haralson",
+   "name": "Haralson County",
+   "type": "county",
+   "county": "haralson",
+   "counties": [
+    "haralson"
+   ],
+   "fips": "13143",
+   "region": "West Georgia",
+   "platform": "cfmagenda",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {
+    "base_url": "https://www.haralsoncountyga.gov",
+    "agendas_url": "https://www.haralsoncountyga.gov/agenda-center.cfm"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Tuesday of every month, 6:00 p.m. (work session 3rd Tuesday, 6:00 p.m.)",
+     "location": "155 Van Wert Street, Buchanan"
+    }
+   ]
+  },
+  {
    "placeId": "henry",
    "name": "Henry County",
    "type": "county",
@@ -1194,6 +1245,58 @@
      "body": "Board of Commissioners",
      "when": "3rd Tuesday of every month, 5:00 p.m.",
      "location": "Annex Building, Commissioners Boardroom, 200 Carl Vinson Parkway, Warner Robins"
+    }
+   ]
+  },
+  {
+   "placeId": "jackson",
+   "name": "Jackson County",
+   "type": "county",
+   "county": "jackson",
+   "counties": [
+    "jackson"
+   ],
+   "fips": "13157",
+   "region": "Northeast Georgia",
+   "platform": "civicplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {
+    "base_url": "https://www.jacksoncountygov.com",
+    "agendas_url": "https://www.jacksoncountygov.com/AgendaCenter"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Monday of every month, 6:00 p.m.",
+     "location": "Jackson County Courthouse, 5000 Jackson Parkway, Jefferson"
+    }
+   ]
+  },
+  {
+   "placeId": "laurens",
+   "name": "Laurens County",
+   "type": "county",
+   "county": "laurens",
+   "counties": [
+    "laurens"
+   ],
+   "fips": "13175",
+   "region": "Middle Georgia",
+   "platform": "civicplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {
+    "base_url": "https://www.laurenscoga.org",
+    "agendas_url": "https://www.laurenscoga.org/AgendaCenter"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Tuesday of every month, 5:30 p.m., and 3rd Tuesday, 6:30 p.m.",
+     "location": "Laurens County Courthouse Annex, Dublin, Georgia"
     }
    ]
   },
@@ -1576,6 +1679,26 @@
    ]
   },
   {
+   "placeId": "toombs",
+   "name": "Toombs County",
+   "type": "county",
+   "county": "toombs",
+   "counties": [
+    "toombs"
+   ],
+   "fips": "13279",
+   "region": "South Georgia",
+   "platform": "pdflinks",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {
+    "base_url": "https://toombscountyga.gov",
+    "agendas_url": "https://toombscountyga.gov/agendas-minutes/"
+   },
+   "schedule": []
+  },
+  {
    "placeId": "walker",
    "name": "Walker County",
    "type": "county",
@@ -1588,7 +1711,7 @@
    "platform": "civicclerk",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2024-11-19",
+    "firstMeeting": "2024-11-21",
     "lastMeeting": "2026-11-05"
    },
    "links": {
