@@ -5,10 +5,10 @@
  "description": "Where ALPR/surveillance, data centers, land use and local taxes appear on Georgia county and city agendas and minutes, with the source document for every mention, plus the jurisdiction registry and per-place coverage.",
  "repo": "Votega/ga-local-government",
  "publisher": "VoteGA.org",
- "generatedAt": "2026-11-18T18:15:26Z",
+ "generatedAt": "2026-11-19T13:41:38Z",
  "updateCadence": "Twice weekly (Mondays and Thursdays).",
  "schemaVersion": "1.0.0",
- "rowCount": 1427,
+ "rowCount": 1476,
  "source": "the published agendas and minutes of Georgia county and municipal governments",
  "license": {
   "name": "Creative Commons Attribution-ShareAlike 4.0 International",
@@ -24,7 +24,7 @@
   {
    "path": "data/coverage.json",
    "description": "Per-place coverage.",
-   "bytes": 13553
+   "bytes": 14214
   },
   {
    "path": "data/keywords.json",
@@ -34,32 +34,32 @@
   {
    "path": "data/mentions-alpr.json",
    "description": "Mentions for the ALPR / surveillance topic.",
-   "bytes": 50865
+   "bytes": 51381
   },
   {
    "path": "data/mentions-data-center.json",
    "description": "Mentions for the Data centers topic.",
-   "bytes": 105772
+   "bytes": 109190
   },
   {
    "path": "data/mentions-land-use.json",
    "description": "Mentions for the Land use topic.",
-   "bytes": 513168
+   "bytes": 521546
   },
   {
    "path": "data/mentions-local-taxes.json",
    "description": "Mentions for the Local taxes & referenda topic.",
-   "bytes": 330166
+   "bytes": 345956
   },
   {
    "path": "data/mentions.csv",
    "description": "Every mention, as a spreadsheet.",
-   "bytes": 519577
+   "bytes": 531989
   },
   {
    "path": "data/mentions.json",
    "description": "Every mention.",
-   "bytes": 999423
+   "bytes": 1027525
   },
   {
    "path": "data/mentions.schema.json",
@@ -69,7 +69,7 @@
   {
    "path": "data/places.json",
    "description": "Jurisdiction registry.",
-   "bytes": 41714
+   "bytes": 44692
   },
   {
    "path": "latest.json",
@@ -78,9 +78,9 @@
   }
  ],
  "coverage": {
-  "placesScanned": 59,
+  "placesScanned": 62,
   "universeCounties": 159,
   "universeCities": 537,
-  "lastScan": "2026-11-18"
+  "lastScan": "2026-11-19"
  }
 }
