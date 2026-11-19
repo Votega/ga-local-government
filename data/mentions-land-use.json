@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-18T18:15:30Z",
+  "generatedAt": "2026-11-19T13:41:41Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "land-use",
-  "count": 693
+  "count": 708
  },
  "mentions": [
   {
@@ -1458,6 +1458,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5284,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -2678,6 +2701,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261027/a_22349_2026.10.27___Public_Hearing_Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-10-27",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5275,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -4144,6 +4190,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4383,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5262,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -5921,6 +5990,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5250,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -6092,39 +6184,6 @@
    "excerpt": "… W. Motion carried unanimously. ****** A public hearing was held at 7:10 PM concerning a City Initiated Future Land Use Map amendment and rezoning. Charles Hicks was in attendance to state the property owner is in favor of the FL …",
    "excerptTerm": "future land use",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0921_Minutes.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "atlanta",
-   "placeName": "City of Atlanta",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-09-21",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "land use plan",
-    "mixed use",
-    "multi-family",
-    "multifamily",
-    "rezon",
-    "subdivision",
-    "warehouse"
-   ],
-   "tags": [
-    "annexation",
-    "comprehensive-plan",
-    "development",
-    "rezoning"
-   ],
-   "excerpt": "… 9/21/26 26-O-1348 (8) - AN ORDINANCE BY COUNCILMEMBER LILIANA BAKHTIARI TO PROVIDE FOR THE ANNEXATION OF PROPERTIES OWNED BY AND CONNECTED TO THE ATLANTA MASJID OF AL-ISLAM LOCATED IN …",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3934&Inline=True"
   },
   {
    "topic": "land-use",
@@ -7121,6 +7180,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-330-ws-20260904194953472673.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-09-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5232,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -8287,6 +8369,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-08-25",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5220,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -9370,6 +9477,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5258,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-08-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4206,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -14229,6 +14361,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-05-26",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2139,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -14740,6 +14895,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_05122026-556"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-05-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2132,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -15297,6 +15475,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-73bfc09ea2a448e6a58471c65ae76ca6.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-04-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "warehouse"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2113,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -15869,6 +16070,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-04-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "warehouse"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2098,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -16281,6 +16505,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-03-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2090,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "thomasville",
    "placeName": "City of Thomasville",
    "placeType": "city",
@@ -16640,6 +16887,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-03-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2065,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "whitfield",
    "placeName": "Whitfield County",
    "placeType": "county",
@@ -16932,6 +17202,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-02-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1066,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "thomasville",
    "placeName": "City of Thomasville",
    "placeType": "city",
@@ -17069,6 +17362,29 @@
    "excerpt": "… 026, Board of Commissioners Meeting Minutes. (pages 21-31) OLD BUSINESS: NEW BUSINESS: 4. Consideration of an Annexation Notification from the Town of Tyrone regarding a request to annex one (1) parcel, Parcel No. 0739 023, a total …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-12-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-02-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=50,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -17777,6 +18093,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.bartowcountyga.gov/AGENDA.PUBLIC_MEETING_12-3-2025.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "laurens",
+   "placeName": "Laurens County",
+   "placeType": "county",
+   "fips": "13175",
+   "region": "Middle Georgia",
+   "date": "2025-12-02",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… P.M.  CALL TO ORDER  INVOCATION  APPROVE MEETING MINUTES FOR NOVEMBER 18, 2025  DISCUSSION/APPROVAL TO REVISE SUBDIVISION ORDINANCE  DISCUSSION/APPROVAL OF HWY 257 TURN LANE BIDS  DISCUSSION/APPROVAL OF LICENSE RENEWAL FOR EXISTING R …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://www.laurenscoga.org/AgendaCenter/ViewFile/Agenda/_12022025-382"
   },
   {
    "topic": "land-use",
