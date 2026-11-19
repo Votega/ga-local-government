@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-18T18:15:30Z",
+  "generatedAt": "2026-11-19T13:41:41Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 1427
+  "count": 1476
  },
  "mentions": [
   {
@@ -672,30 +672,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "atlanta",
-   "placeName": "City of Atlanta",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-09-21",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise",
-    "body cam",
-    "body worn",
-    "fleet camera"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3934&Inline=True"
-  },
-  {
-   "topic": "alpr",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -1274,6 +1250,27 @@
   },
   {
    "topic": "alpr",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-07-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "body worn"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3187,plainText=false)"
+  },
+  {
+   "topic": "alpr",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -1316,6 +1313,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-697c3fb244314fa4bb0bc05ca489576f.pdf"
+  },
+  {
+   "topic": "alpr",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-06-23",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "body cam"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3178,plainText=false)"
   },
   {
    "topic": "alpr",
@@ -2712,6 +2730,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": "South Georgia",
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_ec86a6a047524541ac9d370df42316ba.pdf"
+  },
+  {
+   "topic": "data-center",
    "placeId": "atlanta",
    "placeName": "City of Atlanta",
    "placeType": "city",
@@ -2965,15 +3004,15 @@
   },
   {
    "topic": "data-center",
-   "placeId": "atlanta",
-   "placeName": "City of Atlanta",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-09-21",
-   "body": "City Council",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2026-09-15",
+   "body": "Board of Commissioners",
    "confidence": "high",
-   "context": "unknown",
+   "context": null,
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
@@ -2982,7 +3021,7 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3934&Inline=True"
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/09/20260911193836.pdf"
   },
   {
    "topic": "data-center",
@@ -3109,6 +3148,27 @@
    "excerpt": "… §3-102, of the Chatham County Code imposing a temporary moratorium on development related to large scale data centers with an electrical capacity of 10 Megawatts or greater and prohibiting the conversion of warehouses …",
    "excerptTerm": "data center",
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2026-09-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… onded by Commissioner Darriel Nobles. Motion carried unanimously. Business  Cryptocurrency, Data Mining, and Data Centers Ordinance: County Manager John Jones addressed the Board regarding proposed changes to the Cryptocurrency, Data …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/09/09_10_2026_PUBLIC_HEARING.pdf"
   },
   {
    "topic": "data-center",
@@ -3406,6 +3466,27 @@
   },
   {
    "topic": "data-center",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-08-25",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… the Agenda VIII. First Reading IX. Second Reading/Public Hearing 1. ULDC ordinance amendment related to Data Centers. Planning Commission voted to approve with proposed changes and notes from Planning Commission by a vote …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5220,plainText=false)"
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -3613,6 +3694,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-140b84c276c443a1870d10104604b0d7.pdf"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-08-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… ic Participation Regarding Matters on the Agenda VIII. First Reading 1. ULDC ordinance amendment related to Data Centers. Planning Commission voted to approve with proposed changes and notes from Planning Commission by a vote …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4206,plainText=false)"
   },
   {
    "topic": "data-center",
@@ -3865,6 +3967,27 @@
    "excerpt": "… d - Please State Your Name And Address 11. Adjournment There will be an information sharing session to address data center ordinance considerations following the adjournment of the regular meeting.",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_07282026-566"
+  },
+  {
+   "topic": "data-center",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": "South Georgia",
+   "date": "2026-07-23",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_0fbd71e1e4e347a8995e2bd57fd46ce6.pdf"
   },
   {
    "topic": "data-center",
@@ -6602,6 +6725,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5284,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -7822,6 +7968,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261027/a_22349_2026.10.27___Public_Hearing_Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-10-27",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5275,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -9288,6 +9457,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4383,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5262,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -11065,6 +11257,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5250,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -11236,39 +11451,6 @@
    "excerpt": "… W. Motion carried unanimously. ****** A public hearing was held at 7:10 PM concerning a City Initiated Future Land Use Map amendment and rezoning. Charles Hicks was in attendance to state the property owner is in favor of the FL …",
    "excerptTerm": "future land use",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0921_Minutes.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "atlanta",
-   "placeName": "City of Atlanta",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-09-21",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "land use plan",
-    "mixed use",
-    "multi-family",
-    "multifamily",
-    "rezon",
-    "subdivision",
-    "warehouse"
-   ],
-   "tags": [
-    "annexation",
-    "comprehensive-plan",
-    "development",
-    "rezoning"
-   ],
-   "excerpt": "… 9/21/26 26-O-1348 (8) - AN ORDINANCE BY COUNCILMEMBER LILIANA BAKHTIARI TO PROVIDE FOR THE ANNEXATION OF PROPERTIES OWNED BY AND CONNECTED TO THE ATLANTA MASJID OF AL-ISLAM LOCATED IN …",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3934&Inline=True"
   },
   {
    "topic": "land-use",
@@ -12265,6 +12447,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-330-ws-20260904194953472673.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-09-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5232,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -13431,6 +13636,31 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-08-25",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5220,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -14514,6 +14744,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5258,plainText=false)"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-08-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4206,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -19373,6 +19628,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-05-26",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2139,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -19884,6 +20162,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_05122026-556"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-05-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2132,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -20441,6 +20742,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-73bfc09ea2a448e6a58471c65ae76ca6.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-04-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "warehouse"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2113,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -21013,6 +21337,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-04-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "warehouse"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2098,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "banks",
    "placeName": "Banks County",
    "placeType": "county",
@@ -21425,6 +21772,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-03-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2090,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "thomasville",
    "placeName": "City of Thomasville",
    "placeType": "city",
@@ -21784,6 +22154,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-03-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2065,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "whitfield",
    "placeName": "Whitfield County",
    "placeType": "county",
@@ -22076,6 +22469,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-02-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1066,plainText=false)"
+  },
+  {
+   "topic": "land-use",
    "placeId": "thomasville",
    "placeName": "City of Thomasville",
    "placeType": "city",
@@ -22213,6 +22629,29 @@
    "excerpt": "… 026, Board of Commissioners Meeting Minutes. (pages 21-31) OLD BUSINESS: NEW BUSINESS: 4. Consideration of an Annexation Notification from the Town of Tyrone regarding a request to annex one (1) parcel, Parcel No. 0739 023, a total …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-12-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-02-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=50,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -22924,6 +23363,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "laurens",
+   "placeName": "Laurens County",
+   "placeType": "county",
+   "fips": "13175",
+   "region": "Middle Georgia",
+   "date": "2025-12-02",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… P.M.  CALL TO ORDER  INVOCATION  APPROVE MEETING MINUTES FOR NOVEMBER 18, 2025  DISCUSSION/APPROVAL TO REVISE SUBDIVISION ORDINANCE  DISCUSSION/APPROVAL OF HWY 257 TURN LANE BIDS  DISCUSSION/APPROVAL OF LICENSE RENEWAL FOR EXISTING R …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://www.laurenscoga.org/AgendaCenter/ViewFile/Agenda/_12022025-382"
+  },
+  {
+   "topic": "land-use",
    "placeId": "houston",
    "placeName": "Houston County",
    "placeType": "county",
@@ -23458,6 +23920,27 @@
    "excerpt": "… on to approve the purchase of listed vehicles for the Sheriff's Office from Hardy Family Ford utilizing SPLOST funds in the amount of $602,995.00. 6. Discuss action to approve the purchase of listed motorcycles for t …",
    "excerptTerm": "splost",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-7211d0cb7c9746478f52e3659b15a1a6.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5284,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -24177,6 +24660,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261027/a_22349_2026.10.27___Public_Hearing_Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-10-27",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5275,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -25017,6 +25521,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5262,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -25346,6 +25871,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4379,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "laurens",
+   "placeName": "Laurens County",
+   "placeType": "county",
+   "fips": "13175",
+   "region": "Middle Georgia",
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.laurenscoga.org/AgendaCenter/ViewFile/Agenda/_10062026-401"
   },
   {
    "topic": "local-taxes",
@@ -26337,6 +26883,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "laurens",
+   "placeName": "Laurens County",
+   "placeType": "county",
+   "fips": "13175",
+   "region": "Middle Georgia",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… NUTES FOR SEPTEMBER 1, 2026  PUBLIC HEARING ON CLOSING PORTION OF LOWERY SCHOOL ROAD  DISCUSSION/APPROVAL OF 2026 MILLAGE RATE  DISCUSSION/APPROVAL OF GDOT TIA CONTRACT FOR RESURFACING CHICKEN AND LORD ROAD  DISCUSSION/APPROVAL OF JAG …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.laurenscoga.org/AgendaCenter/ViewFile/Agenda/_09222026-400"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "houston",
    "placeName": "Houston County",
    "placeType": "county",
@@ -26376,6 +26943,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5347,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-09-22",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5250,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -26460,31 +27048,6 @@
    "excerpt": "… y Council Member Davis to approve a resolution amending the FY 2027 Budget to reflect recent changes in the final tax digest and liability insurance renewal. Motion carried unanimously. CoC09212026 …",
    "excerptTerm": "tax digest",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0921_Minutes.pdf"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "atlanta",
-   "placeName": "City of Atlanta",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-09-21",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "ad valorem",
-    "hotel/motel tax",
-    "splost",
-    "tax abatement",
-    "tax rate"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3934&Inline=True"
   },
   {
    "topic": "local-taxes",
@@ -27026,6 +27589,28 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2026-09-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": "… ded by Commissioner Alfred Cason. Motion carried unanimously. Business  Consideration of Adoption of 2026 Millage Rate Resolutions: County Manager John Jones address the Board regarding the 2026 Millage Rate Rollback of 6.979 …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/09/09_11_2026_CALLED_MEETING.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "chatham",
    "placeName": "Chatham County",
    "placeType": "county",
@@ -27044,6 +27629,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1748&Inline=True"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": "South Georgia",
+   "date": "2026-09-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_12ae5b319bd74cc2967a285e439fc432.pdf"
   },
   {
    "topic": "local-taxes",
@@ -27217,6 +27823,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-09-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5232,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "walker",
    "placeName": "Walker County",
    "placeType": "county",
@@ -27280,6 +27907,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_09012026-874"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "laurens",
+   "placeName": "Laurens County",
+   "placeType": "county",
+   "fips": "13175",
+   "region": "Middle Georgia",
+   "date": "2026-09-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.laurenscoga.org/AgendaCenter/ViewFile/Agenda/_09012026-399"
   },
   {
    "topic": "local-taxes",
@@ -27525,6 +28173,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": "South Georgia",
+   "date": "2026-09-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_4c4d38bdaa99472fa71c7b821f3c90c0.pdf"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -27757,6 +28426,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5290,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-08-25",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5220,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -28488,6 +29178,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-08-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4206,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "coweta",
    "placeName": "Coweta County",
    "placeType": "county",
@@ -28958,6 +29669,29 @@
    "excerpt": "… lic Comment 1. Clayton Bearden 2. Geraldine Cooper Minutes 3. July 7, 2026 BOC Meeting 4. July 9, 2026 1st Millage Rate Public Hearing 5. July 21, 2026 2nd Millage Rate Public Hearing 6. July 21, 2026 3rd Millage Rate Public Hea …",
    "excerptTerm": "millage",
    "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_08042026-869"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "laurens",
+   "placeName": "Laurens County",
+   "placeType": "county",
+   "fips": "13175",
+   "region": "Middle Georgia",
+   "date": "2026-08-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "floating local option",
+    "flost",
+    "local option sales tax"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.laurenscoga.org/AgendaCenter/ViewFile/Agenda/_08042026-395"
   },
   {
    "topic": "local-taxes",
@@ -29468,6 +30202,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-07-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4194,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "effingham",
    "placeName": "Effingham County",
    "placeType": "county",
@@ -29488,6 +30243,27 @@
    "excerpt": "… ernmental Agreement between Effingham County and the cities of Guyton, Rincon and Springfield related to SPLOST 2. [2026-344 Resolution] Tim Callanan (Approved) Consideration to approve Resolution# 026-01 …",
    "excerptTerm": "splost",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/effingham-pubu/MEET-Agenda-c3497b64ddf34f2cac53c7fa30bb27fd.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "baker",
+   "placeName": "Baker County",
+   "placeType": "county",
+   "fips": "13007",
+   "region": "South Georgia",
+   "date": "2026-07-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_0ddfe2ebd966416ea66e5f808096cc96.pdf"
   },
   {
    "topic": "local-taxes",
@@ -29985,6 +30761,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5219,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-07-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3187,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -30612,6 +31409,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-06-23",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3178,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -31113,6 +31931,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5154,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-06-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2168,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -31705,6 +32544,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-05-26",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2139,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "houston",
    "placeName": "Houston County",
    "placeType": "county",
@@ -31906,6 +32766,27 @@
    "excerpt": "… attached Tabulation of Bid sheet. (Mayor Pro-Tem) 7. 1st Reading- An ordinance to provide for a levy of increase on ad valorem taxes for blighted property; to provide for identification of blighted property; to provide for remediation; to …",
    "excerptTerm": "ad valorem",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-b8fd3b606fe34aa2a9b5f95e1c5b625f.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-05-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2132,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -32294,6 +33175,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-04-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2113,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "butts",
    "placeName": "Butts County",
    "placeType": "county",
@@ -32484,6 +33386,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2514,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-04-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2098,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -32795,6 +33718,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-03-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2090,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "butts",
    "placeName": "Butts County",
    "placeType": "county",
@@ -32951,6 +33895,27 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/03/BOC-minutes-3.10.26.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-03-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2065,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -33126,6 +34091,27 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-02-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1066,plainText=false)"
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "thomasville",
    "placeName": "City of Thomasville",
    "placeType": "city",
@@ -33229,6 +34215,27 @@
    "excerpt": "… dor Streetscape and Mobility LCI Implementation Project. (pages 62-63) 6. Request to establish a new 2017 SPLOST project for SR 279 and North Drive; reallocate $20,000 from Project 17TAK to the new project number; and author …",
    "excerptTerm": "splost",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-12-2026%20BOC%20Agenda.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-02-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=50,plainText=false)"
   },
   {
    "topic": "local-taxes",
@@ -33542,6 +34549,49 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.houstoncountyga.gov/minutes/2026-01-06_department%20head%20agenda%20copy.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2025-12-29",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/01/12_29_2025-Called-Board-Meeting-December-29-2025.pdf"
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2025-12-16",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "flost",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… se, this will help off-set the total cost of $27,473.56. The County’s portion will be paid from SPLOST Funds. Commissioner Cason made a motion, seconded by Commissioner Moon …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/01/12_2025-Regular-Board-Meeting-December-16-2025.pdf"
   },
   {
    "topic": "local-taxes",
