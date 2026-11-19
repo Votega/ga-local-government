@@ -5,10 +5,10 @@
  "description": "Where ALPR/surveillance, data centers, land use and local taxes appear on Georgia county and city agendas and minutes, with the source document for every mention, plus the jurisdiction registry and per-place coverage.",
  "repo": "Votega/ga-local-government",
  "publisher": "VoteGA.org",
- "generatedAt": "2026-11-19T13:41:38Z",
+ "generatedAt": "2026-11-19T18:16:48Z",
  "updateCadence": "Twice weekly (Mondays and Thursdays).",
  "schemaVersion": "1.0.0",
- "rowCount": 1476,
+ "rowCount": 1471,
  "source": "the published agendas and minutes of Georgia county and municipal governments",
  "license": {
   "name": "Creative Commons Attribution-ShareAlike 4.0 International",
@@ -34,7 +34,7 @@
   {
    "path": "data/mentions-alpr.json",
    "description": "Mentions for the ALPR / surveillance topic.",
-   "bytes": 51381
+   "bytes": 50851
   },
   {
    "path": "data/mentions-data-center.json",
@@ -44,22 +44,22 @@
   {
    "path": "data/mentions-land-use.json",
    "description": "Mentions for the Land use topic.",
-   "bytes": 521546
+   "bytes": 519073
   },
   {
    "path": "data/mentions-local-taxes.json",
    "description": "Mentions for the Local taxes & referenda topic.",
-   "bytes": 345956
+   "bytes": 345061
   },
   {
    "path": "data/mentions.csv",
    "description": "Every mention, as a spreadsheet.",
-   "bytes": 531989
+   "bytes": 529792
   },
   {
    "path": "data/mentions.json",
    "description": "Every mention.",
-   "bytes": 1027525
+   "bytes": 1023627
   },
   {
    "path": "data/mentions.schema.json",
