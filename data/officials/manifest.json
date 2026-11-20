@@ -5,10 +5,10 @@
  "description": "Elected county commissions and city councils: who holds each seat now (officials), and every recorded holder of every seat, one row per person per term (officials-history). History is not backfilled: it starts at historyStartsAt.",
  "repo": "Votega/ga-local-government",
  "publisher": "VoteGA.org",
- "generatedAt": "2026-11-20T04:29:48Z",
+ "generatedAt": "2026-11-20T12:31:49Z",
  "updateCadence": "Twice weekly (Mondays and Thursdays), from a hand-maintained roster; a person confirms every row against its `source`.",
  "schemaVersion": "1.0.0",
- "rowCount": 415,
+ "rowCount": 420,
  "source": "county and city government websites, agendas and minutes, and Secretary of State election results, confirmed by a person",
  "license": {
   "name": "Creative Commons Attribution-ShareAlike 4.0 International",
@@ -19,12 +19,12 @@
   {
    "path": "data/officials/officials-history.csv",
    "description": "Term history, as a spreadsheet.",
-   "bytes": 64133
+   "bytes": 64724
   },
   {
    "path": "data/officials/officials-history.json",
    "description": "Every recorded holder of every seat, one row per person per term.",
-   "bytes": 183870
+   "bytes": 185779
   },
   {
    "path": "data/officials/officials-history.schema.json",
@@ -34,12 +34,12 @@
   {
    "path": "data/officials/officials.csv",
    "description": "Current board, as a spreadsheet.",
-   "bytes": 70119
+   "bytes": 70877
   },
   {
    "path": "data/officials/officials.json",
    "description": "Current board, one row per sitting official.",
-   "bytes": 193613
+   "bytes": 195839
   },
   {
    "path": "data/officials/officials.schema.json",
@@ -47,7 +47,7 @@
    "bytes": 2982
   }
  ],
- "historyRowCount": 449,
- "historyStartsAt": "2027-01-01",
+ "historyRowCount": 454,
+ "historyStartsAt": "2026-03-16",
  "historyStatus": "not-backfilled"
 }
