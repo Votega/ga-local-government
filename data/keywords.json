@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-20T04:29:48Z",
+  "generatedAt": "2026-11-20T12:31:49Z",
   "publisher": "VoteGA.org",
-  "schemaVersion": "1.0.0"
+  "schemaVersion": "1.1.0"
  },
  "matching": "Text is lowercased. A `substring` term matches anywhere (so 'rezon' catches rezoning/rezoned); a `wholeWord` term matches only as a whole word (so 'flock' does not fire on 'flocking' and 'alpr' does not fire inside 'AppraisalPro').",
  "topics": {
