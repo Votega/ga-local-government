@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-19T18:16:51Z",
+  "generatedAt": "2026-11-20T04:29:48Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "alpr",
-  "count": 81
+  "count": 80
  },
  "mentions": [
   {
@@ -799,27 +799,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7517,plainText=false)"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-08-27",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-vm-20260827200611174072.pdf"
   },
   {
    "topic": "alpr",
