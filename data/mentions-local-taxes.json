@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-19T18:16:51Z",
+  "generatedAt": "2026-11-20T04:29:48Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "local-taxes",
-  "count": 521
+  "count": 520
  },
  "mentions": [
   {
@@ -4808,27 +4808,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7517,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-08-27",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage"
-   ],
-   "tags": [],
-   "excerpt": "… 3,560.00. Other Business - Financial Services 32 Third public hearing regarding Hall County's intent to levy a 2026 millage rate for the County's General Fund greater than the calculated full rollback per the State of Georgia for …",
-   "excerptTerm": "millage",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-vm-20260827200611174072.pdf"
   },
   {
    "topic": "local-taxes",
