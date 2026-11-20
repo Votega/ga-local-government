@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-19T18:16:51Z",
+  "generatedAt": "2026-11-20T04:29:48Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
-  "count": 1471
+  "count": 1465
  },
  "mentions": [
   {
@@ -798,27 +798,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7517,plainText=false)"
-  },
-  {
-   "topic": "alpr",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-08-27",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-vm-20260827200611174072.pdf"
   },
   {
    "topic": "alpr",
@@ -5045,27 +5024,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-03-10",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-88bb014cddb7417f9ddeb255d11f9f6d.pdf"
-  },
-  {
-   "topic": "data-center",
    "placeId": "whitfield",
    "placeName": "Whitfield County",
    "placeType": "county",
@@ -5105,27 +5063,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-26-2026%20BOC%20Agenda.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-02-24",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-19c256d9d4654206be5a840a65c9d462.pdf"
   },
   {
    "topic": "data-center",
@@ -5252,6 +5189,29 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2025_CityCouncil_1215_Minutes.pdf"
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lumpkin",
+   "placeName": "Lumpkin County",
+   "placeType": "county",
+   "fips": "13187",
+   "region": "Northeast Georgia",
+   "date": "2026-12-14",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… Applicant: Ken Corbin Parcel Number: 095-238 Character Area: Gateway Corridor Case 208 is requesting a variance to Section 27-2.2.3 accessing nursing home from a local road. 3. Location Address: 1625 Mill Creek Road Ap …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4520,plainText=false)"
   },
   {
    "topic": "land-use",
@@ -5642,35 +5602,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://drive.google.com/file/d/1y5qdGuWeVGMXDjHpN4CTe6Gi_po_KL9C/view"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "barrow",
-   "placeName": "Barrow County",
-   "placeType": "county",
-   "fips": "13013",
-   "region": "Metro Atlanta",
-   "date": "2026-11-19",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "future land use",
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… C2026-00076 (XX057 008) 980 Collie Doster Rd; Wielme , LLC / Applicant; Estate of Fredera Doster / Owner; Request for a Future Land Use Map amendment to Suburban residential and rezone for ±141.35 acres from AG (Agriculture) to R-2 (Medium Density Residen …",
-   "excerptTerm": "future land use",
-   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&event_id=761"
   },
   {
    "topic": "land-use",
@@ -12017,31 +11948,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "lumpkin",
-   "placeName": "Lumpkin County",
-   "placeType": "county",
-   "fips": "13187",
-   "region": "Northeast Georgia",
-   "date": "2026-09-14",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "variance"
-   ],
-   "excerpt": "… 083-008 Character Area: Gateway Corridor Overlay Case 186 is a request for a Preliminary Plat of a Class VIII subdivision entitled Wright Industrial Park (7 lots). 3. Location: 40 PATRIOT VIEW DRIVE; DAHLONEGA, GA 30533 Applican …",
-   "excerptTerm": "subdivision",
-   "sourceUrl": "https://lumpkincoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4276,plainText=false)"
-  },
-  {
-   "topic": "land-use",
    "placeId": "gordon",
    "placeName": "Gordon County",
    "placeType": "county",
@@ -13369,35 +13275,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.newtoncountyga.gov/AgendaCenter/ViewFile/Agenda/_08272026-995"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-08-27",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… Appendix I: Plan Review and Inspection Fee Schedule. 36 Public hearing to amend the Hall County Forward 2045 Comprehensive Plan. Public Hearing to amend Hall County's Zoning Map as follows: 37 6250 & 6255 Old Dawsonville Road | Special Use | …",
-   "excerptTerm": "comprehensive plan",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-vm-20260827200611174072.pdf"
   },
   {
    "topic": "land-use",
@@ -18683,6 +18560,29 @@
   },
   {
    "topic": "land-use",
+   "placeId": "barrow",
+   "placeName": "Barrow County",
+   "placeType": "county",
+   "fips": "13013",
+   "region": "Metro Atlanta",
+   "date": "2026-06-11",
+   "body": "Board of Appeals",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1130"
+  },
+  {
+   "topic": "land-use",
    "placeId": "socialcircle",
    "placeName": "City of Social Circle",
    "placeType": "city",
@@ -22057,29 +21957,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.bartowcountyga.gov/CommissionerOffice/PUBLIC%20MEETING%20AGENDA%203-11-2026.pdf"
-  },
-  {
-   "topic": "land-use",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-03-10",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon"
-   ],
-   "tags": [
-    "rezoning"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-88bb014cddb7417f9ddeb255d11f9f6d.pdf"
   },
   {
    "topic": "land-use",
@@ -28114,27 +27991,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7517,plainText=false)"
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "hall",
-   "placeName": "Hall County",
-   "placeType": "county",
-   "fips": "13139",
-   "region": "Northeast Georgia",
-   "date": "2026-08-27",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage"
-   ],
-   "tags": [],
-   "excerpt": "… 3,560.00. Other Business - Financial Services 32 Third public hearing regarding Hall County's intent to levy a 2026 millage rate for the County's General Fund greater than the calculated full rollback per the State of Georgia for …",
-   "excerptTerm": "millage",
-   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-329-vm-20260827200611174072.pdf"
   },
   {
    "topic": "local-taxes",
