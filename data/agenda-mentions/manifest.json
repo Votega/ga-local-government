@@ -5,10 +5,10 @@
  "description": "Where ALPR/surveillance, data centers, land use and local taxes appear on Georgia county and city agendas and minutes, with the source document for every mention, plus the jurisdiction registry and per-place coverage.",
  "repo": "Votega/ga-local-government",
  "publisher": "VoteGA.org",
- "generatedAt": "2026-11-20T04:29:45Z",
+ "generatedAt": "2026-11-20T12:31:46Z",
  "updateCadence": "Twice weekly (Mondays and Thursdays).",
- "schemaVersion": "1.0.0",
- "rowCount": 1465,
+ "schemaVersion": "1.1.0",
+ "rowCount": 1470,
  "source": "the published agendas and minutes of Georgia county and municipal governments",
  "license": {
   "name": "Creative Commons Attribution-ShareAlike 4.0 International",
@@ -19,12 +19,12 @@
   {
    "path": "SUMMARY.md",
    "description": "Human-readable overview.",
-   "bytes": 3033
+   "bytes": 3719
   },
   {
    "path": "data/coverage.json",
    "description": "Per-place coverage.",
-   "bytes": 14177
+   "bytes": 14385
   },
   {
    "path": "data/keywords.json",
@@ -34,42 +34,42 @@
   {
    "path": "data/mentions-alpr.json",
    "description": "Mentions for the ALPR / surveillance topic.",
-   "bytes": 50295
+   "bytes": 61939
   },
   {
    "path": "data/mentions-data-center.json",
    "description": "Mentions for the Data centers topic.",
-   "bytes": 108064
+   "bytes": 143610
   },
   {
    "path": "data/mentions-land-use.json",
    "description": "Mentions for the Land use topic.",
-   "bytes": 517086
+   "bytes": 751480
   },
   {
    "path": "data/mentions-local-taxes.json",
    "description": "Mentions for the Local taxes & referenda topic.",
-   "bytes": 344257
+   "bytes": 452901
   },
   {
    "path": "data/mentions.csv",
    "description": "Every mention, as a spreadsheet.",
-   "bytes": 527366
+   "bytes": 549741
   },
   {
    "path": "data/mentions.json",
    "description": "Every mention.",
-   "bytes": 1019154
+   "bytes": 1409382
   },
   {
    "path": "data/mentions.schema.json",
    "description": "JSON Schema for one mention.",
-   "bytes": 2103
+   "bytes": 5250
   },
   {
    "path": "data/places.json",
    "description": "Jurisdiction registry.",
-   "bytes": 44692
+   "bytes": 45637
   },
   {
    "path": "latest.json",
@@ -78,7 +78,7 @@
   }
  ],
  "coverage": {
-  "placesScanned": 62,
+  "placesScanned": 63,
   "universeCounties": 159,
   "universeCities": 537,
   "lastScan": "2026-11-20"
