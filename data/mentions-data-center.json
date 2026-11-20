@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-19T18:16:51Z",
+  "generatedAt": "2026-11-20T04:29:48Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.0.0",
   "topic": "data-center",
-  "count": 164
+  "count": 162
  },
  "mentions": [
   {
@@ -3248,27 +3248,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-03-10",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-88bb014cddb7417f9ddeb255d11f9f6d.pdf"
-  },
-  {
-   "topic": "data-center",
    "placeId": "whitfield",
    "placeName": "Whitfield County",
    "placeType": "county",
@@ -3308,27 +3287,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-26-2026%20BOC%20Agenda.pdf"
-  },
-  {
-   "topic": "data-center",
-   "placeId": "muscogee",
-   "placeName": "Columbus-Muscogee County",
-   "placeType": "consolidated",
-   "fips": "13215",
-   "region": "West Georgia",
-   "date": "2026-02-24",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-19c256d9d4654206be5a840a65c9d462.pdf"
   },
   {
    "topic": "data-center",
