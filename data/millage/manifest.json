@@ -5,7 +5,7 @@
  "description": "Every taxing jurisdiction's millage rate, tax levied and assessed value, by county and tax district, for each published tax year.",
  "repo": "Votega/ga-local-government",
  "publisher": "VoteGA.org",
- "generatedAt": "2026-11-20T03:47:51Z",
+ "generatedAt": "2026-11-20T12:36:28Z",
  "updateCadence": "Polled monthly; the source changes once a year, when DOR publishes a new tax year's workbook.",
  "schemaVersion": "1.0.0",
  "rowCount": 12186,
@@ -24,7 +24,7 @@
   {
    "path": "data/millage-places.json",
    "description": "Per-place reduction rendered on votega.org.",
-   "bytes": 559548
+   "bytes": 567253
   },
   {
    "path": "data/millage.csv",
