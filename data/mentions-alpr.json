@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-20T04:29:48Z",
+  "generatedAt": "2026-11-20T12:31:49Z",
   "publisher": "VoteGA.org",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "topic": "alpr",
   "count": 80
  },
@@ -26,7 +26,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4498&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4498&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -49,7 +53,11 @@
    "tags": [],
    "excerpt": "… hods. The BOC approved the award of the above-referenced contract with American Traffic Solutions, Inc., dba Verra Mobility, located in Tempe, Arizona on November 6, 2018. This recommendation is to amend the current contract to reduce Ver …",
    "excerptTerm": "verra mobility",
-   "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5447&compileOutputType=1"
+   "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5447&compileOutputType=1",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -71,7 +79,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_11172026-677"
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_11172026-677",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -92,7 +104,55 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3966&Inline=True"
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3966&Inline=True",
+   "followThrough": "recorded",
+   "outcomes": [
+    {
+     "reference": "26-R-4352",
+     "outline": null,
+     "name": "A SUBSTITUTE RESOLUTION BY CITY UTILITIES COMMITTEE AUTHORIZING THE MAYOR OR HIS DESIGNEE, TO EXERCISE THE FIRST RENEWAL OPTION FOR SPECIAL PROCUREMENT AGREEMENT DPW/2302/1230212(B) MOBILE SURVEILLANCE CAMERAS WITH FMP INNOVATIONS, LLC, ON BEHALF OF THE DEPARTMENT OF PUBLIC WORKS, FOR A TERM OF ONE…",
+     "motions": [
+      {
+       "motion": null,
+       "result": "passed",
+       "resultClass": "adopted-substitute",
+       "resultText": "Adopted substitute",
+       "tally": [
+        11,
+        0
+       ],
+       "yes": 11,
+       "no": 0,
+       "abstain": 0,
+       "absent": 4,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    },
+    {
+     "reference": "26-R-4423",
+     "outline": null,
+     "name": "A RESOLUTION BY COUNCILMEMBER ANDREA L. BOONE AUTHORIZING THE MAYOR OR HIS DESIGNEE, TO EXECUTE AN AGREEMENT FOR IFB/PS/APD/2603-1260154/E911 CLOUD BASED CUSTOMER CONTACT CENTER SOLUTION WITH AXON ENTERPRISE, INC., ON BEHALF OF THE ATLANTA POLICE DEPARTMENT, FOR A TERM OF THREE (3) YEARS WITH TWO…",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "referred",
+       "resultText": "Referred without objection",
+       "tally": null,
+       "yes": 0,
+       "no": 0,
+       "abstain": 0,
+       "absent": 0,
+       "next": "Public Safety & Legal Administration Committee (11/23/2026 1:00 PM)",
+       "textDisagrees": false
+      }
+     ]
+    }
+   ],
+   "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4175&Inline=True",
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -115,7 +175,11 @@
    "tags": [],
    "excerpt": "… rgetown Water Reclamation Facility Expansion.pdf 25. Authorize the City Manager to Execute a Contract for Phase III for ShotSpotter Subscription with ShotSpotter in the Amount of $262,500. (SPD) Exhibit 1: Funding Verification - ShotSpotter Phase 3.pd …",
    "excerptTerm": "shotspotter",
-   "sourceUrl": "https://agenda.savannahga.gov/publishing/november-12-2026-city-council-regular-meeting/agenda.html"
+   "sourceUrl": "https://agenda.savannahga.gov/publishing/november-12-2026-city-council-regular-meeting/agenda.html",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -137,7 +201,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/11-12-2026%20BOC%20Agenda.pdf"
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/11-12-2026%20BOC%20Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -158,7 +226,48 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3963&Inline=True"
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3963&Inline=True",
+   "followThrough": "recorded",
+   "outcomes": [
+    {
+     "reference": "26-R-4352",
+     "outline": null,
+     "name": "A RESOLUTION BY CITY UTILITIES COMMITTEE AUTHORIZING THE MAYOR OR HIS DESIGNEE, TO EXERCISE THE FIRST RENEWAL OPTION FOR SPECIAL PROCUREMENT AGREEMENT DPW/2302/1230212(B) MOBILE SURVEILLANCE CAMERAS WITH FMP INNOVATIONS, LLC, ON BEHALF OF THE DEPARTMENT OF PUBLIC WORKS, FOR A TERM OF ONE (1) YEAR,…",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "recommended",
+       "resultText": "Favorable on substitute",
+       "tally": [
+        6,
+        1
+       ],
+       "yes": 6,
+       "no": 1,
+       "abstain": 0,
+       "absent": 0,
+       "next": "11/16/2026 1:00 PM",
+       "textDisagrees": false
+      },
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "amended",
+       "resultText": "Bring forth substitute",
+       "tally": null,
+       "yes": 7,
+       "no": 0,
+       "abstain": 0,
+       "absent": 0,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    }
+   ],
+   "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4172&Inline=True",
+   "minutesDraft": true
   },
   {
    "topic": "alpr",
@@ -179,7 +288,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-November-9.pdf"
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-November-9.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -201,7 +314,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1750&Inline=True"
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1750&Inline=True",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -222,7 +339,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5398,plainText=false)"
+   "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5398,plainText=false)",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -243,7 +364,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1636"
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1636",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -267,7 +392,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/11/BOC-minutes-10.27.26.pdf"
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/11/BOC-minutes-10.27.26.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -288,7 +417,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5383,plainText=false)"
+   "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5383,plainText=false)",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -311,7 +444,11 @@
    "tags": [],
    "excerpt": "… (H1f) Authorization of Payment to Mainline Information Systems for Unitrends Appliance g. (H1g) Purchase of Genetec Servers from Dell for Life Cycle Replacement h. (H1h) Deductive Change Order 01 with R.D. Brown for the Sheri …",
    "excerptTerm": "genetec",
-   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13878,plainText=false)"
+   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13878,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -332,7 +469,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1629"
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1629",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -355,7 +496,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-a88da877e646483ba6b071a44c21485e.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-a88da877e646483ba6b071a44c21485e.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -376,7 +521,11 @@
    "tags": [],
    "excerpt": "Commission District(s): All CO - Change Order No. 6 to Contract No. 1257650 BodyWorn™ Body Camera System (Multi-Year)(Sole Source). For use by the Marshal’s Office, Police Services (PS) and Animal Enforcement Servi …",
    "excerptTerm": "body cam",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4494&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4494&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -399,7 +548,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.rossvillega.gov/s/Agenda-Packet-October-2026.pdf"
+   "sourceUrl": "https://www.rossvillega.gov/s/Agenda-Packet-October-2026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -422,7 +575,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261006/a_26864_2026.10.06___Business_Session_Agenda.pdf"
+   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261006/a_26864_2026.10.06___Business_Session_Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -445,7 +602,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261006/a_20424_2026.10.06___Work_Session_Agenda.pdf"
+   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20261006/a_20424_2026.10.06___Work_Session_Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -466,7 +627,11 @@
    "tags": [],
    "excerpt": "Commission District(s): All CO - Change Order No. 6 to Contract No. 1257650 BodyWorn™ Body Camera System (Multi-Year)(Sole Source). For use by the Marshal’s Office, Police Services (PS) and Animal Enforcement Servi …",
    "excerptTerm": "body cam",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4679&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4679&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -488,7 +653,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_10062026-3101"
+   "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_10062026-3101",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -509,7 +678,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1620"
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1620",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -536,7 +709,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_10062026-668"
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_10062026-668",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -557,7 +734,11 @@
    "tags": [],
    "excerpt": "Commission District(s): All CO - Change Order No. 6 to Contract No. 1257650 BodyWorn™ Body Camera System (Multi-Year)(Sole Source). For use by the Marshal’s Office, Police Services (PS) and Animal Enforcement Servi …",
    "excerptTerm": "body cam",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4491&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4491&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -579,7 +760,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.fayettecountyga.gov/09-24-2026%20BOC%20Agenda.pdf"
+   "sourceUrl": "https://www.fayettecountyga.gov/09-24-2026%20BOC%20Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -600,7 +785,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://thomascountyboc.org/uploads/files/7d/07/7d075b7db424d42479eb708c152cf335.pdf"
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/7d/07/7d075b7db424d42479eb708c152cf335.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -623,7 +812,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-d4ca71f6275049b89720441b3c62e982.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-d4ca71f6275049b89720441b3c62e982.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -646,7 +839,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-47091c946fc6435c9996e70b8bad63e1.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-47091c946fc6435c9996e70b8bad63e1.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -669,7 +866,11 @@
    "tags": [],
    "excerpt": "… Motion carried unanimously. ****** Rosie Crawford thanked the City for checking on her property, discussed Flock camera issues, and thanked council for appointments to the CRB. Diane Gaither-Howard discussed issues with …",
    "excerptTerm": "flock",
-   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0921_Minutes.pdf"
+   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0921_Minutes.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -690,7 +891,11 @@
    "tags": [],
    "excerpt": "… STRATOR’S REPORTS: A. Contract 27001-B: Kenwood Park Erosion Stabilization (pages 77-82) B. Contract 27008-S: Body Cameras – Marshal & Animal Control (pages 83-85) C. Contract 27013-A: Asphalt Milling (pages 86-89) ATTORNEY’S REPORT …",
    "excerptTerm": "body cam",
-   "sourceUrl": "https://www.fayettecountyga.gov/09-10-2026%20BOC%20Agenda.pdf"
+   "sourceUrl": "https://www.fayettecountyga.gov/09-10-2026%20BOC%20Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -712,7 +917,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://thomascountyboc.org/uploads/files/e1/f0/e1f043adafe49fc480d4479447d102bd.pdf"
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/e1/f0/e1f043adafe49fc480d4479447d102bd.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -735,7 +944,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-689e9b7312de4e6b8cc046eb7f67c817.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-689e9b7312de4e6b8cc046eb7f67c817.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -756,7 +969,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://thomascountyboc.org/uploads/files/32/5e/325ea22fdf2c323f228b254c3d0a9700.pdf"
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/32/5e/325ea22fdf2c323f228b254c3d0a9700.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -777,7 +994,32 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7525,plainText=false)"
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7525,plainText=false)",
+   "followThrough": "recorded",
+   "outcomes": [
+    {
+     "reference": null,
+     "outline": "8.",
+     "name": "Approval for DCSO to enter into a one‑year agreement, with automatic annual renewals for a total term of five (5) years (Dec. 1, 2026 – Nov. 30, 2031), with Axon Enterprise, Inc. for tasers, at a cost of $80,860 for the first year and $149,078.28 per year for each subsequent year, and to authorize…",
+     "motions": [
+      {
+       "motion": "Approve",
+       "result": "passed",
+       "resultClass": null,
+       "resultText": "Passed",
+       "tally": null,
+       "yes": 5,
+       "no": 0,
+       "abstain": 0,
+       "absent": 0,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    }
+   ],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -798,7 +1040,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7517,plainText=false)"
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7517,plainText=false)",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -821,7 +1067,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-b6a87c16e180419890a5f6ca730a9ba2.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-b6a87c16e180419890a5f6ca730a9ba2.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -844,7 +1094,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-4b05fa3853ec4025a61f8ba195b42275.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-4b05fa3853ec4025a61f8ba195b42275.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -866,7 +1120,11 @@
    "tags": [],
    "excerpt": "… hnology Product Solutions and Related Services (Cooperative Agreement No. 23-6692-01). For use by Fire Rescue to obtain dashcam equipment through the competitively let County / Omnia contract for the purchase of dashcam equipment, related accessor …",
    "excerptTerm": "dashcam",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4487&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4487&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -887,7 +1145,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1154"
+   "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1154",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -910,7 +1172,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_08182026-870"
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_08182026-870",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -932,7 +1198,11 @@
    "tags": [],
    "excerpt": "… hnology Product Solutions and Related Services (Cooperative Agreement No. 23-6692-01). For use by Fire Rescue to obtain dashcam equipment through the competitively let County / Omnia contract for the purchase of dashcam equipment, related accessor …",
    "excerptTerm": "dashcam",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4485&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4485&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -953,7 +1223,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1600"
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1600",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -974,7 +1248,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/08/BOC-minutes-8.11.26.pdf"
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/08/BOC-minutes-8.11.26.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -997,7 +1275,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-c83f3a2f035a4feda43980d8f6d2b7e5.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-c83f3a2f035a4feda43980d8f6d2b7e5.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1018,7 +1300,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-a7269b2461e44d02b1b1644e943fec3e.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-a7269b2461e44d02b1b1644e943fec3e.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1043,7 +1329,11 @@
    "tags": [],
    "excerpt": "… gh Resolution 2023-080 to create a video and data collection system, and to update the vendor’s name change, from FUSUS to Axon Enterprise Video and Data Collection Renewal Package. 13. Resolution 2026-177: A resolution authorizin …",
    "excerptTerm": "fusus",
-   "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5391&compileOutputType=1"
+   "sourceUrl": "https://claytoncountyga.primegov.com/Public/CompiledDocument?meetingTemplateId=5391&compileOutputType=1",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1066,7 +1356,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3651,plainText=false)"
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3651,plainText=false)",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1089,7 +1383,11 @@
    "tags": [],
    "excerpt": "… llegiance to the Flag of the United States of America. Covington Police Chief Brent Fuesting discussed CPD’s Flock Camera Policy. ****** 1. Motion made by Council Member Rutberg, seconded by Council Member Davis to approve the …",
    "excerptTerm": "flock",
-   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0803_Minutes.pdf"
+   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0803_Minutes.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1112,7 +1410,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-00107d3a3e4a42c3af2a7d720e3553dc.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-00107d3a3e4a42c3af2a7d720e3553dc.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1135,7 +1437,11 @@
    "tags": [],
    "excerpt": "… e persons. Police Department A. Resolution amending Resolution No. 23-197 regarding the Flock Safety agreement for product replacement. (Presenter: Captain Anthony Militello, HC …",
    "excerptTerm": "flock",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2600,plainText=false)"
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2600,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1158,7 +1464,11 @@
    "tags": [],
    "excerpt": "… Exhibit 8) Police Department A. Resolution amending Resolution No. 23-197 regarding the Flock Safety agreement for product replacement. (Presenter: Captain Anthony Militello, HC …",
    "excerptTerm": "flock",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2596,plainText=false)"
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2596,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1181,7 +1491,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3633,plainText=false)"
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3633,plainText=false)",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1203,7 +1517,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/07/BOC-minutes-7.14.26.pdf"
+   "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/07/BOC-minutes-7.14.26.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1226,7 +1544,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-ebd41cb0ecd343a0adf29c6de6088edc.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-ebd41cb0ecd343a0adf29c6de6088edc.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1247,7 +1569,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3187,plainText=false)"
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3187,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1269,7 +1595,11 @@
    "tags": [],
    "excerpt": "… hnology Product Solutions and Related Services (Cooperative Agreement No. 23-6692-01). For use by Fire Rescue to obtain dashcam equipment through the competitively let County / Omnia contract for the purchase of dashcam equipment, related accessor …",
    "excerptTerm": "dashcam",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4482&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4482&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1292,7 +1622,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-697c3fb244314fa4bb0bc05ca489576f.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-697c3fb244314fa4bb0bc05ca489576f.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1313,7 +1647,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3178,plainText=false)"
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3178,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1335,7 +1673,11 @@
    "tags": [],
    "excerpt": "… (CEW). Ratifying increase in contract funds for 100 additional tasers and previously issued purchase order. Awarded to Axon Enterprise, Inc. Amount Not To Exceed: $1,442,514.00. Resolution",
    "excerptTerm": "axon enterprise",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4479&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4479&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1357,7 +1699,11 @@
    "tags": [],
    "excerpt": "… (CEW). Ratifying increase in contract funds for 100 additional tasers and previously issued purchase order. Awarded to Axon Enterprise, Inc. Amount Not To Exceed: $1,442,514.00. Resolution",
    "excerptTerm": "axon enterprise",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4477&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A"
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4477&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1380,7 +1726,11 @@
    "tags": [],
    "excerpt": "… r Munis 2026-2027 Authorization of Payment g. (H1g) Agreement Renewal Number Four with A3 Communications for Genetec Video Management System Support h. (H1h) Agreement Renewal Number Two with Structure Med …",
    "excerptTerm": "genetec",
-   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13650,plainText=false)"
+   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13650,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1403,7 +1753,11 @@
    "tags": [],
    "excerpt": "… (Sponsored by: Lester M. Miller, Mayor) The following citizens spoke in favor of removing the Flock cameras from the FY27 Budget: • Angelia Hoomes • Rhiannon Wimer …",
    "excerptTerm": "flock",
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3600,plainText=false)"
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3600,plainText=false)",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1429,7 +1783,11 @@
    "tags": [],
    "excerpt": "… ****** 9. Motion made by Council Member Turner, seconded by Council Member Henderson to approve consolidation of Flock agreements into a single comprehensive 10-year Safer City contract, incorporating current technology platforms and …",
    "excerptTerm": "flock",
-   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0615_Minutes.pdf"
+   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0615_Minutes.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1450,7 +1808,11 @@
    "tags": [],
    "excerpt": "… Emergency Services (ARES). 7. Approve the transfer of ownership and custody of thirty-three (33) Reveal body-worn cameras, together with the associated charging and docking stations, monitors, and related hardware, t …",
    "excerptTerm": "body-worn",
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-d5fe02f4dfb840ea8a925eabc7469a2e.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-d5fe02f4dfb840ea8a925eabc7469a2e.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1471,7 +1833,11 @@
    "tags": [],
    "excerpt": "… Emergency Services (ARES). 7. Approve the transfer of ownership and custody of thirty-three (33) Reveal body-worn cameras, together with the associated charging and docking stations, monitors, and related hardware, t …",
    "excerptTerm": "body-worn",
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-53c50a9b577e4da3ac29045ac55a9117.pdf"
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-53c50a9b577e4da3ac29045ac55a9117.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1495,7 +1861,11 @@
    "tags": [],
    "excerpt": "… A Resolution Of The Macon-Bibb County Commission Authorizing The Mayor To Execute An Agreement With Shotspotter, Inc. For The Provision Of Gunshot Detection, Location, And Forensic Analysis Services, In The Amount Of …",
    "excerptTerm": "shotspotter",
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3550,plainText=false)"
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3550,plainText=false)",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1519,7 +1889,32 @@
    "tags": [],
    "excerpt": "… A Resolution Of The Macon-Bibb County Commission Authorizing The Mayor To Execute An Agreement With Shotspotter, Inc. For The Provision Of Gunshot Detection, Location, And Forensic Analysis Services, In The Amount Of …",
    "excerptTerm": "shotspotter",
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3536,plainText=false)"
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3536,plainText=false)",
+   "followThrough": "recorded",
+   "outcomes": [
+    {
+     "reference": null,
+     "outline": "e.",
+     "name": "A Resolution Of The Macon-Bibb County Commission Authorizing The Mayor To Execute An Agreement With Shotspotter, Inc. For The Provision Of Gunshot Detection, Location, And Forensic Analysis Services, In The Amount Of $524,000.00 Per Year For A Term Of Three Years, To Be Paid From Public Safety Fund",
+     "motions": [
+      {
+       "motion": "Approve",
+       "result": "passed",
+       "resultClass": null,
+       "resultText": "Passed",
+       "tally": null,
+       "yes": 9,
+       "no": 0,
+       "abstain": 0,
+       "absent": 0,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    }
+   ],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1540,7 +1935,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6382&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188"
+   "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6382&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1562,7 +1961,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_04132026-641"
+   "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_04132026-641",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1585,7 +1988,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-April-13.pdf"
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/26-AGENDA-Preliminary-April-13.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1607,7 +2014,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://drive.google.com/file/d/1NpCChLi0lVwVcartOVueIC2EArXFZMDc/view"
+   "sourceUrl": "https://drive.google.com/file/d/1NpCChLi0lVwVcartOVueIC2EArXFZMDc/view",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1628,7 +2039,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3430,plainText=false)"
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3430,plainText=false)",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1649,7 +2064,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3428,plainText=false)"
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3428,plainText=false)",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1670,7 +2089,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1732&Inline=True"
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1732&Inline=True",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1692,7 +2115,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/20260309-Agenda.pdf"
+   "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/20260309-Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1713,7 +2140,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-26-2026%20BOC%20Agenda.pdf"
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/02-26-2026%20BOC%20Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1736,7 +2167,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1727&Inline=True"
+   "sourceUrl": "https://chathamcountyga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=1727&Inline=True",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1759,7 +2194,11 @@
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_cbc6e6b5b5c94590b8ab27ce0c73d26e.pdf"
+   "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_cbc6e6b5b5c94590b8ab27ce0c73d26e.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1782,7 +2221,11 @@
    "tags": [],
    "excerpt": "… . Motion made by Council Member Henderson, seconded by Council Member Rutberg to approve a 3 year contract with Flock, for integration of security cameras. Year 1 $100,200.00 Year 2 …",
    "excerptTerm": "flock",
-   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2025_CityCouncil_1215_Minutes.pdf"
+   "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2025_CityCouncil_1215_Minutes.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   }
  ]
 }
