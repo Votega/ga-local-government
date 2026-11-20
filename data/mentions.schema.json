@@ -119,6 +119,129 @@
     "null"
    ],
    "description": "the agenda/minutes document"
+  },
+  "followThrough": {
+   "enum": [
+    "recorded",
+    "not-in-minutes",
+    "no-results",
+    null
+   ],
+   "description": "recorded = outcomes lists recorded items naming this topic; not-in-minutes = minutes read, no recorded item names it; no-results = minutes read, no readable recorded actions; null = no recorded-votes record for this meeting (says nothing about what happened)"
+  },
+  "outcomes": {
+   "type": "array",
+   "description": "the same meeting's recorded agenda items whose caption carries this topic, joined on the portal's own meeting id",
+   "items": {
+    "type": "object",
+    "properties": {
+     "reference": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "the body's file number, where it has one"
+     },
+     "outline": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "agenda outline number, where items are numbered rather than filed"
+     },
+     "name": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "the agenda caption, truncated to about 300 characters"
+     },
+     "motions": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "properties": {
+        "motion": {
+         "type": [
+          "string",
+          "null"
+         ],
+         "description": "the motion as recorded, where the portal names it"
+        },
+        "result": {
+         "enum": [
+          "passed",
+          "failed",
+          null
+         ],
+         "description": "passed/failed only for adopted or failed wording; null for a step"
+        },
+        "resultClass": {
+         "type": [
+          "string",
+          "null"
+         ],
+         "description": "normalized result wording (adopted, adopted-substitute, held, referred, recommended, adversed, ...); null when the wording is not one we recognise"
+        },
+        "resultText": {
+         "type": [
+          "string",
+          "null"
+         ],
+         "description": "the body's own result wording"
+        },
+        "tally": {
+         "type": [
+          "array",
+          "null"
+         ],
+         "items": {
+          "type": "integer"
+         },
+         "description": "[yes, no] as printed by the minutes, when printed"
+        },
+        "yes": {
+         "type": "integer"
+        },
+        "no": {
+         "type": "integer"
+        },
+        "abstain": {
+         "type": "integer"
+        },
+        "absent": {
+         "type": "integer"
+        },
+        "next": {
+         "type": [
+          "string",
+          "null"
+         ],
+         "description": "where the item goes next (committee and date), when recorded"
+        },
+        "textDisagrees": {
+         "type": "boolean",
+         "description": "the minutes' own narrative contradicts this recorded tally; read the minutes"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "minutesUrl": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "the minutes the outcomes were read from"
+  },
+  "minutesDraft": {
+   "type": [
+    "boolean",
+    "null"
+   ],
+   "description": "true when those minutes are marked draft (re-read until final)"
   }
  }
 }
