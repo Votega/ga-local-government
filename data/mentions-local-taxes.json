@@ -1,12 +1,88 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-20T12:31:49Z",
+  "generatedAt": "2026-11-23T21:29:15Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "topic": "local-taxes",
-  "count": 520
+  "count": 530
  },
  "mentions": [
+  {
+   "topic": "local-taxes",
+   "placeId": "meriwether",
+   "placeName": "Meriwether County",
+   "placeType": "county",
+   "fips": "13199",
+   "region": "West Georgia",
+   "date": "2026-11-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Appoint EMA Director XII. UNFINISHED BUSINESS 1. Consider Approval to Purchase a Vehicle for the Sheriff's Office - SPLOST. This was tabled at the November 9, 2026, Regular Meeting. 2. Consider Approval of E-911 Battery Backup System …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_11242026-663",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "floyd",
+   "placeName": "Floyd County",
+   "placeType": "county",
+   "fips": "13115",
+   "region": "Northwest Georgia",
+   "date": "2026-11-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6283,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-11-24",
+   "body": "Community Development/Human Services Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "tax allocation district"
+   ],
+   "tags": [],
+   "excerpt": "… AN AMOUNT NOT TO EXCEED FOUR MILLION DOLLARS AND ZERO CENTS ($4,000,000.00), FROM THE PARKS MILLAGE FUND TO SUPPORT THE DESIGN AND CONSTRUCTION OF THE IMPROVEMENTS; AND FOR SUCH …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3968&Inline=True",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
   {
    "topic": "local-taxes",
    "placeId": "forsyth",
@@ -104,6 +180,34 @@
    "excerpt": "… Chairman Martin Turner Roll Call Public Hearing • To receive comments from the public regarding the tentative Millage Rate. Adjourn Public Hearing As set forth in the Americans with Disabilities Act of 1992, Camden County does …",
    "excerptTerm": "millage",
    "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_11192026-678",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "fulton",
+   "placeName": "Fulton County",
+   "placeType": "county",
+   "fips": "13121",
+   "region": "Metro Atlanta",
+   "date": "2026-11-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "local option sales tax",
+    "special purpose local option",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Bonds and the final contract payments to be made by the County in respect thereof; providing for the levy of an annual ad valorem tax and the pledge of the full faith and credit of the County to meet its payment obligations thereunder; and for other …",
+   "excerptTerm": "ad valorem",
+   "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6400&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -275,7 +379,7 @@
    "tags": [],
    "excerpt": "… Account. (Presenter: Rhett Wheeler, Director of Fleet Services)(Exhibit 6) Resolution 26-396 SPLOST A. Resolution approving a change order for Sol Construction, LLC in the amount of $139,225. …",
    "excerptTerm": "splost",
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2705,plainText=false)",
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2709,plainText=false)",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -1395,8 +1499,29 @@
    "excerpt": "… The Purpose Of Funding Site Work And Planning Services (Sponsored by: Lester M. Miller, Mayor) 7. Other Local Option Sales Tax a. A Resolution Of The Macon-Bibb County Commission Requesting The Elections Superintendent To Iss …",
    "excerptTerm": "local option sales tax",
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3752,plainText=false)",
-   "followThrough": "no-results",
-   "outcomes": [],
+   "followThrough": "recorded",
+   "outcomes": [
+    {
+     "reference": null,
+     "outline": "a.",
+     "name": "A Resolution Of The Macon-Bibb County Commission Requesting The Elections Superintendent To Issue A Call For A Referendum On The Question Of Whether To Renew The Other Local Option Sales Tax (“OLOST”) For A Period Of Five Years",
+     "motions": [
+      {
+       "motion": "Approve",
+       "result": "passed",
+       "resultClass": null,
+       "resultText": "Passed",
+       "tally": null,
+       "yes": 9,
+       "no": 0,
+       "abstain": 0,
+       "absent": 0,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    }
+   ],
    "minutesUrl": null,
    "minutesDraft": null
   },
@@ -5134,6 +5259,52 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-09-15",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Raw Water Pumps at the Water Treatment Plant 2. Authorization to Execute Payment on New Fire Apparatus from SPLOST and Authorize Short Term Loan from General Fund Reserves Up to $100,000 3. Consideration to Tr …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2168&Inline=True",
+   "followThrough": "recorded",
+   "outcomes": [
+    {
+     "reference": null,
+     "outline": "XI. 2.",
+     "name": "Authorization to Execute Payment on New Fire Apparatus from SPLOST and Authorize Short Term Loan from General Fund Reserves Up to $100,000",
+     "motions": [
+      {
+       "motion": null,
+       "result": "passed",
+       "resultClass": "adopted",
+       "resultText": "Adopted",
+       "tally": null,
+       "yes": 5,
+       "no": 0,
+       "abstain": 0,
+       "absent": 0,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    }
+   ],
+   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2317&Inline=True",
+   "minutesDraft": true
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "lumpkin",
    "placeName": "Lumpkin County",
    "placeType": "county",
@@ -6034,6 +6205,52 @@
    ],
    "minutesUrl": null,
    "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-09-03",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2166&Inline=True",
+   "followThrough": "recorded",
+   "outcomes": [
+    {
+     "reference": null,
+     "outline": "IV. 7.",
+     "name": "Authorization to Execute Payment on New Fire Apparatus from SPLOST",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "scheduled",
+       "resultText": "Scheduled for",
+       "tally": null,
+       "yes": 0,
+       "no": 0,
+       "abstain": 0,
+       "absent": 0,
+       "next": "9/15/2026 6:30 PM",
+       "textDisagrees": false
+      }
+     ]
+    }
+   ],
+   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2314&Inline=True",
+   "minutesDraft": true
   },
   {
    "topic": "local-taxes",
@@ -7012,65 +7229,28 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
    "date": "2026-08-18",
-   "body": "City Council",
+   "body": "Board of Commissioners",
    "confidence": "high",
    "context": "agenda-action",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
-    "millage"
+    "splost"
    ],
    "tags": [],
-   "excerpt": "… CITIZENS REQUESTS VI. COUNCIL REQUESTS VII. AGENDA APPROVAL VIII. PUBLIC HEARINGS 1. 2026 Millage Rate Public Hearing 2. REZ-2026-006 - Request to Rezone from Agriculture (AG) to Residential-15 (R-15) as Par …",
-   "excerptTerm": "millage",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2160&Inline=True",
-   "followThrough": "recorded",
-   "outcomes": [
-    {
-     "reference": null,
-     "outline": "VIII. 1.",
-     "name": "2026 Millage Rate Public Hearing",
-     "motions": [
-      {
-       "motion": null,
-       "result": null,
-       "resultClass": "completed",
-       "resultText": "Completed",
-       "tally": null,
-       "yes": 0,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      },
-      {
-       "motion": null,
-       "result": "passed",
-       "resultClass": "adopted",
-       "resultText": "Adopted",
-       "tally": [
-        4,
-        1
-       ],
-       "yes": 4,
-       "no": 1,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      }
-     ]
-    }
-   ],
-   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2310&Inline=True",
-   "minutesDraft": true
+   "excerpt": "… ner Darriel Nobles to approve the proposal from McLendon Enterprises of $101,986.00 and to fund with TSPLOST Fund to complete this project. The motion was seconded by Commissioner Alfred Cason. Motion carried unanimousl …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/09/08_2026_REGULAR_BOARD_MEETING_MINUTES.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "local-taxes",
@@ -8062,36 +8242,15 @@
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
-    "millage"
+    "property tax increase"
    ],
    "tags": [],
-   "excerpt": "… CALL TO ORDER Roll Call II. PLEDGE OF ALLEGIANCE III. INVOCATION IV. AGENDA ITEMS 1. 2026 Millage Rate Public Hearing 2. Planning Commission Review a. REZ-2026-006 - Request to Rezone from Agricult …",
-   "excerptTerm": "millage",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2159&Inline=True",
-   "followThrough": "recorded",
-   "outcomes": [
-    {
-     "reference": null,
-     "outline": "IV. 1.",
-     "name": "2026 Millage Rate Public Hearing",
-     "motions": [
-      {
-       "motion": null,
-       "result": null,
-       "resultClass": "completed",
-       "resultText": "Completed",
-       "tally": null,
-       "yes": 0,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      }
-     ]
-    }
-   ],
-   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2307&Inline=True",
+   "excerpt": "… Public Hearing Agenda I. CALL TO ORDER 1. Roll Call II. PUBLIC HEARING 1. 2026 Proposed Property Tax Increase III. ADJOURN Persons with hearing or speech disabilities who need to contact the City of Social Circle …",
+   "excerptTerm": "property tax increase",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2158&Inline=True",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2308&Inline=True",
    "minutesDraft": true
   },
   {
@@ -9324,49 +9483,30 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
    "date": "2026-07-21",
-   "body": "City Council",
+   "body": "Board of Commissioners",
    "confidence": "high",
    "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
-    "millage"
+    "lhost",
+    "splost",
+    "tax rate"
    ],
    "tags": [],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2152&Inline=True",
-   "followThrough": "recorded",
-   "outcomes": [
-    {
-     "reference": null,
-     "outline": "II. 1.",
-     "name": "Discussion of 2026 Property Tax Millage Rate",
-     "motions": [
-      {
-       "motion": null,
-       "result": null,
-       "resultClass": "completed",
-       "resultText": "Completed",
-       "tally": null,
-       "yes": 0,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      }
-     ]
-    }
-   ],
-   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2316&Inline=True",
-   "minutesDraft": true
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/08/07_2026-REGULAR-BOARD-MEETING-MINUTES.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "local-taxes",
@@ -9865,6 +10005,52 @@
    "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-07-14",
+   "body": "Historic Preservation Commission",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2152&Inline=True",
+   "followThrough": "recorded",
+   "outcomes": [
+    {
+     "reference": null,
+     "outline": "II. 1.",
+     "name": "Discussion of 2026 Property Tax Millage Rate",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "completed",
+       "resultText": "Completed",
+       "tally": null,
+       "yes": 0,
+       "no": 0,
+       "abstain": 0,
+       "absent": 0,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    }
+   ],
+   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2316&Inline=True",
+   "minutesDraft": true
   },
   {
    "topic": "local-taxes",
@@ -10831,6 +11017,34 @@
    "excerpt": "… Consideration to adopt the FY 2027 Budget and the FY 2027 Budget Resolution. c) Consideration to adopt the Millage Rate for the 2026 Tax Digest. d) Consideration to approve Strongside Solutions as Barrow County's Medical …",
    "excerptTerm": "millage",
    "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1136",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2026-06-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "homestead option sales tax",
+    "lhost",
+    "local option sales tax",
+    "referendum"
+   ],
+   "tags": [],
+   "excerpt": "… tion was seconded by Vice- Chairman Buck Moon. Motion carried unanimously.  Consideration of Approval of LHOST Resolution: County Manager John Jones addressed the Board regarding a Local Homestead Option Sales Tax (LHOST) …",
+   "excerptTerm": "lhost",
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/07/06_2026-REGULAR-BOARD-MEETING-MINUTES.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -12251,6 +12465,60 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2026-05-21",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… rriel Nobles to approve the purchase of the 2015 Chevrolet Tahoe for the price of $14,175 to be paid with SPLOST funds and to declare the 2011 Tahoe as excess property. The Motion was seconded by Commissioner Darriel Nobles. …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/06/05_2026-REGULAR-BOARD-MEETING-MINUTES.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-05-19",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "hotel motel tax",
+    "local option sales tax",
+    "millage",
+    "splost",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2138&Inline=True",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2294&Inline=True",
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "houston",
    "placeName": "Houston County",
    "placeType": "county",
@@ -13355,31 +13623,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "banks",
-   "placeName": "Banks County",
-   "placeType": "county",
-   "fips": "13011",
-   "region": "Northeast Georgia",
-   "date": "2026-04-14",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… c. Roads & Bridges: LMIG - Wynn Lake Rd - Yonah Homer to Bridge - Bid Award and Contract d. Roads & Bridges: TSPLOST - Lake Forest - Wynn Lake (Portion) Hancock - Antioch - Bid Award & Contract Approval e. Roads & Bridg …",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/banksctyga-pubu/MEET-Agenda-8545fdb0f2f148f9947cd3d69fe38970.pdf",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "appling",
    "placeName": "Appling County",
    "placeType": "county",
@@ -13821,31 +14064,6 @@
      ]
     }
    ],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "fulton",
-   "placeName": "Fulton County",
-   "placeType": "county",
-   "fips": "13121",
-   "region": "Metro Atlanta",
-   "date": "2026-03-27",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "Discussion: a. TSPLOST · Reviewed TSPLOST 1 and TSPLOST 2 Collections · Discussed the TSPLOST 3 Projections (GSU) · Reviewed the TSPLOST 3 Sch …",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6383&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
-   "followThrough": null,
-   "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
   },
@@ -14539,6 +14757,33 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2026-02-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "general obligation bond",
+    "referendum",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… ones presented the Board with a Resolution from the Toombs County School Board regarding their request to have a General Obligation Bond Referendum placed on the ballot. A motion was made to adopt the Resolution by Commissioner Buck Moon. The …",
+   "excerptTerm": "general obligation bond",
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/04/02_2026-REGULAR-BOARD-MEETING-MINUTES.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "houston",
    "placeName": "Houston County",
    "placeType": "county",
@@ -14853,6 +15098,31 @@
    "excerpt": "… f the top priority tasks outlined in the Starr's Mill Educational Facility Master Concept Plan related to 2023 SPLOST R23AE. (pages 609-617) 26. Approval of January 8, 2026, Board of Commissioners Meeting Minutes. (pages 618-625) …",
    "excerptTerm": "splost",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/01-22-2026%20BOC%20Agenda%20(section%201).pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2026-01-20",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/02/01_2026-REGULAR-BOARD-MEETING-MINUTES.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
