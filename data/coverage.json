@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-20T12:31:49Z",
+  "generatedAt": "2026-11-23T21:29:15Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "count": 63
@@ -30,12 +30,12 @@
    "type": "city",
    "region": "Metro Atlanta",
    "topics": {
-    "alpr": 2,
+    "alpr": 3,
     "data-center": 9,
-    "land-use": 15,
-    "local-taxes": 11
+    "land-use": 18,
+    "local-taxes": 12
    },
-   "lastActivity": "2026-11-16"
+   "lastActivity": "2026-11-24"
   },
   {
    "placeId": "augusta",
@@ -43,10 +43,10 @@
    "type": "consolidated",
    "region": "East Georgia",
    "topics": {
-    "data-center": 1,
-    "land-use": 3
+    "data-center": 2,
+    "land-use": 4
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-11-24"
   },
   {
    "placeId": "bacon",
@@ -92,9 +92,9 @@
    "topics": {
     "data-center": 2,
     "land-use": 13,
-    "local-taxes": 5
+    "local-taxes": 4
    },
-   "lastActivity": "2026-10-13"
+   "lastActivity": "2026-11-03"
   },
   {
    "placeId": "barrow",
@@ -106,7 +106,7 @@
     "land-use": 15,
     "local-taxes": 3
    },
-   "lastActivity": "2026-11-12"
+   "lastActivity": "2026-11-19"
   },
   {
    "placeId": "bartow",
@@ -249,10 +249,10 @@
    "region": "Metro Atlanta",
    "topics": {
     "data-center": 1,
-    "land-use": 15,
+    "land-use": 16,
     "local-taxes": 6
    },
-   "lastActivity": "2026-12-09"
+   "lastActivity": "2027-01-13"
   },
   {
    "placeId": "columbia",
@@ -372,10 +372,10 @@
    "topics": {
     "alpr": 2,
     "data-center": 2,
-    "land-use": 15,
-    "local-taxes": 19
+    "land-use": 16,
+    "local-taxes": 20
    },
-   "lastActivity": "2026-11-10"
+   "lastActivity": "2026-11-24"
   },
   {
    "placeId": "forsyth",
@@ -387,7 +387,7 @@
     "land-use": 21,
     "local-taxes": 16
    },
-   "lastActivity": "2026-11-19"
+   "lastActivity": "2026-11-24"
   },
   {
    "placeId": "fort-oglethorpe",
@@ -409,10 +409,10 @@
    "topics": {
     "alpr": 1,
     "data-center": 2,
-    "land-use": 13,
+    "land-use": 14,
     "local-taxes": 13
    },
-   "lastActivity": "2026-11-04"
+   "lastActivity": "2026-11-18"
   },
   {
    "placeId": "gordon",
@@ -424,7 +424,7 @@
     "land-use": 18,
     "local-taxes": 12
    },
-   "lastActivity": "2026-11-17"
+   "lastActivity": "2026-12-14"
   },
   {
    "placeId": "gwinnett",
@@ -444,7 +444,7 @@
    "type": "county",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 11
+    "land-use": 10
    },
    "lastActivity": "2026-11-16"
   },
@@ -537,9 +537,9 @@
     "alpr": 1,
     "data-center": 3,
     "land-use": 8,
-    "local-taxes": 15
+    "local-taxes": 16
    },
-   "lastActivity": "2026-11-09"
+   "lastActivity": "2026-11-24"
   },
   {
    "placeId": "morgan",
@@ -583,7 +583,7 @@
    "type": "county",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 15,
+    "land-use": 14,
     "local-taxes": 4
    },
    "lastActivity": "2026-11-03"
@@ -657,11 +657,11 @@
    "type": "city",
    "region": "Metro Atlanta",
    "topics": {
-    "data-center": 3,
+    "data-center": 5,
     "land-use": 13,
-    "local-taxes": 3
+    "local-taxes": 5
    },
-   "lastActivity": "2026-10-27"
+   "lastActivity": "2026-11-17"
   },
   {
    "placeId": "spalding",
@@ -713,8 +713,9 @@
    "type": "county",
    "region": "South Georgia",
    "topics": {
-    "data-center": 2,
-    "local-taxes": 3
+    "data-center": 5,
+    "land-use": 1,
+    "local-taxes": 9
    },
    "lastActivity": "2026-09-15"
   },
