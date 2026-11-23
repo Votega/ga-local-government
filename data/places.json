@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-20T12:31:49Z",
+  "generatedAt": "2026-11-23T21:29:15Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "count": 68
@@ -443,7 +443,7 @@
    "recordedVotes": {
     "status": "available",
     "firstMeeting": "2025-11-24",
-    "lastMeeting": "2026-11-16"
+    "lastMeeting": "2026-11-23"
    },
    "links": {
     "base_url": "https://citycouncil.atlantaga.gov/",
@@ -743,8 +743,8 @@
    "platform": "iqm2",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2025-11-20",
-    "lastMeeting": "2026-11-10"
+    "firstMeeting": "2025-12-04",
+    "lastMeeting": "2026-11-17"
    },
    "links": {
     "base_url": "https://www.socialcirclega.gov/departments/mayor-and-council",
@@ -905,7 +905,7 @@
    "platform": "civicclerk",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2024-11-21",
+    "firstMeeting": "2024-12-04",
     "lastMeeting": "2026-11-20"
    },
    "links": {
@@ -957,7 +957,7 @@
    "platform": "legistar",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2025-11-20",
+    "firstMeeting": "2025-11-24",
     "lastMeeting": "2026-11-19"
    },
    "links": {},
@@ -1085,7 +1085,7 @@
    "platform": "civicclerk",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2024-11-21",
+    "firstMeeting": "2024-11-26",
     "lastMeeting": "2026-11-19"
    },
    "links": {
@@ -1113,8 +1113,8 @@
    "platform": "legistar",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2025-11-19",
-    "lastMeeting": "2026-11-04"
+    "firstMeeting": "2025-12-03",
+    "lastMeeting": "2026-11-18"
    },
    "links": {},
    "schedule": [
@@ -1746,7 +1746,7 @@
    "platform": "civicclerk",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2024-11-21",
+    "firstMeeting": "2024-12-19",
     "lastMeeting": "2026-11-19"
    },
    "links": {
