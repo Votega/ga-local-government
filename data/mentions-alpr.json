@@ -1,12 +1,37 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-20T12:31:49Z",
+  "generatedAt": "2026-11-23T21:29:15Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "topic": "alpr",
-  "count": 80
+  "count": 81
  },
  "mentions": [
+  {
+   "topic": "alpr",
+   "placeId": "atlanta",
+   "placeName": "City of Atlanta",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-11-23",
+   "body": "Public Safety & Legal Administration Committee",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3969&Inline=True",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
   {
    "topic": "alpr",
    "placeId": "dekalb",
