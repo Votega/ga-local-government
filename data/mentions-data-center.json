@@ -1,12 +1,37 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-20T12:31:49Z",
+  "generatedAt": "2026-11-23T21:29:15Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "topic": "data-center",
-  "count": 164
+  "count": 170
  },
  "mentions": [
+  {
+   "topic": "data-center",
+   "placeId": "augusta",
+   "placeName": "Augusta-Richmond County",
+   "placeType": "consolidated",
+   "fips": "13245",
+   "region": "East Georgia",
+   "date": "2026-11-24",
+   "body": "Public Services Committee",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/augustaga-pubu/MEET-Agenda-da310c697861497aab28ce8ec67fe4a0.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
   {
    "topic": "data-center",
    "placeId": "morgan",
@@ -2286,6 +2311,31 @@
   },
   {
    "topic": "data-center",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2026-08-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/09/08_2026_REGULAR_BOARD_MEETING_MINUTES.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -2898,6 +2948,31 @@
   },
   {
    "topic": "data-center",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2026-07-21",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… otball games in our area. Public Participation  Sara Brown, 2413 Hwy.178, Lyons addressed the Board regarding Data Centers and Solar Panels. Mrs. Brown asked if the Cryptocurrency and Data Mining Ordinance and the Solar Energ …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/08/07_2026-REGULAR-BOARD-MEETING-MINUTES.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -3294,6 +3369,31 @@
   },
   {
    "topic": "data-center",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-06-23",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Offic …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2144&Inline=True",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2302&Inline=True",
+   "minutesDraft": true
+  },
+  {
+   "topic": "data-center",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -3387,6 +3487,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.bakercountyga.com/_files/ugd/551ef8_989f83e32e6b43148c3429f0e77d4e3e.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
+   "placeId": "toombs",
+   "placeName": "Toombs County",
+   "placeType": "county",
+   "fips": "13279",
+   "region": "South Georgia",
+   "date": "2026-06-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/07/06_2026-REGULAR-BOARD-MEETING-MINUTES.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -3836,6 +3961,31 @@
   },
   {
    "topic": "data-center",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-05-19",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… r Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Off …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2138&Inline=True",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2294&Inline=True",
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
    "placeId": "gordon",
    "placeName": "Gordon County",
    "placeType": "county",
@@ -4064,147 +4214,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-04-21",
-   "body": "City Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… r Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Off …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2132&Inline=True",
-   "followThrough": "recorded",
-   "outcomes": [
-    {
-     "reference": null,
-     "outline": "VIII. 1.",
-     "name": "ANX-2026-001 - Request for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Official Code of Georgia Section 36-36-20 ET SEQ,…",
-     "motions": [
-      {
-       "motion": null,
-       "result": null,
-       "resultClass": "completed",
-       "resultText": "Completed",
-       "tally": null,
-       "yes": 0,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      }
-     ]
-    },
-    {
-     "reference": null,
-     "outline": "VIII. 3.",
-     "name": "REZ-2026-003 - Request to Rezone from Rural Estate with Watershed Protection Overlay (A1 WP2), as Currently Zoned by Walton County, to Light Industrial (LI) to Allow for a Data Center at 1402 Roy Malcom Road; C1480001.",
-     "motions": [
-      {
-       "motion": null,
-       "result": null,
-       "resultClass": "completed",
-       "resultText": "Completed",
-       "tally": null,
-       "yes": 0,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      }
-     ]
-    },
-    {
-     "reference": null,
-     "outline": "VIII. 4.",
-     "name": "SU-2026-001 - Request for Special Use to Allow a Data Center Under Light Industrial (LI) Zoning at 1402 Roy Malcom Road; C1480001.",
-     "motions": [
-      {
-       "motion": null,
-       "result": null,
-       "resultClass": "completed",
-       "resultText": "Completed",
-       "tally": null,
-       "yes": 0,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      },
-      {
-       "motion": null,
-       "result": "passed",
-       "resultClass": "adopted",
-       "resultText": "Adopted",
-       "tally": null,
-       "yes": 3,
-       "no": 0,
-       "abstain": 0,
-       "absent": 1,
-       "next": null,
-       "textDisagrees": false
-      },
-      {
-       "motion": null,
-       "result": "passed",
-       "resultClass": "adopted",
-       "resultText": "Adopted",
-       "tally": null,
-       "yes": 3,
-       "no": 0,
-       "abstain": 0,
-       "absent": 1,
-       "next": null,
-       "textDisagrees": false
-      },
-      {
-       "motion": null,
-       "result": "passed",
-       "resultClass": "adopted",
-       "resultText": "Adopted",
-       "tally": null,
-       "yes": 3,
-       "no": 0,
-       "abstain": 0,
-       "absent": 1,
-       "next": null,
-       "textDisagrees": false
-      },
-      {
-       "motion": null,
-       "result": "passed",
-       "resultClass": "adopted",
-       "resultText": "Adopted",
-       "tally": [
-        3,
-        0
-       ],
-       "yes": 3,
-       "no": 0,
-       "abstain": 1,
-       "absent": 1,
-       "next": null,
-       "textDisagrees": false
-      }
-     ]
-    }
-   ],
-   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2291&Inline=True",
-   "minutesDraft": true
-  },
-  {
-   "topic": "data-center",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -4260,8 +4269,8 @@
    "placeType": "city",
    "fips": null,
    "region": "Metro Atlanta",
-   "date": "2026-04-06",
-   "body": "Planning Commission",
+   "date": "2026-04-02",
+   "body": "City Council",
    "confidence": "high",
    "context": "agenda-action",
    "sourceType": "ocr",
@@ -4270,73 +4279,53 @@
     "data center"
    ],
    "tags": [],
-   "excerpt": "… for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Offici …",
+   "excerpt": "… 1. ANX-2026-001. Request to Annex Tax Parcel C1480001 +/- 123.36 Acres as Part of a Proposed Data Center Development. 1402 Roy Malcom Road. 2. FLUM-2026-001. Request to Amend the Future Land Use Map to Designate T …",
    "excerptTerm": "data center",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2133&Inline=True",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2131&Inline=True",
    "followThrough": "recorded",
    "outcomes": [
     {
      "reference": null,
-     "outline": "II. 1.",
-     "name": "ANX-2026-001 - Request for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Official Code of Georgia Section 36-36-20 ET SEQ,…",
+     "outline": "IV. 1.",
+     "name": "ANX-2026-001. Request to Annex Tax Parcel C1480001 +/- 123.36 Acres as Part of a Proposed Data Center Development. 1402 Roy Malcom Road.",
      "motions": [
       {
        "motion": null,
        "result": null,
-       "resultClass": "scheduled",
-       "resultText": "Scheduled for",
+       "resultClass": "completed",
+       "resultText": "Completed",
        "tally": null,
        "yes": 0,
        "no": 0,
        "abstain": 0,
        "absent": 0,
-       "next": "4/21/2026 6:30 PM",
+       "next": null,
        "textDisagrees": false
       }
      ]
     },
     {
      "reference": null,
-     "outline": "II. 3.",
-     "name": "REZ-2026-003 - Request to Rezone from Rural Estate with Watershed Protection Overlay (A1 WP2), as Currently Zoned by Walton County, to Light Industrial (LI) to Allow for a Data Center at 1402 Roy Malcom Road; C1480001.",
+     "outline": "IV. 4.",
+     "name": "SU-2026-001. Request for Special Use Permit to Allow a Data Center Under Light Industrial (LI) Zoning. Tax Parcel C1480001. 1402 Roy Malcom Road.",
      "motions": [
       {
        "motion": null,
        "result": null,
-       "resultClass": "scheduled",
-       "resultText": "Scheduled for",
+       "resultClass": "completed",
+       "resultText": "Completed",
        "tally": null,
        "yes": 0,
        "no": 0,
        "abstain": 0,
        "absent": 0,
-       "next": "4/21/2026 6:30 PM",
-       "textDisagrees": false
-      }
-     ]
-    },
-    {
-     "reference": null,
-     "outline": "II. 4.",
-     "name": "SU-2026-001 - Request for Special Use to Allow a Data Center Under Light Industrial (LI) Zoning at 1402 Roy Malcom Road; C1480001.",
-     "motions": [
-      {
-       "motion": null,
-       "result": null,
-       "resultClass": "scheduled",
-       "resultText": "Scheduled for",
-       "tally": null,
-       "yes": 0,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": "4/21/2026 6:30 PM",
+       "next": null,
        "textDisagrees": false
       }
      ]
     }
    ],
-   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2287&Inline=True",
+   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2286&Inline=True",
    "minutesDraft": true
   },
   {
@@ -4363,92 +4352,6 @@
    "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
-  },
-  {
-   "topic": "data-center",
-   "placeId": "socialcircle",
-   "placeName": "City of Social Circle",
-   "placeType": "city",
-   "fips": null,
-   "region": "Metro Atlanta",
-   "date": "2026-03-24",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the O …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2126&Inline=True",
-   "followThrough": "recorded",
-   "outcomes": [
-    {
-     "reference": null,
-     "outline": "IV. a.",
-     "name": "ANX-2026-001 - Request for Annexation of Tax Parcel C1480001 +/- 123.36 Acres into the City of Social Circle, as Part of a Proposed Data Center Development, Under Light Industrial (LI) Zoning. Application is Being Made Under the Provisions of the Official Code of Georgia Section 36-36-20 ET SEQ,…",
-     "motions": [
-      {
-       "motion": null,
-       "result": null,
-       "resultClass": "tabled",
-       "resultText": "Tabled",
-       "tally": null,
-       "yes": 5,
-       "no": 0,
-       "abstain": 0,
-       "absent": 2,
-       "next": "4/6/2026 6:00 PM",
-       "textDisagrees": false
-      }
-     ]
-    },
-    {
-     "reference": null,
-     "outline": "IV. c.",
-     "name": "REZ-2026-003 - Request to Rezone from Rural Estate with Watershed Protection Overlay (A1 WP2), as Currently Zoned by Walton County, to Light Industrial (LI) to Allow for a Data Center at 1402 Roy Malcom Road; C1480001.",
-     "motions": [
-      {
-       "motion": null,
-       "result": null,
-       "resultClass": "tabled",
-       "resultText": "Tabled",
-       "tally": null,
-       "yes": 5,
-       "no": 0,
-       "abstain": 0,
-       "absent": 2,
-       "next": "4/6/2026 6:00 PM",
-       "textDisagrees": false
-      }
-     ]
-    },
-    {
-     "reference": null,
-     "outline": "IV. d.",
-     "name": "SU-2026-001 - Request for Special Use to Allow a Data Center Under Light Industrial (LI) Zoning at 1402 Roy Malcom Road; C1480001.",
-     "motions": [
-      {
-       "motion": null,
-       "result": null,
-       "resultClass": "tabled",
-       "resultText": "Tabled",
-       "tally": null,
-       "yes": 5,
-       "no": 0,
-       "abstain": 0,
-       "absent": 2,
-       "next": "4/6/2026 6:00 PM",
-       "textDisagrees": false
-      }
-     ]
-    }
-   ],
-   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2285&Inline=True",
-   "minutesDraft": true
   },
   {
    "topic": "data-center",
@@ -4628,6 +4531,52 @@
   },
   {
    "topic": "data-center",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2026-01-20",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… of Amendments to the City of Social Circle’s Unified Development Code, Sections 2.3.1 & 3.4.6.A, Regarding Data Center Regulations and Standards. 4. Consideration of Amendments to the City of Social Circle’s Unified Development …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2119&Inline=True",
+   "followThrough": "recorded",
+   "outcomes": [
+    {
+     "reference": null,
+     "outline": "VIII. 3.",
+     "name": "Consideration of Amendments to the City of Social Circle’s Unified Development Code, Sections 2.3.1 & 3.4.6.A, Regarding Data Center Regulations and Standards.",
+     "motions": [
+      {
+       "motion": null,
+       "result": "passed",
+       "resultClass": "adopted",
+       "resultText": "Adopted",
+       "tally": null,
+       "yes": 4,
+       "no": 0,
+       "abstain": 0,
+       "absent": 1,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    }
+   ],
+   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2274&Inline=True",
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
    "placeId": "covington",
    "placeName": "City of Covington",
    "placeType": "city",
@@ -4674,6 +4623,31 @@
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
+   "placeId": "socialcircle",
+   "placeName": "City of Social Circle",
+   "placeType": "city",
+   "fips": null,
+   "region": "Metro Atlanta",
+   "date": "2025-12-16",
+   "body": "City Council",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… . Consideration of an Intergovernmental Agreement with Walton County for the Provision of Water to Supply Data Centers XII. EXECUTIVE SESSION An Executive Session may be called: • To discuss pending and/or po …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=2111&Inline=True",
+   "followThrough": "not-in-minutes",
+   "outcomes": [],
+   "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2265&Inline=True",
    "minutesDraft": null
   },
   {
