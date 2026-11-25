@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-23T21:29:15Z",
+  "generatedAt": "2026-11-25T01:25:44Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "count": 68
@@ -1086,7 +1086,7 @@
    "recordedVotes": {
     "status": "available",
     "firstMeeting": "2024-11-26",
-    "lastMeeting": "2026-11-19"
+    "lastMeeting": "2026-11-24"
    },
    "links": {
     "base_url": "https://www.forsythco.com/government/",
@@ -1406,7 +1406,7 @@
    "recordedVotes": {
     "status": "available",
     "firstMeeting": "2024-12-03",
-    "lastMeeting": "2026-11-18"
+    "lastMeeting": "2026-11-24"
    },
    "links": {
     "agendas_url": "https://lumpkincoga.portal.civicclerk.com/"
