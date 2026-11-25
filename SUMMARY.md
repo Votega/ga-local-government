@@ -17,7 +17,7 @@ identically; when a file was last written is in this repo's git history.
 ## Coverage
 
 - **63** jurisdictions scanned, of Georgia's 159 counties and ~537 cities.
-- Last scan: **2026-11-23**
+- Last scan: **2026-11-25**
 - Only governments with an automated agenda feed are scanned; a place that is absent is **not covered yet**, which is different from *no mentions found*.
 
 ## Mentions by topic
@@ -25,9 +25,9 @@ identically; when a file was last written is in this repo's git history.
 | Topic | Mentions | Jurisdictions |
 | --- | --- | --- |
 | ALPR / surveillance | 81 | 29 |
-| Data centers | 170 | 35 |
-| Land use | 712 | 60 |
-| Local taxes & referenda | 530 | 58 |
+| Data centers | 169 | 35 |
+| Land use | 714 | 60 |
+| Local taxes & referenda | 526 | 58 |
 
 ## ALPR vendors named
 
