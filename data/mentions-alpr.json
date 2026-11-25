@@ -1,12 +1,37 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-23T21:29:15Z",
+  "generatedAt": "2026-11-25T01:25:44Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "topic": "alpr",
   "count": 81
  },
  "mentions": [
+  {
+   "topic": "alpr",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Metro Atlanta",
+   "date": "2026-12-03",
+   "body": "Committee of the Whole",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "crime center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4499&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
   {
    "topic": "alpr",
    "placeId": "atlanta",
@@ -268,11 +293,11 @@
         6,
         1
        ],
-       "yes": 6,
-       "no": 1,
+       "yes": 0,
+       "no": 0,
        "abstain": 0,
        "absent": 0,
-       "next": "11/16/2026 1:00 PM",
+       "next": "11/16/2026 1:00",
        "textDisagrees": false
       },
       {
@@ -292,7 +317,7 @@
     }
    ],
    "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4172&Inline=True",
-   "minutesDraft": true
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1699,32 +1724,6 @@
    "excerpt": "… (CEW). Ratifying increase in contract funds for 100 additional tasers and previously issued purchase order. Awarded to Axon Enterprise, Inc. Amount Not To Exceed: $1,442,514.00. Resolution",
    "excerptTerm": "axon enterprise",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4479&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "alpr",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Metro Atlanta",
-   "date": "2026-06-18",
-   "body": "Committee of the Whole",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise",
-    "body cam"
-   ],
-   "tags": [],
-   "excerpt": "… (CEW). Ratifying increase in contract funds for 100 additional tasers and previously issued purchase order. Awarded to Axon Enterprise, Inc. Amount Not To Exceed: $1,442,514.00. Resolution",
-   "excerptTerm": "axon enterprise",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4477&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
