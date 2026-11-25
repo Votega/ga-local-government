@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-25T01:25:44Z",
+  "generatedAt": "2026-11-25T18:58:23Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "topic": "alpr",
-  "count": 81
+  "count": 82
  },
  "mentions": [
   {
@@ -372,6 +372,31 @@
   },
   {
    "topic": "alpr",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-11-05",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1029",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "alpr",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -520,6 +545,33 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1629",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "alpr",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-10-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": "… ve an update on Police Department operations. County Manager Denton mentioned that maintenance payments are due for the FLOCK cameras that were installed last year noting that funds were not included in the budget as an oversight so this will re …",
+   "excerptTerm": "flock",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Public%20Safety%20Committee%20Minutes%20October%2019,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -2064,31 +2116,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3430,plainText=false)",
-   "followThrough": "not-in-minutes",
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "alpr",
-   "placeId": "bibb",
-   "placeName": "Macon-Bibb County",
-   "placeType": "consolidated",
-   "fips": "13021",
-   "region": "Middle Georgia",
-   "date": "2026-03-18",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "surveillance equipment"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3428,plainText=false)",
    "followThrough": "not-in-minutes",
    "outcomes": [],
    "minutesUrl": null,
