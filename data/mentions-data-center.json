@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-25T01:25:44Z",
+  "generatedAt": "2026-11-25T18:58:23Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "topic": "data-center",
-  "count": 169
+  "count": 175
  },
  "mentions": [
   {
@@ -300,6 +300,31 @@
   },
   {
    "topic": "data-center",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… tion extending the moratorium relating to the zoning, rezoning, development, permitting, and construction of Data Centers within the unincorporated areas of Lee County to June 30, 2027. I) Discussion of the FY2027 Local …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/c9/ea/c9ea8f357bcb506d1bfa73f8227399cf.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -346,7 +371,7 @@
    "followThrough": "not-in-minutes",
    "outcomes": [],
    "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4173&Inline=True",
-   "minutesDraft": true
+   "minutesDraft": null
   },
   {
    "topic": "data-center",
@@ -3715,6 +3740,31 @@
   },
   {
    "topic": "data-center",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-06-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… COMMISSIONER’S MATTERS A) Consideration to adopt a resolution extending the existing moratorium for data centers. 12. UNFINISHED BUSINESS 13. COUNTY ATTORNEY’S MATTERS 14. EXECUTIVE SESSION 15. PUBLIC FORUM …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/33/fa/33fabcc5770b1affc297a4453f24e89a.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
    "placeId": "clayton",
    "placeName": "Clayton County",
    "placeType": "county",
@@ -4114,6 +4164,31 @@
   },
   {
    "topic": "data-center",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-05-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… TERS A) Consideration to approve a healthcare renewal plan for FY 2026-27. HANDOUT B) Discussion of Data Centers. 12. UNFINISHED BUSINESS 13. COUNTY ATTORNEY’S MATTERS 14. EXECUTIVE SESSION 15. PUBLIC FORUM 16. ANNOU …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/27/bf/27bf4211f0a5450667c86ef6a606b0e5.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -4189,6 +4264,31 @@
   },
   {
    "topic": "data-center",
+   "placeId": "union",
+   "placeName": "Union County",
+   "placeType": "county",
+   "fips": "13291",
+   "region": null,
+   "date": "2026-04-16",
+   "body": "Sole Commissioner",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.unioncountyga.gov/AgendaCenter/ViewFile/Agenda/_04162026-171",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -4232,6 +4332,31 @@
    "excerpt": "… approve the UZO text amendments by amending and by adding new definitions for \"Biohazard Waste,\" \"Biological Waste,\" \"Data Center,\" and \"Hazardous Waste;\" by revising Section 4-6-13 for additional requirements for biological, biohazard and hazardou …",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.whitfieldcountyga.com/BOC%20Regular%20Business%20Meeting%20April%2013,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-04-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… f CN and I-2. The proposed text amendment addresses zoning only and does not regulate anything else regarding data centers (i.e. power, water, etc…). (04/28/26 – Regular Meeting) Chairman Thaxton called for a Motion. Motion was made b …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20April%2028,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -4399,6 +4524,31 @@
    "excerpt": "… Ordinance to be amended by amending by adding new definitions for \"Biohazard Waste,\" \"Biological Waste,\" \"Data Center,\" and \"Hazardous Waste;\" by revising Section 4-6-13 for additional requirements for biological, biohazard …",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20Regular%20Business%20Meeting%20March%209,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-03-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… 71A). Second by Commissioner Liles. Motion passed unanimously. 2. Consider an Ordinance Amendment to add “Chapter 33 – Data Centers” to the official County Code of Ordinances regulating any future data centers. The purpose of this chapter is t …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20March%2003,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
