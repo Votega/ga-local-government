@@ -38,7 +38,7 @@ augusta,district-7,District 7,Tina Slendak,Commissioner,,Nonpartisan,,,,2025,202
 augusta,district-8,District 8,Brandon Garrett,Commissioner,,Nonpartisan,,,,2023,2026,https://www.augustaga.gov/652/Augusta-Commission,,bgarrett@augustaga.gov,706-564-2983
 augusta,district-9,District 9,Francine Scott,Commissioner,,Nonpartisan,,,,2025,2028,https://www.augustaga.gov/652/Augusta-Commission,,FScott@augustaga.gov,706-564-8712
 augusta,mayor,At-Large,Garnett Johnson,Chair,Mayor,Nonpartisan,,,,2023,2026,https://www.augustaga.gov/3112/Mayor-Garnett-L-Johnson,,mayorjohnson@augustaga.gov,706-821-1831
-bacon,at-large,At-Large,Shane Taylor,Chair,,,,,,,,https://baconcounty.org/administration.php,,,912-632-5214
+bacon,at-large,At-Large,Shane Taylor,Chair,,,,2027-01-01,,,,https://baconcounty.org/administration.php,,,912-632-5214
 bacon,district-2,District 2,Lee Hagans,Commissioner,,,,,,2024,2028,https://baconcounty.org/administration.php,,,912-632-5214
 bacon,district-3,District 3,Lonann Sweat,Commissioner,,,,,,2026,2030,https://baconcounty.org/administration.php,,,912-632-5214
 bacon,district-4,District 4,Corey Tyre,Commissioner,,,,,,2026,2030,https://baconcounty.org/administration.php,,,912-632-5214
@@ -77,6 +77,12 @@ bibb,district-7,District 7,Bill Howell,Commissioner,,,,,,,,https://www.maconbibb
 bibb,district-8,District 8,Donice Bryant,Commissioner,,,,,,,,https://www.maconbibb.us/commissioners/,,mbcbryant@maconbibb.us,478-407-4618
 bibb,district-9,District 9,Brendalyn Bailey,Commissioner,,,,,,,,https://www.maconbibb.us/commissioners/,,mbcbailey@maconbibb.us,478-382-0459
 bibb,mayor,At-Large,Lester Miller,Mayor,,,,,,,,https://www.maconbibb.us/commissioners/,,miller@maconbibb.us,
+bryan,at-large,At-Large,Carter Infinger,Chair,County Commission Chairman,Republican,,,,2024,2028,https://www.bryancountyga.gov/government/board-of-commissioners,,,
+bryan,district-1,District 1,Alex Floyd,Commissioner,,Republican,,,,2024,2028,https://www.bryancountyga.gov/government/board-of-commissioners,,,
+bryan,district-2,District 2,Wade Price,Commissioner,,Republican,,,,2022,2026,https://results.sos.ga.gov/results/public/api/elections/bryan-county-ga/11032026GeneralAndSpecialElection/data,,,
+bryan,district-3,District 3,Jeff Nielsen,Commissioner,,Republican,,,,2024,2028,https://www.bryancountyga.gov/government/board-of-commissioners,,,
+bryan,district-4,District 4,Patrick Kisgen Jr.,Commissioner,,,,2027-01-01,term-ended,2022,2026,https://www.bryancountyga.org/government/board-of-commissioners,,,
+bryan,district-5,District 5,Gene Wallace,Commissioner,,Republican,,,,2026,2030,https://results.sos.ga.gov/results/public/api/elections/bryan-county-ga/11032026GeneralAndSpecialElection/data,,,
 butts,district-1,District 1,Mike Wilson,Commissioner,,,,,,2024,2028,https://buttscountyga.com/about/commissioners/district-1-commissioner/,,mwilson@buttscounty.org,
 butts,district-2,District 2,Jeremiah Hosford,Commissioner,,,,,,2024,2028,https://buttscountyga.com/about/commissioners/district-2-commissioner/,,jhosford@buttscounty.org,
 butts,district-3,District 3,Joe Brown,Commissioner,,,,,,2026,2030,https://buttscountyga.com/about/commissioners/district-3-commissioner/,,jbrown@buttscounty.org,
@@ -107,7 +113,7 @@ catoosa,district-4,District 4,Charlie Stephens,Commissioner,,Republican,,,,2026,
 chatham,1st-district,1st District,Anthony Wayne Noha,Commissioner,,,,,,2024,2028,https://www.chathamcountyga.gov/Commission/Detail/1st,,district1@chathamcounty.org,
 chatham,2nd-district,2nd District,Malinda Scott Hodge,Commissioner,,,,,,2024,2028,https://www.chathamcountyga.gov/Commission/Detail/2nd,,district2@chathamcounty.org,
 chatham,3rd-district,3rd District,Bobby Lockett,Commissioner,,,,,,2024,2028,https://www.chathamcountyga.gov/Commission/Detail/3rd,,district3@chathamcounty.org,
-chatham,4th-district,4th District,Brian Hussey,Commissioner,,,,,,,,https://www.chathamcountyga.gov/Commission/Detail/4th,,district4@chathamcounty.org,
+chatham,4th-district,4th District,Brian Hussey,Commissioner,,Nonpartisan,2026-05-29,,,2026,2028,https://www.chathamcountyga.gov/Commission/Detail/4th,,district4@chathamcounty.org,
 chatham,5th-district,5th District,Tanya Milton,Commissioner,,,,,,2024,2028,https://www.chathamcountyga.gov/Commission/Detail/5th,,district5@chathamcounty.org,
 chatham,6th-district,6th District,Aaron Adot Whitely,Commissioner,,,,,,2024,2028,https://www.chathamcountyga.gov/Commission/Detail/6th,,district6@chathamcounty.org,
 chatham,7th-district,7th District,Dean Kicklighter,Commissioner,,,,,,2024,2028,https://www.chathamcountyga.gov/Commission/Detail/7th,,deankicklighter@yahoo.com,
@@ -142,7 +148,7 @@ cobb,district-3,District 3,JoAnn Birrell,Commissioner,,,,2027-01-01,term-ended,2
 cobb,district-4,District 4,Monique Sheffield,Commissioner,,,,,,2025,2027,https://www.cobbcounty.gov/board/district-commissioners/district-4-commissioner,,monique.sheffield@cobbcounty.gov,770-528-3312
 columbia,at-large,At-Large,Doug Duncan,Chair,,,,2027-01-01,term-ended,2022,2026,https://www.columbiacountyga.gov/304/Board-of-Commissioners,,commissioners@columbiacountyga.gov,706-868-3379
 columbia,district-1,District 1,Connie Melear,Commissioner,,,,2027-01-01,term-ended,2022,2026,https://www.columbiacountyga.gov/304/Board-of-Commissioners,,commissioners@columbiacountyga.gov,706-868-3379
-columbia,district-2,District 2,Jim Steed,Commissioner,,,,,,2026,2028,https://www.columbiacountyga.gov/304/Board-of-Commissioners,,commissioners@columbiacountyga.gov,706-868-3379
+columbia,district-2,District 2,Jim Steed,Commissioner,,Republican,,,,2025,2028,https://www.columbiacountyga.gov/304/Board-of-Commissioners,,commissioners@columbiacountyga.gov,706-868-3379
 columbia,district-3,District 3,Michael Carraway,Commissioner,,Republican,,,,2024,2028,https://www.columbiacountyga.gov/304/Board-of-Commissioners,,commissioners@columbiacountyga.gov,706-868-3379
 columbia,district-4,District 4,Alison Couch,Commissioner,,,,2027-01-01,term-ended,2022,2026,https://www.columbiacountyga.gov/304/Board-of-Commissioners,,commissioners@columbiacountyga.gov,706-868-3379
 conyers,district-1,District 1,Anthony Pacheco,Council Member,,Nonpartisan,,,,,,https://www.conyersga.com/government/city-government/city-council,,,
@@ -181,6 +187,13 @@ dekalb,district-4,District 4,Chakira Johnson,Commissioner,,,,,,,2028,https://dek
 dekalb,district-5,District 5,Mereda Davis Johnson,Commissioner,,,,,,,2028,https://dekalbcountyga.gov/government/board-of-commissioners/districts/mareda-davis-johnson,,mdjohnson@dekalbcountyga.gov,404-371-2159
 dekalb,super-district-6,Super District 6,Ted Terry,Commissioner,,,,,,,2028,https://dekalbcountyga.gov/government/board-of-commissioners/districts/ted-terry,,ted@dekalbcountyga.gov,404-371-4909
 dekalb,super-district-7,Super District 7,"LaDena Bolton, PhD",Commissioner,,,,,,2026,2030,https://dekalbcountyga.gov/government/board-of-commissioners/districts/ladena-bolton,,district7@DeKalbCountyGA.gov,404-371-2899
+dougherty,at-large,At-Large,Lorenzo Heard,Chair,County Commission Chairman,Democratic,,,,2026,2030,https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/11032026GeneralAndSpecialElection/data,,,
+dougherty,district-1,District 1,Ed Newsome,Commissioner,,Republican,,,,2024,2028,https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/2024NovGen/data,,,
+dougherty,district-2,District 2,Victor Edwards,Commissioner,,Democratic,,,,2026,2030,https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/11032026GeneralAndSpecialElection/data,,,
+dougherty,district-3,District 3,Clinton Johnson,Commissioner,,Democratic,,,,2024,2028,https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/2024NovGen/data,,,
+dougherty,district-4,District 4,Russell Gray,Commissioner,,Republican,,2027-01-01,term-ended,,,https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/11032026GeneralAndSpecialElection/data,,,
+dougherty,district-5,District 5,Gloria Gaines,Commissioner,,Democratic,,,,2024,2028,https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/2024NovGen/data,,,
+dougherty,district-6,District 6,Anthony Jones,Commissioner,,Democratic,,,,2026,2030,https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/11032026GeneralAndSpecialElection/data,,,
 douglas,at-large,At-Large,Dr. Romona Jackson Jones,Chair,Commission Chairman,Democratic,,,,2024,2028,https://www.douglascountyga.gov/335/Dr-Romona-Jackson-Jones,,,770-920-7269
 douglas,district-1,District 1,Henry Mitchell III,Commissioner,,Democratic,,,,2026,2030,https://www.douglascountyga.gov/334/Henry-Mitchell-III,,hmitchell@douglascountyga.gov,770-920-7204
 douglas,district-2,District 2,Whitney Kenner Jones,Commissioner,,Democratic,,,,,2028,https://www.douglascountyga.gov/333/Whitney-Kenner-Jones,,wkennerjones@douglascountyga.gov,770-920-7266
@@ -215,11 +228,21 @@ fort-oglethorpe,post-4,Post 4,Derek Rogers,Council Member,Councilman,Nonpartisan
 fort-oglethorpe,post-5,Post 5,Paula G. Stinnett,Mayor Pro Tem,Mayor Pro Tem,Nonpartisan,,,,2025,2029,https://fortogov.com/mayor-council/,,pstinnett@fortoglethorpega.gov,706-866-2544
 fulton,at-large,At-Large,Robb Pitts,Chair,Commission Chairman,,,2027-01-01,term-ended,2022,2026,https://www.fultoncountyga.gov/Commissioners/Robb-Pitts,,robb.pitts@fultoncountyga.gov,404-613-2330
 fulton,district-1,District 1,Bridget Thorne,Commissioner,,,,2027-01-01,term-ended,2022,2026,https://www.fultoncountyga.gov/Commissioners/Bridget-Thorne,,bridget.thorne@fultoncountyga.gov,
-fulton,district-2,District 2,Bob Ellis,Commissioner,,,,,,2025,2028,https://www.fultoncountyga.gov/Commissioners/Bob-Ellis,,bob.ellis@fultoncountyga.gov,404-612-8216
+fulton,district-2,District 2,Bob Ellis,Commissioner,,Republican,,,,2024,2028,https://www.fultoncountyga.gov/Commissioners/Bob-Ellis,,bob.ellis@fultoncountyga.gov,404-612-8216
 fulton,district-3,District 3,Dana Barrett,Commissioner,,,,2027-01-01,term-ended,2022,2026,https://www.fultoncountyga.gov/Commissioners/Dana-Barrett,,dana.barrett@fultoncountyga.gov,404-612-9800
-fulton,district-4,District 4,VACANT,Commissioner,,,,,,,,https://www.fultoncountyga.gov/Commissioners,,,
+fulton,district-4,District 4,VACANT,Commissioner,,,,2027-01-01,,,,https://www.fultoncountyga.gov/Commissioners,,,
 fulton,district-5,District 5,"Marvin S. Arrington, Jr.",Commissioner,,,,2027-01-01,term-ended,2022,2026,https://www.fultoncountyga.gov/Commissioners/Marvin-Arrington,,Marvin.Arrington@fultoncountyga.gov,404-613-0202
 fulton,district-6,District 6,Khadijah Abdur-Rahman,Commissioner,,,,,,2024,2028,https://www.fultoncountyga.gov/Commissioners/Khadijah-Abdur-Rahman,,Khadijah.Abdur-Rahman@fultoncountyga.gov,404-612-8222
+gilmer,at-large,At-Large,Charlie Paris,Chair,County Commission Chairman,Republican,,,,2026,2030,https://results.sos.ga.gov/results/public/api/elections/gilmer-county-ga/11032026GeneralAndSpecialElection/data,,,
+gilmer,post-1,Post 1,Karleen Ferguson,Commissioner,,Republican,,,,2024,2028,https://gilmercounty-ga.gov/board-of-commissioners/,,karleen.ferguson@gilmercounty-ga.gov,
+gilmer,post-2,Post 2,John Marshall,Commissioner,,,,2027-01-01,term-ended,2022,2026,https://gilmercounty-ga.gov/board-of-commissioners/,,john.marshall@gilmercounty-ga.gov,
+glynn,district-1,District 1,Sammy Tostensen,Commissioner,,Republican,,,,2024,2028,https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/2024NovGen/data,,,
+glynn,district-2,District 2,Bob Duncan,Commissioner,,Republican,,,,2024,2028,https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/2024NovGen/data,,,
+glynn,district-3,District 3,Wayne Neal,Commissioner,,,,2027-01-01,term-ended,,,https://www.glynncounty.org/government/departments/board-commissioners/meet-commissioners/thomas-wayne-neal-district-3-commissioner,,,
+glynn,district-4,District 4,David Sweat,Commissioner,,Republican,,2027-01-01,term-ended,,,https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/11032026GeneralAndSpecialElection/data,,,
+glynn,district-5,District 5,Allen Booker,Commissioner,,Democratic,,,,2024,2028,https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/2024NovGen/data,,,
+glynn,post-1,Post 1 (At-Large),"Thomas Bo Clark, Jr.",Commissioner,,Republican,,,,2026,2030,https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/11032026GeneralAndSpecialElection/data,,,
+glynn,post-2-at-large,Post 2 (At-Large),Walter Rafolski,Commissioner,,Republican,,,,2024,2028,https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/2024NovGen/data,,,
 gordon,district-1,District 1,M. “Bud” Owens,Chair,,,,,,,2028,https://www.gordoncountyga.gov/185/Board-of-Commissioners,,bud.owens@gordoncountyga.gov,706-629-3795
 gordon,district-2,District 2,Chad Steward,Commissioner,,,,,,2026,2030,https://www.gordoncountyga.gov/185/Board-of-Commissioners,,chad.steward@gordoncountyga.gov,706-629-3795
 gordon,district-3,District 3,Randy Abernathy,Commissioner,,,,,,,2028,https://www.gordoncountyga.gov/185/Board-of-Commissioners,,randy.abernathy@gordoncountyga.gov,706-629-3795
@@ -230,6 +253,11 @@ gwinnett,district-1,District 1,Kirkland Dion Carden,Commissioner,,,,,,2024,2028,
 gwinnett,district-2,District 2,Ben Ku,Commissioner,,,,,,2026,2030,https://www.gwinnettcounty.com/government/departments/board-of-commissioners/about/district-2-commissioner,,ben.ku@gwinnettcounty.com,770-822-7002
 gwinnett,district-3,District 3,"Jasper Watkins, III",Commissioner,,,,,,2024,2028,https://www.gwinnettcounty.com/government/departments/board-of-commissioners,,jasper.watkins@gwinnettcounty.com,770-822-7003
 gwinnett,district-4,District 4,Matthew Holtkamp,Commissioner,,,,2027-01-01,term-ended,,,https://www.gwinnettcounty.com/government/departments/board-of-commissioners,,matthew.holtkamp@gwinnettcounty.com,770-822-7004
+habersham,district-1,District 1,Kelly Woodall,Commissioner,,Republican,,,,2024,2028,https://www.habershamga.com/commissioners.cfm,,kwoodall@habershamga.com,
+habersham,district-2,District 2,Dustin Mealor,Commissioner,,,,2027-01-01,term-ended,,,https://www.habershamga.com/commissioners.cfm,,dmealor@habershamga.com,
+habersham,district-3,District 3,Danny McClellon,Commissioner,,Republican,,,,2026,2030,https://www.habershamga.com/commissioners.cfm,,dmcclellon@habershamga.com,
+habersham,district-4,District 4,Bruce Harkness,Commissioner,,Republican,,,,2024,2028,https://www.habershamga.com/commissioners.cfm,,bharkness@habershamga.com,
+habersham,district-5,District 5,Ty Akins,Commissioner,,Republican,,,,2024,2028,https://www.habershamga.com/commissioners.cfm,,takins@habershamga.com,
 hall,at-large,At-Large,David Gibbs,Chair,Hall County Board of Commissioners Chair,,,,,2024,2028,https://www.hallcounty.org/m/directory/employee?eid=864,,dgibbs@hallcounty.org,770-535-8288
 hall,district-1,District 1,Kathy Cooper,Commissioner,,,,2027-01-01,term-ended,,,https://www.hallcounty.org/m/directory/employee?eid=125,,kcooper@hallcounty.org,770-535-8288
 hall,district-2,District 2,Billy Powell,Commissioner,,,,,,2024,2028,https://www.hallcounty.org/m/directory/employee?eid=126,,bpowell@hallcounty.org,770-535-8288
@@ -240,6 +268,11 @@ haralson,district-1,District 1,David Tarpley,Commissioner,,Republican,,,,2024,20
 haralson,district-2,District 2,Danny Elsberry,Commissioner,,Republican,,,,2026,2030,https://www.haralsoncountyga.gov/board-of-commissioners,,,770-646-2002
 haralson,district-3,District 3,Eddie Ivey,Commissioner,,Republican,,,,2024,2028,https://www.haralsoncountyga.gov/board-of-commissioners,,,770-646-2002
 haralson,district-4,District 4,Ryan Farmer,Commissioner,,Republican,,,,2026,2030,https://www.haralsoncountyga.gov/board-of-commissioners,,,770-646-2002
+harris,district-1,District 1,Scott Lightsey,Commissioner,,,,2027-01-01,term-ended,,2026,https://www.harriscountyga.gov/board-of-commissioners/,,,
+harris,district-2,District 2,Robert Coach Grant,Commissioner,,Republican,,,,2026,2030,https://results.sos.ga.gov/results/public/api/elections/harris-county-ga/11032026GeneralAndSpecialElection/data,,,
+harris,district-3,District 3,Greg Gantt,Commissioner,,Republican,,,,2026,2030,https://results.sos.ga.gov/results/public/api/elections/harris-county-ga/11032026GeneralAndSpecialElection/data,,,
+harris,district-4,District 4,Bobby Irions,Vice Chair,,Republican,,,,2024,2028,https://www.harriscountyga.gov/board-of-commissioners/,,hcgadistrict4@harriscountyga.gov,762-207-6808
+harris,district-5,District 5,Susan Andrews,Chair,,Republican,,,,2024,2028,https://www.harriscountyga.gov/board-of-commissioners/,,hcgadistrict5@harriscountyga.gov,706-561-9725
 henry,at-large,At-Large,Carlotta Harrell,Chair,County Commission Chairman,,,,,2024,2028,https://www.henrycountyga.gov/board-of-commissioners,,charrell@henrycountyga.gov,
 henry,district-1,District 1,Johnny Wilson,Commissioner,,,,,,2024,2028,https://www.henrycountyga.gov/board-of-commissioners,,johnnywilson@henrycountyga.gov,
 henry,district-2,District 2,Neat Robinson,Commissioner,,,,,,2024,2028,https://www.henrycountyga.gov/board-of-commissioners,,nrobinson@henrycountyga.gov,
@@ -268,6 +301,11 @@ laurens,district-2,District 2,Trae Kemp,Commissioner,,Republican,,,,2024,2028,ht
 laurens,district-3,District 3,Gerad Mathis,Commissioner,,Republican,,,,2024,2028,https://www.laurenscoga.org/AgendaCenter/ViewFile/Minutes/_01062026-384,,,
 laurens,district-4,District 4,Jimmy Rogers,Chair,Chairman,Republican,,,,2026,2030,https://www.laurenscoga.org/AgendaCenter/ViewFile/Minutes/_01062026-384,,,
 laurens,district-5,District 5,Kevin Tanner,Commissioner,,Republican,,,,2026,2030,https://www.laurenscoga.org/AgendaCenter/ViewFile/Minutes/_01062026-384,,,
+lee,district-1,District 1,Dennis Roland,Commissioner,,,,2027-01-01,term-ended,,,https://www.leecountyga.gov/government/board-of-commissioners/boc-directory/dennis-roland,,droland@leecountyga.gov,229-759-6000
+lee,district-2,District 2,Luke Singletary,Chair,,Republican,,,,2024,2028,https://www.leecountyga.gov/government/board-of-commissioners,,luke.singletary@leecountyga.gov,229-759-6000
+lee,district-3,District 3,Billy Mathis,Commissioner,,Republican,,,,2026,2030,https://www.leecountyga.gov/government/board-of-commissioners,,,229-759-6000
+lee,district-4,District 4,Chris Guarnieri,Vice Chair,,Republican,,,,2024,2028,https://www.leecountyga.gov/government/board-of-commissioners,,chris.guarnieri@leecountyga.gov,229-759-6000
+lee,district-5,District 5,"George Walls, Sr.",Commissioner,,Republican,,,,2024,2028,https://www.leecountyga.gov/government/board-of-commissioners,,,229-759-6000
 liberty,at-large,At-Large,Donald Lovette,Chair,,,,,,2024,2028,https://www.libertycountyga.gov/326/Donald-Lovette,,donald.lovette@libertycountyga.com,
 liberty,district-1,District 1,"Marion Stevens, Sr.",Commissioner,,,,2027-01-01,term-ended,,,https://www.libertycountyga.gov/327/Marion-Stevens-Sr,,marion.stevens@libertycountyga.com,
 liberty,district-2,District 2,Justin L. Frasier,Commissioner,,,,,,2026,2030,https://www.libertycountyga.gov/328/Justin-L-Frasier,,justin.frasier@libertycountyga.com,
@@ -281,7 +319,7 @@ lowndes,district-2,District 2,Scott Orenstein,Commissioner,,,,,,2026,2030,https:
 lowndes,district-3,District 3,Mark Wisenbaker,Commissioner,,,,,,2026,2030,https://www.lowndescounty.com/331/District-3,,commissioner@lowndescounty.com,229-671-2442
 lowndes,district-4,District 4,Demarcus Marshall,Commissioner,,,,,,2026,2030,https://www.lowndescounty.com/332/District-4,,commissioner@lowndescounty.com,229-671-2442
 lowndes,district-5,District 5,Michael Smith,Commissioner,,,,,,2024,2028,https://www.lowndescounty.com/333/District-5,,commissioner@lowndescounty.com,229-671-2442
-lumpkin,at-large,At-Large,Rhett Stringer,Chair,County Commission Chairperson,,,,,2024,2028,https://www.lumpkincounty.gov/188/Board-of-Commissioners,,rhett.stringer@lumpkincounty.gov,770-540-2436
+lumpkin,at-large,At-Large,Rhett Stringer,Chair,County Commission Chairperson,Republican,,,,2026,2028,https://www.lumpkincounty.gov/188/Board-of-Commissioners,,rhett.stringer@lumpkincounty.gov,770-540-2436
 lumpkin,district-1,District 1,Tucker Greene,Commissioner,,,,,,2024,2028,https://www.lumpkincounty.gov/188/Board-of-Commissioners,,tucker.greene@lumpkincounty.gov,706-864-3742
 lumpkin,district-2,District 2,Bobby Mayfield,Commissioner,,,,,,2024,2028,https://www.lumpkincounty.gov/188/Board-of-Commissioners,,bobby.mayfield@lumpkincounty.gov,706-864-3742
 lumpkin,district-3,District 3,Nathan Davis,Commissioner,,,,,,2026,2030,https://www.lumpkincounty.gov/188/Board-of-Commissioners,,nathan.davis@lumpkincounty.gov,706-864-3742
@@ -303,6 +341,11 @@ mitchell,district-2,District 2,B. Keith Jones,Commissioner,,Democratic,,,,2024,2
 mitchell,district-3,District 3,Reggie Bostick,Vice Chair,Vice Chairman,Republican,,,,2026,2030,https://mitchellcountyga.net/commissioners,,,
 mitchell,district-4,District 4,Julius Hatcher,Commissioner,,Republican,,,,2024,2028,https://mitchellcountyga.net/commissioners,,,
 mitchell,district-5,District 5,David Griner,Commissioner,,Republican,,,,2024,2028,https://mitchellcountyga.net/commissioners,,,
+monroe,at-large,At-Large,Alan Gibbs,Chair,Commission Chair,Republican,,,,2024,2028,https://www.monroecoga.org/commissioners/,,agibbs@monroecoga.org,478-737-1365
+monroe,district-1,District 1,Lamarcus Davis,Commissioner,,Independent,,,,2024,2028,https://www.monroecoga.org/commissioners/,,ldavis@monroecoga.org,478-841-2561
+monroe,district-2,District 2,Eddie Rowland,Commissioner,,Republican,,,,2024,2028,https://www.monroecoga.org/commissioners/,,erowland@monroecoga.org,478-808-9354
+monroe,district-3,District 3,John Ambrose Sr.,Commissioner,,Republican,,,,2026,2030,https://www.monroecoga.org/commissioners/,,jambrose@monroecoga.org,478-960-0764
+monroe,district-4,District 4,Al Turner,Commissioner,,Republican,,2027-01-01,term-ended,2024,2026,https://www.monroecoga.org/commissioners/,,aturner@monroecoga.org,478-973-4948
 montgomery,district-1,District 1,Jimmy Sharpe,Commissioner,,Republican,,,,2024,2028,https://www.montcoga.gov/board-commissioners,,,912-583-2363
 montgomery,district-2,District 2,Amie Vassey,Commissioner,,Republican,,,,2024,2028,https://www.montcoga.gov/board-commissioners,,,912-583-2363
 montgomery,district-3,District 3,Ginger Byrd Morris,Chair,Chairman,Republican,,,,2024,2028,https://www.montcoga.gov/board-commissioners,,,912-583-2363
@@ -312,7 +355,7 @@ morgan,district-1,District 1,Carl Jones,Commissioner,,,,,,2026,2030,https://www.
 morgan,district-2,District 2,Blake McCormack,Commissioner,,,,,,2026,2030,https://www.morgancountyga.gov/m/directory/department?did=7,,bmccormack@morgancountyga.gov,706-342-0725
 morgan,district-3,District 3,Ben Riden,Commissioner,,,,,,2024,2028,https://www.morgancountyga.gov/m/directory/department?did=7,,briden@morgancountyga.gov,706-342-0725
 morgan,district-4,District 4,Philipp von Hanstein,Commissioner,,,,,,2024,2028,https://www.morgancountyga.gov/m/directory/department?did=7,,,706-342-0725
-morgan,district-5,District 5,Nathan Park,Commissioner,,,,,,,,https://www.morgancountyga.gov/m/directory/department?did=7,,nathan.park@morgancountyga.gov,706-342-0725
+morgan,district-5,District 5,Nathan Park,Commissioner,,,,,,2025,2028,https://www.morgancountyga.gov/m/directory/department?did=7,,nathan.park@morgancountyga.gov,706-342-0725
 muscogee,district-1,District 1,Simi Barnes,Council Member,,,,,,,,https://columbusga.gov/council/district-1,,barnes.simi@columbusga.org,706-780-6880
 muscogee,district-10,District 10,Travis Chambers,Council Member,,,,,,,,https://columbusga.gov/council/District-10,,chambers.travis@columbusga.org,706-225-4988
 muscogee,district-2,District 2,Glenn Davis,Council Member,,,,,,,,https://columbusga.gov/council/district-2,,glenndavis@columbusga.org,706-323-1005
@@ -328,7 +371,8 @@ newton,at-large,At-Large,Marcello Banes,Commissioner,Chairman (suspended),,,,,20
 newton,at-large,At-Large,Tommy Davis,Chair,Interim Chairman,,,,,,,https://gov.georgia.gov/document/2026-executive-order/10232601/download,,,
 newton,district-1,District 1,Stan Edwards,Commissioner,,,,,,2024,2028,https://www.newtoncountyga.gov/159/Stan-Edwards,,asedwards@co.newton.ga.us,678-294-9166
 newton,district-2,District 2,T. Demond Mason,Commissioner,,,,2027-01-01,term-ended,2022,2026,https://www.newtoncountyga.gov/386/Demond-Mason,,dmason@co.newton.ga.us,678-544-5212
-newton,district-3,District 3,Andre Cooper,Commissioner,,,,,,2024,2028,https://www.newtoncountyga.gov/703/Andre-Cooper,,acooper@co.newton.ga.us,678-625-1200
+newton,district-3,District 3,Andre Cooper,Commissioner,Interim Commissioner,,,,,,2028,https://www.newtoncountyga.gov/703/Andre-Cooper,,acooper@co.newton.ga.us,678-625-1200
+newton,district-3,District 3,Stephanie R. Lindsey,Commissioner,Commissioner (suspended),,,,,2024,2028,https://results.sos.ga.gov/results/public/api/elections/newton-county-ga/2024NovGen/data,Suspended,,
 newton,district-4,District 4,JC Henderson,Commissioner,,,,,,2026,2030,https://www.newtoncountyga.gov/162/JC-Henderson,,jchenderson@co.newton.ga.us,770-896-3826
 newton,district-5,District 5,LeAnne Long,Commissioner,,,,,,2024,2028,https://www.newtoncountyga.gov/693/LeAnne-Long,,llong@co.newton.ga.us,678-625-1200
 oconee,at-large,At-Large,John Daniell,Chair,County Commission Chairman,,,,,2024,2028,https://www.oconeecountyga.gov/507/Board-of-Commissioners,,jdaniell@oconee.ga.us,
@@ -351,6 +395,12 @@ paulding,post-4,Post 4,Dean Schneider,Commissioner,,,,,,2026,2030,https://www.pa
 pickens,at-large,At-Large,Kris Stancill,Chair,County Commission Chair,,,,,2024,2028,https://www.pickenscountyga.gov/167/Board-of-Commissioners,,,
 pickens,post-1-west,Post 1 (West),Josh Tippens,Commissioner,,,,,,2026,2030,https://www.pickenscountyga.gov/167/Board-of-Commissioners,,,
 pickens,post-2-east,Post 2 (East),Josh Tatum,Commissioner,,,,,,2024,2028,https://www.pickenscountyga.gov/167/Board-of-Commissioners,,,
+polk,district-1,District 1,David McElwee,Commissioner,,Republican,,,,2026,2030,https://www.polkga.org/government/board_of_commissioners/index.php,,,
+polk,district-1,District 1,Michael Gravett,Vice Chair,,Republican,,,,2024,2028,https://www.polkga.org/government/board_of_commissioners/index.php,,,
+polk,district-2,District 2,Chuck Thaxton,Chair,,Republican,,,,2024,2028,https://www.polkga.org/government/board_of_commissioners/index.php,,,
+polk,district-2,District 2,Linda Liles,Commissioner,,Republican,,2027-01-01,term-ended,2022,2026,"https://ballotpedia.org/Linda_B._Liles_%28Polk_County_Commission,_District_2,_Georgia,_candidate_2026%29",,,
+polk,district-3,District 3,Hal Floyd,Commissioner,,Republican,,2027-01-01,term-ended,2022,2026,https://www.polkga.org/government/board_of_commissioners/index.php,,,
+polk,district-3,District 3,John Paschal,Commissioner,,Republican,,,,2024,2028,https://www.polkga.org/government/board_of_commissioners/index.php,,,
 rockdale,at-large,At-Large,JaNice Van Ness,Chair,County Commission Chairman,,,,,2024,2028,https://www.rockdalecountyga.gov/rockdale-board-of-commissioners/,,JaNice.VanNess@RockdaleCountyGA.gov,
 rockdale,post-1,Post 1,Tuwanya Smith,Commissioner,,,,,,2024,2028,https://www.rockdalecountyga.gov/rockdale-board-of-commissioners/,,Tuwanya.Smith@RockdaleCountyGA.gov,
 rockdale,post-2,Post 2,Doreen Williams,Commissioner,,,,2027-01-01,term-ended,,,https://www.rockdalecountyga.gov/rockdale-board-of-commissioners/,,Doreen.Williams@RockdaleCountyGA.gov,
@@ -391,17 +441,19 @@ thomasville,district-1-post-1,"District 1, Post 1",Lucinda Brown,Mayor Pro Tem,,
 thomasville,district-1-post-2,"District 1, Post 2",Terry Scott,Council Member,,Nonpartisan,,,,2025,2029,https://thomasville.org/about-the-thomasville-city-council,,terry.scott@thomasville.org,
 thomasville,district-2-post-1,"District 2, Post 1",Royal O. Baker III,Council Member,,Nonpartisan,,,,2023,2027,https://thomasville.org/about-the-thomasville-city-council,,royal.baker@thomasville.org,
 thomasville,mayor,"District 2, Post 2",Scott Chastain,Mayor,,Nonpartisan,,,,,2029,https://thomasville.org/about-the-thomasville-city-council,,scott.chastain@thomasville.org,
+tift,at-large,At-Large,Tony McBrayer,Chair,,Republican,,,,2024,2028,https://www.tiftcounty.org/county_commissionersgovernment/county_commissioners/index.php,,tony.mcbrayer@tiftcounty.org,229-339-3042
 tift,district-1,District 1,Donnie Hester,Commissioner,,,,2027-01-01,term-ended,,,https://www.tiftcounty.org/county_commissioners/commissioner_donnie_hester.php,,donnie.hester@tiftcounty.org,229-402-3795
 tift,district-2,District 2,Melissa Hughes,Vice Chair,,,,,,,,https://www.tiftcounty.org/county_commissioners/county_commissionersgovernment/commissioner_melissa_hughes.php,,melissa.hughes@tiftcounty.org,229-326-0241
 tift,district-3,District 3,Paul Webb,Commissioner,,,,,,2026,2030,https://www.tiftcounty.org/county_commissioners/commissioner_paul_webb.php,,paul.webb@tiftcounty.org,229-322-2160
 tift,district-4,District 4,Stan Stalnaker,Commissioner,,,,,,2026,2030,https://www.tiftcounty.org/county_commissioners/commissioner_stan_stalnaker.php,,stan.stalnaker@tiftcounty.org,229-472-3564
-tift,district-5,District 5,Tyler Riddle,Commissioner,,,,,,,,https://www.tiftcounty.org/county_commissioners/commissioner_tyler_riddle.php,,tyler.riddle@tiftcounty.org,229-402-8096
+tift,district-5,District 5,Tyler Riddle,Commissioner,,,,,,2025,2028,https://www.tiftcounty.org/county_commissioners/commissioner_tyler_riddle.php,,tyler.riddle@tiftcounty.org,229-402-8096
 tift,district-6,District 6,Greg Wood,Commissioner,,,,,,2026,2030,https://www.tiftcounty.org/county_commissioners/commissioner_greg_wood.php,,greg.wood@tiftcounty.org,229-472-3094
-toombs,at-large,At-Large,Tommy Rollins,Chair,Chairman,,,,,,2028,https://toombscountyga.gov/county-commission-2/,,,912-526-3311
+toombs,at-large,At-Large,Tommy Rollins,Chair,Chairman,Republican,,,,2026,2028,https://toombscountyga.gov/county-commission-2/,,,912-526-3311
 toombs,district-1,District 1,Alfred Cason,Commissioner,,Democratic,,,,2026,2030,https://toombscountyga.gov/county-commission-2/,,,912-526-3311
 toombs,district-2,District 2,Buck Moon,Commissioner,,Republican,,,,2024,2028,https://toombscountyga.gov/county-commission-2/,,,912-526-3311
 toombs,district-3,District 3,Darriel Nobles,Commissioner,,Republican,,,,2024,2028,https://toombscountyga.gov/county-commission-2/,,,912-526-3311
 toombs,district-4,District 4,David Beasley,Commissioner,,Republican,,,,2026,2030,https://toombscountyga.gov/county-commission-2/,,,912-526-3311
+union,at-large,At-Large,Harold Collins,Chair,Sole Commissioner,Republican,,,,2024,2028,https://www.unioncountyga.gov/259/Commissioners-Office,,uccommissioner@uniongov.com,
 walker,at-large,At-Large,Angie Teems,Chair,Chairwoman,Republican,,,,2024,2028,https://www.walkercountyga.gov/government/board_of_commissioners/chairwoman.php,,countychair@walkerga.us,706-638-1437
 walker,district-1,District 1,Robert Blakemore,Commissioner,,Republican,,2027-01-01,term-ended,2022,2026,https://www.walkercountyga.gov/government/board_of_commissioners/district_1.php,,district1@walkerga.us,423-208-5080
 walker,district-2,District 2,Mark Askew,Commissioner,,Republican,,2027-01-01,term-ended,2022,2026,https://www.walkercountyga.gov/government/board_of_commissioners/district_2.php,,district2@walkerga.us,423-208-5156
