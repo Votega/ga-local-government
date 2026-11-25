@@ -1,10 +1,10 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-23T21:29:15Z",
+  "generatedAt": "2026-11-25T01:25:44Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "topic": "data-center",
-  "count": 170
+  "count": 169
  },
  "mentions": [
   {
@@ -412,7 +412,7 @@
     }
    ],
    "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4172&Inline=True",
-   "minutesDraft": true
+   "minutesDraft": null
   },
   {
    "topic": "data-center",
@@ -3512,31 +3512,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/07/06_2026-REGULAR-BOARD-MEETING-MINUTES.pdf",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "data-center",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Metro Atlanta",
-   "date": "2026-06-18",
-   "body": "Committee of the Whole",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… and Sustainability to amend Chapter 27 to Establish a Definition, Regulatory Guidelines, and Development Standards for Data Centers in M (Industrial), M-2 (Heavy Industrial), O-I (Office-Institutional), and O-D (Office-Distribution) zoning districts. …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4477&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
