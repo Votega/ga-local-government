@@ -1,11 +1,36 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-23T21:29:15Z",
+  "generatedAt": "2026-11-25T01:25:44Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
-  "count": 1493
+  "count": 1490
  },
  "mentions": [
+  {
+   "topic": "alpr",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Metro Atlanta",
+   "date": "2026-12-03",
+   "body": "Committee of the Whole",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "crime center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4499&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
   {
    "topic": "alpr",
    "placeId": "atlanta",
@@ -267,11 +292,11 @@
         6,
         1
        ],
-       "yes": 6,
-       "no": 1,
+       "yes": 0,
+       "no": 0,
        "abstain": 0,
        "absent": 0,
-       "next": "11/16/2026 1:00 PM",
+       "next": "11/16/2026 1:00",
        "textDisagrees": false
       },
       {
@@ -291,7 +316,7 @@
     }
    ],
    "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4172&Inline=True",
-   "minutesDraft": true
+   "minutesDraft": null
   },
   {
    "topic": "alpr",
@@ -1705,32 +1730,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Metro Atlanta",
-   "date": "2026-06-18",
-   "body": "Committee of the Whole",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise",
-    "body cam"
-   ],
-   "tags": [],
-   "excerpt": "… (CEW). Ratifying increase in contract funds for 100 additional tasers and previously issued purchase order. Awarded to Axon Enterprise, Inc. Amount Not To Exceed: $1,442,514.00. Resolution",
-   "excerptTerm": "axon enterprise",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4477&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "alpr",
    "placeId": "columbia",
    "placeName": "Columbia County",
    "placeType": "county",
@@ -2656,7 +2655,7 @@
     }
    ],
    "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4172&Inline=True",
-   "minutesDraft": true
+   "minutesDraft": null
   },
   {
    "topic": "data-center",
@@ -5763,31 +5762,6 @@
   },
   {
    "topic": "data-center",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Metro Atlanta",
-   "date": "2026-06-18",
-   "body": "Committee of the Whole",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "data center"
-   ],
-   "tags": [],
-   "excerpt": "… and Sustainability to amend Chapter 27 to Establish a Definition, Regulatory Guidelines, and Development Standards for Data Centers in M (Industrial), M-2 (Heavy Industrial), O-I (Office-Institutional), and O-D (Office-Distribution) zoning districts. …",
-   "excerptTerm": "data center",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4477&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "data-center",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -7084,7 +7058,7 @@
    ],
    "excerpt": null,
    "excerptTerm": null,
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10297,plainText=false)",
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10369,plainText=false)",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -7120,6 +7094,125 @@
   },
   {
    "topic": "land-use",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Metro Atlanta",
+   "date": "2026-12-03",
+   "body": "Committee of the Whole",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "land use permit",
+    "slup",
+    "special land use",
+    "warehouse"
+   ],
+   "tags": [
+    "development",
+    "special-land-use"
+   ],
+   "excerpt": "… obtain various material-handling units, including forklifts and narrow aisle equipment, for use at treatment plants and warehouse. Awarded to HD Hyundai Construction Equipment North America, Inc. Amount Not To Exceed: $600,000.00. Resolution",
+   "excerptTerm": "warehouse",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4499&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "walton",
+   "placeName": "Walton County",
+   "placeType": "county",
+   "fips": "13297",
+   "region": "Metro Atlanta",
+   "date": "2026-12-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-0fd20e5f0b134420abc91ca49ab5822c.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "henry",
+   "placeName": "Henry County",
+   "placeType": "county",
+   "fips": "13151",
+   "region": "Metro Atlanta",
+   "date": "2026-12-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "future land use",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… IC HEARING) Hecht Walker Jordan, PC of Stockbridge, GA requests an amendment to the Comprehensive Plan for property located at 3485 Highway 155 South in Land Lots 174 & 179 of the 2nd District. The proper …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2716,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "douglas",
+   "placeName": "Douglas County",
+   "placeType": "county",
+   "fips": "13097",
+   "region": "Metro Atlanta",
+   "date": "2026-12-01",
+   "body": "Planning & Zoning",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… ned by Kimberly Frank. Commission District #4. Z2026- Brownstone Equities, LLC – a request for a rezoning from R-LD 95/S2026-96 (residential low density) to C-G (general commercial) and a Special Use Perm …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7696,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "cobb",
    "placeName": "Cobb County",
    "placeType": "county",
@@ -7140,6 +7233,37 @@
    "excerpt": "… 7. Z-52-2026 District 2 - 465 Big Shanty Road 8. LUP-35-2026 District 4 - 448 Hurt Road 9. SLUP-9-2026 District 2 - 114 Townpark Drive 10. SLUP-11-2026 District 2 - 465 Big Shanty Road Regular Cases – New …",
    "excerptTerm": "slup",
    "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10363,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "cherokee",
+   "placeName": "Cherokee County",
+   "placeType": "county",
+   "fips": "13057",
+   "region": "Metro Atlanta",
+   "date": "2026-12-01",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… 26.621 +/- acres of property from AG (General Agriculture) to R-40 (Single Family Residential) for a 25-lot residential subdivision. 2.3 Case #26-12-049 Angel Quintano for 6843 Investments, LLC (BOC Dist. 1) Applicant is pursuing a rezoning from GC to …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&event_id=1140",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -7223,7 +7347,7 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5438,plainText=false)",
-   "followThrough": null,
+   "followThrough": "no-results",
    "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
@@ -7250,6 +7374,35 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://floydcountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6283,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "catoosa",
+   "placeName": "Catoosa County",
+   "placeType": "county",
+   "fips": "13047",
+   "region": "Northwest Georgia",
+   "date": "2026-11-24",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… er 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1683-26, Rezoning of Tax Map 20D Parcel 238 and Tax Map 21B Parcel 84 (382 Foster Road, 14/34 Foster Road) from R-1 to PUD …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=267",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -15403,33 +15556,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "dalton",
-   "placeName": "City of Dalton",
-   "placeType": "city",
-   "fips": null,
-   "region": "Northwest Georgia",
-   "date": "2026-10-05",
-   "body": "Mayor and Council",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon"
-   ],
-   "tags": [
-    "rezoning"
-   ],
-   "excerpt": "… idential (R-4). Parcel (12-146-02-000). 7. Second Reading Ordinance 26-18 To hear the request of BC Managing LLC to rezone from Low Density Single Family Residential (R-2) to Zero Lot Line Residential (R-4) a tract of land totali …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/daltga-pubu/MEET-Agenda-49ea12bb7866432e83d0f9fa39fa5fcd.pdf",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
    "placeId": "atlanta",
    "placeName": "City of Atlanta",
    "placeType": "city",
@@ -22641,33 +22767,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "douglas",
-   "placeName": "Douglas County",
-   "placeType": "county",
-   "fips": "13097",
-   "region": "Metro Atlanta",
-   "date": "2026-08-04",
-   "body": "Planning & Zoning",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon"
-   ],
-   "tags": [
-    "rezoning"
-   ],
-   "excerpt": "… tes from the July 7, 2026 Zoning Meeting. AGENDA Z2026- Terry Boomer/GA 5 Land Holdings, LLC – a request for a rezoning 47/S2026-48 from C-G(general commercial) to C-H(heavy commercial) and a Special Use Permit to allo …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://douglascountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7445,plainText=false)",
-   "followThrough": "no-results",
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
    "placeId": "columbia",
    "placeName": "Columbia County",
    "placeType": "county",
@@ -22719,39 +22818,6 @@
    "excerpt": "… CASES 1.1 Case #26-08-017 - J. Ethan Underwood for EC New Vision Georgia, LLC (BOC Dist. 4). Applicant is requesting to rezone 110.74 +/- acres from General Agriculture (AG) to Single-Family Residential (R-20) for a Conservation Design Community …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1589",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
-   "placeId": "cherokee",
-   "placeName": "Cherokee County",
-   "placeType": "county",
-   "fips": "13057",
-   "region": "Metro Atlanta",
-   "date": "2026-08-04",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "mixed-use",
-    "multi-family",
-    "rezon",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… Co., LLC (BOC Dist. 4). Applicant is requesting to rezone 2.0 +/- acres from R-40 to R-20 for a four-lot single family subdivision. 10.2 Case #26-07-015 - Parks F. Huff for Midway Electrical Contracting, Inc. (BOC Dist. 4). Applicant is requesting to …",
-   "excerptTerm": "subdivision",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1587",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -26461,38 +26527,6 @@
    "excerptTerm": "rezon",
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5174,plainText=false)",
    "followThrough": "no-results",
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Metro Atlanta",
-   "date": "2026-06-18",
-   "body": "Committee of the Whole",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "land use permit",
-    "multifamily",
-    "rezon",
-    "special land use"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "special-land-use"
-   ],
-   "excerpt": "… implementation of the DeKalb County Housing Investment Bond Program by approving the creation and implementation of the Multifamily Acquisition Fund, DeKalb Housing Catalyst Multifamily Gap Financing Program, DeKalb HomeStart Down Payment Assistance P …",
-   "excerptTerm": "multifamily",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4477&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
-   "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
@@ -33641,6 +33675,56 @@
    "excerpt": "… pecial Exception Applications – Commissioner Talton 2. Public Hearing (Rezoning Application) – Commissioner Talton 3. Annexation Request (City of Warner Robins) – Commissioner Talton 4. Selection of Architect – Commissioner Talton 5. Memorandum o …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://www.houstoncountyga.gov/minutes/2025-12-02%20Meeting%20Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Metro Atlanta",
+   "date": "2026-12-03",
+   "body": "Committee of the Whole",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… tenance, repair, and replacement services at County-owned facilities. Seeking increase in contract funds and to release SPLOST funds previously allocated in the amount of $924,399.30. Awarded to Hawk Construction Company, LLC. Total Amount Not To …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4499&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "henry",
+   "placeName": "Henry County",
+   "placeType": "county",
+   "fips": "13151",
+   "region": "Metro Atlanta",
+   "date": "2026-12-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Transportation (GDOT) Supplemental Agreement. Local Match funding available through SPLOST VI. (Presenter: Lynn Planchon, Airport Director)(Exhibit 1) …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2716,plainText=false)",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -40974,58 +41058,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "gwinnett",
-   "placeName": "Gwinnett County",
-   "placeType": "county",
-   "fips": "13135",
-   "region": "Metro Atlanta",
-   "date": "2026-08-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "ad valorem",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20260818/a_59325_2026.08.18___Work_Session_Agenda.pdf",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "gwinnett",
-   "placeName": "Gwinnett County",
-   "placeType": "county",
-   "fips": "13135",
-   "region": "Metro Atlanta",
-   "date": "2026-08-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "ad valorem",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20260818/a_15275_2026.08.18___Business_Session_Agenda.pdf",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "effingham",
    "placeName": "Effingham County",
    "placeType": "county",
@@ -42257,32 +42289,6 @@
   },
   {
    "topic": "local-taxes",
-   "placeId": "gwinnett",
-   "placeName": "Gwinnett County",
-   "placeType": "county",
-   "fips": "13135",
-   "region": "Metro Atlanta",
-   "date": "2026-08-04",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "millage",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20260804/a_73554_2026.08.04_Work_Session_Agenda.pdf",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "local-taxes",
    "placeId": "gordon",
    "placeName": "Gordon County",
    "placeType": "county",
@@ -42377,33 +42383,6 @@
    "excerpt": "… min Complex 1130 Bluffs Pkwy, Canton, GA 30114 11:00 AM CALL TO ORDER 1. Conduct a Public Hearing for input on the 2026 Millage Rate. ADJOURN",
    "excerptTerm": "millage",
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1617",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "cherokee",
-   "placeName": "Cherokee County",
-   "placeType": "county",
-   "fips": "13057",
-   "region": "Metro Atlanta",
-   "date": "2026-08-04",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "millage",
-    "referendum",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "… Session, Executive Session, and Regular Meeting Minutes from July 21, 2026. 8. PUBLIC HEARING 8.1 Public Hearing - 2026 Millage Rate. Conduct a public hearing to receive input on the 2026 Millage Rate; followed by adoption of the Millage Rates for …",
-   "excerptTerm": "millage",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1587",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -44710,33 +44689,6 @@
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5174,plainText=false)",
    "followThrough": "no-results",
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Metro Atlanta",
-   "date": "2026-06-18",
-   "body": "Committee of the Whole",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "ad valorem",
-    "millage",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": "Commission District(s): 4 & 6 To Allocate $500,000.00 of Category B3 - Bicycle Paths/Lanes/Multi-use Trails1 SPLOST II Funding for the Laredo Drive Bicycle Facility Resolution",
-   "excerptTerm": "splost",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4477&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
-   "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
@@ -47203,33 +47155,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.pickenscountyga.gov/AgendaCenter/ViewFile/Agenda/_04202026-179",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "henry",
-   "placeName": "Henry County",
-   "placeType": "county",
-   "fips": "13151",
-   "region": "Metro Atlanta",
-   "date": "2026-04-15",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "floating local option",
-    "flost",
-    "local option sales tax"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2514,plainText=false)",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
