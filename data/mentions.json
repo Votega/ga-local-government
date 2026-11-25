@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-25T01:25:44Z",
+  "generatedAt": "2026-11-25T18:58:23Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
-  "count": 1490
+  "count": 1591
  },
  "mentions": [
   {
@@ -371,6 +371,31 @@
   },
   {
    "topic": "alpr",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-11-05",
+   "body": "Board of Commissioners",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "axon enterprise"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1029",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "alpr",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -519,6 +544,33 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1629",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "alpr",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-10-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "flock"
+   ],
+   "tags": [],
+   "excerpt": "… ve an update on Police Department operations. County Manager Denton mentioned that maintenance payments are due for the FLOCK cameras that were installed last year noting that funds were not included in the budget as an oversight so this will re …",
+   "excerptTerm": "flock",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Public%20Safety%20Committee%20Minutes%20October%2019,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -2070,31 +2122,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "bibb",
-   "placeName": "Macon-Bibb County",
-   "placeType": "consolidated",
-   "fips": "13021",
-   "region": "Middle Georgia",
-   "date": "2026-03-18",
-   "body": "Board of Commissioners",
-   "confidence": "medium",
-   "context": null,
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "surveillance equipment"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3428,plainText=false)",
-   "followThrough": "not-in-minutes",
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "alpr",
    "placeId": "chatham",
    "placeName": "Chatham County",
    "placeType": "county",
@@ -2543,6 +2570,31 @@
   },
   {
    "topic": "data-center",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… tion extending the moratorium relating to the zoning, rezoning, development, permitting, and construction of Data Centers within the unincorporated areas of Lee County to June 30, 2027. I) Discussion of the FY2027 Local …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/c9/ea/c9ea8f357bcb506d1bfa73f8227399cf.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -2589,7 +2641,7 @@
    "followThrough": "not-in-minutes",
    "outcomes": [],
    "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4173&Inline=True",
-   "minutesDraft": true
+   "minutesDraft": null
   },
   {
    "topic": "data-center",
@@ -5958,6 +6010,31 @@
   },
   {
    "topic": "data-center",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-06-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… COMMISSIONER’S MATTERS A) Consideration to adopt a resolution extending the existing moratorium for data centers. 12. UNFINISHED BUSINESS 13. COUNTY ATTORNEY’S MATTERS 14. EXECUTIVE SESSION 15. PUBLIC FORUM …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/33/fa/33fabcc5770b1affc297a4453f24e89a.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
    "placeId": "clayton",
    "placeName": "Clayton County",
    "placeType": "county",
@@ -6357,6 +6434,31 @@
   },
   {
    "topic": "data-center",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-05-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… TERS A) Consideration to approve a healthcare renewal plan for FY 2026-27. HANDOUT B) Discussion of Data Centers. 12. UNFINISHED BUSINESS 13. COUNTY ATTORNEY’S MATTERS 14. EXECUTIVE SESSION 15. PUBLIC FORUM 16. ANNOU …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/27/bf/27bf4211f0a5450667c86ef6a606b0e5.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -6432,6 +6534,31 @@
   },
   {
    "topic": "data-center",
+   "placeId": "union",
+   "placeName": "Union County",
+   "placeType": "county",
+   "fips": "13291",
+   "region": null,
+   "date": "2026-04-16",
+   "body": "Sole Commissioner",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.unioncountyga.gov/AgendaCenter/ViewFile/Agenda/_04162026-171",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -6475,6 +6602,31 @@
    "excerpt": "… approve the UZO text amendments by amending and by adding new definitions for \"Biohazard Waste,\" \"Biological Waste,\" \"Data Center,\" and \"Hazardous Waste;\" by revising Section 4-6-13 for additional requirements for biological, biohazard and hazardou …",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.whitfieldcountyga.com/BOC%20Regular%20Business%20Meeting%20April%2013,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-04-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… f CN and I-2. The proposed text amendment addresses zoning only and does not regulate anything else regarding data centers (i.e. power, water, etc…). (04/28/26 – Regular Meeting) Chairman Thaxton called for a Motion. Motion was made b …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20April%2028,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -6642,6 +6794,31 @@
    "excerpt": "… Ordinance to be amended by amending by adding new definitions for \"Biohazard Waste,\" \"Biological Waste,\" \"Data Center,\" and \"Hazardous Waste;\" by revising Section 4-6-13 for additional requirements for biological, biohazard …",
    "excerptTerm": "data center",
    "sourceUrl": "https://www.whitfieldcountyga.com/Documents/Government/BOC%20Meeting%20Minutes/BOC%20Meetings%202026/BOC%20Regular%20Business%20Meeting%20March%209,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "data-center",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-03-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "data center"
+   ],
+   "tags": [],
+   "excerpt": "… 71A). Second by Commissioner Liles. Motion passed unanimously. 2. Consider an Ordinance Amendment to add “Chapter 33 – Data Centers” to the official County Code of Ordinances regulating any future data centers. The purpose of this chapter is t …",
+   "excerptTerm": "data center",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20March%2003,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -7012,6 +7189,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "clarke",
+   "placeName": "Athens-Clarke County",
+   "placeType": "consolidated",
+   "fips": "13059",
+   "region": "Northeast Georgia",
+   "date": "2026-12-10",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan"
+   ],
+   "tags": [
+    "comprehensive-plan"
+   ],
+   "excerpt": "… November 5, 2026 Planning Commission meeting minutes 3. MACORTS review and public comment DISCUSSION ITEMS 1. 2028 Comprehensive Plan – Overview of Timeline and Process 2. Community Benefit Agreements – Overview OTHER BUSINESS 1. Planning Commission …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_12102026-3154",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "carroll",
    "placeName": "Carroll County",
    "placeType": "county",
@@ -7094,6 +7298,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "hall",
+   "placeName": "Hall County",
+   "placeType": "county",
+   "fips": "13139",
+   "region": "Northeast Georgia",
+   "date": "2026-12-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… nutes 1 Approve the November 16, 2026 Planning Commission Meeting Minutes Other Business 2 Training: Variances. Staff to conduct additional training review of variances prior to hearing further business. New Business 3 …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://nyc3.digitaloceanspaces.com/hall-county-agenda-pub/media/pdfs/agenda-list-MG-363-vm-20261125140511336009.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -7118,6 +7349,62 @@
    "excerpt": "… obtain various material-handling units, including forklifts and narrow aisle equipment, for use at treatment plants and warehouse. Awarded to HD Hyundai Construction Equipment North America, Inc. Amount Not To Exceed: $600,000.00. Resolution",
    "excerptTerm": "warehouse",
    "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4499&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "columbia",
+   "placeName": "Columbia County",
+   "placeType": "county",
+   "fips": "13073",
+   "region": "East Georgia",
+   "date": "2026-12-03",
+   "body": "Planning Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… . Commission District 2. Staff Assignment Will Butler. b. Public Hearing 1. (H1b1) RZ26-12-01, Rezoning from R-3 (Single Family Residential) to P-1 (Professional), 244 Flowing Wells Road, Tax Map …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13969,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "fulton",
+   "placeName": "Fulton County",
+   "placeType": "county",
+   "fips": "13121",
+   "region": "Metro Atlanta",
+   "date": "2026-12-02",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "multifamily"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… y neighborhood by approving a grant from funds previously set aside to aid in the construction of a 200-unit affordable multifamily development, and for other purposes. (Barrett) (HELD ON 11/18/26) Commissioners Action Item",
+   "excerptTerm": "multifamily",
+   "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6401&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -7225,14 +7512,19 @@
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
-    "slup"
+    "land use permit",
+    "rezon",
+    "slup",
+    "variance"
    ],
    "tags": [
-    "special-land-use"
+    "rezoning",
+    "special-land-use",
+    "variance"
    ],
-   "excerpt": "… 7. Z-52-2026 District 2 - 465 Big Shanty Road 8. LUP-35-2026 District 4 - 448 Hurt Road 9. SLUP-9-2026 District 2 - 114 Townpark Drive 10. SLUP-11-2026 District 2 - 465 Big Shanty Road Regular Cases – New …",
-   "excerptTerm": "slup",
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10363,plainText=false)",
+   "excerpt": "… COBB COUNTY PLANNING COMMISSION ZONING HEARING CONSENT AGENDA December 1, 2026 Rezoning Cases Z-54 KIRKWOOD PRESBYTERIAN CHURCH, INC. (Kirkwood Presbyterian Church, Inc., Owner) reques …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10371,plainText=false)",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -7271,6 +7563,66 @@
   },
   {
    "topic": "land-use",
+   "placeId": "bibb",
+   "placeName": "Macon-Bibb County",
+   "placeType": "consolidated",
+   "fips": "13021",
+   "region": "Middle Georgia",
+   "date": "2026-12-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3784,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "bibb",
+   "placeName": "Macon-Bibb County",
+   "placeType": "consolidated",
+   "fips": "13021",
+   "region": "Middle Georgia",
+   "date": "2026-12-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "multi-family",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3786,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "lowndes",
    "placeName": "Lowndes County",
    "placeType": "county",
@@ -7291,6 +7643,37 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_11302026-578",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "thomas",
+   "placeName": "Thomas County",
+   "placeType": "county",
+   "fips": "13275",
+   "region": "South Georgia",
+   "date": "2026-11-24",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "apartment",
+    "multi-family",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://thomascountyboc.org/uploads/files/96/82/9682968b146ad9fcd80fac65f371a22d.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -7403,35 +7786,6 @@
    "excerpt": "… er 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1683-26, Rezoning of Tax Map 20D Parcel 238 and Tax Map 21B Parcel 84 (382 Foster Road, 14/34 Foster Road) from R-1 to PUD …",
    "excerptTerm": "rezon",
    "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&clip_id=267",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
-   "placeId": "catoosa",
-   "placeName": "Catoosa County",
-   "placeType": "county",
-   "fips": "13047",
-   "region": "Northwest Georgia",
-   "date": "2026-11-24",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… er 2. Set Agenda 3. Minutes 4. Reports 5. Old Business 6. New Business 6.1 Zoning Case #1683-26, Rezoning of Tax Map 20D Parcel 238 and Tax Map 21B Parcel 84 (382 Foster Road, 14/34 Foster Road) from R-1 to PUD …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://catoosaga.granicus.com/AgendaViewer.php?view_id=1&event_id=231",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -7818,6 +8172,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "union",
+   "placeName": "Union County",
+   "placeType": "county",
+   "fips": "13291",
+   "region": null,
+   "date": "2026-11-19",
+   "body": "Sole Commissioner",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.unioncountyga.gov/AgendaCenter/ViewFile/Agenda/_11192026-206",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "henry",
    "placeName": "Henry County",
    "placeType": "county",
@@ -7847,6 +8228,35 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2700,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-11-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… d Media, LLC, Burbank, CA. (B. Sipe) REPORT 5. FP-26-10 Steeplechase West (fka: Chanslor West) Final Plat: Consider the subdivision approval of a 12.86-acre parcel to create a 33-unit duplex residential subdivision, Steeplechase West (fka Chanslor Wes …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1038",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -9164,6 +9574,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-11-16",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation"
+   ],
+   "tags": [
+    "annexation"
+   ],
+   "excerpt": "… on, Wellness and Transportation Services to Habersham County Senior Center i. Consider/Approve Ratification of the Annexation Dispute Joint Final Order for Cook Construction and Real Estate’s Application for Annexation of Tax Parcels 050 …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5223_00%20Agenda%20for%2011.16.26%20BOC%20Meeting.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "douglas",
    "placeName": "Douglas County",
    "placeType": "county",
@@ -10025,6 +10462,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-11-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… – Jo Ann Smith, with Southeastern Property Acquisitions, LLC Public Hearing in consideration of a request to rezone approximately 13.15 acres from R-1 (Single- Family Residential District) to C-2 (General Commercial District …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/c9/ea/c9ea8f357bcb506d1bfa73f8227399cf.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -10168,7 +10632,7 @@
     {
      "reference": "26-O-1479",
      "outline": null,
-     "name": "****AN ORDINANCE BY COUNCILMEMBER BYRON D. AMOS TO AMEND CHAPTER 14, (AMUSEMENTS AND ENTERTAINMENTS), ARTICLE V TO ENACT ORDINANCES AUTHORIZED BY STATE LAW AT OCGA SEC. 50-27-86 RELATED TO THE OPERATION OF BONA FIDE COIN OPERATED AMUSEMENT MACHINES (COAMS); AND TO AMEND CHAPTER 10, ARTICLE II,…",
+     "name": "****AN ORDINANCE BY COUNCILMEMBER BYRON D. AMOS AS SUBSTITUTED BY FINANCE/EXECUTIVE COMMITTEE TO AMEND CHAPTER 14, (AMUSEMENTS AND ENTERTAINMENTS), ARTICLE V TO ENACT ORDINANCES AUTHORIZED BY STATE LAW AT OCGA SEC. 50-27-86 RELATED TO THE OPERATION OF BONA FIDE COIN OPERATED AMUSEMENT MACHINES…",
      "motions": [
       {
        "motion": null,
@@ -10240,7 +10704,7 @@
     }
    ],
    "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4173&Inline=True",
-   "minutesDraft": true
+   "minutesDraft": null
   },
   {
    "topic": "land-use",
@@ -10521,6 +10985,33 @@
      ]
     }
    ],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-11-05",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… tion in this process will be greatly appreciated. 9. ZM-26-18—The Landing on Frederica (formerly The Hub at St. Simons) Rezone: Consider a request to rezone approximately 7.17 acres from an existing PD, Planned Development (GC-24-85; GC-17-71), …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1029",
+   "followThrough": null,
+   "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
   },
@@ -13340,6 +13831,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-10-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… Repair Shop b. Map Amendment Application Z-26-01: Applicant Jonathan Smith Requests Map Amendment to Rezone 5.82 Acres from AG, Agricultural District to SR, Suburban District at 2101 Cody Road (Parcel 130 187D) c. …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5222_0%20Agenda%20for%2010.19.26%20BOC%20Meeting.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "douglas",
    "placeName": "Douglas County",
    "placeType": "county",
@@ -13878,6 +14396,37 @@
   },
   {
    "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-10-15",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… ideration of a rezoning request from Medium Residential (MR) to Planned Development (PD) for the development of a 7-lot subdivision at 113, 115, and 117 Village Cir. Parcels 03-01968, 03-01969, and 03-01970. Sam Massad, agent for Jose Ortiz-Gonzalez, …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1024",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -14390,6 +14939,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use",
+    "variance"
+   ],
+   "tags": [
+    "special-land-use",
+    "variance"
+   ],
+   "excerpt": "… 0-84(7) to allow placement beyond the front line of the house. C) Z26-015 – Sharemer and Kunaya Jones Conditional Use Public Hearing in consideration of a conditional use request under Section 70-243(b) to operate a h …",
+   "excerptTerm": "conditional use",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/41/7b/417b8bd261d7c60d8e38605cf62271eb.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "floyd",
    "placeName": "Floyd County",
    "placeType": "county",
@@ -14867,6 +15445,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-10-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… 7. PUBLIC HEARING 8. DEPARTMENTAL MATTERS A) Planning, Zoning & Engineering - Consideration to approve variance requests (Z26-014 - Paula Carter) from Sections 70-84(2) and 70-84(7) to allow an 18-foot by 20-foot carport …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/9f/0c/9f0c386d281585d24acff473d8338df1.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "fulton",
    "placeName": "Fulton County",
    "placeType": "county",
@@ -14948,6 +15553,33 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/10/BOC-minutes-10.6.26.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… les voted against. 4. V26-09: Consider request from Teresa Motes represented by Prime Tower Development LLC for variance on property located at 43 Rome Road, Aragon, requesting 350’ relief from cell tower setback as well as 40’ relief fr …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20October%2006,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -16092,6 +16724,35 @@
    "excerpt": "… located on Buckhead Road (Tax Parcels 044-045 and 043-058). II. Evan Bowles, on behalf of Inman Solar, is requesting conditional use approval for a 35 acres solar farm located on Buckhead Road (Tax Parcels 044-045 and 043-058). III. Morgan …",
    "excerptTerm": "conditional use",
    "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_10012026-880",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-10-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… gacy Ventures, LLC to Glynn County for Tax Parcel 03-01928, being the approximately 1.02-acre “Park” in the Glynn Marsh Subdivision located at 92 Glynnmarsh Court, and authorize the Chairman to execute any documents necessary to accept and record the …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1021",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -17463,6 +18124,62 @@
   },
   {
    "topic": "land-use",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-09-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.polkga.org/Documents/Departments/Public%20Works/Public%20Works%20Committee%20Minutes%20September%2017,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-09-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… Administration (FTA) grant application. (S. Leif) REPORT 7. FP-25-16 - Delta Crossing Phase 1 Final Plat: Consider the subdivision approval of a 26-acre parcel to plat public rights-of-way, including acceptance of a deed for dedication of rights-of-w …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1017",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -18643,6 +19360,37 @@
   },
   {
    "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-09-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use",
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "rezoning",
+    "special-land-use",
+    "variance"
+   ],
+   "excerpt": "… display in the T. Page Tharp Governmental Building. 7. PUBLIC HEARING A) Z26-008 – Palmyra Development, LLC Rezoning, Revised Public Hearing in consideration of a revised request to rezone approximately 21.16 acres on Ledo …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/3f/5a/3f5aad3846c2b74e72721a07b909bead.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "floyd",
    "placeName": "Floyd County",
    "placeType": "county",
@@ -19033,6 +19781,37 @@
   },
   {
    "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-09-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… operties, LLC, and Michael and Victoria Woodard, owners. (C. Cary) (4-0-1 Kevin Higgins abstained) REPORT 12. TA-26-3 – Subdivision Regulations Text Amendment: Consideration of a County-initiated amendment to modify Sec. 4.1 in the Subdivision Regulat …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1008",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -19178,6 +19957,33 @@
    "excerpt": "… eting 9/1/2026 12.1. Intergovernmental Contract - City of Monroe - Development Services/Annexation - Dycom Industries, Inc. 12.2. Georgia Power Easements - 550 Fairplay Drive, Parcel SC160007 and Fairpla …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-a7cc0316a1f04a92abd7c379dc66ba55.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-09-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… mously. NEW BUSINESS 1. V26-07: Consideration of request from FSP Cedartown, LLC represented by Brandon Crim for a variance to reduce the minimum mobile home size located at 1319 McKibben Street, Cedartown (Parcel: 025C-144). Planning Commi …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20September%2001,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -21412,6 +22218,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-08-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "conditional use"
+   ],
+   "tags": [
+    "annexation",
+    "special-land-use"
+   ],
+   "excerpt": "… el 108 031D) from the City of Demorest d. Discussion Regarding Cook Construction and Real Estates Application for Annexation of 45 Acres of Property (Parcel 050 002C, 050 047B, 048 022, 048 022A and 048 023) into the City of Baldwin AD …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5220_0%20Agenda%20for%2008.17.26%20BOC%20Meeting.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "douglas",
    "placeName": "Douglas County",
    "placeType": "county",
@@ -21688,6 +22523,37 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_08112026-567",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-08-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… Page 1 of 81 Oaks Phase 1A Subdivision. D) Planning, Zoning & Engineering - Review of the minutes from the June 4, 2026 Planning Commiss …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/db/51/db5165bcf381bf592ff338a8ac3954d4.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -22211,6 +23077,36 @@
   },
   {
    "topic": "land-use",
+   "placeId": "union",
+   "placeName": "Union County",
+   "placeType": "county",
+   "fips": "13291",
+   "region": null,
+   "date": "2026-08-06",
+   "body": "Sole Commissioner",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "mixed use",
+    "variance",
+    "warehouse"
+   ],
+   "tags": [
+    "development",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.unioncountyga.gov/AgendaCenter/ViewFile/Agenda/_08062026-191",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -22231,6 +23127,33 @@
    "excerpt": "… ties. IV. Morgan County Planning and Development is requesting a text amendment to Table 4.1 Permitted and Conditional Uses of the Morgan County Zoning Ordinance. ADJOURNMENT I. The chairman will adjourn the meeting.",
    "excerptTerm": "conditional use",
    "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_08062026-868",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-08-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… l funds and $38,127.80 as the local match to be met by in-kind staff time. (S. Leif) REPORT 7. FP-26-8 - Marshall Place Subdivision Final Plat: Approve the final plat for the subdivision of an approximately 0.393-acre tract into 12 single-family lots …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=996",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -22452,6 +23375,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-08-05",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… Department of the Interior for the creek gauges. B) Planning, Zoning & Engineering - Consideration to approve variance Z26-007 – Gerard McClave from Section 70-314 to reduce the required front setback from 100 feet to 35 feet f …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/1c/9f/1c9f30ba54ea2b1174ac743902060595.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "fulton",
    "placeName": "Fulton County",
    "placeType": "county",
@@ -22529,6 +23479,33 @@
    "excerpt": "… ed. 7.3. Z26-0156 - Rezone 7.486 acres from A2 to B2 for a convenience store with fuel pumps and office warehouse/contractor storage buildings - Applicant/Owner: 81 Investment Company, LLC - property located at 5187 Highway …",
    "excerptTerm": "warehouse",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/waltonco-pubu/MEET-Agenda-06a373545b924ab598e8e78259dfb704.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-08-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… eeting of July 07, 2026. Second by Commissioner Liles. Motion passed unanimously. NEW BUSINESS 1. V26-06: Consider variance request from David Brock for seven foot relief from side setback requirement in a R-1 zone on property located at 36 …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20August%2004,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -24432,6 +25409,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-07-20",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation",
+    "rezon"
+   ],
+   "tags": [
+    "annexation",
+    "rezoning"
+   ],
+   "excerpt": "… d Implement the FLOST, and for Other Purposes c. Discussion on Notice of Rezoning Request Pursuant to Accepted Annexation Petition Submitted by Cook Construction and Real Estate to the City of Baldwin for the Purpose of Rezoning 6 …",
+   "excerptTerm": "annexation",
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5219_0%20Agenda%20for%2007.20.26%20BOC%20Meeting.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "dawson",
    "placeName": "Dawson County",
    "placeType": "county",
@@ -25358,6 +26364,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-07-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20July%2007,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "oconee",
    "placeName": "Oconee County",
    "placeType": "county",
@@ -25797,6 +26832,38 @@
    "excerpt": "… ESS: There is no unfinished business. NEW BUSINESS: I. Richard Massey is requesting conditional use approval to allow a family burial plot on 313.2 acres located at 1300 Holstein Road (Tax Parcel …",
    "excerptTerm": "conditional use",
    "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_07022026-859",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-07-02",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use",
+    "mixed use",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": "… mere Road. (D. Smith) REPORT 12. FP-26-7 - The Lakes at North Glynn, Phase 3 Final Plat: Approve the final plat for the subdivision of an approximately 43-acre tract into 76 lots to be named The Lakes at North Glynn, Phase 3. Property is located at 80 …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=982",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -26495,6 +27562,35 @@
    "excerpt": "… omprehensively regulates zoning districts, permitted and conditional uses, development standards, subdivision regulations, environmental protections, stormwater management, buffers, tree protection, administrative proc …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/06/PC-Special-Called-Mtg-Agenda-6.18.26.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-06-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… eeting held on June 4, 2026, subject to any necessary corrections. (R. Vakulich) REPORT 3. FP-26-3 - West Point Phase V Subdivision Final Plat: Approve the final plat for the subdivision of an approximately 118-acre tract into 16 single-family lots to …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=975",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -27216,6 +28312,37 @@
   },
   {
    "topic": "land-use",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-06-15",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use",
+    "multi-family",
+    "rezon"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": "… r Residential Developments of Five Lots or More and Rezoning to the Residential Single Family (LI-R), Residential Multi-Family (MI-R), and Planned Development (PD) Land Use Districts b. Consider/Approve Award of RFP 2026-08 for Airport …",
+   "excerptTerm": "multi-family",
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5218_0%20Agenda%20for%2006.15.26%20BOC%20Meeting.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "covington",
    "placeName": "City of Covington",
    "placeType": "city",
@@ -27441,6 +28568,38 @@
    "excerpt": "… n boundaries of a district located at 2458 and 2464 Martha’s Loop (parcel # 085-054017A/026) from Residential Multifamily 2 (RMF2) Zoning District to Single Family Residential – 4 (SFR4) Zoning District. (Planning Department and PAC rec …",
    "excerptTerm": "multifamily",
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/columga-pubu/MEET-Agenda-c2a149bd3e1048afbc51e7a88341041b.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-06-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use",
+    "mixed use",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": "… .83 acres located at 195 Stocks Dairy Road (Parcel No. 062A 094) from R-1 (Single-Family Residential) to R-3 (Mixed Use, Single-Family Residential). Staff recommended approval, with the following conditions: Only one manufactured …",
+   "excerptTerm": "mixed use",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/33/fa/33fabcc5770b1affc297a4453f24e89a.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -27816,6 +28975,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-06-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "variance"
+   ],
+   "excerpt": "… ity seat. The term begins July 1, 2026, and expires June 30, 2029. (R. Vakulich) REPORT 3. FP-26-3 - West Point Phase V Subdivision Final Plat: Approve the final plat for the subdivision of an approximately 118-acre tract into 16 single-family lots to …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=969",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "carroll",
    "placeName": "Carroll County",
    "placeType": "county",
@@ -27837,6 +29025,36 @@
    "excerptTerm": null,
    "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2928,plainText=false)",
    "followThrough": "no-results",
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-06-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "mixed use",
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… .83 acres located at 195 Stocks Dairy Road (Parcel No. 062A 094) from R-1 (Single-Family Residential) to R-3 (Mixed Use, Single-Family Residential). Staff recommended approval, with the following conditions: Only one ma …",
+   "excerptTerm": "mixed use",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/e7/d4/e7d4d8fc70d8c45ed13b73da36aa8df3.pdf",
+   "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
@@ -29183,6 +30401,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-05-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use"
+   ],
+   "tags": [
+    "special-land-use"
+   ],
+   "excerpt": "… ed for the proponent of the matter if time remains in the originally allotted ten (10) minutes. a. Conditional Use Application CU-26-02: William Gary Seeking Conditional Use to Build and Operate a Self-Storage and Boat/RV Storag …",
+   "excerptTerm": "conditional use",
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5217_0%20Agenda%20for%2005.18.26%20BOC%20Meeting.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "covington",
    "placeName": "City of Covington",
    "placeType": "city",
@@ -29416,6 +30661,33 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_05122026-556",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-05-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… resent on the Lee County Transit Development Plan. 7. PUBLIC HEARING A) Z26-004 – Lexwig, LLC: Request for a variance from Section 38-319(b)(1) to allow a cul-de-sac length of approximately 1,500 feet where 800 feet is permitte …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/a3/ae/a3aee1e9b6665b23faf8b04eca92763c.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -29830,6 +31102,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-05-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use",
+    "rezon"
+   ],
+   "tags": [
+    "rezoning",
+    "special-land-use"
+   ],
+   "excerpt": "… . Indigo Blue Property and Design LLC, applicant. (J. Hartman) REPORT PUBLIC HEARING - LAND USE 23. ZM-26-2 – 610 Canal Rezone: Consideration of a change of zoning from Forest Agriculture (FA) to Highway Commercial (HC) for the purpose of commer …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=954",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "carroll",
    "placeName": "Carroll County",
    "placeType": "county",
@@ -29851,6 +31152,33 @@
    "excerptTerm": null,
    "sourceUrl": "https://carrollcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2922,plainText=false)",
    "followThrough": "no-results",
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-05-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… C HEARING 8. DEPARTMENTAL MATTERS A) Planning, Zoning & Engineering - Consideration to approve a request for variance (Z26-004 – Lexwig, LLC) from Section 38-319(b)(1) to allow a cul-de-sac length of approximately 1,500 feet …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/27/bf/27bf4211f0a5450667c86ef6a606b0e5.pdf",
+   "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
@@ -30753,6 +32081,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-04-16",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… gin July 1, 2026, and expire June 30, 2029. (V. DiCristofalo) REPORT 4. FP-26-1 Altama Phase 1 Final Plat: Consider the subdivision approval of a 231-acre parcel to create a 159-lot residential subdivision, Altama Phase 1, including acceptance of two …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=939",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "fulton",
    "placeName": "Fulton County",
    "placeType": "county",
@@ -30861,6 +32218,33 @@
    "excerpt": "… SOUTH REGIONAL JOINT DEVELOPMENT AUTHORITY APPOINTMENTS.HTML 7. Public Hearing a. REZ-2026-08 Cedar Subdivision, White Water Rd, Cedar Rd, & Madison Hwy, ~184ac, R-1, C-G, & C-H To R-10 & C-H, County Utilties Documents: …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_04142026-552",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-04-14",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… ioners meeting. 5. CONSENT AGENDA 6. NEW BUSINESS 7. PUBLIC HEARING A) Case #Z26-002 – Johnstone Supply Variance (Oxford Business Park) 6 - 16 Request for a variance from Section 70-384 of the Lee …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/85/25/85256d15096472867fee79dacb0e3ecc.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -31080,6 +32464,62 @@
    "excerpt": "… esolve all nonconformities. The subject property lies within an area designated for Low Density Residential uses on the Future Land Use Plan map. This request conforms to the Fayette County Future Land Use Plan, in that the proposed zoning is a less inten …",
    "excerptTerm": "future land use",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/04-09-2026%20BOC%20Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-04-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20April%2028,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-04-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… Zoning & Engineering - Consideration to approve Case #Z26-002 – 9 - 19 Johnstone Supply Variance (Oxford Business Park), a request for a variance from Section 70-384 of the Lee County Code of Ordinances to …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/73/86/738663aff6d25b64d462d68c08cd0297.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -31312,6 +32752,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-04-02",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… mproved area on the southeast boundary of Parcel 04-02484. (J. Hartman) REPORT PUBLIC HEARING - LAND USE 14. TA-25-03 - Subdivision Regulations Rewrite: To repeal in its entirety the existing Glynn County Subdivision Regulations and adopt new Glynn Co …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=929",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "fort-oglethorpe",
    "placeName": "City of Fort Oglethorpe",
    "placeType": "city",
@@ -31336,6 +32803,37 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/2026.4.2-PAB-Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-03-31",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "variance"
+   ],
+   "excerpt": "… he Fire Department. Second by Commissioner Liles. Motion passed unanimously. 8. Consider approval of the “Combined Subdivision Participation and Release Form” regarding the ongoing Opioid Settlement Program. Chairman Thaxton called for a …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20March%2031,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -31528,6 +33026,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-03-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": "… 4207 Eleventh St, St. Simons Island, GA. (J. Hartman) REPORT PUBLIC HEARING - LAND USE 25. ZM-26-1 – 3721 Hardee Avenue Rezone: Consideration of a change of zoning for a 0.183-acre portion of a 0.47-acre parcel from General Industrial (GI) to On …",
+   "excerptTerm": "rezon",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=924",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "carrollton",
    "placeName": "City of Carrollton",
    "placeType": "city",
@@ -31580,36 +33105,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3430,plainText=false)",
-   "followThrough": "not-in-minutes",
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
-   "placeId": "bibb",
-   "placeName": "Macon-Bibb County",
-   "placeType": "consolidated",
-   "fips": "13021",
-   "region": "Middle Georgia",
-   "date": "2026-03-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "apartment",
-    "subdivision",
-    "variance"
-   ],
-   "tags": [
-    "development",
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3428,plainText=false)",
    "followThrough": "not-in-minutes",
    "outcomes": [],
    "minutesUrl": null,
@@ -32057,6 +33552,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-03-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… of February 03, 2026. Second by Commissioner Gravett. Motion passed unanimously. NEW BUSINESS 1. V26-02: Consider variance request from Jason Lemley for relief from 40’ greenbelt buffer, solid privacy fence, and paved parking in a C-1 zone …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20March%2003,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "oconee",
    "placeName": "Oconee County",
    "placeType": "county",
@@ -32470,6 +33992,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-02-10",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "variance"
+   ],
+   "excerpt": "… neering - Consideration to adopt a resolution granting final approval for the Woodlands at Oakland, Section I Subdivision and accepting deed of rights-of-way, easements, roads, and water system infrastructure. C) Public Wor …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/40/19/40196ec971647eed7baff0cbe45a8f31.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "floyd",
    "placeName": "Floyd County",
    "placeType": "county",
@@ -32809,6 +34360,62 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://fortogov.com/wp-content/uploads/2020/07/2026.1.16.-Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-02-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "variance"
+   ],
+   "excerpt": "… Engineering - Consideration to adopt a resolution granting final approval for Oxford Business Park Commercial Subdivision and accepting the deeds of rights-of-way, easements, roads, and water system infrastructure. …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/82/df/82dfedfd57a5507b874d7d5197765dcb.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-02-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "variance"
+   ],
+   "tags": [
+    "variance"
+   ],
+   "excerpt": "… d by Commissioner Floyd. Motion passed unanimously. NEW BUSINESS 1. V26-01: Request from Joseph Dewitt Crocker for variance on property located at 816 N. Bellview Road, Aragon (Parcel 047-172) requesting 10’ relief from rear setback requ …",
+   "excerptTerm": "variance",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20February%2003,%202026docx.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -33202,6 +34809,39 @@
   },
   {
    "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-01-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use",
+    "multi-family",
+    "rezon",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "special-land-use",
+    "variance"
+   ],
+   "excerpt": "… The subject property is owned by Whisperwood Oakland, LLC., consists of 38.760 acres, and is presently zoned R-2 (Multi-Family Residential District). The property is located off Oakland Parkway, Parcel Number 017D004, and in Land Lots 219, 2 …",
+   "excerptTerm": "multi-family",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/f9/8d/f98d9b2debe99d6305cfb0273a380c1f.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "whitfield",
    "placeName": "Whitfield County",
    "placeType": "county",
@@ -33321,6 +34961,33 @@
    "excerpt": "… arkway. Commissioner Maxwell seconded. The motion passed 4-0. Commissioner Oddo was absent. 13. Consideration of an Annexation Notification from the City of Fayetteville regarding a request to annex 9 parcels, Parcels #0704 039; 0704 048; …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/01-08-2026%20BOC%20Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-01-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… ng, Zoning & Engineering - Consideration to adopt a resolution granting final approval for Buck Run Section 6 Subdivision and accepting deeds of rights-of-way, easements, roads, and water system infrastructure. 9. CONSTITUTIONAL …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/3a/e0/3ae06a2d4f1ed5821a92ecc119dbdcee.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -33732,6 +35399,68 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "bibb",
+   "placeName": "Macon-Bibb County",
+   "placeType": "consolidated",
+   "fips": "13021",
+   "region": "Middle Georgia",
+   "date": "2026-12-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "local option sales tax",
+    "millage",
+    "olost",
+    "referendum",
+    "splost",
+    "tax rate"
+   ],
+   "tags": [],
+   "excerpt": "… e. An Ordinance Of The Macon-Bibb County Commission To Authorize Transfers And Appropriations Of 2018 SPLOST Funds For The Completion Of The Law Enforcement Center Expansion And Upgrade Project As Provided Herein; …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3784,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "bibb",
+   "placeName": "Macon-Bibb County",
+   "placeType": "consolidated",
+   "fips": "13021",
+   "region": "Middle Georgia",
+   "date": "2026-12-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "local option sales tax",
+    "millage",
+    "olost",
+    "referendum",
+    "splost",
+    "tax rate"
+   ],
+   "tags": [],
+   "excerpt": "… er, Mayor) p. An Ordinance Of The Macon-Bibb County Commission To Authorize Transfers And Appropriations Of 2018 SPLOST Funds For The Completion Of The Law Enforcement Center Expansion And Upgrade Project As Provided Herein; (Spo …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3786,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "meriwether",
    "placeName": "Meriwether County",
    "placeType": "county",
@@ -33801,6 +35530,31 @@
    "excerpt": "… AN AMOUNT NOT TO EXCEED FOUR MILLION DOLLARS AND ZERO CENTS ($4,000,000.00), FROM THE PARKS MILLAGE FUND TO SUPPORT THE DESIGN AND CONSTRUCTION OF THE IMPROVEMENTS; AND FOR SUCH …",
    "excerptTerm": "millage",
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3968&Inline=True",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-11-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… lti-Use Facility (Emergency Operations Center) in the amount of $13,789,763 with $10,582,110 in funding provided by the SPLOST 2022 fund and $3,207,653 in funding provided by the SPLOST 2022 Tier 2+ (additional collections), with an advance from …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1038",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -34613,7 +36367,7 @@
     }
    ],
    "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4173&Inline=True",
-   "minutesDraft": true
+   "minutesDraft": null
   },
   {
    "topic": "local-taxes",
@@ -34938,6 +36692,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://thomascountyboc.org/uploads/files/03/3a/033a308ceedbe955262981a1d6de3a85.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-11-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… e Commercial Pumper (demo model) from sole source provider, Ten-8, in the amount of $550,000.00 to be funded by 2020 SPLOST. Approved. [Vote: unanimous] 8. Consideration of a recommendation from the Public Works Committee for the acceptanc …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Board%20Actions%20November%2003,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -36417,6 +38196,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-10-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… missioner, District 5 1. CALL TO ORDER 2. NEW BUSINESS A) Consideration to approve the 2026 millage rate established by the Lee County Board of Education. B) Consideration to adopt a resoluti …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/a8/2c/a82c32f39cb46e242e74c837cc5bf3ea.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "douglas",
    "placeName": "Douglas County",
    "placeType": "county",
@@ -36600,6 +38404,31 @@
      ]
     }
    ],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-10-15",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… ional A/E services related to the St. Simons Island Gateway Project, in the amount of $97,596, with funding provided by SPLOST 2022. (R. Talbert) REPORT 4. Authorize the issuance of a purchase order to South Western Communications, Inc., for touc …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1024",
+   "followThrough": null,
+   "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
   },
@@ -36800,6 +38629,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/pauldingga-pubu/MEET-Agenda-88aa4905a5944413b6afbae04cdca768.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-10-13",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… meeting. 5. CONSENT AGENDA 6. NEW BUSINESS 7. PUBLIC HEARING A) A Public Hearing will be held for the millage rate. B) Z26-014 – Paula Carter Variances Public Hearing in consideration of variance requests from S …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/41/7b/417b8bd261d7c60d8e38605cf62271eb.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -37192,6 +39046,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.rockdalecountyga.gov/wp-content/uploads/2026/10/BOC-minutes-10.6.26.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-10-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20October%2006,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -37974,6 +39853,56 @@
      ]
     }
    ],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "union",
+   "placeName": "Union County",
+   "placeType": "county",
+   "fips": "13291",
+   "region": null,
+   "date": "2026-10-01",
+   "body": "Sole Commissioner",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… lution R-2026-43 Adopt Resolution R-2026-43 to set the 2026 Millage Rate for Union County’s maintenance and operation at 3.842. 2. Adjourn I …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.unioncountyga.gov/AgendaCenter/ViewFile/Agenda/_10012026-201",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-10-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… , authorizing a structural precast concrete early release package in the amount of $1,785,000, with funding provided by SPLOST 2022. (R. Talbert) Clerk's Note: On October 1, 2026, an updated Authorization to Proceed with Early Release Work and Ex …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1021",
+   "followThrough": null,
+   "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
   },
@@ -38906,6 +40835,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-09-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… e submission of the CDBG-DR grant application, adopt a resolution committing $500,000 to be funded with additional 2022 SPLOST collections, and accept the related grant forms and documents. (M. Hardin) REPORT 4. Approve the Memorandum of Agreemen …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1017",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "baldwin",
    "placeName": "Baldwin County",
    "placeType": "county",
@@ -39764,6 +41718,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-09-08",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… to move forward. NEW BUSINESS/MANAGER’S REPORT/ FINANCE REPORT: County Manager Denton informed the Committee that the Millage Rate information has been provided to Tax Commissioner Lindsey to be submitted to the state. He also informed them of a …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Finance/Finance%20Committee%20Minutes%20September%2008,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "paulding",
    "placeName": "Paulding County",
    "placeType": "county",
@@ -39995,6 +41974,31 @@
    "excerpt": "Discussion: Update on Submission of 2026 Tax Digest (Ellis) (DISCUSSED) Commissioners Presentation/Discussion",
    "excerptTerm": "tax digest",
    "sourceUrl": "https://fulton.legistar.com/MeetingDetail.aspx?LEGID=6394&GID=817&G=197058BF-F352-4423-BE44-04DFABBD8188",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-09-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… (1) 2025 Ford Explorer from Prater Ford for the Sheriff’s Office in the amount of $43,117.00 to be funded from 2020 SPLOST. Chairman Thaxton called for a Motion. Motion was made by Commissioner McElwee to approve the resolution for t …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20September%2001,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -40437,6 +42441,32 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-08-27",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": "… STREET, 2ND FLOOR CONFERENCE ROOM, ROOM 224 THURSDAY, AUGUST 27, 2026 AT 2:00 PM INVOCATION AND PLEDGE PUBLIC HEARING - MILLAGE RATE 1. Receive citizen comments regarding the proposed 2026-27 millage rates, consider adopting a resolution to establ …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1005",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -40608,6 +42638,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_08252026-569",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-08-25",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "homestead exemption"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5307_08.25.26%20BOA%20Minutes.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -40852,6 +42907,32 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-08-20",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "millage",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… ooperative procurement contract exemption (GA State Contract), in the amount of $161,850 with funding to be provided by SPLOST 2022-Tier 2, with an advance from the Capital Projects MY Fund, as approved in the FY27 adopted capital budget. (S. Rob …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1003",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "dawson",
    "placeName": "Dawson County",
    "placeType": "county",
@@ -41051,6 +43132,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.houstoncountyga.gov/minutes/2026-08-18%20Department%20Heads.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-08-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… ecovery associated with hazardous material incidents, and for other purposes. (V. DiCristofalo) REPORT PUBLIC HEARING - MILLAGE RATE 3. Receive citizen comments regarding the proposed 2026-27 millage rate. (T. Munson) Clerk's Note: The supporting …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=1001",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -41320,6 +43426,32 @@
    "excerpt": "… carried 6-0-0. REGULAR AGENDA VII. Tax Commissioner A. Public Hearing and Adoption: 2026-2027 Millage Rate (Presenter: Michael Harris, Tax Commissioner)(Exhibit 7) Commissioner Lewis ma …",
    "excerptTerm": "millage",
    "sourceUrl": "https://henrycoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2619,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-08-17",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "general obligation bond",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": "… Page 2 of 3 b. Consider/Approve Resolution Authorizing Approximately $50,200,000 Of The County's General Obligation Bonds, Series 2026; The Approval Of A Bond Purchase Agreement; Naming Of A Bond Register And Paying Agent; Establish …",
+   "excerptTerm": "general obligation bond",
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5220_0%20Agenda%20for%2008.17.26%20BOC%20Meeting.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -41901,6 +44033,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "union",
+   "placeName": "Union County",
+   "placeType": "county",
+   "fips": "13291",
+   "region": null,
+   "date": "2026-08-06",
+   "body": "Sole Commissioner",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.unioncountyga.gov/AgendaCenter/ViewFile/Agenda/_08062026-191",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "socialcircle",
    "placeName": "City of Social Circle",
    "placeType": "city",
@@ -41923,6 +44080,31 @@
    "outcomes": [],
    "minutesUrl": "https://socialcirclecityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=2308&Inline=True",
    "minutesDraft": true
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-08-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… between the Glynn County Board of Commissioners and the Jekyll Island Authority and authorize an advance of additional SPLOST 2022 collections in the amount of $434,374.13 to fund the grant match for the construction of the Jekyll Island Authori …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=996",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
   },
   {
    "topic": "local-taxes",
@@ -42124,6 +44306,31 @@
    "excerpt": "… , Tax Commissioner Chad Alexander and Tift County Board of Commissioners for the Collection of Municipal Ad Valorem Taxes (Mike Walker, Assistant County Manager) 5.4 Alcohol Beverage License Application Submi …",
    "excerptTerm": "ad valorem",
    "sourceUrl": "https://www.tiftcounty.org/Commission%20Agendas/Agenda%20-%20Work%20Session%20-%2008.04.26.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-08-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… on for the purchase of four 2026 Ford Explorers from Prater Ford in the amount of $176,168.72 to be funded from 2020 SPLOST. These 2026 vehicles are on the ground and are the last models before Ford begins changing engine specificatio …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20August%2004,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -42923,6 +45130,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-07-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "homestead exemption"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5305_07.28.26%20BOA%20Minutes.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "floyd",
    "placeName": "Floyd County",
    "placeType": "county",
@@ -43549,6 +45781,60 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-07-20",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "flost",
+    "local option sales tax"
+   ],
+   "tags": [],
+   "excerpt": "… dwin, Clarkesville, Cornelia, Demorest, Mt. Airy and Tallulah Falls for Imposition of the Floating Homestead Local Option Sales Tax (FLOST) Also Known as the Property Tax Reduction Local Option Sales Tax (PTRLOST) b. Consider/Approve …",
+   "excerptTerm": "local option sales tax",
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5219_0%20Agenda%20for%2007.20.26%20BOC%20Meeting.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "union",
+   "placeName": "Union County",
+   "placeType": "county",
+   "fips": "13291",
+   "region": null,
+   "date": "2026-07-16",
+   "body": "Sole Commissioner",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "special purpose local option",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… Resolution R-2026-35 calling for an election to continue the Union County Special Purpose Local Option Sales Tax (SPLOST) 12. County Operations Update County Manager, Tony Hughes, will provide …",
+   "excerptTerm": "special purpose local option",
+   "sourceUrl": "https://www.unioncountyga.gov/AgendaCenter/ViewFile/Agenda/_07162026-186",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "dawson",
    "placeName": "Dawson County",
    "placeType": "county",
@@ -44152,6 +46438,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-07-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20July%2007,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "morgan",
    "placeName": "Morgan County",
    "placeType": "county",
@@ -44411,6 +46722,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-06-29",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "millage"
+   ],
+   "tags": [],
+   "excerpt": "… ic Hearing and Consideration of Resolution No. 2026-06-003 Adopting FY 2027 Budget b. 2026 Property Tax Millage Rate- Public Hearing and Consideration of Resolution No. 2026-06-004 Adopting the 2026 Tax Levy and Authorizin …",
+   "excerptTerm": "millage",
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5491_Agenda%2006.29.26%20BOC%20Special%20Called%20Meeting.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "liberty",
    "placeName": "Liberty County",
    "placeType": "county",
@@ -44642,6 +46978,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "union",
+   "placeName": "Union County",
+   "placeType": "county",
+   "fips": "13291",
+   "region": null,
+   "date": "2026-06-18",
+   "body": "Sole Commissioner",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… to the Union County Alcohol Board. 12. Resolution (R-2026-31) Resolution R-2026-31 approving a SPLOST Intergovernmental Agreement and Authorizing the …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.unioncountyga.gov/AgendaCenter/ViewFile/Agenda/_06182026-181",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "toombs",
    "placeName": "Toombs County",
    "placeType": "county",
@@ -44663,6 +47024,31 @@
    "excerpt": "… tion was seconded by Vice- Chairman Buck Moon. Motion carried unanimously.  Consideration of Approval of LHOST Resolution: County Manager John Jones addressed the Board regarding a Local Homestead Option Sales Tax (LHOST) …",
    "excerptTerm": "lhost",
    "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/07/06_2026-REGULAR-BOARD-MEETING-MINUTES.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-06-18",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… s, Inc. for the North Glynn Recreation Sidewalk Project (IFB26-037), in the amount of $83,200, with funding provided by SPLOST 2022. (J. Hartman) (FC 3-0) REPORT 23. Award a contract to Moffatt & Nichol for Engineering Services for Perry Lane Roa …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=975",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -44974,6 +47360,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-06-15",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… shton & Company j. Consider/Approve Resolution of Notice to Proceed Related to Issuance of Voter-Approved SPLOST Bonds REPORTS: a. County Manager’s Report: Tim Sims, County Manager b. Update on Unified Development Ordinan …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5218_0%20Agenda%20for%2006.15.26%20BOC%20Meeting.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "effingham",
    "placeName": "Effingham County",
    "placeType": "county",
@@ -45170,6 +47581,32 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.lowndescounty.com/AgendaCenter/ViewFile/Agenda/_06092026-559",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-06-09",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "tax digest"
+   ],
+   "tags": [],
+   "excerpt": "… . CONSENT AGENDA 6. NEW BUSINESS A) Terry McCormick, McCormick Solutions, to present an update on the 2026 Tax Digest and revaluation of commercial, industrial, and agricultural properties. 7. PUBLIC HEARING A) A Pub …",
+   "excerptTerm": "tax digest",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/33/fa/33fabcc5770b1affc297a4453f24e89a.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -45504,6 +47941,31 @@
      ]
     }
    ],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-06-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem"
+   ],
+   "tags": [],
+   "excerpt": "… e Tax 102 - 104 Assessor relating to the refund of erroneously collected ad valorem taxes for the 2025 tax year. 11. COMMISSIONER’S MATTERS A) Discussion of a multipurpose bui …",
+   "excerptTerm": "ad valorem",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/e7/d4/e7d4d8fc70d8c45ed13b73da36aa8df3.pdf",
+   "followThrough": null,
+   "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
   },
@@ -46006,6 +48468,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-05-26",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "homestead exemption"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5301_05.26.26%20BOA%20Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -46074,6 +48561,31 @@
    "excerpt": "… rriel Nobles to approve the purchase of the 2015 Chevrolet Tahoe for the price of $14,175 to be paid with SPLOST funds and to declare the 2011 Tahoe as excess property. The Motion was seconded by Commissioner Darriel Nobles. …",
    "excerptTerm": "splost",
    "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/06/05_2026-REGULAR-BOARD-MEETING-MINUTES.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-05-21",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… ng services related to the Saint Simons Island Gateway Project in the amount of $30,000, with funding to be provided by SPLOST 2022. (R. Talbert) REPORT 8. Adopt the Resolutions and accept GDOT grant contracts for reimbursement and funding of Gly …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=961",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -46350,6 +48862,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "lee",
+   "placeName": "Lee County",
+   "placeType": "county",
+   "fips": "13177",
+   "region": null,
+   "date": "2026-05-12",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… AGER’S MATTERS A) Updates on County projects. B) Consideration to award the bid for the 2026 LMIG/ TSPLOST Projects. C) Consideration to declare a 2013 Ford F-150 surplus. D) Consideration to adopt a Resolu …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.leecountyga.gov/uploads/files/a3/ae/a3aee1e9b6665b23faf8b04eca92763c.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "floyd",
    "placeName": "Floyd County",
    "placeType": "county",
@@ -46568,6 +49105,31 @@
      ]
     }
    ],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-05-07",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… s in the amount of $695,626.40 for the Carbon Reduction Program Grant, with funding to be provided by the County's 2022 SPLOST, for construction and design of the Myers Hill Road and Buck Swamp Road sidewalk project and authorize the Chairman to …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=954",
+   "followThrough": null,
+   "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
   },
@@ -46907,6 +49469,31 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://www.meriwethercountyga.gov/AgendaCenter/ViewFile/Agenda/_04282026-642",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "habersham",
+   "placeName": "Habersham County",
+   "placeType": "county",
+   "fips": "13137",
+   "region": null,
+   "date": "2026-04-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "homestead exemption"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.habershamga.com/files/Meeting5299_04.28.26%20BOA%20Agenda.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -47633,6 +50220,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-04-02",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… amount of $1,917,746 with funding to be provided by the Fire Protection District Fund balance and to be reimbursed with SPLOST 2022 Tier 2 funding. (V. DiCristofalo) Clerk's Note: On March 31, 2026, the support documentation was updated to includ …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=929",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "fayette",
    "placeName": "Fayette County",
    "placeType": "county",
@@ -47735,6 +50347,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-03-19",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… for the Old Jesup Road Drainage Improvement Project (IFB26-025), in the amount of $112,357 with funding provided by the SPLOST 22 Fund. (J. Hartman) (FC 3-0) REPORT 18. Award a contract to Structural Waterproofing and Restoration, LLC for the His …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&clip_id=924",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "bibb",
    "placeName": "Macon-Bibb County",
    "placeType": "consolidated",
@@ -47758,158 +50395,6 @@
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3430,plainText=false)",
    "followThrough": "not-in-minutes",
    "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "bibb",
-   "placeName": "Macon-Bibb County",
-   "placeType": "consolidated",
-   "fips": "13021",
-   "region": "Middle Georgia",
-   "date": "2026-03-18",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "ad valorem",
-    "homestead exemption",
-    "local option sales tax",
-    "millage",
-    "referendum",
-    "special purpose local option",
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3428,plainText=false)",
-   "followThrough": "recorded",
-   "outcomes": [
-    {
-     "reference": null,
-     "outline": "a.",
-     "name": "A Resolution Of The Macon-Bibb County Commission Authorizing The Mayor To Execute An Agreement With Cana Communications, In The Amount Of $105,720.00, To Upgrade The Security Systems At The Thomas Jackson Juvenile Justice Center, To Be Paid From The SPLOST 2018 Fund – Judicial – Courthouse –…",
-     "motions": [
-      {
-       "motion": "Approve",
-       "result": "passed",
-       "resultClass": null,
-       "resultText": "Passed",
-       "tally": null,
-       "yes": 8,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      }
-     ]
-    },
-    {
-     "reference": null,
-     "outline": "b.",
-     "name": "A Resolution Of The Macon-Bibb County Commission To Authorize The Mayor To Execute An Independent Contractor Agreement With Professional Paving Services, LLC For Asphalt Paving & Resurfacing Services, In The Amount Of $1,231,636.36, To Be Paid From The 2025 SPLOST Fund - Roads – Property Line Item",
-     "motions": [
-      {
-       "motion": "Approve",
-       "result": "passed",
-       "resultClass": null,
-       "resultText": "Passed",
-       "tally": null,
-       "yes": 8,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      }
-     ]
-    },
-    {
-     "reference": null,
-     "outline": "a.",
-     "name": "An Ordinance Of The Macon-Bibb County Commission To Authorize Transfers And Appropriations From 2018 SPLOST Revenues And The Interest Earned Thereon As Provided For Herein;",
-     "motions": [
-      {
-       "motion": "Approve",
-       "result": "passed",
-       "resultClass": null,
-       "resultText": "Passed",
-       "tally": null,
-       "yes": 8,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      }
-     ]
-    },
-    {
-     "reference": null,
-     "outline": "b.",
-     "name": "An Ordinance Of The Macon-Bibb County Commission To Authorize Appropriations, In The Amount Of $31,500,000.00, From 2025 SPLOST Funds To The Jail Expansion And Upgrade Project, The Arena Project, Public Safety Projects, Cultural And Recreation Projects, I.T. Projects, And Debt Service",
-     "motions": [
-      {
-       "motion": "Approve",
-       "result": "passed",
-       "resultClass": null,
-       "resultText": "Passed",
-       "tally": null,
-       "yes": 8,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      }
-     ]
-    },
-    {
-     "reference": null,
-     "outline": "b.",
-     "name": "A Resolution Of The Macon-Bibb County Commission Authorizing A Not To Exceed Price Of $14,000,000.00 For The Completion Of Renovations To The Bibb County Courthouse, To Be Paid From The 2018 SPLOST Fund – Judicial - Courthouse – Property Line Item And Declaring The Courthouse Project To Be…",
-     "motions": [
-      {
-       "motion": "Approve",
-       "result": "passed",
-       "resultClass": null,
-       "resultText": "Passed",
-       "tally": null,
-       "yes": 8,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      }
-     ]
-    },
-    {
-     "reference": null,
-     "outline": "a.",
-     "name": "A Resolution Of The Macon-Bibb County Commission Considering A Request For Refund Of 2023 And 2024 Ad Valorem Taxes To Flora Mae Ivey Pursuant To O.C.G.A. § 48-5-380",
-     "motions": [
-      {
-       "motion": "Deny",
-       "result": "passed",
-       "resultClass": null,
-       "resultText": "Passed",
-       "tally": null,
-       "yes": 8,
-       "no": 0,
-       "abstain": 0,
-       "absent": 0,
-       "next": null,
-       "textDisagrees": false
-      }
-     ]
-    }
-   ],
    "minutesUrl": null,
    "minutesDraft": null
   },
@@ -48145,6 +50630,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-03-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… s as a state contract purchase from Clear Span in the not to exceed amount of $30,000.00 to be funded by the 2020 SPLOST. The Hoop Building will be used to cover materials at Public Works that need to remain dry such as salt, fill …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20March%2003,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "houston",
    "placeName": "Houston County",
    "placeType": "county",
@@ -48321,6 +50831,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "union",
+   "placeName": "Union County",
+   "placeType": "county",
+   "fips": "13291",
+   "region": null,
+   "date": "2026-02-19",
+   "body": "Sole Commissioner",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.unioncountyga.gov/AgendaCenter/ViewFile/Agenda/_02192026-158",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "toombs",
    "placeName": "Toombs County",
    "placeType": "county",
@@ -48367,31 +50902,6 @@
    "excerptTerm": null,
    "sourceUrl": "https://www.houstoncountyga.gov/minutes/2026-02-17%20Department%20Heads.pdf",
    "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "local-taxes",
-   "placeId": "bibb",
-   "placeName": "Macon-Bibb County",
-   "placeType": "consolidated",
-   "fips": "13021",
-   "region": "Middle Georgia",
-   "date": "2026-02-17",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "splost"
-   ],
-   "tags": [],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3392,plainText=false)",
-   "followThrough": "not-in-minutes",
    "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
@@ -48561,6 +51071,31 @@
      ]
     }
    ],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-02-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "tax allocation district"
+   ],
+   "tags": [],
+   "excerpt": "… sed unanimously. 4. Consider a proposed resolution authorizing the County’s participation in the Cedartown, Georgia Tax Allocation District Number 1: Martha Berry Highway. Chairman Thaxton called for a Motion. Motion was made by Commissioner McElwee to …",
+   "excerptTerm": "tax allocation district",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20February%2003,%202026docx.pdf",
+   "followThrough": null,
+   "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
   },
@@ -48879,6 +51414,31 @@
   },
   {
    "topic": "local-taxes",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-01-06",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": "… ut from Administration and Commissioners. This year’s list will require approximately $1,665,823.00 in funding from SPLOST to pave a total of 21.06 miles. Chairman Thaxton stated the Motion as recommended by the Public Works Director is …",
+   "excerptTerm": "splost",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20January%2006,%202026docx.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
    "placeId": "houston",
    "placeName": "Houston County",
    "placeType": "county",
@@ -48922,6 +51482,33 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://toombscountyga.gov/wp-content/uploads/2026/01/12_29_2025-Called-Board-Meeting-December-29-2025.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "union",
+   "placeName": "Union County",
+   "placeType": "county",
+   "fips": "13291",
+   "region": null,
+   "date": "2025-12-16",
+   "body": "Sole Commissioner",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "local option sales tax",
+    "special purpose local option",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.unioncountyga.gov/AgendaCenter/ViewFile/Agenda/_12162025-86",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -48998,6 +51585,34 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://baconcounty.org/uploads/Dec%2016%20meeting%20minutes.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "local-taxes",
+   "placeId": "union",
+   "placeName": "Union County",
+   "placeType": "county",
+   "fips": "13291",
+   "region": null,
+   "date": "2025-12-15",
+   "body": "Sole Commissioner",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "ad valorem",
+    "hotel/motel tax",
+    "local option sales tax",
+    "splost"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.unioncountyga.gov/AgendaCenter/ViewFile/Agenda/_12152025-133",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
