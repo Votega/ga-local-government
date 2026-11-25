@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-23T21:29:15Z",
+  "generatedAt": "2026-11-25T01:25:44Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "count": 63
@@ -185,7 +185,7 @@
    "type": "county",
    "region": "Northwest Georgia",
    "topics": {
-    "land-use": 14,
+    "land-use": 15,
     "local-taxes": 3
    },
    "lastActivity": "2026-11-24"
@@ -212,9 +212,9 @@
     "alpr": 4,
     "data-center": 1,
     "land-use": 16,
-    "local-taxes": 7
+    "local-taxes": 6
    },
-   "lastActivity": "2026-11-17"
+   "lastActivity": "2026-12-01"
   },
   {
    "placeId": "clarke",
@@ -298,7 +298,7 @@
    "region": "Northwest Georgia",
    "topics": {
     "data-center": 1,
-    "land-use": 2
+    "land-use": 1
    },
    "lastActivity": "2026-11-16"
   },
@@ -320,11 +320,11 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 9,
-    "data-center": 14,
+    "data-center": 13,
     "land-use": 22,
     "local-taxes": 12
    },
-   "lastActivity": "2026-11-19"
+   "lastActivity": "2026-12-03"
   },
   {
    "placeId": "douglas",
@@ -337,7 +337,7 @@
     "land-use": 14,
     "local-taxes": 17
    },
-   "lastActivity": "2026-11-17"
+   "lastActivity": "2026-12-01"
   },
   {
    "placeId": "effingham",
@@ -434,7 +434,7 @@
    "topics": {
     "alpr": 2,
     "land-use": 4,
-    "local-taxes": 15
+    "local-taxes": 12
    },
    "lastActivity": "2026-11-17"
   },
@@ -455,10 +455,10 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 2,
-    "land-use": 15,
+    "land-use": 16,
     "local-taxes": 17
    },
-   "lastActivity": "2026-11-19"
+   "lastActivity": "2026-12-01"
   },
   {
    "placeId": "houston",
@@ -737,7 +737,7 @@
    "type": "county",
    "region": "Metro Atlanta",
    "topics": {
-    "land-use": 19,
+    "land-use": 20,
     "local-taxes": 2
    },
    "lastActivity": "2026-12-10"
