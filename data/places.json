@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-25T01:25:44Z",
+  "generatedAt": "2026-11-25T18:58:23Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
-  "count": 68
+  "count": 78
  },
  "places": [
   {
@@ -269,6 +269,32 @@
      "body": "Board of Commissioners",
      "when": "1st Wednesday of every month, 10:00 a.m.",
      "location": "Commissioner’s Conference Room, 135 W. Cherokee Avenue, Cartersville"
+    }
+   ]
+  },
+  {
+   "placeId": "bryan",
+   "name": "Bryan County",
+   "type": "county",
+   "county": "bryan",
+   "counties": [
+    "bryan"
+   ],
+   "fips": "13029",
+   "region": null,
+   "platform": "pdflinks",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {
+    "base_url": "https://www.bryancountyga.gov/",
+    "agendas_url": "https://www.bryancountyga.gov/government/board-of-commissioners/agendas"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd Tuesday of every month, 5:30 p.m.",
+     "location": "Odd-numbered months: Commissioners Meeting Room, 42 N. Courthouse St., Pembroke. Even-numbered months: Administrative Complex, 66 Captain Matthew Freeman Drive, Richmond Hill."
     }
    ]
   },
@@ -970,6 +996,31 @@
    ]
   },
   {
+   "placeId": "dougherty",
+   "name": "Dougherty County",
+   "type": "county",
+   "county": "dougherty",
+   "counties": [
+    "dougherty"
+   ],
+   "fips": "13095",
+   "region": null,
+   "platform": "municode",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {
+    "agendas_url": "https://meetings.municode.com/PublishPage/index?cid=DOUGHERTY&ppid=8eef0464-395e-4aa7-8fda-0cda139a3d01"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "Mondays, 10:00 a.m.: regular meetings usually the 1st and 3rd Monday, work sessions the 2nd and 4th (varies; holidays skipped)",
+     "location": "Albany-Dougherty Government Center, Room 100, 222 Pine Avenue, Albany, GA"
+    }
+   ]
+  },
+  {
    "placeId": "douglas",
    "name": "Douglas County",
    "type": "county",
@@ -1126,6 +1177,57 @@
    ]
   },
   {
+   "placeId": "gilmer",
+   "name": "Gilmer County",
+   "type": "county",
+   "county": "gilmer",
+   "counties": [
+    "gilmer"
+   ],
+   "fips": "13123",
+   "region": null,
+   "platform": null,
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {
+    "agendas_url": "https://gilmercounty-ga.gov/meeting-documents/"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd week of every month: work session Wednesday 9:00 a.m., regular meeting Thursday 6:00 p.m. (Tuesday/Thursday in December 2026)",
+     "location": null
+    }
+   ]
+  },
+  {
+   "placeId": "glynn",
+   "name": "Glynn County",
+   "type": "county",
+   "county": "glynn",
+   "counties": [
+    "glynn"
+   ],
+   "fips": "13127",
+   "region": null,
+   "platform": "granicus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {
+    "base_url": "https://www.glynncounty.org/",
+    "agendas_url": "https://glynncounty.granicus.com/ViewPublisher.php?view_id=1"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st and 3rd Thursday of every month, 6:00 p.m.",
+     "location": "Historic Courthouse, 701 G Street, Brunswick"
+    }
+   ]
+  },
+  {
    "placeId": "gordon",
    "name": "Gordon County",
    "type": "county",
@@ -1178,6 +1280,32 @@
    ]
   },
   {
+   "placeId": "habersham",
+   "name": "Habersham County",
+   "type": "county",
+   "county": "habersham",
+   "counties": [
+    "habersham"
+   ],
+   "fips": "13137",
+   "region": null,
+   "platform": "pdflinks",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {
+    "base_url": "https://www.habershamga.com/",
+    "agendas_url": "https://www.habershamga.com/agenda-center"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "3rd Monday of every month, 6:00 p.m.",
+     "location": "Jury Assembly Room, Habersham County Courthouse, 295 Llewellyn St, Clarkesville, GA 30523"
+    }
+   ]
+  },
+  {
    "placeId": "hall",
    "name": "Hall County",
    "type": "county",
@@ -1226,6 +1354,29 @@
      "body": "Board of Commissioners",
      "when": "1st Tuesday of every month, 6:00 p.m. (work session 3rd Tuesday, 6:00 p.m.)",
      "location": "155 Van Wert Street, Buchanan"
+    }
+   ]
+  },
+  {
+   "placeId": "harris",
+   "name": "Harris County",
+   "type": "county",
+   "county": "harris",
+   "counties": [
+    "harris"
+   ],
+   "fips": "13145",
+   "region": null,
+   "platform": null,
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {},
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": null,
+     "location": null
     }
    ]
   },
@@ -1332,6 +1483,32 @@
      "body": "Board of Commissioners",
      "when": "1st Tuesday of every month, 5:30 p.m., and 3rd Tuesday, 6:30 p.m.",
      "location": "Laurens County Courthouse Annex, Dublin, Georgia"
+    }
+   ]
+  },
+  {
+   "placeId": "lee",
+   "name": "Lee County",
+   "type": "county",
+   "county": "lee",
+   "counties": [
+    "lee"
+   ],
+   "fips": "13177",
+   "region": null,
+   "platform": "htmltable",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {
+    "base_url": "https://www.leecountyga.gov",
+    "agendas_url": "https://www.leecountyga.gov/government/meeting-agendas-minutes/boc-2026"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "2nd and 4th Tuesday of every month, 6:00 p.m.",
+     "location": "Opal Cannon Auditorium, T. Page Tharp Governmental Building, 102 Starksville Avenue North, Leesburg, GA"
     }
    ]
   },
@@ -1471,6 +1648,29 @@
    ]
   },
   {
+   "placeId": "monroe",
+   "name": "Monroe County",
+   "type": "county",
+   "county": "monroe",
+   "counties": [
+    "monroe"
+   ],
+   "fips": "13207",
+   "region": null,
+   "platform": null,
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {},
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": null,
+     "location": null
+    }
+   ]
+  },
+  {
    "placeId": "morgan",
    "name": "Morgan County",
    "type": "county",
@@ -1599,6 +1799,32 @@
      "body": "Board of Commissioners",
      "when": "3rd Monday of every month, 5:30 p.m.",
      "location": "Administration Building, Commissioners' meeting room, 1266 East Church Street, Jasper"
+    }
+   ]
+  },
+  {
+   "placeId": "polk",
+   "name": "Polk County",
+   "type": "county",
+   "county": "polk",
+   "counties": [
+    "polk"
+   ],
+   "fips": "13233",
+   "region": null,
+   "platform": "revize",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {
+    "base_url": "https://www.polkga.org/",
+    "agendas_url": "https://www.polkga.org/government/agendas_and_minutes.php"
+   },
+   "schedule": [
+    {
+     "body": "Board of Commissioners",
+     "when": "1st Tuesday of every month: work session 5:15 p.m., regular meeting to follow",
+     "location": "73 Clines Ingram Jackson Rd, Cedartown, GA 30125"
     }
    ]
   },
@@ -1732,6 +1958,32 @@
     "agendas_url": "https://toombscountyga.gov/agendas-minutes/"
    },
    "schedule": []
+  },
+  {
+   "placeId": "union",
+   "name": "Union County",
+   "type": "county",
+   "county": "union",
+   "counties": [
+    "union"
+   ],
+   "fips": "13291",
+   "region": null,
+   "platform": "civicplus",
+   "recordedVotes": {
+    "status": "no-reader"
+   },
+   "links": {
+    "base_url": "https://www.unioncountyga.gov",
+    "agendas_url": "https://www.unioncountyga.gov/AgendaCenter"
+   },
+   "schedule": [
+    {
+     "body": "Sole Commissioner",
+     "when": "3rd Thursday of every month, 9:30 a.m.",
+     "location": "Union County Sports Center, 519 Industrial Blvd., Blairsville, GA 30512"
+    }
+   ]
   },
   {
    "placeId": "walker",
