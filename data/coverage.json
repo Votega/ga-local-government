@@ -1,9 +1,9 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-25T01:25:44Z",
+  "generatedAt": "2026-11-25T18:58:23Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
-  "count": 63
+  "count": 68
  },
  "places": [
   {
@@ -125,11 +125,11 @@
    "type": "consolidated",
    "region": "Middle Georgia",
    "topics": {
-    "alpr": 7,
-    "land-use": 19,
+    "alpr": 6,
+    "land-use": 20,
     "local-taxes": 24
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-12-01"
   },
   {
    "placeId": "butts",
@@ -185,7 +185,7 @@
    "type": "county",
    "region": "Northwest Georgia",
    "topics": {
-    "land-use": 15,
+    "land-use": 14,
     "local-taxes": 3
    },
    "lastActivity": "2026-11-24"
@@ -224,10 +224,10 @@
    "topics": {
     "alpr": 1,
     "data-center": 1,
-    "land-use": 7,
+    "land-use": 8,
     "local-taxes": 7
    },
-   "lastActivity": "2026-11-17"
+   "lastActivity": "2026-12-10"
   },
   {
    "placeId": "clayton",
@@ -261,10 +261,10 @@
    "region": "East Georgia",
    "topics": {
     "alpr": 2,
-    "land-use": 21,
+    "land-use": 22,
     "local-taxes": 2
    },
-   "lastActivity": "2026-11-19"
+   "lastActivity": "2026-12-03"
   },
   {
    "placeId": "covington",
@@ -409,10 +409,22 @@
    "topics": {
     "alpr": 1,
     "data-center": 2,
+    "land-use": 15,
+    "local-taxes": 13
+   },
+   "lastActivity": "2026-12-02"
+  },
+  {
+   "placeId": "glynn",
+   "name": "Glynn County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "alpr": 1,
     "land-use": 14,
     "local-taxes": 13
    },
-   "lastActivity": "2026-11-18"
+   "lastActivity": "2026-11-19"
   },
   {
    "placeId": "gordon",
@@ -439,14 +451,25 @@
    "lastActivity": "2026-11-17"
   },
   {
+   "placeId": "habersham",
+   "name": "Habersham County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "land-use": 6,
+    "local-taxes": 8
+   },
+   "lastActivity": "2026-11-16"
+  },
+  {
    "placeId": "hall",
    "name": "Hall County",
    "type": "county",
    "region": "Northeast Georgia",
    "topics": {
-    "land-use": 10
+    "land-use": 11
    },
-   "lastActivity": "2026-11-16"
+   "lastActivity": "2026-12-08"
   },
   {
    "placeId": "henry",
@@ -492,6 +515,18 @@
     "local-taxes": 4
    },
    "lastActivity": "2026-10-06"
+  },
+  {
+   "placeId": "lee",
+   "name": "Lee County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "data-center": 3,
+    "land-use": 16,
+    "local-taxes": 5
+   },
+   "lastActivity": "2026-11-10"
   },
   {
    "placeId": "liberty",
@@ -613,6 +648,19 @@
    "lastActivity": "2026-11-16"
   },
   {
+   "placeId": "polk",
+   "name": "Polk County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "alpr": 1,
+    "data-center": 2,
+    "land-use": 9,
+    "local-taxes": 9
+   },
+   "lastActivity": "2026-11-03"
+  },
+  {
    "placeId": "rockdale",
    "name": "Rockdale County",
    "type": "county",
@@ -681,10 +729,10 @@
    "region": "South Georgia",
    "topics": {
     "alpr": 3,
-    "land-use": 3,
+    "land-use": 4,
     "local-taxes": 6
    },
-   "lastActivity": "2026-11-10"
+   "lastActivity": "2026-11-24"
   },
   {
    "placeId": "thomasville",
@@ -718,6 +766,18 @@
     "local-taxes": 9
    },
    "lastActivity": "2026-09-15"
+  },
+  {
+   "placeId": "union",
+   "name": "Union County",
+   "type": "county",
+   "region": null,
+   "topics": {
+    "data-center": 1,
+    "land-use": 2,
+    "local-taxes": 7
+   },
+   "lastActivity": "2026-11-19"
   },
   {
    "placeId": "walker",
