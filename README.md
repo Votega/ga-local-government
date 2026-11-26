@@ -10,6 +10,19 @@ Excerpts are only included for structured sources, excerpts from OCR'd PDF agend
 
 Published by VoteGA.org. Start with latest.json.
 
+## Local officials
+
+`data/officials/officials.json` (and `.csv`) is each county commission's and city council's board **as of** `metadata.asOf`: who holds each seat that day. `data/officials/officials-history.json` keeps every recorded holder of every seat, one row per person per term, with `takes_office` and `leaves_office` (exclusive) dates. History is not backfilled; it starts at `metadata.historyStartsAt`. `data/officials/manifest.json` lists the files.
+
+**January 2027:** officials elected in 2026 take office on 1 January 2027, and 47 current officials leave that day. The current-board file changes at the first publish on or after that date (publishes run Mondays and Thursdays, so Monday 4 January). The outgoing officials stay in `officials-history`.
+
+## Linking to this data
+
+- **A fixed point in time:** use `officials-history`, filtered by `takes_office` and `leaves_office`, or link a commit (`https://raw.githubusercontent.com/Votega/ga-local-government/<commit>/...`) for an exact copy.
+- **Whatever is current:** read `data/officials/officials.json` or `latest.json`. They are rewritten in place; `metadata.asOf` says which day the board describes.
+
+Changes that affect consumers are listed in [`CHANGES.md`](CHANGES.md).
+
 # License, Reuse, and attribution
 The data in this repository is published by VoteGA.org under the Creative Commons Attribution-ShareAlike 4.0 International license [CC-BY-SA-4.0](https://github.com/Votega/ga-local-government?tab=CC-BY-SA-4.0-1-ov-file). 
 
