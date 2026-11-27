@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-25T18:58:23Z",
+  "generatedAt": "2026-11-27T20:43:19Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "count": 68
@@ -43,10 +43,11 @@
    "type": "consolidated",
    "region": "East Georgia",
    "topics": {
-    "data-center": 2,
-    "land-use": 4
+    "data-center": 3,
+    "land-use": 5,
+    "local-taxes": 1
    },
-   "lastActivity": "2026-11-24"
+   "lastActivity": "2026-12-01"
   },
   {
    "placeId": "bacon",
@@ -151,9 +152,9 @@
     "alpr": 2,
     "data-center": 7,
     "land-use": 13,
-    "local-taxes": 12
+    "local-taxes": 13
    },
-   "lastActivity": "2026-11-19"
+   "lastActivity": "2026-12-01"
   },
   {
    "placeId": "carroll",
@@ -211,7 +212,7 @@
    "topics": {
     "alpr": 4,
     "data-center": 1,
-    "land-use": 16,
+    "land-use": 15,
     "local-taxes": 6
    },
    "lastActivity": "2026-12-01"
@@ -224,8 +225,8 @@
    "topics": {
     "alpr": 1,
     "data-center": 1,
-    "land-use": 8,
-    "local-taxes": 7
+    "land-use": 9,
+    "local-taxes": 8
    },
    "lastActivity": "2026-12-10"
   },
@@ -248,7 +249,8 @@
    "type": "county",
    "region": "Metro Atlanta",
    "topics": {
-    "data-center": 1,
+    "alpr": 1,
+    "data-center": 2,
     "land-use": 16,
     "local-taxes": 6
    },
@@ -261,7 +263,8 @@
    "region": "East Georgia",
    "topics": {
     "alpr": 2,
-    "land-use": 22,
+    "data-center": 1,
+    "land-use": 23,
     "local-taxes": 2
    },
    "lastActivity": "2026-12-03"
@@ -320,9 +323,9 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 9,
-    "data-center": 13,
-    "land-use": 22,
-    "local-taxes": 12
+    "data-center": 12,
+    "land-use": 21,
+    "local-taxes": 11
    },
    "lastActivity": "2026-12-03"
   },
@@ -357,10 +360,10 @@
    "type": "county",
    "region": "Metro Atlanta",
    "topics": {
-    "alpr": 4,
-    "data-center": 11,
+    "alpr": 5,
+    "data-center": 13,
     "land-use": 20,
-    "local-taxes": 20
+    "local-taxes": 21
    },
    "lastActivity": "2026-11-12"
   },
@@ -421,10 +424,10 @@
    "region": null,
    "topics": {
     "alpr": 1,
-    "land-use": 14,
-    "local-taxes": 13
+    "land-use": 15,
+    "local-taxes": 14
    },
-   "lastActivity": "2026-11-19"
+   "lastActivity": "2026-12-03"
   },
   {
    "placeId": "gordon",
@@ -433,7 +436,7 @@
    "region": "Northwest Georgia",
    "topics": {
     "data-center": 3,
-    "land-use": 18,
+    "land-use": 17,
     "local-taxes": 12
    },
    "lastActivity": "2026-12-14"
@@ -445,10 +448,10 @@
    "region": "Metro Atlanta",
    "topics": {
     "alpr": 2,
-    "land-use": 4,
-    "local-taxes": 12
+    "land-use": 3,
+    "local-taxes": 13
    },
-   "lastActivity": "2026-11-17"
+   "lastActivity": "2026-12-01"
   },
   {
    "placeId": "habersham",
@@ -492,7 +495,7 @@
     "land-use": 17,
     "local-taxes": 25
    },
-   "lastActivity": "2026-11-17"
+   "lastActivity": "2026-12-01"
   },
   {
    "placeId": "lafayette",
@@ -559,7 +562,7 @@
    "region": "Northeast Georgia",
    "topics": {
     "land-use": 10,
-    "local-taxes": 8
+    "local-taxes": 9
    },
    "lastActivity": "2026-12-14"
   },
@@ -570,11 +573,11 @@
    "region": "West Georgia",
    "topics": {
     "alpr": 1,
-    "data-center": 3,
+    "data-center": 4,
     "land-use": 8,
-    "local-taxes": 16
+    "local-taxes": 15
    },
-   "lastActivity": "2026-11-24"
+   "lastActivity": "2026-11-30"
   },
   {
    "placeId": "morgan",
@@ -583,11 +586,11 @@
    "region": "Northeast Georgia",
    "topics": {
     "alpr": 1,
-    "data-center": 8,
+    "data-center": 9,
     "land-use": 14,
     "local-taxes": 16
    },
-   "lastActivity": "2026-11-17"
+   "lastActivity": "2026-12-01"
   },
   {
    "placeId": "muscogee",
@@ -654,11 +657,11 @@
    "region": null,
    "topics": {
     "alpr": 1,
-    "data-center": 2,
+    "data-center": 1,
     "land-use": 9,
-    "local-taxes": 9
+    "local-taxes": 8
    },
-   "lastActivity": "2026-11-03"
+   "lastActivity": "2026-12-01"
   },
   {
    "placeId": "rockdale",
