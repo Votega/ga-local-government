@@ -1,0 +1,35 @@
+{
+ "manifestSchemaVersion": "1.0.0",
+ "dataset": "school-districts",
+ "title": "Georgia school districts",
+ "description": "Every Georgia county and independent city school district, keyed by the state district code, with the counties it serves. Board facts are null where not yet recorded; board members are not included.",
+ "repo": "Votega/ga-local-government",
+ "publisher": "VoteGA.org",
+ "generatedAt": "2026-11-27T19:48:39Z",
+ "updateCadence": "Checked twice weekly; changes only when the registry does.",
+ "schemaVersion": "1.0.0",
+ "rowCount": 180,
+ "source": "Georgia Civic Data districts dimension (georgiacivicdata.org, CC BY 4.0; GOSA district codes and the NCES Common Core of Data), with service counties checked against Georgia Department of Revenue millage reports and board facts recorded by a person",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+ },
+ "files": [
+  {
+   "path": "data/school-districts/districts.csv",
+   "description": "The same, as a spreadsheet.",
+   "bytes": 9726
+  },
+  {
+   "path": "data/school-districts/districts.json",
+   "description": "Every school district.",
+   "bytes": 54664
+  },
+  {
+   "path": "data/school-districts/districts.schema.json",
+   "description": "JSON Schema for one district.",
+   "bytes": 2256
+  }
+ ]
+}
