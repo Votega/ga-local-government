@@ -2,7 +2,7 @@
  "$schema": "http://json-schema.org/draft-07/schema#",
  "$id": "https://raw.githubusercontent.com/Votega/ga-local-government/main/data/officials/officials.schema.json",
  "title": "VoteGA local official (current board)",
- "schemaVersion": "1.0.0",
+ "schemaVersion": "1.1.0",
  "schemaStability": "Stable field names and meanings. The current board is the rows holding a seat on `metadata.asOf`; a member staged to take office later is not in it. A blank value is null, never an empty string. Contact fields (email, phone) appear in this file only. New fields are appended, never reordered.",
  "type": "object",
  "required": [
@@ -122,6 +122,19 @@
     "null"
    ],
    "description": "official contact phone (current board only)"
+  },
+  "term_provenance": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "enum": [
+    "verified",
+    "assumed",
+    "unknown",
+    null
+   ],
+   "description": "how the term dates were established: verified = a person confirmed them against a source; assumed = derived from the election year and the body's term rules; unknown = no basis; null = not yet reviewed"
   }
  }
 }
