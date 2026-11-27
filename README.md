@@ -16,6 +16,18 @@ Published by VoteGA.org. Start with latest.json.
 
 **January 2027:** officials elected in 2026 take office on 1 January 2027, and 47 current officials leave that day. The current-board file changes at the first publish on or after that date (publishes run Mondays and Thursdays, so Monday 4 January). The outgoing officials stay in `officials-history`.
 
+Both files carry `term_provenance`, which says how a row's term dates were established: `verified` (a person confirmed them against a source), `assumed` (derived from the election year and the body's term rules), `unknown` (no basis), or blank (`null`, not yet reviewed). Most rows are not yet reviewed.
+
+## School districts
+
+`data/school-districts/districts.json` (and `.csv`, with `districts.schema.json`) lists every Georgia school district: 159 county systems and 21 independent city systems, keyed by `districtId`, the state's own district code. `data/school-districts/manifest.json` lists the files.
+
+- `countyFips` is every county a system is recorded as serving; join it to `fips` in `data/places.json`. It is **not** a boundary and does not say which district serves a given address.
+- `boardSize`, `termYears`, `partisan` and `officialUrl` are `null` where not yet recorded.
+- Board members are not included.
+- `metadata.generatedAt` is when the registry last changed, not when it was last published.
+- District identifiers come from [Georgia Civic Data](https://georgiacivicdata.org) (CC BY 4.0; GOSA and NCES codes). Service counties were checked against Georgia Department of Revenue millage reports.
+
 ## Linking to this data
 
 - **A fixed point in time:** use `officials-history`, filtered by `takes_office` and `leaves_office`, or link a commit (`https://raw.githubusercontent.com/Votega/ga-local-government/<commit>/...`) for an exact copy.
