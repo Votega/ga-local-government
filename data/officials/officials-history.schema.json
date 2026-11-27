@@ -2,7 +2,7 @@
  "$schema": "http://json-schema.org/draft-07/schema#",
  "$id": "https://raw.githubusercontent.com/Votega/ga-local-government/main/data/officials/officials-history.schema.json",
  "title": "VoteGA local official (one person's term in one seat)",
- "schemaVersion": "1.0.0",
+ "schemaVersion": "1.1.0",
  "schemaStability": "Stable field names and meanings. One row per person per term. HISTORY IS NOT BACKFILLED: it begins at `metadata.historyStartsAt`, so a seat with a single holder here means no earlier holder is RECORDED, not that there was none. No contact fields. New fields are appended, never reordered.",
  "type": "object",
  "required": [
@@ -108,6 +108,19 @@
     "null"
    ],
    "description": "null for a normal holder; \"Suspended\" = still legally holds the seat while an interim serves"
+  },
+  "term_provenance": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "enum": [
+    "verified",
+    "assumed",
+    "unknown",
+    null
+   ],
+   "description": "how the term dates were established: verified = a person confirmed them against a source; assumed = derived from the election year and the body's term rules; unknown = no basis; null = not yet reviewed"
   }
  }
 }
