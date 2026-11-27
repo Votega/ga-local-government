@@ -1,8 +1,8 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-25T18:58:23Z",
+  "generatedAt": "2026-11-27T20:43:19Z",
   "publisher": "VoteGA.org",
-  "schemaVersion": "1.0.0",
+  "schemaVersion": "1.1.0",
   "count": 519,
   "historyStartsAt": "2026-03-16",
   "historyStatus": "not-backfilled",
@@ -23,7 +23,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://applingcountyga.org/?page_id=1464",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "appling",
@@ -39,7 +40,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://applingcountyga.org/?page_id=1464",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "appling",
@@ -55,7 +57,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://applingcountyga.org/?page_id=1464",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "appling",
@@ -71,7 +74,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://applingcountyga.org/?page_id=1464",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "appling",
@@ -87,7 +91,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/appling-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "appling",
@@ -103,7 +108,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://applingcountyga.org/?page_id=1464",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "appling",
@@ -119,7 +125,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://applingcountyga.org/?page_id=1464",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "atkinson",
@@ -135,7 +142,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://atkinsoncounty.org/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "atkinson",
@@ -151,7 +159,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://atkinsoncounty.org/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "atkinson",
@@ -167,7 +176,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://atkinsoncounty.org/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "atkinson",
@@ -183,7 +193,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://atkinsoncounty.org/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "atkinson",
@@ -199,7 +210,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://atkinsoncounty.org/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "atkinson",
@@ -215,7 +227,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://atkinsoncounty.org/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "atlanta",
@@ -228,10 +241,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/council-president-marci-collier-overstreet",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -244,10 +258,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/jason-winston",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -260,10 +275,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/andrea-l-boone",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -276,10 +292,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/wayne-martin",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -292,10 +309,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/antonio-lewis",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -308,10 +326,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/kelsea-bond",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -324,10 +343,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/byron-amos",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -340,10 +360,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/jason-s-dozier",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -356,10 +377,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/liliana-bakhtiari",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -372,10 +394,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/alex-wan",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -388,10 +411,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/thomas-worthy",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -404,10 +428,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/mary-norwood",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -420,10 +445,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/dustin-hillis",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -436,10 +462,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/michael-julian-bond",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -452,10 +479,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/matt-westmoreland",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "atlanta",
@@ -468,10 +496,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://citycouncil.atlantaga.gov/council-members/esh-collins",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "augusta",
@@ -487,7 +516,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.augustaga.gov/652/Augusta-Commission",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "augusta",
@@ -503,7 +533,8 @@
    "last_elected": 2023,
    "term_end": 2026,
    "source": "https://www.augustaga.gov/652/Augusta-Commission",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "augusta",
@@ -519,7 +550,8 @@
    "last_elected": 2023,
    "term_end": 2026,
    "source": "https://www.augustaga.gov/652/Augusta-Commission",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "augusta",
@@ -535,7 +567,8 @@
    "last_elected": 2025,
    "term_end": 2028,
    "source": "https://www.augustaga.gov/652/Augusta-Commission",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "augusta",
@@ -551,7 +584,8 @@
    "last_elected": 2025,
    "term_end": 2026,
    "source": "https://www.augustaga.gov/652/Augusta-Commission",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "augusta",
@@ -567,7 +601,8 @@
    "last_elected": 2025,
    "term_end": 2028,
    "source": "https://www.augustaga.gov/652/Augusta-Commission",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "augusta",
@@ -583,7 +618,8 @@
    "last_elected": 2023,
    "term_end": 2026,
    "source": "https://www.augustaga.gov/652/Augusta-Commission",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "augusta",
@@ -599,7 +635,8 @@
    "last_elected": 2025,
    "term_end": 2028,
    "source": "https://www.augustaga.gov/652/Augusta-Commission",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "augusta",
@@ -615,7 +652,8 @@
    "last_elected": 2023,
    "term_end": 2026,
    "source": "https://www.augustaga.gov/652/Augusta-Commission",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "augusta",
@@ -631,7 +669,8 @@
    "last_elected": 2025,
    "term_end": 2028,
    "source": "https://www.augustaga.gov/652/Augusta-Commission",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "augusta",
@@ -647,7 +686,8 @@
    "last_elected": 2023,
    "term_end": 2026,
    "source": "https://www.augustaga.gov/3112/Mayor-Garnett-L-Johnson",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bacon",
@@ -663,7 +703,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://baconcounty.org/administration.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bacon",
@@ -679,7 +720,8 @@
    "last_elected": 2026,
    "term_end": null,
    "source": "https://results.sos.ga.gov/results/public/api/elections/bacon-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bacon",
@@ -695,7 +737,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://baconcounty.org/administration.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bacon",
@@ -711,7 +754,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://baconcounty.org/administration.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bacon",
@@ -727,7 +771,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://baconcounty.org/administration.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bacon",
@@ -743,7 +788,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://baconcounty.org/administration.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bacon",
@@ -759,7 +805,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://baconcounty.org/administration.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "baker",
@@ -775,7 +822,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.bakercountyga.com/board-of-commissioners-1",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "baker",
@@ -791,7 +839,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.bakercountyga.com/board-of-commissioners-1",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "baker",
@@ -807,7 +856,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.bakercountyga.com/board-of-commissioners-1",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "baker",
@@ -823,7 +873,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.bakercountyga.com/board-of-commissioners-1",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "baker",
@@ -839,7 +890,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.bakercountyga.com/board-of-commissioners-1",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "baldwin",
@@ -855,7 +907,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.baldwincountyga.com/1194/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "baldwin",
@@ -871,7 +924,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.baldwincountyga.com/m/directory/employee?eid=8",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "baldwin",
@@ -887,7 +941,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.baldwincountyga.com/1194/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "baldwin",
@@ -903,7 +958,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/baldwin-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "baldwin",
@@ -919,7 +975,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.baldwincountyga.com/1194/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "baldwin",
@@ -935,7 +992,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.baldwincountyga.com/1194/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "banks",
@@ -951,7 +1009,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.bankscountyga.org/1227/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "banks",
@@ -967,7 +1026,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.bankscountyga.org/1227/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "banks",
@@ -983,7 +1043,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.bankscountyga.org/1227/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "banks",
@@ -999,7 +1060,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.bankscountyga.org/1227/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "banks",
@@ -1015,7 +1077,8 @@
    "last_elected": 2025,
    "term_end": 2030,
    "source": "https://www.bankscountyga.org/1227/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "barrow",
@@ -1031,7 +1094,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://barrowga.org/380/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "barrow",
@@ -1047,7 +1111,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://barrowga.org/380/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "barrow",
@@ -1063,7 +1128,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://barrowga.org/380/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "barrow",
@@ -1079,7 +1145,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://barrowga.org/380/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "barrow",
@@ -1095,7 +1162,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://barrowga.org/m/directory/employee?eid=123",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "barrow",
@@ -1111,7 +1179,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://barrowga.org/m/directory/employee?eid=124",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "barrow",
@@ -1127,7 +1196,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://barrowga.org/m/directory/employee?eid=125",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bartow",
@@ -1143,7 +1213,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.bartowcountyga.gov/departments/county_commissioner/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bibb",
@@ -1159,7 +1230,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.maconbibb.us/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bibb",
@@ -1175,7 +1247,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.maconbibb.us/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bibb",
@@ -1191,7 +1264,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.maconbibb.us/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bibb",
@@ -1207,7 +1281,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.maconbibb.us/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bibb",
@@ -1223,7 +1298,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.maconbibb.us/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bibb",
@@ -1239,7 +1315,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.maconbibb.us/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bibb",
@@ -1255,7 +1332,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.maconbibb.us/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bibb",
@@ -1271,7 +1349,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.maconbibb.us/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bibb",
@@ -1287,7 +1366,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.maconbibb.us/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bibb",
@@ -1303,7 +1383,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.maconbibb.us/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bryan",
@@ -1319,7 +1400,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.bryancountyga.gov/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bryan",
@@ -1335,7 +1417,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.bryancountyga.gov/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bryan",
@@ -1351,7 +1434,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://results.sos.ga.gov/results/public/api/elections/bryan-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bryan",
@@ -1367,7 +1451,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.bryancountyga.gov/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bryan",
@@ -1383,7 +1468,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.bryancountyga.org/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bryan",
@@ -1399,7 +1485,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/bryan-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "bryan",
@@ -1415,7 +1502,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/bryan-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "butts",
@@ -1431,7 +1519,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://buttscountyga.com/about/commissioners/district-1-commissioner/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "butts",
@@ -1447,7 +1536,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://buttscountyga.com/about/commissioners/district-2-commissioner/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "butts",
@@ -1463,7 +1553,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://buttscountyga.com/about/commissioners/district-3-commissioner/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "butts",
@@ -1479,7 +1570,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://buttscountyga.com/about/commissioners/district-4-commissioner/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "butts",
@@ -1495,7 +1587,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://buttscountyga.com/about/commissioners/district5commissioner/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "camden",
@@ -1511,7 +1604,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.camdencountyga.gov/130/District-1",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "camden",
@@ -1527,7 +1621,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.camdencountyga.gov/131/District-2",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "camden",
@@ -1543,7 +1638,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.camdencountyga.gov/132/District-3",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "camden",
@@ -1559,7 +1655,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.camdencountyga.gov/133/District-4",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "camden",
@@ -1575,7 +1672,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.camdencountyga.gov/134/District-5",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "carroll",
@@ -1591,7 +1689,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.carrollcountyga.gov/182/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "carroll",
@@ -1607,7 +1706,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.carrollcountyga.gov/182/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "carroll",
@@ -1623,7 +1723,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.carrollcountyga.gov/182/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "carroll",
@@ -1639,7 +1740,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.carrollcountyga.gov/182/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "carroll",
@@ -1655,7 +1757,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.carrollcountyga.gov/182/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "carroll",
@@ -1671,7 +1774,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/carroll-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "carroll",
@@ -1687,7 +1791,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.carrollcountyga.gov/182/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "carroll",
@@ -1703,7 +1808,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.carrollcountyga.gov/182/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "carrollton",
@@ -1716,10 +1822,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
+   "last_elected": 2023,
    "term_end": 2027,
    "source": "https://carrolltonga.com/carrollton-mayor/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "carrollton",
@@ -1735,7 +1842,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://carrolltonga.com/council-member-ward-1/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "carrollton",
@@ -1748,10 +1856,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
+   "last_elected": 2025,
    "term_end": 2029,
    "source": "https://carrolltonga.com/council-member-ward-2/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "carrollton",
@@ -1764,10 +1873,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
+   "last_elected": 2023,
    "term_end": 2027,
    "source": "https://carrolltonga.com/council-member-ward-3/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "carrollton",
@@ -1780,10 +1890,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
+   "last_elected": 2023,
    "term_end": 2027,
    "source": "https://carrolltonga.com/council-member-ward-4/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "catoosa",
@@ -1799,7 +1910,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.catoosacountyga.gov/Home/Components/StaffDirectory/StaffDirectory/214/149?backlist=%2fdepartments%2fview-all-departments%2fboard-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "catoosa",
@@ -1815,7 +1927,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.catoosacountyga.gov/Home/Components/StaffDirectory/StaffDirectory/112/149?backlist=%2fdepartments%2fview-all-departments%2fboard-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "catoosa",
@@ -1831,7 +1944,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.catoosacountyga.gov/Home/Components/StaffDirectory/StaffDirectory/113/149?backlist=%2fdepartments%2fview-all-departments%2fboard-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "catoosa",
@@ -1847,7 +1961,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.catoosacountyga.gov/Home/Components/StaffDirectory/StaffDirectory/114/149?backlist=%2fdepartments%2fview-all-departments%2fboard-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "catoosa",
@@ -1863,7 +1978,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.catoosacountyga.gov/Home/Components/StaffDirectory/StaffDirectory/115/149?backlist=%2fdepartments%2fview-all-departments%2fboard-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "chatham",
@@ -1879,7 +1995,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.chathamcountyga.gov/Commission/Detail/1st",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "chatham",
@@ -1895,7 +2012,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.chathamcountyga.gov/Commission/Detail/2nd",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "chatham",
@@ -1911,7 +2029,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.chathamcountyga.gov/Commission/Detail/3rd",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "chatham",
@@ -1927,7 +2046,8 @@
    "last_elected": 2026,
    "term_end": 2028,
    "source": "https://www.chathamcountyga.gov/Commission/Detail/4th",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "chatham",
@@ -1943,7 +2063,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.chathamcountyga.gov/Commission/Detail/5th",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "chatham",
@@ -1959,7 +2080,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.chathamcountyga.gov/Commission/Detail/6th",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "chatham",
@@ -1975,7 +2097,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.chathamcountyga.gov/Commission/Detail/7th",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "chatham",
@@ -1991,7 +2114,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.chathamcountyga.gov/Commission/Detail/8th",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "chatham",
@@ -2007,7 +2131,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.chathamcountyga.gov/commission/Detail/chairman",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "chattooga",
@@ -2023,7 +2148,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://allongeorgia.com/chattooga-local-government/andy-allen-defeats-blake-elsberry-for-chattooga-county-sole-commissioner",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "cherokee",
@@ -2039,7 +2165,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.cherokeecountyga.gov/BOC/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "cherokee",
@@ -2055,7 +2182,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.cherokeecountyga.gov/BOC/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "cherokee",
@@ -2071,7 +2199,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.cherokeecountyga.gov/BOC/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "cherokee",
@@ -2087,7 +2216,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.cherokeecountyga.gov/BOC/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "cherokee",
@@ -2103,7 +2233,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.cherokeecountyga.gov/BOC/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clarke",
@@ -2119,7 +2250,8 @@
    "last_elected": null,
    "term_end": 2027,
    "source": "https://www.accgov.com/m/directory/employee?eid=1157",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clarke",
@@ -2135,7 +2267,8 @@
    "last_elected": 2024,
    "term_end": 2029,
    "source": "https://www.accgov.com/m/directory/employee?eid=360",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clarke",
@@ -2151,7 +2284,8 @@
    "last_elected": 2022,
    "term_end": 2029,
    "source": "https://www.accgov.com/m/directory/employee?eid=887",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clarke",
@@ -2167,7 +2301,8 @@
    "last_elected": 2022,
    "term_end": 2027,
    "source": "https://www.accgov.com/m/directory/employee?eid=1484",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clarke",
@@ -2183,7 +2318,8 @@
    "last_elected": 2024,
    "term_end": 2029,
    "source": "https://www.accgov.com/m/directory/employee?eid=761",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clarke",
@@ -2199,7 +2335,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.accgov.com/m/directory/employee?eid=762",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clarke",
@@ -2215,7 +2352,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://www.accgov.com/m/directory/employee?eid=1704",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clarke",
@@ -2231,7 +2369,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.accgov.com/m/directory/employee?eid=1158",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clarke",
@@ -2247,7 +2386,8 @@
    "last_elected": 2024,
    "term_end": 2029,
    "source": "https://www.accgov.com/m/directory/employee?eid=889",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clarke",
@@ -2263,7 +2403,8 @@
    "last_elected": 2022,
    "term_end": 2027,
    "source": "https://www.accgov.com/m/directory/employee?eid=1159",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clarke",
@@ -2279,7 +2420,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.accgov.com/m/directory/employee?eid=1160",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clayton",
@@ -2295,7 +2437,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.claytoncountyga.gov/government/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clayton",
@@ -2311,7 +2454,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.claytoncountyga.gov/government/board-of-commissioners/district-1/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clayton",
@@ -2327,7 +2471,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/clayton-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clayton",
@@ -2343,7 +2488,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.claytoncountyga.gov/government/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clayton",
@@ -2359,7 +2505,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.claytoncountyga.gov/government/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "clayton",
@@ -2375,7 +2522,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.claytoncountyga.gov/government/board-of-commissioners/district-4/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "cobb",
@@ -2391,7 +2539,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.cobbcounty.gov/board/commission-chairwoman",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "cobb",
@@ -2407,7 +2556,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.cobbcounty.gov/board/district-commissioners/district-1-commissioner",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "cobb",
@@ -2423,7 +2573,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://www.cobbcounty.gov/board/district-commissioners/district-2-commissioner",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "cobb",
@@ -2439,7 +2590,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.cobbcounty.gov/board/district-commissioners/district-3-commissioner",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "cobb",
@@ -2455,7 +2607,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/cobb-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "cobb",
@@ -2471,7 +2624,8 @@
    "last_elected": 2025,
    "term_end": 2027,
    "source": "https://www.cobbcounty.gov/board/district-commissioners/district-4-commissioner",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "columbia",
@@ -2487,7 +2641,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.columbiacountyga.gov/304/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "columbia",
@@ -2503,7 +2658,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/columbia-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "columbia",
@@ -2519,7 +2675,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.columbiacountyga.gov/304/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "columbia",
@@ -2535,7 +2692,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/columbia-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "columbia",
@@ -2551,7 +2709,8 @@
    "last_elected": 2025,
    "term_end": 2028,
    "source": "https://www.columbiacountyga.gov/304/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "columbia",
@@ -2567,7 +2726,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.columbiacountyga.gov/304/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "columbia",
@@ -2583,7 +2743,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.columbiacountyga.gov/304/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "columbia",
@@ -2599,7 +2760,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/columbia-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "conyers",
@@ -2612,10 +2774,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2025,
+   "term_end": 2029,
    "source": "https://www.conyersga.com/government/city-government/city-council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "conyers",
@@ -2629,9 +2792,10 @@
    "leaves_office": null,
    "leave_reason": null,
    "last_elected": 2025,
-   "term_end": null,
+   "term_end": 2029,
    "source": "https://www.conyersga.com/government/city-government/city-council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "conyers",
@@ -2645,9 +2809,10 @@
    "leaves_office": null,
    "leave_reason": null,
    "last_elected": 2025,
-   "term_end": null,
+   "term_end": 2027,
    "source": "https://www.conyersga.com/government/city-government/city-council",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "conyers",
@@ -2660,10 +2825,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2023,
+   "term_end": 2027,
    "source": "https://www.conyersga.com/government/city-government/city-council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "conyers",
@@ -2676,10 +2842,11 @@
    "takes_office": null,
    "leaves_office": null,
    "leave_reason": null,
-   "last_elected": null,
-   "term_end": null,
+   "last_elected": 2023,
+   "term_end": 2027,
    "source": "https://www.conyersga.com/government/city-government/city-council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "conyers",
@@ -2693,9 +2860,10 @@
    "leaves_office": null,
    "leave_reason": null,
    "last_elected": 2025,
-   "term_end": null,
+   "term_end": 2029,
    "source": "https://www.conyersga.com/government/city-government/mayor-connie-alsobrook",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "covington",
@@ -2711,7 +2879,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://www.cityofcovington.org/index.php?section=city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "covington",
@@ -2727,7 +2896,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.cityofcovington.org/index.php?section=city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "covington",
@@ -2743,7 +2913,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.cityofcovington.org/index.php?section=city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "covington",
@@ -2759,7 +2930,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.cityofcovington.org/index.php?section=city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "covington",
@@ -2775,7 +2947,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.cityofcovington.org/index.php?section=city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "covington",
@@ -2791,7 +2964,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://www.cityofcovington.org/index.php?section=city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "covington",
@@ -2807,7 +2981,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://www.cityofcovington.org/index.php?section=city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "coweta",
@@ -2823,7 +2998,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.coweta.ga.us/169/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "coweta",
@@ -2839,7 +3015,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.coweta.ga.us/169/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "coweta",
@@ -2855,7 +3032,8 @@
    "last_elected": 2023,
    "term_end": 2026,
    "source": "https://www.coweta.ga.us/169/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "coweta",
@@ -2871,7 +3049,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/coweta-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "coweta",
@@ -2887,7 +3066,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.coweta.ga.us/169/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "coweta",
@@ -2903,7 +3083,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.coweta.ga.us/169/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dalton",
@@ -2919,7 +3100,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.daltonga.gov/164/City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "dalton",
@@ -2935,7 +3117,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.daltonga.gov/164/City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "dalton",
@@ -2951,7 +3134,8 @@
    "last_elected": 2026,
    "term_end": 2029,
    "source": "https://www.daltonga.gov/164/City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "dalton",
@@ -2967,7 +3151,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.daltonga.gov/164/City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "dalton",
@@ -2983,7 +3168,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://www.daltonga.gov/164/City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "dawson",
@@ -2999,7 +3185,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.dawsoncountyga.gov/426/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dawson",
@@ -3015,7 +3202,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.dawsoncountyga.gov/426/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dawson",
@@ -3031,7 +3219,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.dawsoncountyga.gov/426/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dawson",
@@ -3047,7 +3236,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.dawsoncountyga.gov/426/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dawson",
@@ -3063,7 +3253,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.dawsoncountyga.gov/426/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dekalb",
@@ -3079,7 +3270,8 @@
    "last_elected": null,
    "term_end": 2028,
    "source": "https://dekalbcountyga.gov/government/chief-executive-officer",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dekalb",
@@ -3095,7 +3287,8 @@
    "last_elected": null,
    "term_end": 2028,
    "source": "https://dekalbcountyga.gov/government/board-of-commissioners/districts/robert-patrick",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dekalb",
@@ -3111,7 +3304,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://dekalbcountyga.gov/government/board-of-commissioners/districts/michelle-long-spears",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dekalb",
@@ -3127,7 +3321,8 @@
    "last_elected": null,
    "term_end": 2026,
    "source": "https://dekalbcountyga.gov/index%2ephp/government/board-of-commissioners/districts/nicole-massiah",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dekalb",
@@ -3143,7 +3338,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/dekalb-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dekalb",
@@ -3159,7 +3355,8 @@
    "last_elected": null,
    "term_end": 2028,
    "source": "https://dekalbcountyga.gov/government/board-of-commissioners/districts/chakira-johnson",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dekalb",
@@ -3175,7 +3372,8 @@
    "last_elected": null,
    "term_end": 2028,
    "source": "https://dekalbcountyga.gov/government/board-of-commissioners/districts/mareda-davis-johnson",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dekalb",
@@ -3191,7 +3389,8 @@
    "last_elected": null,
    "term_end": 2028,
    "source": "https://dekalbcountyga.gov/government/board-of-commissioners/districts/ted-terry",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dekalb",
@@ -3207,7 +3406,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://dekalbcountyga.gov/government/board-of-commissioners/districts/ladena-bolton",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dougherty",
@@ -3223,7 +3423,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dougherty",
@@ -3239,7 +3440,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/2024NovGen/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dougherty",
@@ -3255,7 +3457,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dougherty",
@@ -3271,7 +3474,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/2024NovGen/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dougherty",
@@ -3287,7 +3491,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dougherty",
@@ -3303,7 +3508,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dougherty",
@@ -3319,7 +3525,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/2024NovGen/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "dougherty",
@@ -3335,7 +3542,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/dougherty-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "douglas",
@@ -3351,7 +3559,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.douglascountyga.gov/335/Dr-Romona-Jackson-Jones",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "douglas",
@@ -3367,7 +3576,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.douglascountyga.gov/334/Henry-Mitchell-III",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "douglas",
@@ -3383,7 +3593,8 @@
    "last_elected": null,
    "term_end": 2028,
    "source": "https://www.douglascountyga.gov/333/Whitney-Kenner-Jones",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "douglas",
@@ -3399,7 +3610,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.douglascountyga.gov/332/Martin-Raxton",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "douglas",
@@ -3415,7 +3627,8 @@
    "last_elected": null,
    "term_end": 2026,
    "source": "https://www.douglascountyga.gov/331/Mark-Alcarez",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "douglas",
@@ -3431,7 +3644,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/douglas-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "effingham",
@@ -3447,7 +3661,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.effinghamcounty.org/m/directory/employee?eid=90",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "effingham",
@@ -3463,7 +3678,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.effinghamcounty.org/m/directory/employee?eid=91",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "effingham",
@@ -3479,7 +3695,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.effinghamcounty.org/m/directory/employee?eid=92",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "effingham",
@@ -3495,7 +3712,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.effinghamcounty.org/m/directory/employee?eid=93",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "effingham",
@@ -3511,7 +3729,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.effinghamcounty.org/m/directory/employee?eid=94",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "effingham",
@@ -3527,7 +3746,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.effinghamcounty.org/m/directory/employee?eid=95",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fayette",
@@ -3543,7 +3763,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.fayettecountyga.gov/government/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fayette",
@@ -3559,7 +3780,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.fayettecountyga.gov/government/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fayette",
@@ -3575,7 +3797,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.fayettecountyga.gov/business_detail_T3_R14.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fayette",
@@ -3591,7 +3814,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/fayette-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fayette",
@@ -3607,7 +3831,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.fayettecountyga.gov/business_detail_T3_R15.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fayette",
@@ -3623,7 +3848,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.fayettecountyga.gov/government/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "floyd",
@@ -3639,7 +3865,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://floydcountyga.gov/board_and_committees/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "floyd",
@@ -3655,7 +3882,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://floydcountyga.gov/board_and_committees/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "floyd",
@@ -3671,7 +3899,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://floydcountyga.gov/board_and_committees/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "floyd",
@@ -3687,7 +3916,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://floydcountyga.gov/board_and_committees/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "floyd",
@@ -3703,7 +3933,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://floydcountyga.gov/board_and_committees/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "floyd",
@@ -3719,7 +3950,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://floydcountyga.gov/board_and_committees/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "floyd",
@@ -3735,7 +3967,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://floydcountyga.gov/board_and_committees/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "forsyth",
@@ -3751,7 +3984,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.forsythco.com/government/departments/board-of-commissioners/district-1/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "forsyth",
@@ -3767,7 +4001,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/forsyth-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "forsyth",
@@ -3783,7 +4018,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.forsythco.com/government/departments/board-of-commissioners/district-2/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "forsyth",
@@ -3799,7 +4035,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.forsythco.com/government/departments/board-of-commissioners/district-3/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "forsyth",
@@ -3815,7 +4052,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.forsythco.com/government/departments/board-of-commissioners/district-4/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "forsyth",
@@ -3831,7 +4069,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.forsythco.com/government/departments/board-of-commissioners/district-5/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fort-oglethorpe",
@@ -3847,7 +4086,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://fortogov.com/mayor-council/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "fort-oglethorpe",
@@ -3863,7 +4103,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://fortogov.com/mayor-council/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "fort-oglethorpe",
@@ -3879,7 +4120,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://fortogov.com/mayor-council/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "fort-oglethorpe",
@@ -3895,7 +4137,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://fortogov.com/mayor-council/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "fort-oglethorpe",
@@ -3911,7 +4154,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://fortogov.com/mayor-council/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "fort-oglethorpe",
@@ -3927,7 +4171,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://fortogov.com/mayor-council/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "fulton",
@@ -3943,7 +4188,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.fultoncountyga.gov/Commissioners/Robb-Pitts",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fulton",
@@ -3959,7 +4205,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/fulton-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fulton",
@@ -3975,7 +4222,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.fultoncountyga.gov/Commissioners/Bridget-Thorne",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fulton",
@@ -3991,7 +4239,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/fulton-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fulton",
@@ -4007,7 +4256,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.fultoncountyga.gov/Commissioners/Bob-Ellis",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fulton",
@@ -4023,7 +4273,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.fultoncountyga.gov/Commissioners/Dana-Barrett",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fulton",
@@ -4039,7 +4290,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/fulton-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fulton",
@@ -4055,7 +4307,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.fultoncountyga.gov/Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fulton",
@@ -4071,7 +4324,8 @@
    "last_elected": 2026,
    "term_end": null,
    "source": "https://results.sos.ga.gov/results/public/api/elections/fulton-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fulton",
@@ -4087,7 +4341,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.fultoncountyga.gov/Commissioners/Marvin-Arrington",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fulton",
@@ -4103,7 +4358,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/fulton-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "fulton",
@@ -4119,7 +4375,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.fultoncountyga.gov/Commissioners/Khadijah-Abdur-Rahman",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gilmer",
@@ -4135,7 +4392,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/gilmer-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gilmer",
@@ -4151,7 +4409,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://gilmercounty-ga.gov/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "gilmer",
@@ -4167,7 +4426,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://gilmercounty-ga.gov/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "gilmer",
@@ -4183,7 +4443,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/gilmer-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "glynn",
@@ -4199,7 +4460,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/2024NovGen/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "glynn",
@@ -4215,7 +4477,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/2024NovGen/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "glynn",
@@ -4231,7 +4494,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.glynncounty.org/government/departments/board-commissioners/meet-commissioners/thomas-wayne-neal-district-3-commissioner",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "glynn",
@@ -4247,7 +4511,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "glynn",
@@ -4263,7 +4528,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "glynn",
@@ -4279,7 +4545,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "glynn",
@@ -4295,7 +4562,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/2024NovGen/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "glynn",
@@ -4311,7 +4579,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "glynn",
@@ -4327,7 +4596,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://results.sos.ga.gov/results/public/api/elections/glynn-county-ga/2024NovGen/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gordon",
@@ -4343,7 +4613,8 @@
    "last_elected": null,
    "term_end": 2028,
    "source": "https://www.gordoncountyga.gov/185/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gordon",
@@ -4359,7 +4630,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.gordoncountyga.gov/185/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gordon",
@@ -4375,7 +4647,8 @@
    "last_elected": null,
    "term_end": 2028,
    "source": "https://www.gordoncountyga.gov/185/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gordon",
@@ -4391,7 +4664,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.gordoncountyga.gov/185/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gordon",
@@ -4407,7 +4681,8 @@
    "last_elected": null,
    "term_end": 2028,
    "source": "https://www.gordoncountyga.gov/185/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gwinnett",
@@ -4423,7 +4698,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.gwinnettcounty.com/government/departments/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gwinnett",
@@ -4439,7 +4715,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.gwinnettcounty.com/government/departments/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gwinnett",
@@ -4455,7 +4732,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.gwinnettcounty.com/government/departments/board-of-commissioners/about/district-2-commissioner",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gwinnett",
@@ -4471,7 +4749,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.gwinnettcounty.com/government/departments/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gwinnett",
@@ -4487,7 +4766,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.gwinnettcounty.com/government/departments/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "gwinnett",
@@ -4503,7 +4783,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/gwinnett-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "habersham",
@@ -4519,7 +4800,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.habershamga.com/commissioners.cfm",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "habersham",
@@ -4535,7 +4817,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.habershamga.com/commissioners.cfm",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "habersham",
@@ -4551,7 +4834,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/habersham-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "habersham",
@@ -4567,7 +4851,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.habershamga.com/commissioners.cfm",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "habersham",
@@ -4583,7 +4868,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.habershamga.com/commissioners.cfm",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "habersham",
@@ -4599,7 +4885,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.habershamga.com/commissioners.cfm",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "hall",
@@ -4615,7 +4902,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.hallcounty.org/m/directory/employee?eid=864",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "hall",
@@ -4631,7 +4919,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.hallcounty.org/m/directory/employee?eid=125",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "hall",
@@ -4647,7 +4936,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/hall-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "hall",
@@ -4663,7 +4953,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.hallcounty.org/m/directory/employee?eid=126",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "hall",
@@ -4679,7 +4970,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.hallcounty.org/m/directory/employee?eid=127",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "hall",
@@ -4695,7 +4987,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/hall-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "hall",
@@ -4711,7 +5004,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://ga-hallcounty.civicplus.com/m/directory/employee?eid=128",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "haralson",
@@ -4727,7 +5021,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.haralsoncountyga.gov/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "haralson",
@@ -4743,7 +5038,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.haralsoncountyga.gov/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "haralson",
@@ -4759,7 +5055,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.haralsoncountyga.gov/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "haralson",
@@ -4775,7 +5072,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.haralsoncountyga.gov/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "haralson",
@@ -4791,7 +5089,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.haralsoncountyga.gov/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "harris",
@@ -4807,7 +5106,8 @@
    "last_elected": null,
    "term_end": 2026,
    "source": "https://www.harriscountyga.gov/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "harris",
@@ -4823,7 +5123,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/harris-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "harris",
@@ -4839,7 +5140,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/harris-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "harris",
@@ -4855,7 +5157,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/harris-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "harris",
@@ -4871,7 +5174,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.harriscountyga.gov/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "harris",
@@ -4887,7 +5191,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.harriscountyga.gov/board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "henry",
@@ -4903,7 +5208,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.henrycountyga.gov/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "henry",
@@ -4919,7 +5225,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.henrycountyga.gov/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "henry",
@@ -4935,7 +5242,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.henrycountyga.gov/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "henry",
@@ -4951,7 +5259,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.henrycountyga.gov/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "henry",
@@ -4967,7 +5276,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/henry-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "henry",
@@ -4983,7 +5293,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.henrycountyga.gov/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "henry",
@@ -4999,7 +5310,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.henrycountyga.gov/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "houston",
@@ -5015,7 +5327,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.houstoncountyga.gov/commissioner/contact-information.cms",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "houston",
@@ -5031,7 +5344,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.houstoncountyga.gov/commissioner/contact-information.cms",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "houston",
@@ -5047,7 +5361,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.houstoncountyga.gov/commissioner/contact-information.cms",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "houston",
@@ -5063,7 +5378,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.houstoncountyga.gov/commissioner/contact-information.cms",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "houston",
@@ -5079,7 +5395,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.houstoncountyga.gov/commissioner/contact-information.cms",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "jackson",
@@ -5095,7 +5412,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.jacksoncountygov.com/373/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "jackson",
@@ -5111,7 +5429,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.jacksoncountygov.com/373/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "jackson",
@@ -5127,7 +5446,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.jacksoncountygov.com/373/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "jackson",
@@ -5143,7 +5463,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.jacksoncountygov.com/373/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "jackson",
@@ -5159,7 +5480,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.jacksoncountygov.com/373/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "jackson",
@@ -5175,7 +5497,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.jacksoncountygov.com/373/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "lafayette",
@@ -5191,7 +5514,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.mycityoflafayettega.org/business_detail_T7_R14.php",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "lafayette",
@@ -5207,7 +5531,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://www.mycityoflafayettega.org/business_detail_T7_R64.php",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "lafayette",
@@ -5223,7 +5548,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://www.mycityoflafayettega.org/business_detail_T7_R10.php",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "lafayette",
@@ -5239,7 +5565,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://www.mycityoflafayettega.org/business_detail_T7_R11.php",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "lafayette",
@@ -5255,7 +5582,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.mycityoflafayettega.org/business_detail_T7_R12.php",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "lafayette",
@@ -5271,7 +5599,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.mycityoflafayettega.org/business_detail_T7_R13.php",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "laurens",
@@ -5287,7 +5616,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.laurenscoga.org/AgendaCenter/ViewFile/Minutes/_01062026-384",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "laurens",
@@ -5303,7 +5633,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.laurenscoga.org/AgendaCenter/ViewFile/Minutes/_01062026-384",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "laurens",
@@ -5319,7 +5650,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.laurenscoga.org/AgendaCenter/ViewFile/Minutes/_01062026-384",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "laurens",
@@ -5335,7 +5667,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.laurenscoga.org/AgendaCenter/ViewFile/Minutes/_01062026-384",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "laurens",
@@ -5351,7 +5684,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.laurenscoga.org/AgendaCenter/ViewFile/Minutes/_01062026-384",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "lee",
@@ -5367,7 +5701,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.leecountyga.gov/government/board-of-commissioners/boc-directory/dennis-roland",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lee",
@@ -5383,7 +5718,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/lee-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lee",
@@ -5399,7 +5735,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.leecountyga.gov/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lee",
@@ -5415,7 +5752,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.leecountyga.gov/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lee",
@@ -5431,7 +5769,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.leecountyga.gov/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lee",
@@ -5447,7 +5786,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.leecountyga.gov/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "liberty",
@@ -5463,7 +5803,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.libertycountyga.gov/326/Donald-Lovette",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "liberty",
@@ -5479,7 +5820,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.libertycountyga.gov/327/Marion-Stevens-Sr",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "liberty",
@@ -5495,7 +5837,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/liberty-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "liberty",
@@ -5511,7 +5854,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.libertycountyga.gov/328/Justin-L-Frasier",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "liberty",
@@ -5527,7 +5871,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.libertycountyga.gov/329/Connie-Thrift",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "liberty",
@@ -5543,7 +5888,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.libertycountyga.gov/460/Timothy-Blount",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "liberty",
@@ -5559,7 +5905,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.libertycountyga.gov/332/Gary-Gilliard",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "liberty",
@@ -5575,7 +5922,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.libertycountyga.gov/333/Eddie-J-Walden",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lowndes",
@@ -5591,7 +5939,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.lowndescounty.com/328/Chairman",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lowndes",
@@ -5607,7 +5956,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.lowndescounty.com/329/District-1",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lowndes",
@@ -5623,7 +5973,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.lowndescounty.com/330/District-2",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lowndes",
@@ -5639,7 +5990,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.lowndescounty.com/331/District-3",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lowndes",
@@ -5655,7 +6007,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.lowndescounty.com/332/District-4",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lowndes",
@@ -5671,7 +6024,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.lowndescounty.com/333/District-5",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lumpkin",
@@ -5687,7 +6041,8 @@
    "last_elected": 2026,
    "term_end": 2028,
    "source": "https://www.lumpkincounty.gov/188/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lumpkin",
@@ -5703,7 +6058,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.lumpkincounty.gov/188/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lumpkin",
@@ -5719,7 +6075,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.lumpkincounty.gov/188/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lumpkin",
@@ -5735,7 +6092,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.lumpkincounty.gov/188/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "lumpkin",
@@ -5751,7 +6109,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.lumpkincounty.gov/188/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "meriwether",
@@ -5767,7 +6126,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.meriwethercountyga.gov/215/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "meriwether",
@@ -5783,7 +6143,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/meriwether-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "meriwether",
@@ -5799,7 +6160,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.meriwethercountyga.gov/215/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "meriwether",
@@ -5815,7 +6177,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.meriwethercountyga.gov/215/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "meriwether",
@@ -5831,7 +6194,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.meriwethercountyga.gov/215/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "meriwether",
@@ -5847,7 +6211,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.meriwethercountyga.gov/215/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "milledgeville",
@@ -5863,7 +6228,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.milledgevillega.us/index.php/city-council/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "milledgeville",
@@ -5879,7 +6245,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.milledgevillega.us/index.php/city-council/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "milledgeville",
@@ -5895,7 +6262,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.milledgevillega.us/index.php/city-council/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "milledgeville",
@@ -5911,7 +6279,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.milledgevillega.us/index.php/city-council/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "milledgeville",
@@ -5927,7 +6296,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.milledgevillega.us/index.php/city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "milledgeville",
@@ -5943,7 +6313,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.milledgevillega.us/index.php/city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "milledgeville",
@@ -5959,7 +6330,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.milledgevillega.us/index.php/mayor/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "mitchell",
@@ -5975,7 +6347,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://mitchellcountyga.net/commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "mitchell",
@@ -5991,7 +6364,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://mitchellcountyga.net/commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "mitchell",
@@ -6007,7 +6381,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://mitchellcountyga.net/commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "mitchell",
@@ -6023,7 +6398,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://mitchellcountyga.net/commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "mitchell",
@@ -6039,7 +6415,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://mitchellcountyga.net/commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "monroe",
@@ -6055,7 +6432,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.monroecoga.org/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "monroe",
@@ -6071,7 +6449,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.monroecoga.org/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "monroe",
@@ -6087,7 +6466,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.monroecoga.org/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "monroe",
@@ -6103,7 +6483,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.monroecoga.org/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "monroe",
@@ -6119,7 +6500,8 @@
    "last_elected": 2024,
    "term_end": 2026,
    "source": "https://www.monroecoga.org/commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "monroe",
@@ -6135,7 +6517,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/monroe-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "montgomery",
@@ -6151,7 +6534,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.montcoga.gov/board-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "montgomery",
@@ -6167,7 +6551,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.montcoga.gov/board-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "montgomery",
@@ -6183,7 +6568,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.montcoga.gov/board-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "montgomery",
@@ -6199,7 +6585,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.montcoga.gov/board-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "montgomery",
@@ -6215,7 +6602,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.montcoga.gov/board-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "morgan",
@@ -6231,7 +6619,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.morgancountyga.gov/m/directory/department?did=7",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "morgan",
@@ -6247,7 +6636,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.morgancountyga.gov/m/directory/department?did=7",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "morgan",
@@ -6263,7 +6653,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.morgancountyga.gov/m/directory/department?did=7",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "morgan",
@@ -6279,7 +6670,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.morgancountyga.gov/m/directory/department?did=7",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "morgan",
@@ -6295,7 +6687,8 @@
    "last_elected": 2025,
    "term_end": 2028,
    "source": "https://www.morgancountyga.gov/m/directory/department?did=7",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "muscogee",
@@ -6311,7 +6704,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://columbusga.gov/council/district-1",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "muscogee",
@@ -6327,7 +6721,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://columbusga.gov/council/District-10",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "muscogee",
@@ -6343,7 +6738,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://columbusga.gov/council/district-2",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "muscogee",
@@ -6359,7 +6755,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://columbusga.gov/council/District-3",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "muscogee",
@@ -6375,7 +6772,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://columbusga.gov/council/District-4",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "muscogee",
@@ -6391,7 +6789,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://columbusga.gov/council/District-5",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "muscogee",
@@ -6407,7 +6806,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://columbusga.gov/council/District-6",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "muscogee",
@@ -6423,7 +6823,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://columbusga.gov/council/District-7",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "muscogee",
@@ -6439,7 +6840,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://columbusga.gov/council/District-8",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "muscogee",
@@ -6455,7 +6857,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://columbusga.gov/council/District-9",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "muscogee",
@@ -6471,7 +6874,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://columbusga.gov/mayor",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "newton",
@@ -6487,7 +6891,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.newtoncountyga.gov/158/Marcello-Banes",
-   "status": "Suspended"
+   "status": "Suspended",
+   "term_provenance": null
   },
   {
    "jurisdiction": "newton",
@@ -6503,7 +6908,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://gov.georgia.gov/document/2026-executive-order/10232601/download",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "newton",
@@ -6519,7 +6925,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.newtoncountyga.gov/159/Stan-Edwards",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "newton",
@@ -6535,7 +6942,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.newtoncountyga.gov/386/Demond-Mason",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "newton",
@@ -6551,7 +6959,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/newton-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "newton",
@@ -6567,7 +6976,8 @@
    "last_elected": null,
    "term_end": 2028,
    "source": "https://www.newtoncountyga.gov/703/Andre-Cooper",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "newton",
@@ -6583,7 +6993,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://results.sos.ga.gov/results/public/api/elections/newton-county-ga/2024NovGen/data",
-   "status": "Suspended"
+   "status": "Suspended",
+   "term_provenance": null
   },
   {
    "jurisdiction": "newton",
@@ -6599,7 +7010,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.newtoncountyga.gov/162/JC-Henderson",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "newton",
@@ -6615,7 +7027,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.newtoncountyga.gov/693/LeAnne-Long",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "oconee",
@@ -6631,7 +7044,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.oconeecountyga.gov/507/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "oconee",
@@ -6647,7 +7061,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.oconeecountyga.gov/910/Mark-Thomas",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "oconee",
@@ -6663,7 +7078,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.oconeecountyga.gov/913/Chuck-Horton",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "oconee",
@@ -6679,7 +7095,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.oconeecountyga.gov/913/Amrey-Harden",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "oconee",
@@ -6695,7 +7112,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.oconeecountyga.gov/913/Mark-Saxon",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "palmetto",
@@ -6711,7 +7129,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.citypalmetto.com/citycouncil/directory-listing/carolyn-wynn",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "palmetto",
@@ -6727,7 +7146,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.citypalmetto.com/citycouncil/directory-listing/connie-l-wright",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "palmetto",
@@ -6743,7 +7163,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.citypalmetto.com/citycouncil/directory-listing/jessica-wilbanks",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "palmetto",
@@ -6759,7 +7180,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.citypalmetto.com/citycouncil/directory-listing/mary-henry",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "palmetto",
@@ -6775,7 +7197,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.citypalmetto.com/citycouncil/directory-listing/perez-slaughter",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "palmetto",
@@ -6791,7 +7214,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.citypalmetto.com/citycouncil/directory-listing/robert-deon-arnold",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "palmetto",
@@ -6807,7 +7231,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.citypalmetto.com/administration/page/mayors-office",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "paulding",
@@ -6823,7 +7248,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.paulding.gov/355/Tim-Estes---Commission-Chairman",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "paulding",
@@ -6839,7 +7265,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.paulding.gov/356/Keith-Dunn---Post-I-Commissioner",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "paulding",
@@ -6855,7 +7282,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.paulding.gov/357/Sandy-Kaecher---Post-II-Commissioner",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "paulding",
@@ -6871,7 +7299,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/paulding-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "paulding",
@@ -6887,7 +7316,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.paulding.gov/358/Virginia-Galloway---Post-III-Commissione",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "paulding",
@@ -6903,7 +7333,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/paulding-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "paulding",
@@ -6919,7 +7350,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.paulding.gov/359/Post-IV-Commissioner",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "pickens",
@@ -6935,7 +7367,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.pickenscountyga.gov/167/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "pickens",
@@ -6951,7 +7384,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.pickenscountyga.gov/167/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "pickens",
@@ -6967,7 +7401,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.pickenscountyga.gov/167/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "polk",
@@ -6983,7 +7418,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.polkga.org/government/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "polk",
@@ -6999,7 +7435,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.polkga.org/government/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "polk",
@@ -7015,7 +7452,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.polkga.org/government/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "polk",
@@ -7031,7 +7469,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://ballotpedia.org/Linda_B._Liles_%28Polk_County_Commission,_District_2,_Georgia,_candidate_2026%29",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "polk",
@@ -7047,7 +7486,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/polk-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "polk",
@@ -7063,7 +7503,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.polkga.org/government/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "polk",
@@ -7079,7 +7520,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.polkga.org/government/board_of_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "polk",
@@ -7095,7 +7537,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/polk-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "rockdale",
@@ -7111,7 +7554,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.rockdalecountyga.gov/rockdale-board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "rockdale",
@@ -7127,7 +7571,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.rockdalecountyga.gov/rockdale-board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "rockdale",
@@ -7143,7 +7588,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.rockdalecountyga.gov/rockdale-board-of-commissioners/",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "rockdale",
@@ -7159,7 +7605,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/rockdale-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "rossville",
@@ -7175,7 +7622,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://www.rossvillega.gov/mayor-city-council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "rossville",
@@ -7191,7 +7639,8 @@
    "last_elected": null,
    "term_end": 2027,
    "source": "https://www.rossvillega.gov/mayor-city-council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "rossville",
@@ -7207,7 +7656,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.rossvillega.gov/mayor-city-council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "rossville",
@@ -7223,7 +7673,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://www.rossvillega.gov/mayor-city-council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "rossville",
@@ -7239,7 +7690,8 @@
    "last_elected": 2025,
    "term_end": 2027,
    "source": "https://www.rossvillega.gov/mayor-city-council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "savannah",
@@ -7255,7 +7707,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.savannahga.gov/390/Contact-Your-City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "savannah",
@@ -7271,7 +7724,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.savannahga.gov/390/Contact-Your-City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "savannah",
@@ -7287,7 +7741,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.savannahga.gov/390/Contact-Your-City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "savannah",
@@ -7303,7 +7758,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.savannahga.gov/390/Contact-Your-City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "savannah",
@@ -7319,7 +7775,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.savannahga.gov/390/Contact-Your-City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "savannah",
@@ -7335,7 +7792,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.savannahga.gov/390/Contact-Your-City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "savannah",
@@ -7351,7 +7809,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.savannahga.gov/390/Contact-Your-City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "savannah",
@@ -7367,7 +7826,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.savannahga.gov/390/Contact-Your-City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "savannah",
@@ -7383,7 +7843,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://www.savannahga.gov/390/Contact-Your-City-Council",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "socialcircle",
@@ -7399,7 +7860,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.socialcirclega.gov/departments/mayor-and-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "socialcircle",
@@ -7415,7 +7877,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.socialcirclega.gov/departments/mayor-and-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "socialcircle",
@@ -7431,7 +7894,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.socialcirclega.gov/departments/mayor-and-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "socialcircle",
@@ -7447,7 +7911,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.socialcirclega.gov/departments/mayor-and-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "socialcircle",
@@ -7463,7 +7928,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.socialcirclega.gov/departments/mayor-and-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "spalding",
@@ -7479,7 +7945,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.spaldingcounty.com/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "spalding",
@@ -7495,7 +7962,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.spaldingcounty.com/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "spalding",
@@ -7511,7 +7979,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.spaldingcounty.com/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "spalding",
@@ -7527,7 +7996,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.spaldingcounty.com/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "spalding",
@@ -7543,7 +8013,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.spaldingcounty.com/government/board-of-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomas",
@@ -7559,7 +8030,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://thomascountyboc.org/about-us/county-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomas",
@@ -7575,7 +8047,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://thomascountyboc.org/about-us/county-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomas",
@@ -7591,7 +8064,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://thomascountyboc.org/about-us/county-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomas",
@@ -7607,7 +8081,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://thomascountyboc.org/about-us/county-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomas",
@@ -7623,7 +8098,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://thomascountyboc.org/about-us/county-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomas",
@@ -7639,7 +8115,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://thomascountyboc.org/about-us/county-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomas",
@@ -7655,7 +8132,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://thomascountyboc.org/about-us/county-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomas",
@@ -7671,7 +8149,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://thomascountyboc.org/about-us/county-commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomasville",
@@ -7687,7 +8166,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://thomasville.org/about-the-thomasville-city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomasville",
@@ -7703,7 +8183,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://thomasville.org/about-the-thomasville-city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomasville",
@@ -7719,7 +8200,8 @@
    "last_elected": 2025,
    "term_end": 2029,
    "source": "https://thomasville.org/about-the-thomasville-city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomasville",
@@ -7735,7 +8217,8 @@
    "last_elected": 2023,
    "term_end": 2027,
    "source": "https://thomasville.org/about-the-thomasville-city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "thomasville",
@@ -7751,7 +8234,8 @@
    "last_elected": null,
    "term_end": 2029,
    "source": "https://thomasville.org/about-the-thomasville-city-council",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "tift",
@@ -7767,7 +8251,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.tiftcounty.org/county_commissionersgovernment/county_commissioners/index.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "tift",
@@ -7783,7 +8268,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.tiftcounty.org/county_commissioners/commissioner_donnie_hester.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "tift",
@@ -7799,7 +8285,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/tift-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "tift",
@@ -7815,7 +8302,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.tiftcounty.org/county_commissioners/county_commissionersgovernment/commissioner_melissa_hughes.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "tift",
@@ -7831,7 +8319,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.tiftcounty.org/county_commissioners/commissioner_paul_webb.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "tift",
@@ -7847,7 +8336,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.tiftcounty.org/county_commissioners/commissioner_stan_stalnaker.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "tift",
@@ -7863,7 +8353,8 @@
    "last_elected": 2025,
    "term_end": 2028,
    "source": "https://www.tiftcounty.org/county_commissioners/commissioner_tyler_riddle.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "tift",
@@ -7879,7 +8370,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.tiftcounty.org/county_commissioners/commissioner_greg_wood.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "toombs",
@@ -7895,7 +8387,8 @@
    "last_elected": 2026,
    "term_end": 2028,
    "source": "https://toombscountyga.gov/county-commission-2/",
-   "status": null
+   "status": null,
+   "term_provenance": "verified"
   },
   {
    "jurisdiction": "toombs",
@@ -7911,7 +8404,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://toombscountyga.gov/county-commission-2/",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "toombs",
@@ -7927,7 +8421,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://toombscountyga.gov/county-commission-2/",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "toombs",
@@ -7943,7 +8438,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://toombscountyga.gov/county-commission-2/",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "toombs",
@@ -7959,7 +8455,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://toombscountyga.gov/county-commission-2/",
-   "status": null
+   "status": null,
+   "term_provenance": "assumed"
   },
   {
    "jurisdiction": "union",
@@ -7975,7 +8472,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.unioncountyga.gov/259/Commissioners-Office",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walker",
@@ -7991,7 +8489,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.walkercountyga.gov/government/board_of_commissioners/chairwoman.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walker",
@@ -8007,7 +8506,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.walkercountyga.gov/government/board_of_commissioners/district_1.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walker",
@@ -8023,7 +8523,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/walker-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walker",
@@ -8039,7 +8540,8 @@
    "last_elected": 2022,
    "term_end": 2026,
    "source": "https://www.walkercountyga.gov/government/board_of_commissioners/district_2.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walker",
@@ -8055,7 +8557,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/walker-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walker",
@@ -8071,7 +8574,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.walkercountyga.gov/government/board_of_commissioners/district_3.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walker",
@@ -8087,7 +8591,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.walkercountyga.gov/government/board_of_commissioners/district_4.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walton",
@@ -8103,7 +8608,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.waltoncountyga.gov/322/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walton",
@@ -8119,7 +8625,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.waltoncountyga.gov/322/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walton",
@@ -8135,7 +8642,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/walton-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walton",
@@ -8151,7 +8659,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.waltoncountyga.gov/322/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walton",
@@ -8167,7 +8676,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.waltoncountyga.gov/322/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walton",
@@ -8183,7 +8693,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.waltoncountyga.gov/322/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walton",
@@ -8199,7 +8710,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.waltoncountyga.gov/322/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "walton",
@@ -8215,7 +8727,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.waltoncountyga.gov/322/Board-of-Commissioners",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "whitfield",
@@ -8231,7 +8744,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.whitfieldcountyga.com/business_detail_T5_R2.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "whitfield",
@@ -8247,7 +8761,8 @@
    "last_elected": null,
    "term_end": null,
    "source": "https://www.whitfieldcountyga.com/business_detail_T5_R4.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "whitfield",
@@ -8263,7 +8778,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://results.sos.ga.gov/results/public/api/elections/whitfield-county-ga/11032026GeneralAndSpecialElection/data",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "whitfield",
@@ -8279,7 +8795,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.whitfieldcountyga.com/business_detail_T5_R5.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "whitfield",
@@ -8295,7 +8812,8 @@
    "last_elected": 2026,
    "term_end": 2030,
    "source": "https://www.whitfieldcountyga.com/business_detail_T5_R8.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   },
   {
    "jurisdiction": "whitfield",
@@ -8311,7 +8829,8 @@
    "last_elected": 2024,
    "term_end": 2028,
    "source": "https://www.whitfieldcountyga.com/business_detail_T5_R11.php",
-   "status": null
+   "status": null,
+   "term_provenance": null
   }
  ]
 }
