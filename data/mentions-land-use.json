@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-25T18:58:23Z",
+  "generatedAt": "2026-11-27T20:43:19Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "topic": "land-use",
@@ -262,6 +262,60 @@
   },
   {
    "topic": "land-use",
+   "placeId": "cobb",
+   "placeName": "Cobb County",
+   "placeType": "county",
+   "fips": "13067",
+   "region": "Metro Atlanta",
+   "date": "2026-12-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "annexation"
+   ],
+   "tags": [
+    "annexation"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10375,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "glynn",
+   "placeName": "Glynn County",
+   "placeType": "county",
+   "fips": "13127",
+   "region": null,
+   "date": "2026-12-03",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "granicus",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… with no financial impact on the award. (L. Johnson) REPORT 4. FP-26-9 Majestic Oaks, Phase 2B Final Plat: Consider the subdivision approval of a 22.9-acre parcel to create a 43-lot residential subdivision, Majestic Oaks, Phase 2B, including acceptanc …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://glynncounty.granicus.com/AgendaViewer.php?view_id=1&event_id=680",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "dekalb",
    "placeName": "DeKalb County",
    "placeType": "county",
@@ -378,6 +432,98 @@
   },
   {
    "topic": "land-use",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-12-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "special-use"
+   ],
+   "tags": [
+    "special-land-use"
+   ],
+   "excerpt": "… Regular Meeting and Executive Session of November 03, 2026. NEW BUSINESS 1. SU26-08: Request from Russell Ergle for a special-use permit for property located on Bollen Road, Rockmart (Parcel # 051-078B). Planning Commission recommended approval. …",
+   "excerptTerm": "special-use",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Board%20of%20Commissioners/Regular%20Meeting%20Agenda%20December%2001,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "morgan",
+   "placeName": "Morgan County",
+   "placeType": "county",
+   "fips": "13211",
+   "region": "Northeast Georgia",
+   "date": "2026-12-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "conditional use",
+    "mixed use",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use",
+    "variance"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_12012026-890",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "houston",
+   "placeName": "Houston County",
+   "placeType": "county",
+   "fips": "13153",
+   "region": "Middle Georgia",
+   "date": "2026-12-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "comprehensive plan",
+    "subdivision"
+   ],
+   "tags": [
+    "comprehensive-plan",
+    "development"
+   ],
+   "excerpt": "… mber 17, 2026 New Business 1. Special Exception Applications – Commissioner Talton 2. Public Hearing (Houston County Comprehensive Plan) – Chairman Perdue 3. Resolution (Arts Auth Act) – Commissioner Talton 4. Sales Contract Approval (10121 Hawkinsville R …",
+   "excerptTerm": "comprehensive plan",
+   "sourceUrl": "https://www.houstoncountyga.gov/minutes/2026-12-01%20(3)%20Agenda.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "henry",
    "placeName": "Henry County",
    "placeType": "county",
@@ -437,6 +583,39 @@
   },
   {
    "topic": "land-use",
+   "placeId": "columbia",
+   "placeName": "Columbia County",
+   "placeType": "county",
+   "fips": "13073",
+   "region": "East Georgia",
+   "date": "2026-12-01",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "conditional use",
+    "rezon",
+    "subdivision",
+    "variance"
+   ],
+   "tags": [
+    "development",
+    "rezoning",
+    "special-land-use",
+    "variance"
+   ],
+   "excerpt": "… ry Use of the Code of Ordinances - First Reading 10. (I2a10) Ordinance Number 26-04 Amending Chapter 74 Subdivision Sections 74-36 Generally, 74-37 Preliminary Plat, 74-39 Final Plat of Record and 74-118 …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://columbiacoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=13973,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "cobb",
    "placeName": "Cobb County",
    "placeType": "county",
@@ -469,6 +648,33 @@
   },
   {
    "topic": "land-use",
+   "placeId": "clarke",
+   "placeName": "Athens-Clarke County",
+   "placeType": "consolidated",
+   "fips": "13059",
+   "region": "Northeast Georgia",
+   "date": "2026-12-01",
+   "body": "Mayor & Commission Meetings",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon"
+   ],
+   "tags": [
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.accgov.com/AgendaCenter/ViewFile/Agenda/_12012026-3158",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "cherokee",
    "placeName": "Cherokee County",
    "placeType": "county",
@@ -493,6 +699,33 @@
    "excerpt": "… 26.621 +/- acres of property from AG (General Agriculture) to R-40 (Single Family Residential) for a 25-lot residential subdivision. 2.3 Case #26-12-049 Angel Quintano for 6843 Investments, LLC (BOC Dist. 1) Applicant is pursuing a rezoning from GC to …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&event_id=1140",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "camden",
+   "placeName": "Camden County",
+   "placeType": "county",
+   "fips": "13039",
+   "region": "Coastal Georgia",
+   "date": "2026-12-01",
+   "body": "Board of County Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_12012026-681",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -553,6 +786,35 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://maconbibbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3786,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "augusta",
+   "placeName": "Augusta-Richmond County",
+   "placeType": "consolidated",
+   "fips": "13245",
+   "region": "East Georgia",
+   "date": "2026-12-01",
+   "body": "Augusta Commission",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "warehouse"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": "… ceed $25,000.00. This request is in accordance with Sec. 1-10-58 of the Annual Contracts provision. Bid item 27-066 Warehouse Supplies / Utilities Department, 27-053 Welding and Fabrication and 27-129 Landscape Maintenance Services / Enginee …",
+   "excerptTerm": "warehouse",
+   "sourceUrl": "https://mccmeetings.blob.core.usgovcloudapi.net/augustaga-pubu/MEET-Agenda-601a73f2bd684fad9f767b5410b8cd07.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -782,10 +1044,164 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3968&Inline=True",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
+   "followThrough": "recorded",
+   "outcomes": [
+    {
+     "reference": "26-O-1664",
+     "outline": null,
+     "name": "AN ORDINANCE BY COMMUNITY DEVELOPMENT/HUMAN SERVICES COMMITTEE TO AMEND THE LAND USE ELEMENT OF THE 2025 ATLANTA COMPREHENSIVE DEVELOPMENT PLAN (CDP) SO AS TO REDESIGNATE PROPERTY LOCATED AT 432 INMAN STREET SW FROM THE MLSF (MEDIUM LOT SINGLE FAMILY) DEVELOPMENT PATTERN DESIGNATION TO THE LDMU…",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "held",
+       "resultText": "Held in committee",
+       "tally": null,
+       "yes": 5,
+       "no": 0,
+       "abstain": 0,
+       "absent": 2,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    },
+    {
+     "reference": "26-O-1666",
+     "outline": null,
+     "name": "AN ORDINANCE BY COMMUNITY DEVELOPMENT/HUMAN SERVICES COMMITTEE TO AMEND THE LAND USE ELEMENT OF THE 2025 ATLANTA COMPREHENSIVE DEVELOPMENT PLAN (CDP) SO AS TO REDESIGNATE PROPERTY LOCATED AT 661 AND 669 DILL AVENUE, SW FROM THE MLSF (MEDIUM LOT SINGLE FAMILY) DEVELOPMENT PATTERN DESIGNATION TO THE…",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "held",
+       "resultText": "Held in committee",
+       "tally": null,
+       "yes": 5,
+       "no": 0,
+       "abstain": 0,
+       "absent": 2,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    },
+    {
+     "reference": "26-O-1667",
+     "outline": null,
+     "name": "AN ORDINANCE BY COMMUNITY DEVELOPMENT/HUMAN SERVICES COMMITTEE TO AMEND THE LAND USE ELEMENT OF THE 2025 ATLANTA COMPREHENSIVE DEVELOPMENT PLAN (CDP) SO AS TO REDESIGNATE PROPERTY LOCATED AT 1958 MONROE DRIVE, NE FROM THE LDMU (LOW DENSITY MIXED USE) DEVELOPMENT PATTERN DESIGNATION TO THE MDMU…",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "held",
+       "resultText": "Held in committee",
+       "tally": null,
+       "yes": 5,
+       "no": 0,
+       "abstain": 0,
+       "absent": 2,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    },
+    {
+     "reference": "26-O-1678",
+     "outline": null,
+     "name": "AN ORDINANCE BY COUNCILMEMBER JASON H. WINSTON AS SUBSTITUTED BY THE COMMUNITY DEVELOPMENT AND HUMAN SERVICES COMMITTEE TO AMEND PART III LAND DEVELOPMENT CODE, PART 20 SHORT-TERM RENTALS, TO ADD A SHORT TERM RENTAL LICENSE REQUIREMENT FOR MULTI- FAMILY COMPLEXES; TO PLACE LIMITATIONS ON SHORT-TERM…",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "recommended",
+       "resultText": "Favorable on substitute",
+       "tally": null,
+       "yes": 6,
+       "no": 0,
+       "abstain": 0,
+       "absent": 1,
+       "next": null,
+       "textDisagrees": false
+      },
+      {
+       "motion": null,
+       "result": "passed",
+       "resultClass": "adopted",
+       "resultText": "Approved",
+       "tally": null,
+       "yes": 5,
+       "no": 0,
+       "abstain": 0,
+       "absent": 2,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    },
+    {
+     "reference": "26-O-1130",
+     "outline": null,
+     "name": "CDP-26-002 AN ORDINANCE BY COMMUNITY DEVELOPMENT/HUMAN SERVICES COMMITTEE TO AMEND THE LAND USE ELEMENT OF THE 2025 ATLANTA COMPREHENSIVE DEVELOPMENT PLAN (CDP) SO AS TO REDESIGNATE PROPERTY LOCATED AT 235 AND 249 MILTON AVENUE, SE, FROM THE MDR (MEDIUM DENSITY RESIDENTIAL) DEVELOPMENT PATTERN…",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "held",
+       "resultText": "Held in committee",
+       "tally": null,
+       "yes": 0,
+       "no": 0,
+       "abstain": 0,
+       "absent": 0,
+       "next": null,
+       "textDisagrees": false
+      }
+     ]
+    },
+    {
+     "reference": "26-O-1469",
+     "outline": null,
+     "name": "CDP-26-021 AN ORDINANCE BY COMMUNITY DEVELOPMENT/HUMAN SERVICES COMMITTEE TO AMEND THE LAND USE ELEMENT OF THE 2025 ATLANTA COMPREHENSIVE DEVELOPMENT PLAN (CDP) SO AS TO REDESIGNATE PROPERTY LOCATED AT 460 AND 478 DECATUR STREET, SE, FROM THE LDMU (LOW DENSITY MIXED USE) DEVELOPMENT PATTERN…",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "recommended",
+       "resultText": "Favorable",
+       "tally": null,
+       "yes": 6,
+       "no": 0,
+       "abstain": 0,
+       "absent": 1,
+       "next": "12/7/2026 1:00 PM",
+       "textDisagrees": false
+      }
+     ]
+    },
+    {
+     "reference": "26-O-1543",
+     "outline": null,
+     "name": "AN ORDINANCE BY COUNCILMEMBER LILIANA BAKHTIARI TO AMEND THE LAND USE PLANNING SECTION OF THE 2025 PLAN A: CITY OF ATLANTA COMPREHENSIVE DEVELOPMENT PLAN (CDP) SO AS TO DESIGNATE VARIOUS PARCELS HAVING FRONTAGE ON GLYNN DRIVE, SE, TO MEDIUM LOT SINGLE FAMILY LAND USE DEVELOPMENT PATTERN DESIGNATION…",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "recommended",
+       "resultText": "Favorable",
+       "tally": null,
+       "yes": 6,
+       "no": 0,
+       "abstain": 0,
+       "absent": 1,
+       "next": "12/7/2026 1:00 PM",
+       "textDisagrees": false
+      }
+     ]
+    }
+   ],
+   "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4180&Inline=True",
+   "minutesDraft": true
   },
   {
    "topic": "land-use",
@@ -1102,10 +1518,51 @@
    "excerpt": "… N ORDINANCE BY COUNCILMEMBER ANDREA L. BOONE TO AMEND CHAPTER 10, ARTICLE II, DIVISION 2, SUBDIVISION I, SECTION 10-48, ENTITLED APPLICATION, AND CHAPTER 30, ARTICLE II, SECTION 30-28, …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3969&Inline=True",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
+   "followThrough": "recorded",
+   "outcomes": [
+    {
+     "reference": "26-O-1424",
+     "outline": null,
+     "name": "AN ORDINANCE BY COUNCILMEMBER ANDREA L. BOONE TO AMEND CHAPTER 10, ARTICLE II, DIVISION 2, SUBDIVISION I, SECTION 10-48, ENTITLED APPLICATION, AND CHAPTER 30, ARTICLE II, SECTION 30-28, ENTITLED FEES, TO INCREASE THE INITIAL APPLICATION FEE FOR A LICENSE TO SELL ALCOHOLIC BEVERAGES PURSUANT TO A…",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "held",
+       "resultText": "Held in committee",
+       "tally": null,
+       "yes": 0,
+       "no": 0,
+       "abstain": 0,
+       "absent": 0,
+       "next": "12/7/2026 1:00 PM",
+       "textDisagrees": false
+      }
+     ]
+    },
+    {
+     "reference": "26-O-1607",
+     "outline": null,
+     "name": "AN ORDINANCE BY COUNCILMEMBERS ANDREA L. BOONE, WAYNE MARTIN, MICHAEL JULIAN BOND, AND ESHÉ COLLINS TO AMEND CHAPTER 10, ARTICLE II, DIVISION 2, SUBDIVISION II, SECTION 10-92(B) OF THE CITY OF ATLANTA CODE OF ORDINANCES SO AS TO PROVIDE AN EXEMPTION FROM THE DISTANCE REQUIREMENTS LISTED IN SECTION…",
+     "motions": [
+      {
+       "motion": null,
+       "result": null,
+       "resultClass": "held",
+       "resultText": "Held in committee",
+       "tally": null,
+       "yes": 0,
+       "no": 0,
+       "abstain": 0,
+       "absent": 0,
+       "next": "12/7/2026 1:00 PM",
+       "textDisagrees": false
+      }
+     ]
+    }
+   ],
+   "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4178&Inline=True",
+   "minutesDraft": true
   },
   {
    "topic": "land-use",
@@ -3829,20 +4286,26 @@
    "fips": null,
    "region": "Metro Atlanta",
    "date": "2026-11-09",
-   "body": "Public Safety & Legal Administration Committee",
+   "body": "Zoning Committee",
    "confidence": "high",
-   "context": "agenda-action",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
+    "annexation",
+    "mixed use",
+    "multifamily",
+    "rezon",
     "subdivision"
    ],
    "tags": [
-    "development"
+    "annexation",
+    "development",
+    "rezoning"
    ],
-   "excerpt": "… N ORDINANCE BY COUNCILMEMBER ANDREA L. BOONE TO AMEND CHAPTER 10, ARTICLE II, DIVISION 2, SUBDIVISION I, SECTION 10-48, ENTITLED APPLICATION, AND CHAPTER 30, ARTICLE II, SECTION 30-28, …",
-   "excerptTerm": "subdivision",
-   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3964&Inline=True",
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3960&Inline=True",
    "followThrough": "no-results",
    "outcomes": [],
    "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4170&Inline=True",
@@ -11067,7 +11530,7 @@
    "fips": "13233",
    "region": null,
    "date": "2026-09-17",
-   "body": "Board of Commissioners",
+   "body": "Public Works Committee",
    "confidence": "high",
    "context": "unknown",
    "sourceType": "ocr",
@@ -11199,6 +11662,33 @@
    "excerpt": "… / Applicant and Owner; Special Use request to UDC Sec. 89-190(d) for a ±133.99-acre expansion of an existing landfill . Future Land Use Map amendment to parcels XX052 106 & 115 to Rural Neighborhood to allow for a rezone consisting of ±5.18 acres from AR …",
    "excerptTerm": "future land use",
    "sourceUrl": "https://barrowga.granicus.com/AgendaViewer.php?view_id=1&clip_id=1162",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-09-16",
+   "body": "Ordinance Committee",
+   "confidence": "high",
+   "context": "agenda-action",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "subdivision"
+   ],
+   "tags": [
+    "development"
+   ],
+   "excerpt": "… rs subdividing 4-acre pieces of property into four lots at a time bypassing the Development Regulations for creating subdivisions, which is causing him issues in keeping up with addressing assignments. He suggested establishing a time frame limi …",
+   "excerptTerm": "subdivision",
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Ordinance%20Committee%20Minutes%20September%2016,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -13923,35 +14413,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "gwinnett",
-   "placeName": "Gwinnett County",
-   "placeType": "county",
-   "fips": "13135",
-   "region": "Metro Atlanta",
-   "date": "2026-08-25",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.gwinnettcounty.com/static/upload/bac/52/20260825/a_86782_2026.08.25___AMENDED_Public_Hearing_Agenda.pdf",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
    "placeId": "forsyth",
    "placeName": "Forsyth County",
    "placeType": "county",
@@ -14265,35 +14726,6 @@
      ]
     }
    ],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
-   "placeId": "cobb",
-   "placeName": "Cobb County",
-   "placeType": "county",
-   "fips": "13067",
-   "region": "Metro Atlanta",
-   "date": "2026-08-25",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "warehouse"
-   ],
-   "tags": [
-    "annexation",
-    "development"
-   ],
-   "excerpt": "… uction grant award from the Governor's Office of Planning and Budget. Community Development 21. To approve an annexation Intent to Object and the Basis of Objection per HB 489 Intergovernmental Agreement and HB 2 regarding a pet …",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10169,plainText=false)",
-   "followThrough": null,
-   "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
   },
@@ -16710,35 +17142,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "cherokee",
-   "placeName": "Cherokee County",
-   "placeType": "county",
-   "fips": "13057",
-   "region": "Metro Atlanta",
-   "date": "2026-08-04",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "granicus",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… CASES 1.1 Case #26-08-017 - J. Ethan Underwood for EC New Vision Georgia, LLC (BOC Dist. 4). Applicant is requesting to rezone 110.74 +/- acres from General Agriculture (AG) to Single-Family Residential (R-20) for a Conservation Design Community …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://cherokeega.granicus.com/AgendaViewer.php?view_id=1&clip_id=1589",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
    "placeId": "catoosa",
    "placeName": "Catoosa County",
    "placeType": "county",
@@ -17015,40 +17418,6 @@
    "excerpt": "… **** 5. Motion made by Council Member Moore, seconded by Council Member Henderson to approve the initiation of a Future Land Use Map Amendment from IND (Industrial) to COM (Commercial) and a Rezoning from the current zoning district of M-2 (He …",
    "excerptTerm": "future land use",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0803_Minutes.pdf",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
-   "placeId": "camden",
-   "placeName": "Camden County",
-   "placeType": "county",
-   "fips": "13039",
-   "region": "Coastal Georgia",
-   "date": "2026-07-29",
-   "body": "Planning Commission",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "comprehensive plan",
-    "future land use",
-    "multi-family",
-    "rezon",
-    "variance"
-   ],
-   "tags": [
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "variance"
-   ],
-   "excerpt": "… ricultural Forestry (A-F) to Commercial Neighborhood (C-N) zoning. Along with this will be a Future Land Use (FLU2026-05) change from “City of Kingsland” to “Commercial”. This parcel is located in Dist …",
-   "excerptTerm": "future land use",
-   "sourceUrl": "https://www.camdencountyga.gov/AgendaCenter/ViewFile/Agenda/_07292026-650",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -19968,14 +20337,22 @@
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
-    "rezon"
+    "comprehensive plan",
+    "conditional use",
+    "future land use",
+    "land use plan",
+    "rezon",
+    "subdivision"
    ],
    "tags": [
-    "rezoning"
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use"
    ],
-   "excerpt": "… 3. Consideration of Petition 1381-26, Wright Chancey McBride, LLC, Owner and Rod Wright, Agent, requesting to rezone Parcel No. 0448 034 (8.227 acres), from A-R (Agriculture-Residential) to R-80 (Single-Family Residential); prop …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://www.fayettecountyga.gov/06-25-2026%20Action%20Agenda.pdf",
+   "excerpt": "… rded in Plat Book 101 Page 633, on 06/03/2024. It meets or exceeds all requirements of the R-80 zoning district. The Future Land Use Map designates this area as Rural Residential-3, which has a 3-acre minimum parcel size, so request to rezone to R-8 …",
+   "excerptTerm": "future land use",
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/Agenda/06-25-2026%20BOC%20Agenda.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -20352,38 +20729,6 @@
    "excerptTerm": null,
    "sourceUrl": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5188,plainText=false)",
    "followThrough": "no-results",
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Metro Atlanta",
-   "date": "2026-06-23",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "land use permit",
-    "multifamily",
-    "rezon",
-    "special land use"
-   ],
-   "tags": [
-    "development",
-    "rezoning",
-    "special-land-use"
-   ],
-   "excerpt": "… implementation of the DeKalb County Housing Investment Bond Program by approving the creation and implementation of the Multifamily Acquisition Fund, DeKalb Housing Catalyst Multifamily Gap Financing Program, DeKalb HomeStart Down Payment Assistance P …",
-   "excerptTerm": "multifamily",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4479&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
-   "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
    "minutesDraft": null
@@ -21406,18 +21751,29 @@
    "date": "2026-06-11",
    "body": "Board of Commissioners",
    "confidence": "high",
-   "context": "agenda-action",
+   "context": "unknown",
    "sourceType": "ocr",
    "vendors": [],
    "matchedTerms": [
-    "comprehensive plan"
+    "comprehensive plan",
+    "conditional use",
+    "future land use",
+    "land use plan",
+    "rezon",
+    "subdivision",
+    "variance",
+    "warehouse"
    ],
    "tags": [
-    "comprehensive-plan"
+    "comprehensive-plan",
+    "development",
+    "rezoning",
+    "special-land-use",
+    "variance"
    ],
-   "excerpt": "… culvert replacement, Justice Center buildout, Kenwood Road, Morning Creek Bridge, and the Crosstown Generator Project. Comprehensive Plan Analysis He also updated the Board on efforts to coordinate a comprehensive plan analysis with the City of Fayetteville …",
-   "excerptTerm": "comprehensive plan",
-   "sourceUrl": "https://www.fayettecountyga.gov/06-11-2026%20Action%20Agenda.pdf",
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/06-11-2026%20BOC%20Agenda.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -22111,48 +22467,6 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://oconeecountyga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4183,plainText=false)",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
-   "placeId": "morgan",
-   "placeName": "Morgan County",
-   "placeType": "county",
-   "fips": "13211",
-   "region": "Northeast Georgia",
-   "date": "2026-06-02",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "annexed",
-    "comprehensive plan",
-    "conditional use",
-    "land use plan",
-    "mixed use",
-    "multifamily",
-    "rezon",
-    "subdivision",
-    "variance",
-    "warehouse"
-   ],
-   "tags": [
-    "annexation",
-    "comprehensive-plan",
-    "development",
-    "rezoning",
-    "special-land-use",
-    "variance"
-   ],
-   "excerpt": "… ption or denial of an amendment to a zoning ordinance by a municipal local government to zone property to be annexed into the municipality; E. The grant or denial of a permit relating to a special use of property; or F. Th …",
-   "excerptTerm": "annexed",
-   "sourceUrl": "https://www.morgancountyga.gov/AgendaCenter/ViewFile/Agenda/_06022026-854",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -24475,6 +24789,35 @@
   },
   {
    "topic": "land-use",
+   "placeId": "polk",
+   "placeName": "Polk County",
+   "placeType": "county",
+   "fips": "13233",
+   "region": null,
+   "date": "2026-04-28",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "rezon",
+    "subdivision"
+   ],
+   "tags": [
+    "development",
+    "rezoning"
+   ],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20April%2028,%202026.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "land-use",
    "placeId": "muscogee",
    "placeName": "Columbus-Muscogee County",
    "placeType": "consolidated",
@@ -24703,33 +25046,6 @@
    "excerpt": "… or Darrell Yarbrough The Assembly Warner Robins Approval of Minutes from April 7, 2026 New Business 1. Annexation (City of Perry) – Commissioner Talton 2. Public Hearing (Rezoning Application) – Commissioner Talton 3. Approval of …",
    "excerptTerm": "annexation",
    "sourceUrl": "https://www.houstoncountyga.gov/minutes/2026-04-21%20Department%20Heads.pdf",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
-   "placeId": "gordon",
-   "placeName": "Gordon County",
-   "placeType": "county",
-   "fips": "13129",
-   "region": "Northwest Georgia",
-   "date": "2026-04-21",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon"
-   ],
-   "tags": [
-    "rezoning"
-   ],
-   "excerpt": "… and abandon a portion of Oak Grove Road. 2.​ Application RZ-2026-008 requesting rezoning from Agricultural District (A-1) to Low Density Residential (R-1) located at 183 Hummingbird La …",
-   "excerptTerm": "rezon",
-   "sourceUrl": "https://www.gordoncountyga.gov/AgendaCenter/ViewFile/Agenda/_04212026-1086",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -25401,35 +25717,6 @@
    "excerpt": "… esolve all nonconformities. The subject property lies within an area designated for Low Density Residential uses on the Future Land Use Plan map. This request conforms to the Fayette County Future Land Use Plan, in that the proposed zoning is a less inten …",
    "excerptTerm": "future land use",
    "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/04-09-2026%20BOC%20Agenda.pdf",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
-   "placeId": "polk",
-   "placeName": "Polk County",
-   "placeType": "county",
-   "fips": "13233",
-   "region": null,
-   "date": "2026-04-08",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "unknown",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "rezon",
-    "subdivision"
-   ],
-   "tags": [
-    "development",
-    "rezoning"
-   ],
-   "excerpt": null,
-   "excerptTerm": null,
-   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20April%2028,%202026.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -26489,33 +26776,6 @@
   },
   {
    "topic": "land-use",
-   "placeId": "polk",
-   "placeName": "Polk County",
-   "placeType": "county",
-   "fips": "13233",
-   "region": null,
-   "date": "2026-03-03",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "variance"
-   ],
-   "tags": [
-    "variance"
-   ],
-   "excerpt": "… of February 03, 2026. Second by Commissioner Gravett. Motion passed unanimously. NEW BUSINESS 1. V26-02: Consider variance request from Jason Lemley for relief from 40’ greenbelt buffer, solid privacy fence, and paved parking in a C-1 zone …",
-   "excerptTerm": "variance",
-   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20March%2003,%202026.pdf",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
    "placeId": "oconee",
    "placeName": "Oconee County",
    "placeType": "county",
@@ -27326,33 +27586,6 @@
    "excerpt": "… Engineering - Consideration to adopt a resolution granting final approval for Oxford Business Park Commercial Subdivision and accepting the deeds of rights-of-way, easements, roads, and water system infrastructure. …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://www.leecountyga.gov/uploads/files/82/df/82dfedfd57a5507b874d7d5197765dcb.pdf",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
-   "placeId": "polk",
-   "placeName": "Polk County",
-   "placeType": "county",
-   "fips": "13233",
-   "region": null,
-   "date": "2026-02-03",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "variance"
-   ],
-   "tags": [
-    "variance"
-   ],
-   "excerpt": "… d by Commissioner Floyd. Motion passed unanimously. NEW BUSINESS 1. V26-01: Request from Joseph Dewitt Crocker for variance on property located at 816 N. Bellview Road, Aragon (Parcel 047-172) requesting 10’ relief from rear setback requ …",
-   "excerptTerm": "variance",
-   "sourceUrl": "https://www.polkga.org/Documents/Government/Minutes%20and%20Agendas/Regular%20Meeting%20Minutes%20of%20February%2003,%202026docx.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
@@ -28250,35 +28483,6 @@
    "excerpt": "… P.M.  CALL TO ORDER  INVOCATION  APPROVE MEETING MINUTES FOR NOVEMBER 18, 2025  DISCUSSION/APPROVAL TO REVISE SUBDIVISION ORDINANCE  DISCUSSION/APPROVAL OF HWY 257 TURN LANE BIDS  DISCUSSION/APPROVAL OF LICENSE RENEWAL FOR EXISTING R …",
    "excerptTerm": "subdivision",
    "sourceUrl": "https://www.laurenscoga.org/AgendaCenter/ViewFile/Agenda/_12022025-382",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "land-use",
-   "placeId": "houston",
-   "placeName": "Houston County",
-   "placeType": "county",
-   "fips": "13153",
-   "region": "Middle Georgia",
-   "date": "2025-12-02",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "ocr",
-   "vendors": [],
-   "matchedTerms": [
-    "annexation",
-    "rezon"
-   ],
-   "tags": [
-    "annexation",
-    "rezoning"
-   ],
-   "excerpt": "… pecial Exception Applications – Commissioner Talton 2. Public Hearing (Rezoning Application) – Commissioner Talton 3. Annexation Request (City of Warner Robins) – Commissioner Talton 4. Selection of Architect – Commissioner Talton 5. Memorandum o …",
-   "excerptTerm": "annexation",
-   "sourceUrl": "https://www.houstoncountyga.gov/minutes/2025-12-02%20Meeting%20Agenda.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
