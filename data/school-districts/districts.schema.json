@@ -1,0 +1,87 @@
+{
+ "$schema": "http://json-schema.org/draft-07/schema#",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-local-government/main/data/school-districts/districts.schema.json",
+ "title": "VoteGA Georgia school district",
+ "schemaVersion": "1.0.0",
+ "schemaStability": "Stable field names and meanings. One row per active Georgia school district. `districtId` is the state's own district code. A blank value is null, never an empty string; null board facts mean not yet recorded. New fields are appended, never reordered.",
+ "type": "object",
+ "required": [
+  "districtId",
+  "name",
+  "type",
+  "countyFips"
+ ],
+ "properties": {
+  "districtId": {
+   "type": "string",
+   "description": "Georgia GOSA district code, as a string"
+  },
+  "name": {
+   "type": "string",
+   "description": "district name"
+  },
+  "type": {
+   "enum": [
+    "county",
+    "city"
+   ],
+   "description": "county system or independent city system; curated, not derivable from the name"
+  },
+  "countyFips": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "5-digit FIPS of every county the system is recorded as serving (joins data/places.json `fips`). Not a boundary: it does not say which district serves an address"
+  },
+  "officeCountyFips": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "county of the district office"
+  },
+  "primaryPlaceId": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "city place a city system is named for, where VoteGA covers it (data/places.json `placeId`)"
+  },
+  "districtCensusId": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "5-digit Census school-district code; not a county FIPS"
+  },
+  "boardSize": {
+   "type": [
+    "integer",
+    "null"
+   ],
+   "description": "authorized board seats; null = not yet recorded"
+  },
+  "termYears": {
+   "type": [
+    "integer",
+    "null"
+   ],
+   "description": "length of a board term; null = not yet recorded"
+  },
+  "partisan": {
+   "type": [
+    "boolean",
+    "null"
+   ],
+   "description": "true = partisan board elections, false = nonpartisan, null = not yet recorded"
+  },
+  "officialUrl": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "board's official page; null = not yet recorded"
+  }
+ }
+}
