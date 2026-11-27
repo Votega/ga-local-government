@@ -1,0 +1,2717 @@
+{
+ "metadata": {
+  "generatedAt": "2026-11-27T19:48:39Z",
+  "publisher": "VoteGA.org",
+  "schemaVersion": "1.0.0",
+  "count": 180,
+  "countyDistricts": 159,
+  "cityDistricts": 21
+ },
+ "districts": [
+  {
+   "districtId": "601",
+   "name": "Appling County",
+   "type": "county",
+   "countyFips": [
+    "13001"
+   ],
+   "officeCountyFips": "13001",
+   "primaryPlaceId": null,
+   "districtCensusId": "00060",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "602",
+   "name": "Atkinson County",
+   "type": "county",
+   "countyFips": [
+    "13003"
+   ],
+   "officeCountyFips": "13003",
+   "primaryPlaceId": null,
+   "districtCensusId": "00090",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "603",
+   "name": "Bacon County",
+   "type": "county",
+   "countyFips": [
+    "13005"
+   ],
+   "officeCountyFips": "13005",
+   "primaryPlaceId": null,
+   "districtCensusId": "00150",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "604",
+   "name": "Baker County",
+   "type": "county",
+   "countyFips": [
+    "13007"
+   ],
+   "officeCountyFips": "13007",
+   "primaryPlaceId": null,
+   "districtCensusId": "00180",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "605",
+   "name": "Baldwin County",
+   "type": "county",
+   "countyFips": [
+    "13009"
+   ],
+   "officeCountyFips": "13009",
+   "primaryPlaceId": null,
+   "districtCensusId": "00210",
+   "boardSize": 5,
+   "termYears": 4,
+   "partisan": false,
+   "officialUrl": "https://simbli.eboardsolutions.com/Index.aspx?S=4007"
+  },
+  {
+   "districtId": "606",
+   "name": "Banks County",
+   "type": "county",
+   "countyFips": [
+    "13011"
+   ],
+   "officeCountyFips": "13011",
+   "primaryPlaceId": null,
+   "districtCensusId": "00240",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "607",
+   "name": "Barrow County",
+   "type": "county",
+   "countyFips": [
+    "13013"
+   ],
+   "officeCountyFips": "13013",
+   "primaryPlaceId": null,
+   "districtCensusId": "00290",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "608",
+   "name": "Bartow County",
+   "type": "county",
+   "countyFips": [
+    "13015"
+   ],
+   "officeCountyFips": "13015",
+   "primaryPlaceId": null,
+   "districtCensusId": "00330",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "609",
+   "name": "Ben Hill County",
+   "type": "county",
+   "countyFips": [
+    "13017"
+   ],
+   "officeCountyFips": "13017",
+   "primaryPlaceId": null,
+   "districtCensusId": "00360",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "610",
+   "name": "Berrien County",
+   "type": "county",
+   "countyFips": [
+    "13019"
+   ],
+   "officeCountyFips": "13019",
+   "primaryPlaceId": null,
+   "districtCensusId": "00390",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "611",
+   "name": "Bibb County",
+   "type": "county",
+   "countyFips": [
+    "13021"
+   ],
+   "officeCountyFips": "13021",
+   "primaryPlaceId": null,
+   "districtCensusId": "00420",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "612",
+   "name": "Bleckley County",
+   "type": "county",
+   "countyFips": [
+    "13023"
+   ],
+   "officeCountyFips": "13023",
+   "primaryPlaceId": null,
+   "districtCensusId": "00440",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "613",
+   "name": "Brantley County",
+   "type": "county",
+   "countyFips": [
+    "13025"
+   ],
+   "officeCountyFips": "13025",
+   "primaryPlaceId": null,
+   "districtCensusId": "00480",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "614",
+   "name": "Brooks County",
+   "type": "county",
+   "countyFips": [
+    "13027"
+   ],
+   "officeCountyFips": "13027",
+   "primaryPlaceId": null,
+   "districtCensusId": "00540",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "615",
+   "name": "Bryan County",
+   "type": "county",
+   "countyFips": [
+    "13029"
+   ],
+   "officeCountyFips": "13029",
+   "primaryPlaceId": null,
+   "districtCensusId": "00570",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "616",
+   "name": "Bulloch County",
+   "type": "county",
+   "countyFips": [
+    "13031"
+   ],
+   "officeCountyFips": "13031",
+   "primaryPlaceId": null,
+   "districtCensusId": "00630",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "617",
+   "name": "Burke County",
+   "type": "county",
+   "countyFips": [
+    "13033"
+   ],
+   "officeCountyFips": "13033",
+   "primaryPlaceId": null,
+   "districtCensusId": "00660",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "618",
+   "name": "Butts County",
+   "type": "county",
+   "countyFips": [
+    "13035"
+   ],
+   "officeCountyFips": "13035",
+   "primaryPlaceId": null,
+   "districtCensusId": "00690",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "619",
+   "name": "Calhoun County",
+   "type": "county",
+   "countyFips": [
+    "13037"
+   ],
+   "officeCountyFips": "13037",
+   "primaryPlaceId": null,
+   "districtCensusId": "00750",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "620",
+   "name": "Camden County",
+   "type": "county",
+   "countyFips": [
+    "13039"
+   ],
+   "officeCountyFips": "13039",
+   "primaryPlaceId": null,
+   "districtCensusId": "00780",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "621",
+   "name": "Candler County",
+   "type": "county",
+   "countyFips": [
+    "13043"
+   ],
+   "officeCountyFips": "13043",
+   "primaryPlaceId": null,
+   "districtCensusId": "00810",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "622",
+   "name": "Carroll County",
+   "type": "county",
+   "countyFips": [
+    "13045"
+   ],
+   "officeCountyFips": "13045",
+   "primaryPlaceId": null,
+   "districtCensusId": "00840",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "623",
+   "name": "Catoosa County",
+   "type": "county",
+   "countyFips": [
+    "13047"
+   ],
+   "officeCountyFips": "13047",
+   "primaryPlaceId": null,
+   "districtCensusId": "00930",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "624",
+   "name": "Charlton County",
+   "type": "county",
+   "countyFips": [
+    "13049"
+   ],
+   "officeCountyFips": "13049",
+   "primaryPlaceId": null,
+   "districtCensusId": "00990",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "625",
+   "name": "Savannah-Chatham County",
+   "type": "county",
+   "countyFips": [
+    "13051"
+   ],
+   "officeCountyFips": "13051",
+   "primaryPlaceId": null,
+   "districtCensusId": "01020",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "626",
+   "name": "Chattahoochee County",
+   "type": "county",
+   "countyFips": [
+    "13053"
+   ],
+   "officeCountyFips": "13053",
+   "primaryPlaceId": null,
+   "districtCensusId": "01050",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "627",
+   "name": "Chattooga County",
+   "type": "county",
+   "countyFips": [
+    "13055"
+   ],
+   "officeCountyFips": "13055",
+   "primaryPlaceId": null,
+   "districtCensusId": "01080",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "628",
+   "name": "Cherokee County",
+   "type": "county",
+   "countyFips": [
+    "13057"
+   ],
+   "officeCountyFips": "13057",
+   "primaryPlaceId": null,
+   "districtCensusId": "01110",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "629",
+   "name": "Clarke County",
+   "type": "county",
+   "countyFips": [
+    "13059"
+   ],
+   "officeCountyFips": "13059",
+   "primaryPlaceId": null,
+   "districtCensusId": "01170",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "630",
+   "name": "Clay County",
+   "type": "county",
+   "countyFips": [
+    "13061"
+   ],
+   "officeCountyFips": "13061",
+   "primaryPlaceId": null,
+   "districtCensusId": "01200",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "631",
+   "name": "Clayton County",
+   "type": "county",
+   "countyFips": [
+    "13063"
+   ],
+   "officeCountyFips": "13063",
+   "primaryPlaceId": null,
+   "districtCensusId": "01230",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "632",
+   "name": "Clinch County",
+   "type": "county",
+   "countyFips": [
+    "13065"
+   ],
+   "officeCountyFips": "13065",
+   "primaryPlaceId": null,
+   "districtCensusId": "01260",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "633",
+   "name": "Cobb County",
+   "type": "county",
+   "countyFips": [
+    "13067"
+   ],
+   "officeCountyFips": "13067",
+   "primaryPlaceId": null,
+   "districtCensusId": "01290",
+   "boardSize": 7,
+   "termYears": 4,
+   "partisan": true,
+   "officialUrl": "https://www.cobbk12.org/board"
+  },
+  {
+   "districtId": "634",
+   "name": "Coffee County",
+   "type": "county",
+   "countyFips": [
+    "13069"
+   ],
+   "officeCountyFips": "13069",
+   "primaryPlaceId": null,
+   "districtCensusId": "01350",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "635",
+   "name": "Colquitt County",
+   "type": "county",
+   "countyFips": [
+    "13071"
+   ],
+   "officeCountyFips": "13071",
+   "primaryPlaceId": null,
+   "districtCensusId": "01380",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "636",
+   "name": "Columbia County",
+   "type": "county",
+   "countyFips": [
+    "13073"
+   ],
+   "officeCountyFips": "13073",
+   "primaryPlaceId": null,
+   "districtCensusId": "01410",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "637",
+   "name": "Cook County",
+   "type": "county",
+   "countyFips": [
+    "13075"
+   ],
+   "officeCountyFips": "13075",
+   "primaryPlaceId": null,
+   "districtCensusId": "01470",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "638",
+   "name": "Coweta County",
+   "type": "county",
+   "countyFips": [
+    "13077"
+   ],
+   "officeCountyFips": "13077",
+   "primaryPlaceId": null,
+   "districtCensusId": "01500",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "639",
+   "name": "Crawford County",
+   "type": "county",
+   "countyFips": [
+    "13079"
+   ],
+   "officeCountyFips": "13079",
+   "primaryPlaceId": null,
+   "districtCensusId": "01530",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "640",
+   "name": "Crisp County",
+   "type": "county",
+   "countyFips": [
+    "13081"
+   ],
+   "officeCountyFips": "13081",
+   "primaryPlaceId": null,
+   "districtCensusId": "01560",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "641",
+   "name": "Dade County",
+   "type": "county",
+   "countyFips": [
+    "13083"
+   ],
+   "officeCountyFips": "13083",
+   "primaryPlaceId": null,
+   "districtCensusId": "01590",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "642",
+   "name": "Dawson County",
+   "type": "county",
+   "countyFips": [
+    "13085"
+   ],
+   "officeCountyFips": "13085",
+   "primaryPlaceId": null,
+   "districtCensusId": "01650",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "643",
+   "name": "Decatur County",
+   "type": "county",
+   "countyFips": [
+    "13087"
+   ],
+   "officeCountyFips": "13087",
+   "primaryPlaceId": null,
+   "districtCensusId": "01710",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "644",
+   "name": "DeKalb County",
+   "type": "county",
+   "countyFips": [
+    "13089"
+   ],
+   "officeCountyFips": "13089",
+   "primaryPlaceId": null,
+   "districtCensusId": "01740",
+   "boardSize": 7,
+   "termYears": 4,
+   "partisan": false,
+   "officialUrl": "https://www.dekalbschoolsga.org/board/meet-the-boe"
+  },
+  {
+   "districtId": "645",
+   "name": "Dodge County",
+   "type": "county",
+   "countyFips": [
+    "13091"
+   ],
+   "officeCountyFips": "13091",
+   "primaryPlaceId": null,
+   "districtCensusId": "01770",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "646",
+   "name": "Dooly County",
+   "type": "county",
+   "countyFips": [
+    "13093"
+   ],
+   "officeCountyFips": "13093",
+   "primaryPlaceId": null,
+   "districtCensusId": "01800",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "647",
+   "name": "Dougherty County",
+   "type": "county",
+   "countyFips": [
+    "13095"
+   ],
+   "officeCountyFips": "13095",
+   "primaryPlaceId": null,
+   "districtCensusId": "01830",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "648",
+   "name": "Douglas County",
+   "type": "county",
+   "countyFips": [
+    "13097"
+   ],
+   "officeCountyFips": "13097",
+   "primaryPlaceId": null,
+   "districtCensusId": "01860",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "649",
+   "name": "Early County",
+   "type": "county",
+   "countyFips": [
+    "13099"
+   ],
+   "officeCountyFips": "13099",
+   "primaryPlaceId": null,
+   "districtCensusId": "01920",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "650",
+   "name": "Echols County",
+   "type": "county",
+   "countyFips": [
+    "13101"
+   ],
+   "officeCountyFips": "13101",
+   "primaryPlaceId": null,
+   "districtCensusId": "01950",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "651",
+   "name": "Effingham County",
+   "type": "county",
+   "countyFips": [
+    "13103"
+   ],
+   "officeCountyFips": "13103",
+   "primaryPlaceId": null,
+   "districtCensusId": "01980",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "652",
+   "name": "Elbert County",
+   "type": "county",
+   "countyFips": [
+    "13105"
+   ],
+   "officeCountyFips": "13105",
+   "primaryPlaceId": null,
+   "districtCensusId": "02010",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "653",
+   "name": "Emanuel County",
+   "type": "county",
+   "countyFips": [
+    "13107"
+   ],
+   "officeCountyFips": "13107",
+   "primaryPlaceId": null,
+   "districtCensusId": "02040",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "654",
+   "name": "Evans County",
+   "type": "county",
+   "countyFips": [
+    "13109"
+   ],
+   "officeCountyFips": "13109",
+   "primaryPlaceId": null,
+   "districtCensusId": "02070",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "655",
+   "name": "Fannin County",
+   "type": "county",
+   "countyFips": [
+    "13111"
+   ],
+   "officeCountyFips": "13111",
+   "primaryPlaceId": null,
+   "districtCensusId": "02100",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "656",
+   "name": "Fayette County",
+   "type": "county",
+   "countyFips": [
+    "13113"
+   ],
+   "officeCountyFips": "13113",
+   "primaryPlaceId": null,
+   "districtCensusId": "02130",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "657",
+   "name": "Floyd County",
+   "type": "county",
+   "countyFips": [
+    "13115"
+   ],
+   "officeCountyFips": "13115",
+   "primaryPlaceId": null,
+   "districtCensusId": "02190",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "658",
+   "name": "Forsyth County",
+   "type": "county",
+   "countyFips": [
+    "13117"
+   ],
+   "officeCountyFips": "13117",
+   "primaryPlaceId": null,
+   "districtCensusId": "02220",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "659",
+   "name": "Franklin County",
+   "type": "county",
+   "countyFips": [
+    "13119"
+   ],
+   "officeCountyFips": "13119",
+   "primaryPlaceId": null,
+   "districtCensusId": "02250",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "660",
+   "name": "Fulton County",
+   "type": "county",
+   "countyFips": [
+    "13121"
+   ],
+   "officeCountyFips": "13121",
+   "primaryPlaceId": null,
+   "districtCensusId": "02280",
+   "boardSize": 7,
+   "termYears": 4,
+   "partisan": false,
+   "officialUrl": "https://www.fultonschools.org/fcs-board-of-education"
+  },
+  {
+   "districtId": "661",
+   "name": "Gilmer County",
+   "type": "county",
+   "countyFips": [
+    "13123"
+   ],
+   "officeCountyFips": "13123",
+   "primaryPlaceId": null,
+   "districtCensusId": "02340",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "662",
+   "name": "Glascock County",
+   "type": "county",
+   "countyFips": [
+    "13125"
+   ],
+   "officeCountyFips": "13125",
+   "primaryPlaceId": null,
+   "districtCensusId": "02370",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "663",
+   "name": "Glynn County",
+   "type": "county",
+   "countyFips": [
+    "13127"
+   ],
+   "officeCountyFips": "13127",
+   "primaryPlaceId": null,
+   "districtCensusId": "02400",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "664",
+   "name": "Gordon County",
+   "type": "county",
+   "countyFips": [
+    "13129"
+   ],
+   "officeCountyFips": "13129",
+   "primaryPlaceId": null,
+   "districtCensusId": "02430",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "665",
+   "name": "Grady County",
+   "type": "county",
+   "countyFips": [
+    "13131"
+   ],
+   "officeCountyFips": "13131",
+   "primaryPlaceId": null,
+   "districtCensusId": "02460",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "666",
+   "name": "Greene County",
+   "type": "county",
+   "countyFips": [
+    "13133"
+   ],
+   "officeCountyFips": "13133",
+   "primaryPlaceId": null,
+   "districtCensusId": "02490",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "667",
+   "name": "Gwinnett County",
+   "type": "county",
+   "countyFips": [
+    "13135"
+   ],
+   "officeCountyFips": "13135",
+   "primaryPlaceId": null,
+   "districtCensusId": "02550",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "668",
+   "name": "Habersham County",
+   "type": "county",
+   "countyFips": [
+    "13137"
+   ],
+   "officeCountyFips": "13137",
+   "primaryPlaceId": null,
+   "districtCensusId": "02580",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "669",
+   "name": "Hall County",
+   "type": "county",
+   "countyFips": [
+    "13139"
+   ],
+   "officeCountyFips": "13139",
+   "primaryPlaceId": null,
+   "districtCensusId": "02610",
+   "boardSize": 5,
+   "termYears": 4,
+   "partisan": true,
+   "officialUrl": "https://www.hallco.org/web/meet-the-board/"
+  },
+  {
+   "districtId": "670",
+   "name": "Hancock County",
+   "type": "county",
+   "countyFips": [
+    "13141"
+   ],
+   "officeCountyFips": "13141",
+   "primaryPlaceId": null,
+   "districtCensusId": "02640",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "671",
+   "name": "Haralson County",
+   "type": "county",
+   "countyFips": [
+    "13143"
+   ],
+   "officeCountyFips": "13143",
+   "primaryPlaceId": null,
+   "districtCensusId": "02670",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "672",
+   "name": "Harris County",
+   "type": "county",
+   "countyFips": [
+    "13145"
+   ],
+   "officeCountyFips": "13145",
+   "primaryPlaceId": null,
+   "districtCensusId": "02700",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "673",
+   "name": "Hart County",
+   "type": "county",
+   "countyFips": [
+    "13147"
+   ],
+   "officeCountyFips": "13147",
+   "primaryPlaceId": null,
+   "districtCensusId": "02730",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "674",
+   "name": "Heard County",
+   "type": "county",
+   "countyFips": [
+    "13149"
+   ],
+   "officeCountyFips": "13149",
+   "primaryPlaceId": null,
+   "districtCensusId": "02790",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "675",
+   "name": "Henry County",
+   "type": "county",
+   "countyFips": [
+    "13151"
+   ],
+   "officeCountyFips": "13151",
+   "primaryPlaceId": null,
+   "districtCensusId": "02820",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "676",
+   "name": "Houston County",
+   "type": "county",
+   "countyFips": [
+    "13153"
+   ],
+   "officeCountyFips": "13153",
+   "primaryPlaceId": null,
+   "districtCensusId": "02880",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "677",
+   "name": "Irwin County",
+   "type": "county",
+   "countyFips": [
+    "13155"
+   ],
+   "officeCountyFips": "13155",
+   "primaryPlaceId": null,
+   "districtCensusId": "02910",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "678",
+   "name": "Jackson County",
+   "type": "county",
+   "countyFips": [
+    "13157"
+   ],
+   "officeCountyFips": "13157",
+   "primaryPlaceId": null,
+   "districtCensusId": "02940",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "679",
+   "name": "Jasper County",
+   "type": "county",
+   "countyFips": [
+    "13159"
+   ],
+   "officeCountyFips": "13159",
+   "primaryPlaceId": null,
+   "districtCensusId": "02970",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "680",
+   "name": "Jeff Davis County",
+   "type": "county",
+   "countyFips": [
+    "13161"
+   ],
+   "officeCountyFips": "13161",
+   "primaryPlaceId": null,
+   "districtCensusId": "03000",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "681",
+   "name": "Jefferson County",
+   "type": "county",
+   "countyFips": [
+    "13163"
+   ],
+   "officeCountyFips": "13163",
+   "primaryPlaceId": null,
+   "districtCensusId": "03060",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "682",
+   "name": "Jenkins County",
+   "type": "county",
+   "countyFips": [
+    "13165"
+   ],
+   "officeCountyFips": "13165",
+   "primaryPlaceId": null,
+   "districtCensusId": "03090",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "683",
+   "name": "Johnson County",
+   "type": "county",
+   "countyFips": [
+    "13167"
+   ],
+   "officeCountyFips": "13167",
+   "primaryPlaceId": null,
+   "districtCensusId": "03120",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "684",
+   "name": "Jones County",
+   "type": "county",
+   "countyFips": [
+    "13169"
+   ],
+   "officeCountyFips": "13169",
+   "primaryPlaceId": null,
+   "districtCensusId": "03150",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "685",
+   "name": "Lamar County",
+   "type": "county",
+   "countyFips": [
+    "13171"
+   ],
+   "officeCountyFips": "13171",
+   "primaryPlaceId": null,
+   "districtCensusId": "03210",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "686",
+   "name": "Lanier County",
+   "type": "county",
+   "countyFips": [
+    "13173"
+   ],
+   "officeCountyFips": "13173",
+   "primaryPlaceId": null,
+   "districtCensusId": "03240",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "687",
+   "name": "Laurens County",
+   "type": "county",
+   "countyFips": [
+    "13175"
+   ],
+   "officeCountyFips": "13175",
+   "primaryPlaceId": null,
+   "districtCensusId": "01890",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "688",
+   "name": "Lee County",
+   "type": "county",
+   "countyFips": [
+    "13177"
+   ],
+   "officeCountyFips": "13177",
+   "primaryPlaceId": null,
+   "districtCensusId": "03270",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "689",
+   "name": "Liberty County",
+   "type": "county",
+   "countyFips": [
+    "13179"
+   ],
+   "officeCountyFips": "13179",
+   "primaryPlaceId": null,
+   "districtCensusId": "03300",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "690",
+   "name": "Lincoln County",
+   "type": "county",
+   "countyFips": [
+    "13181"
+   ],
+   "officeCountyFips": "13181",
+   "primaryPlaceId": null,
+   "districtCensusId": "03330",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "691",
+   "name": "Long County",
+   "type": "county",
+   "countyFips": [
+    "13183"
+   ],
+   "officeCountyFips": "13183",
+   "primaryPlaceId": null,
+   "districtCensusId": "03360",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "692",
+   "name": "Lowndes County",
+   "type": "county",
+   "countyFips": [
+    "13185"
+   ],
+   "officeCountyFips": "13185",
+   "primaryPlaceId": null,
+   "districtCensusId": "03390",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "693",
+   "name": "Lumpkin County",
+   "type": "county",
+   "countyFips": [
+    "13187"
+   ],
+   "officeCountyFips": "13187",
+   "primaryPlaceId": null,
+   "districtCensusId": "03420",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "694",
+   "name": "Macon County",
+   "type": "county",
+   "countyFips": [
+    "13193"
+   ],
+   "officeCountyFips": "13193",
+   "primaryPlaceId": null,
+   "districtCensusId": "03450",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "695",
+   "name": "Madison County",
+   "type": "county",
+   "countyFips": [
+    "13195"
+   ],
+   "officeCountyFips": "13195",
+   "primaryPlaceId": null,
+   "districtCensusId": "03480",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "696",
+   "name": "Marion County",
+   "type": "county",
+   "countyFips": [
+    "13197"
+   ],
+   "officeCountyFips": "13197",
+   "primaryPlaceId": null,
+   "districtCensusId": "03540",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "697",
+   "name": "McDuffie County",
+   "type": "county",
+   "countyFips": [
+    "13189"
+   ],
+   "officeCountyFips": "13189",
+   "primaryPlaceId": null,
+   "districtCensusId": "03570",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "698",
+   "name": "McIntosh County",
+   "type": "county",
+   "countyFips": [
+    "13191"
+   ],
+   "officeCountyFips": "13191",
+   "primaryPlaceId": null,
+   "districtCensusId": "03600",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "699",
+   "name": "Meriwether County",
+   "type": "county",
+   "countyFips": [
+    "13199"
+   ],
+   "officeCountyFips": "13199",
+   "primaryPlaceId": null,
+   "districtCensusId": "03630",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "700",
+   "name": "Miller County",
+   "type": "county",
+   "countyFips": [
+    "13201"
+   ],
+   "officeCountyFips": "13201",
+   "primaryPlaceId": null,
+   "districtCensusId": "03660",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "701",
+   "name": "Mitchell County",
+   "type": "county",
+   "countyFips": [
+    "13205"
+   ],
+   "officeCountyFips": "13205",
+   "primaryPlaceId": null,
+   "districtCensusId": "03690",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "702",
+   "name": "Monroe County",
+   "type": "county",
+   "countyFips": [
+    "13207"
+   ],
+   "officeCountyFips": "13207",
+   "primaryPlaceId": null,
+   "districtCensusId": "03720",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "703",
+   "name": "Montgomery County",
+   "type": "county",
+   "countyFips": [
+    "13209"
+   ],
+   "officeCountyFips": "13209",
+   "primaryPlaceId": null,
+   "districtCensusId": "03750",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "704",
+   "name": "Morgan County",
+   "type": "county",
+   "countyFips": [
+    "13211"
+   ],
+   "officeCountyFips": "13211",
+   "primaryPlaceId": null,
+   "districtCensusId": "03780",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "705",
+   "name": "Murray County",
+   "type": "county",
+   "countyFips": [
+    "13213"
+   ],
+   "officeCountyFips": "13213",
+   "primaryPlaceId": null,
+   "districtCensusId": "03840",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "706",
+   "name": "Muscogee County",
+   "type": "county",
+   "countyFips": [
+    "13215"
+   ],
+   "officeCountyFips": "13215",
+   "primaryPlaceId": null,
+   "districtCensusId": "03870",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "707",
+   "name": "Newton County",
+   "type": "county",
+   "countyFips": [
+    "13217"
+   ],
+   "officeCountyFips": "13217",
+   "primaryPlaceId": null,
+   "districtCensusId": "03930",
+   "boardSize": 5,
+   "termYears": 4,
+   "partisan": true,
+   "officialUrl": "https://www.newtoncountyschools.org/b_o_e/board_members"
+  },
+  {
+   "districtId": "708",
+   "name": "Oconee County",
+   "type": "county",
+   "countyFips": [
+    "13219"
+   ],
+   "officeCountyFips": "13219",
+   "primaryPlaceId": null,
+   "districtCensusId": "03960",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "709",
+   "name": "Oglethorpe County",
+   "type": "county",
+   "countyFips": [
+    "13221"
+   ],
+   "officeCountyFips": "13221",
+   "primaryPlaceId": null,
+   "districtCensusId": "03990",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "710",
+   "name": "Paulding County",
+   "type": "county",
+   "countyFips": [
+    "13223"
+   ],
+   "officeCountyFips": "13223",
+   "primaryPlaceId": null,
+   "districtCensusId": "04020",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "711",
+   "name": "Peach County",
+   "type": "county",
+   "countyFips": [
+    "13225"
+   ],
+   "officeCountyFips": "13225",
+   "primaryPlaceId": null,
+   "districtCensusId": "04050",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "712",
+   "name": "Pickens County",
+   "type": "county",
+   "countyFips": [
+    "13227"
+   ],
+   "officeCountyFips": "13227",
+   "primaryPlaceId": null,
+   "districtCensusId": "04110",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "713",
+   "name": "Pierce County",
+   "type": "county",
+   "countyFips": [
+    "13229"
+   ],
+   "officeCountyFips": "13229",
+   "primaryPlaceId": null,
+   "districtCensusId": "04140",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "714",
+   "name": "Pike County",
+   "type": "county",
+   "countyFips": [
+    "13231"
+   ],
+   "officeCountyFips": "13231",
+   "primaryPlaceId": null,
+   "districtCensusId": "04170",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "715",
+   "name": "Polk County",
+   "type": "county",
+   "countyFips": [
+    "13233"
+   ],
+   "officeCountyFips": "13233",
+   "primaryPlaceId": null,
+   "districtCensusId": "04200",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "716",
+   "name": "Pulaski County",
+   "type": "county",
+   "countyFips": [
+    "13235"
+   ],
+   "officeCountyFips": "13235",
+   "primaryPlaceId": null,
+   "districtCensusId": "04220",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "717",
+   "name": "Putnam County",
+   "type": "county",
+   "countyFips": [
+    "13237"
+   ],
+   "officeCountyFips": "13237",
+   "primaryPlaceId": null,
+   "districtCensusId": "04260",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "718",
+   "name": "Quitman County",
+   "type": "county",
+   "countyFips": [
+    "13239"
+   ],
+   "officeCountyFips": "13239",
+   "primaryPlaceId": null,
+   "districtCensusId": "04290",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "719",
+   "name": "Rabun County",
+   "type": "county",
+   "countyFips": [
+    "13241"
+   ],
+   "officeCountyFips": "13241",
+   "primaryPlaceId": null,
+   "districtCensusId": "04320",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "720",
+   "name": "Randolph County",
+   "type": "county",
+   "countyFips": [
+    "13243"
+   ],
+   "officeCountyFips": "13243",
+   "primaryPlaceId": null,
+   "districtCensusId": "04350",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "721",
+   "name": "Richmond County",
+   "type": "county",
+   "countyFips": [
+    "13245"
+   ],
+   "officeCountyFips": "13245",
+   "primaryPlaceId": null,
+   "districtCensusId": "04380",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "722",
+   "name": "Rockdale County",
+   "type": "county",
+   "countyFips": [
+    "13247"
+   ],
+   "officeCountyFips": "13247",
+   "primaryPlaceId": null,
+   "districtCensusId": "04410",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "723",
+   "name": "Schley County",
+   "type": "county",
+   "countyFips": [
+    "13249"
+   ],
+   "officeCountyFips": "13249",
+   "primaryPlaceId": null,
+   "districtCensusId": "04470",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "724",
+   "name": "Screven County",
+   "type": "county",
+   "countyFips": [
+    "13251"
+   ],
+   "officeCountyFips": "13251",
+   "primaryPlaceId": null,
+   "districtCensusId": "04500",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "725",
+   "name": "Seminole County",
+   "type": "county",
+   "countyFips": [
+    "13253"
+   ],
+   "officeCountyFips": "13253",
+   "primaryPlaceId": null,
+   "districtCensusId": "04530",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "726",
+   "name": "Griffin-Spalding County",
+   "type": "county",
+   "countyFips": [
+    "13255"
+   ],
+   "officeCountyFips": "13255",
+   "primaryPlaceId": null,
+   "districtCensusId": "02520",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "727",
+   "name": "Stephens County",
+   "type": "county",
+   "countyFips": [
+    "13257"
+   ],
+   "officeCountyFips": "13257",
+   "primaryPlaceId": null,
+   "districtCensusId": "04560",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "728",
+   "name": "Stewart County",
+   "type": "county",
+   "countyFips": [
+    "13259"
+   ],
+   "officeCountyFips": "13259",
+   "primaryPlaceId": null,
+   "districtCensusId": "04590",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "729",
+   "name": "Sumter County",
+   "type": "county",
+   "countyFips": [
+    "13261"
+   ],
+   "officeCountyFips": "13261",
+   "primaryPlaceId": null,
+   "districtCensusId": "04620",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "730",
+   "name": "Talbot County",
+   "type": "county",
+   "countyFips": [
+    "13263"
+   ],
+   "officeCountyFips": "13263",
+   "primaryPlaceId": null,
+   "districtCensusId": "04650",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "731",
+   "name": "Taliaferro County",
+   "type": "county",
+   "countyFips": [
+    "13265"
+   ],
+   "officeCountyFips": "13265",
+   "primaryPlaceId": null,
+   "districtCensusId": "04680",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "732",
+   "name": "Tattnall County",
+   "type": "county",
+   "countyFips": [
+    "13267"
+   ],
+   "officeCountyFips": "13267",
+   "primaryPlaceId": null,
+   "districtCensusId": "04770",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "733",
+   "name": "Taylor County",
+   "type": "county",
+   "countyFips": [
+    "13269"
+   ],
+   "officeCountyFips": "13269",
+   "primaryPlaceId": null,
+   "districtCensusId": "04800",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "734",
+   "name": "Telfair County",
+   "type": "county",
+   "countyFips": [
+    "13271"
+   ],
+   "officeCountyFips": "13271",
+   "primaryPlaceId": null,
+   "districtCensusId": "04830",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "735",
+   "name": "Terrell County",
+   "type": "county",
+   "countyFips": [
+    "13273"
+   ],
+   "officeCountyFips": "13273",
+   "primaryPlaceId": null,
+   "districtCensusId": "04860",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "736",
+   "name": "Thomas County",
+   "type": "county",
+   "countyFips": [
+    "13275"
+   ],
+   "officeCountyFips": "13275",
+   "primaryPlaceId": null,
+   "districtCensusId": "04890",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "737",
+   "name": "Tift County",
+   "type": "county",
+   "countyFips": [
+    "13277"
+   ],
+   "officeCountyFips": "13277",
+   "primaryPlaceId": null,
+   "districtCensusId": "04980",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "738",
+   "name": "Toombs County",
+   "type": "county",
+   "countyFips": [
+    "13279"
+   ],
+   "officeCountyFips": "13279",
+   "primaryPlaceId": null,
+   "districtCensusId": "05040",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "739",
+   "name": "Towns County",
+   "type": "county",
+   "countyFips": [
+    "13281"
+   ],
+   "officeCountyFips": "13281",
+   "primaryPlaceId": null,
+   "districtCensusId": "05070",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "740",
+   "name": "Treutlen County",
+   "type": "county",
+   "countyFips": [
+    "13283"
+   ],
+   "officeCountyFips": "13283",
+   "primaryPlaceId": null,
+   "districtCensusId": "05100",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "741",
+   "name": "Troup County",
+   "type": "county",
+   "countyFips": [
+    "13285"
+   ],
+   "officeCountyFips": "13285",
+   "primaryPlaceId": null,
+   "districtCensusId": "00001",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "742",
+   "name": "Turner County",
+   "type": "county",
+   "countyFips": [
+    "13287"
+   ],
+   "officeCountyFips": "13287",
+   "primaryPlaceId": null,
+   "districtCensusId": "05190",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "743",
+   "name": "Twiggs County",
+   "type": "county",
+   "countyFips": [
+    "13289"
+   ],
+   "officeCountyFips": "13289",
+   "primaryPlaceId": null,
+   "districtCensusId": "05220",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "744",
+   "name": "Union County",
+   "type": "county",
+   "countyFips": [
+    "13291"
+   ],
+   "officeCountyFips": "13291",
+   "primaryPlaceId": null,
+   "districtCensusId": "05250",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "745",
+   "name": "Thomaston-Upson County",
+   "type": "county",
+   "countyFips": [
+    "13293"
+   ],
+   "officeCountyFips": "13293",
+   "primaryPlaceId": null,
+   "districtCensusId": "05280",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "746",
+   "name": "Walker County",
+   "type": "county",
+   "countyFips": [
+    "13295"
+   ],
+   "officeCountyFips": "13295",
+   "primaryPlaceId": null,
+   "districtCensusId": "05370",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "747",
+   "name": "Walton County",
+   "type": "county",
+   "countyFips": [
+    "13297"
+   ],
+   "officeCountyFips": "13297",
+   "primaryPlaceId": null,
+   "districtCensusId": "05390",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "748",
+   "name": "Ware County",
+   "type": "county",
+   "countyFips": [
+    "13299"
+   ],
+   "officeCountyFips": "13299",
+   "primaryPlaceId": null,
+   "districtCensusId": "05430",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "749",
+   "name": "Warren County",
+   "type": "county",
+   "countyFips": [
+    "13301"
+   ],
+   "officeCountyFips": "13301",
+   "primaryPlaceId": null,
+   "districtCensusId": "05460",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "750",
+   "name": "Washington County",
+   "type": "county",
+   "countyFips": [
+    "13303"
+   ],
+   "officeCountyFips": "13303",
+   "primaryPlaceId": null,
+   "districtCensusId": "05490",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "751",
+   "name": "Wayne County",
+   "type": "county",
+   "countyFips": [
+    "13305"
+   ],
+   "officeCountyFips": "13305",
+   "primaryPlaceId": null,
+   "districtCensusId": "05550",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "752",
+   "name": "Webster County",
+   "type": "county",
+   "countyFips": [
+    "13307"
+   ],
+   "officeCountyFips": "13307",
+   "primaryPlaceId": null,
+   "districtCensusId": "05580",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "753",
+   "name": "Wheeler County",
+   "type": "county",
+   "countyFips": [
+    "13309"
+   ],
+   "officeCountyFips": "13309",
+   "primaryPlaceId": null,
+   "districtCensusId": "05640",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "754",
+   "name": "White County",
+   "type": "county",
+   "countyFips": [
+    "13311"
+   ],
+   "officeCountyFips": "13311",
+   "primaryPlaceId": null,
+   "districtCensusId": "05670",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "755",
+   "name": "Whitfield County",
+   "type": "county",
+   "countyFips": [
+    "13313"
+   ],
+   "officeCountyFips": "13313",
+   "primaryPlaceId": null,
+   "districtCensusId": "05700",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "756",
+   "name": "Wilcox County",
+   "type": "county",
+   "countyFips": [
+    "13315"
+   ],
+   "officeCountyFips": "13315",
+   "primaryPlaceId": null,
+   "districtCensusId": "05730",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "757",
+   "name": "Wilkes County",
+   "type": "county",
+   "countyFips": [
+    "13317"
+   ],
+   "officeCountyFips": "13317",
+   "primaryPlaceId": null,
+   "districtCensusId": "05760",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "758",
+   "name": "Wilkinson County",
+   "type": "county",
+   "countyFips": [
+    "13319"
+   ],
+   "officeCountyFips": "13319",
+   "primaryPlaceId": null,
+   "districtCensusId": "05790",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "759",
+   "name": "Worth County",
+   "type": "county",
+   "countyFips": [
+    "13321"
+   ],
+   "officeCountyFips": "13321",
+   "primaryPlaceId": null,
+   "districtCensusId": "05850",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "761",
+   "name": "Atlanta Public Schools",
+   "type": "city",
+   "countyFips": [
+    "13089",
+    "13121"
+   ],
+   "officeCountyFips": "13121",
+   "primaryPlaceId": "atlanta",
+   "districtCensusId": "00120",
+   "boardSize": 9,
+   "termYears": 4,
+   "partisan": false,
+   "officialUrl": "https://www.atlantapublicschools.us/boe/about-the-board"
+  },
+  {
+   "districtId": "763",
+   "name": "Bremen City",
+   "type": "city",
+   "countyFips": [
+    "13045",
+    "13143"
+   ],
+   "officeCountyFips": "13143",
+   "primaryPlaceId": null,
+   "districtCensusId": "00510",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "764",
+   "name": "Buford City",
+   "type": "city",
+   "countyFips": [
+    "13135",
+    "13139"
+   ],
+   "officeCountyFips": "13135",
+   "primaryPlaceId": null,
+   "districtCensusId": "00600",
+   "boardSize": 5,
+   "termYears": 4,
+   "partisan": false,
+   "officialUrl": "https://www.bufordcityschools.org/apps/pages/index.jsp?uREC_ID=1618111&type=d&pREC_ID=1753263"
+  },
+  {
+   "districtId": "765",
+   "name": "Calhoun City",
+   "type": "city",
+   "countyFips": [
+    "13129"
+   ],
+   "officeCountyFips": "13129",
+   "primaryPlaceId": null,
+   "districtCensusId": "00720",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "766",
+   "name": "Carrollton City",
+   "type": "city",
+   "countyFips": [
+    "13045"
+   ],
+   "officeCountyFips": "13045",
+   "primaryPlaceId": "carrollton",
+   "districtCensusId": "00870",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "767",
+   "name": "Cartersville City",
+   "type": "city",
+   "countyFips": [
+    "13015"
+   ],
+   "officeCountyFips": "13015",
+   "primaryPlaceId": null,
+   "districtCensusId": "00900",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "769",
+   "name": "Chickamauga City",
+   "type": "city",
+   "countyFips": [
+    "13295"
+   ],
+   "officeCountyFips": "13295",
+   "primaryPlaceId": null,
+   "districtCensusId": "01140",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "771",
+   "name": "Commerce City",
+   "type": "city",
+   "countyFips": [
+    "13157"
+   ],
+   "officeCountyFips": "13157",
+   "primaryPlaceId": null,
+   "districtCensusId": "01440",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "772",
+   "name": "Dalton Public Schools",
+   "type": "city",
+   "countyFips": [
+    "13313"
+   ],
+   "officeCountyFips": "13313",
+   "primaryPlaceId": null,
+   "districtCensusId": "01620",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "773",
+   "name": "City Schools of Decatur",
+   "type": "city",
+   "countyFips": [
+    "13089"
+   ],
+   "officeCountyFips": "13089",
+   "primaryPlaceId": null,
+   "districtCensusId": "01680",
+   "boardSize": 5,
+   "termYears": 4,
+   "partisan": false,
+   "officialUrl": "https://www.csdecatur.net/board-of-education-b8/board-of-education-overview/meet-the-members"
+  },
+  {
+   "districtId": "774",
+   "name": "Dublin City",
+   "type": "city",
+   "countyFips": [
+    "13175"
+   ],
+   "officeCountyFips": "13175",
+   "primaryPlaceId": null,
+   "districtCensusId": "01870",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "776",
+   "name": "Gainesville City",
+   "type": "city",
+   "countyFips": [
+    "13139"
+   ],
+   "officeCountyFips": "13139",
+   "primaryPlaceId": null,
+   "districtCensusId": "02310",
+   "boardSize": 5,
+   "termYears": 4,
+   "partisan": false,
+   "officialUrl": "https://simbli.eboardsolutions.com/index.aspx?s=4072"
+  },
+  {
+   "districtId": "779",
+   "name": "Jefferson City",
+   "type": "city",
+   "countyFips": [
+    "13157"
+   ],
+   "officeCountyFips": "13157",
+   "primaryPlaceId": null,
+   "districtCensusId": "03030",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "781",
+   "name": "Marietta City",
+   "type": "city",
+   "countyFips": [
+    "13067"
+   ],
+   "officeCountyFips": "13067",
+   "primaryPlaceId": null,
+   "districtCensusId": "03510",
+   "boardSize": 7,
+   "termYears": 4,
+   "partisan": false,
+   "officialUrl": "https://www.marietta-city.org/board-of-education1/marietta-city-schools-board-of-education"
+  },
+  {
+   "districtId": "784",
+   "name": "Pelham City",
+   "type": "city",
+   "countyFips": [
+    "13205"
+   ],
+   "officeCountyFips": "13205",
+   "primaryPlaceId": null,
+   "districtCensusId": "04080",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "785",
+   "name": "Rome City",
+   "type": "city",
+   "countyFips": [
+    "13115"
+   ],
+   "officeCountyFips": "13115",
+   "primaryPlaceId": null,
+   "districtCensusId": "04440",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "786",
+   "name": "Social Circle City",
+   "type": "city",
+   "countyFips": [
+    "13217",
+    "13297"
+   ],
+   "officeCountyFips": "13297",
+   "primaryPlaceId": "socialcircle",
+   "districtCensusId": "04540",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "789",
+   "name": "Thomasville City",
+   "type": "city",
+   "countyFips": [
+    "13275"
+   ],
+   "officeCountyFips": "13275",
+   "primaryPlaceId": "thomasville",
+   "districtCensusId": "04950",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "791",
+   "name": "Trion City",
+   "type": "city",
+   "countyFips": [
+    "13055"
+   ],
+   "officeCountyFips": "13055",
+   "primaryPlaceId": null,
+   "districtCensusId": "05130",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  },
+  {
+   "districtId": "792",
+   "name": "Valdosta City",
+   "type": "city",
+   "countyFips": [
+    "13185"
+   ],
+   "officeCountyFips": "13185",
+   "primaryPlaceId": null,
+   "districtCensusId": "05310",
+   "boardSize": 9,
+   "termYears": 6,
+   "partisan": null,
+   "officialUrl": "https://www.gocats.org/o/vcs/page/board-of-education"
+  },
+  {
+   "districtId": "793",
+   "name": "Vidalia City",
+   "type": "city",
+   "countyFips": [
+    "13209",
+    "13279"
+   ],
+   "officeCountyFips": "13279",
+   "primaryPlaceId": null,
+   "districtCensusId": "05340",
+   "boardSize": null,
+   "termYears": null,
+   "partisan": null,
+   "officialUrl": null
+  }
+ ]
+}
