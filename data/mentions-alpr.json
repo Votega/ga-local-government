@@ -1,12 +1,42 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-25T18:58:23Z",
+  "generatedAt": "2026-11-27T20:43:19Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "topic": "alpr",
-  "count": 82
+  "count": 84
  },
  "mentions": [
+  {
+   "topic": "alpr",
+   "placeId": "cobb",
+   "placeName": "Cobb County",
+   "placeType": "county",
+   "fips": "13067",
+   "region": "Metro Atlanta",
+   "date": "2026-12-04",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": null,
+   "sourceType": "ocr",
+   "vendors": [
+    "Flock Safety"
+   ],
+   "matchedTerms": [
+    "automated license plate",
+    "flock",
+    "license plate reader",
+    "plate reader"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://cobbcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10375,plainText=false)",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
   {
    "topic": "alpr",
    "placeId": "dekalb",
@@ -34,6 +64,31 @@
   },
   {
    "topic": "alpr",
+   "placeId": "dekalb",
+   "placeName": "DeKalb County",
+   "placeType": "county",
+   "fips": "13089",
+   "region": "Metro Atlanta",
+   "date": "2026-12-01",
+   "body": "ERPS-Employee Relations & Public Safety Committee",
+   "confidence": "medium",
+   "context": null,
+   "sourceType": "legistar",
+   "vendors": [],
+   "matchedTerms": [
+    "crime center"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4702&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "alpr",
    "placeId": "atlanta",
    "placeName": "City of Atlanta",
    "placeType": "city",
@@ -52,10 +107,10 @@
    "excerpt": null,
    "excerptTerm": null,
    "sourceUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=14&ID=3969&Inline=True",
-   "followThrough": null,
+   "followThrough": "not-in-minutes",
    "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
+   "minutesUrl": "https://atlantacityga.iqm2.com/Citizens/FileOpen.aspx?Type=15&ID=4178&Inline=True",
+   "minutesDraft": true
   },
   {
    "topic": "alpr",
@@ -558,7 +613,7 @@
    "fips": "13233",
    "region": null,
    "date": "2026-10-19",
-   "body": "Board of Commissioners",
+   "body": "Public Safety Committee",
    "confidence": "high",
    "context": "agenda-action",
    "sourceType": "ocr",
@@ -1757,32 +1812,6 @@
   },
   {
    "topic": "alpr",
-   "placeId": "dekalb",
-   "placeName": "DeKalb County",
-   "placeType": "county",
-   "fips": "13089",
-   "region": "Metro Atlanta",
-   "date": "2026-06-23",
-   "body": "Board of Commissioners",
-   "confidence": "high",
-   "context": "agenda-action",
-   "sourceType": "legistar",
-   "vendors": [],
-   "matchedTerms": [
-    "axon enterprise",
-    "body cam"
-   ],
-   "tags": [],
-   "excerpt": "… (CEW). Ratifying increase in contract funds for 100 additional tasers and previously issued purchase order. Awarded to Axon Enterprise, Inc. Amount Not To Exceed: $1,442,514.00. Resolution",
-   "excerptTerm": "axon enterprise",
-   "sourceUrl": "https://dekalbcountyga.legistar.com/MeetingDetail.aspx?LEGID=4479&GID=570&G=38B42E79-166F-4337-AE30-3665ECD50E7A",
-   "followThrough": null,
-   "outcomes": [],
-   "minutesUrl": null,
-   "minutesDraft": null
-  },
-  {
-   "topic": "alpr",
    "placeId": "columbia",
    "placeName": "Columbia County",
    "placeType": "county",
@@ -1860,6 +1889,33 @@
    "excerpt": "… ****** 9. Motion made by Council Member Turner, seconded by Council Member Henderson to approve consolidation of Flock agreements into a single comprehensive 10-year Safer City contract, incorporating current technology platforms and …",
    "excerptTerm": "flock",
    "sourceUrl": "https://cityofcovington.org/ckeditorfiles/files/2026_CityCouncil_0615_Minutes.pdf",
+   "followThrough": null,
+   "outcomes": [],
+   "minutesUrl": null,
+   "minutesDraft": null
+  },
+  {
+   "topic": "alpr",
+   "placeId": "fayette",
+   "placeName": "Fayette County",
+   "placeType": "county",
+   "fips": "13113",
+   "region": "Metro Atlanta",
+   "date": "2026-06-11",
+   "body": "Board of Commissioners",
+   "confidence": "high",
+   "context": "unknown",
+   "sourceType": "ocr",
+   "vendors": [],
+   "matchedTerms": [
+    "body cam",
+    "dash cam",
+    "surveillance system"
+   ],
+   "tags": [],
+   "excerpt": null,
+   "excerptTerm": null,
+   "sourceUrl": "https://www.fayettecountyga.gov/Documents/Government/Board%20of%20Commissioners/Agendas%20And%20Minutes/2026/06-11-2026%20BOC%20Agenda.pdf",
    "followThrough": null,
    "outcomes": [],
    "minutesUrl": null,
