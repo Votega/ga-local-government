@@ -1,6 +1,6 @@
 {
  "metadata": {
-  "generatedAt": "2026-11-25T18:58:23Z",
+  "generatedAt": "2026-11-27T20:43:19Z",
   "publisher": "VoteGA.org",
   "schemaVersion": "1.1.0",
   "count": 78
@@ -468,8 +468,8 @@
    "platform": "iqm2",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2025-11-24",
-    "lastMeeting": "2026-11-23"
+    "firstMeeting": "2025-12-01",
+    "lastMeeting": "2026-11-24"
    },
    "links": {
     "base_url": "https://citycouncil.atlantaga.gov/",
@@ -983,7 +983,7 @@
    "platform": "legistar",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2025-11-24",
+    "firstMeeting": "2025-12-02",
     "lastMeeting": "2026-11-19"
    },
    "links": {},
@@ -1136,7 +1136,7 @@
    "platform": "civicclerk",
    "recordedVotes": {
     "status": "available",
-    "firstMeeting": "2024-11-26",
+    "firstMeeting": "2024-12-05",
     "lastMeeting": "2026-11-24"
    },
    "links": {
